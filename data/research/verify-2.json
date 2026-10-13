@@ -1,0 +1,693 @@
+{
+  "set": 2,
+  "decisions": [
+    {
+      "id": "zurara-1453-lagos-captives",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Gutenberg 35738 (Beazley & Prestage, Hakluyt Society vol. 1, preface dated October 1896), ch. XXV pp. 81–82. Text is verbatim; the one cut (40 words) only removes the arrival of the officials who made the division and does not change the meaning. Attribution: the chronicle is headed \"written by command of ... the Infant Don Henry\" and was finished in 1453 (Introduction, Feb. 18, 1453); Zurara was then in charge of the Royal Library as successor to the chronicler Fernão Lopes. The edition does not print the year 1444 itself; 1444 is the standard date of Lançarote's expedition (chs. XVIII–XXV, after Nuno Tristão's 1443 voyage)."
+    },
+    {
+      "id": "cadamosto-1455-horses-for-slaves",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Alvise Cadamosto, Venetian merchant sailing for Prince Henry of Portugal, account of his 1455 voyage to the Senegal River and the Jolof kingdom, first printed 1507",
+        "text": "The Arabs of this coast have many Barbary horses, which they carry to the country of the Negroes, which they barter with the great men for slaves, receiving from ten to eighteen men for each horse, according to their goodness. … The king [of the Jalofs] has no settled revenue; but the lords of the country court his favour, by making him yearly presents of horses, which being scarce, are in high estimation, together with horse furniture, cows, and goats, pulse, millet, and other things. He likewise increases his wealth by means of robbery, and by reducing his own subjects, and those of neighbouring provinces to slavery, employing a part of these slaves to cultivate the lands which are assigned to him, and selling the rest to the Arabs and Azanhaji traders, who bring horses and other things for sale; as likewise to the Christians, since they have established a trade in these parts."
+      },
+      "note": "Compared with Gutenberg 10803 (Kerr, General History and Collection of Voyages and Travels, vol. 2, Edinburgh 1824, ch. on Cada Mosto, sect. on Arguin and the Jalofs). Words verbatim. The cut is long (c. 4,000 words) and jumps from the Arabs of the Arguin coast to the kingdom of the Jalofs, so \"The king\" had no referent: added \"[of the Jalofs]\" (the page's spelling; the source paragraph just before is about \"the king who reigned in Senegal ... Zukholin\"). sourceLine: Kerr's introduction says the voyages were made in 1455 and 1456 and were \"first printed at Venice in 1507\"; the account was not written in 1455, so the line now says \"account of his 1455 voyage ..., first printed 1507\" (year 1455 kept = date of the events). Translation credit matches Kerr's note that his version was formed from Astley compared with Ramusio."
+    },
+    {
+      "id": "cadamosto-1455-budomel",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Alvise Cadamosto, Venetian merchant sailing for Prince Henry of Portugal, account of his dealings in 1455 with Budomel, a Wolof ruler near Cape Verde, first printed 1507"
+      },
+      "note": "Compared with Gutenberg 10803 (Kerr vol. 2, 1824), first voyage, Section V (Budomel). Words verbatim; the two cuts remove only the anchoring/interpreter and the landing courtesies and do not change the meaning. sourceLine: as for the other Cadamosto document, Kerr gives the voyages as 1455–56 and the first printing as Venice 1507, so the line now shows both (year 1455 kept = date of the events). Budomel is in the first (1455) voyage."
+    },
+    {
+      "id": "leo-africanus-1526-bornu",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Leo Africanus (al-Hasan al-Wazzan), Muslim scholar and diplomat from Fez who travelled in West Africa, The History and Description of Africa, book 7, on the kingdom of Bornu and its trade in horses for slaves with merchants from Barbary (North Africa, across the Sahara), written 1526 (adapted)"
+      },
+      "note": "Compared with archive.org historyanddescr01porygoog: its title page is \"Vol. III\", Hakluyt Society no. XCIV, 1896 (Pory 1600, ed. Robert Brown), so the vol. 3 credit is right even though the scan id says 01. Book 7 (\"The Seventh Booke\"), \"Of the kingdome of Borno\", pp. 833–834; page images (leaves 148–149) checked: the original matches the print word for word (this edition prints no long s), and the text differs only in spelling (countrey, vse, slaues, yeere, golde etc.). Cuts remove the price (15–20 slaves per horse), the merchants' waiting and Leo's own meeting with unpaid merchants; meaning kept. \"Written 1526\" matches the colophon \"Written at Rome in the yeere of Christ 1526. and vpon the tenth of March\". sourceLine now says the trade is with North African merchants across the Sahara, so it is not read as Atlantic trade (flagged); topics left as they were."
+    },
+    {
+      "id": "pigafetta-lopes-1591-kongo-famine",
+      "verdict": "corrected",
+      "changes": {
+        "text": "In this persecution every one in the kingdom suffered, the king, the people, the Portuguese, and their priests, each according to his degree; so that the poor people wandering about the country died from lack of food and all other necessaries. … Thus, forced by necessity, the father sold his son, and the brother his brother, … Those who were sold to satisfy the hunger of others were bought by Portuguese merchants, who came from the Island of St. Thomas with provisions, the sellers saying that they were slaves, and in order to escape farther misery, these last confirmed the story. In this manner great numbers of slaves, natives of Congo, are found in the Island of St. Thomas, and in Portugal.",
+        "original": "In this perfecution every one in the kingdom fuffered, the king, the people, the Portuguefe, and their priefts, each according to his degree ; fo that the poor people wandering about the country died from lack of food and all other neceflaries. … Thus, forced by neceflity, the father fold his fon, and the brother his brother, … Thofe who were fold to fatiffy the hunger of others were bought by Portuguefe merchants, who came from the Ifland OÌ St. Thomas with provifions, the fellers faying that they were flaves, and in order to efcape farther miferv, thefe lali: confirmed the fl:ory. In this manner great numbers of flaves, natives of Congo, are found in the Ifland of St. Thomas, and in Portugal,"
+      },
+      "note": "Compared with archive.org reportofkingdomo00lope (Hutchinson, John Murray 1881; title page \"drawn out of the writings and discourses of the Portuguese, Duarte Lopez, by Filippo Pigafetta, in Rome, 1591. Newly translated from the Italian\"), ch. V, pp. 96–97; page image leaf 123 checked. The third cut stopped mid-sentence at \"who came from the Island …\", leaving the island unnamed and dropping that the sellers claimed the victims were slaves and the victims, \"to escape farther misery\", confirmed it. Restored that sentence from the page; the OCR reads \"OÌ St. Thomas\", \"miferv\", \"lali:\", \"fl:ory\", and the printed page reads \"of St. Thomas\", \"mifery\", \"laft\", \"ftory\", so text has \"of\", \"misery\", \"last\", \"story\" (\"original\" keeps the OCR as the page has it). All other text/original differences are long-s/spelling only (word diff). Attribution and translation credit match the title page; the 1568 date of the Jaga invasion is the standard one (the edition gives no year)."
+    },
+    {
+      "id": "battell-1625-imbangala-captives",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Gutenberg 41282 (Ravenstein, The Strange Adventures of Andrew Battell, Hakluyt Society 1901, pp. 19–21, \"A Second Voyage to Benguella\" / \"Among the Jagas\"). Words verbatim as printed in that edition. \"[the Imbangala war leader]\" replaces nothing: it names the referent of \"He\" (the source's \"great Gaga, which is their general\"); \"[of Loanda]\" is the editor's own bracket on the page. Cuts remove the battle narrative and the cannibalism passage; meaning kept. Attribution: Ravenstein's introduction says Battell's papers reached Purchas after his death and were first published in Purchas His Pilgrimes, 1625; he was a prisoner of the Portuguese in Angola from 1589 and among the Jagas c. 1600–01, so the sourceLine shows both dates."
+    },
+    {
+      "id": "battell-1625-musket-gaga",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Gutenberg 41282 (Ravenstein 1901), pp. 27–28: one continuous passage, verbatim; \"He\" refers to the great Gaga named in the first sentence. Attribution as for battell-1625-imbangala-captives (papers first printed by Purchas 1625; events c. 1600–01)."
+    },
+    {
+      "id": "barbot-1732-kings-and-merchants",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "John (Jean) Barbot, French Huguenot agent of the French Royal African Company who made slaving voyages to West Africa in 1678–82, A Description of the Coasts of North and South Guinea (passages on the Senegal coast, the Gold Coast and Whydah), published 1732 (adapted)",
+        "translation": "No translator named: printed in English \"from his original manuscript\" in A. and J. Churchill, A Collection of Voyages and Travels, vol. 5, London, 1732; text as reproduced on a Vancouver Island University course page (HIST 320) and checked against the 1732 printing",
+        "adapted": true,
+        "original": "Those sold by the Blacks are for the most part prisoners of war, taken either in fight, or pursuit, or in the incursions they make into their enemies territories; others stolen away by their own countrymen; and some there are, who will sell their own children, kindred, or neighbours. … The kings are so absolute, that upon any slight pretense of offences committed by their subjects, they order them to be sold for slaves, without regard to rank, or possession. … The trade of slaves is in a more peculiar manner the business of kings, rich men, and prime merchants, exclusive of the inferior sort of Blacks. … If there happens to be no stock of slaves at Fida, the factor must trust the Blacks with his goods, to the value of a hundred and fifty, or two hundred slaves; which goods they carry up into the inland, to buy slaves, at all the markets, for above two hundred leagues up the country.",
+        "text": "Those sold by the Blacks are for the most part prisoners of war, taken either in fight, or pursuit, or in the incursions they make into their enemies territories; others stolen away by their own countrymen; and some there are, who will sell their own children, kindred, or neighbours. … The kings are so absolute, that upon any slight pretense of offences committed by their subjects, they order them to be sold for slaves, without regard to rank, or profession. … The trade of slaves is in a more peculiar manner the business of kings, rich men, and prime merchants, exclusive of the inferior sort of Blacks. … If there happens to be no stock of slaves at Fida, the factor must trust the Blacks with his goods, to the value of a hundred and fifty, or two hundred slaves; which goods they carry up into the inland, to buy slaves, at all the markets, for above two hundred leagues up the country."
+      },
+      "note": "Flagged source. The VIU page is a compilation that cites \"Astley and Churchill\" (wrongly; Astley is a different collection). I found Churchill vol. 5, 1732 on archive.org (cihm_33301; Barbot title page \"Now first printed from his Original Manuscript. M.DCC.XXXII\") and checked every piece against the page images: pp. 47 (leaf 71, Book I, Senegal coast), 270 (leaf 408, Book III, Gold Coast) and 327 (leaf 465, Book IV, Fida). The VIU page misprints one word: p. 47 prints \"without regard to rank, or profession\" (followed by a priest sold by order of king Damel), not \"possession\". The document is now adapted: \"original\" keeps the VIU wording, \"text\" has the printed \"profession\" (\"pretense\" for printed \"pretence\" is spelling only). The four pieces come from three regions hundreds of pages apart, so the sourceLine now says so; otherwise a student would read \"The kings\" of Senegal as all West African kings. Translation credit: the 1732 printing names no translator (the guess \"prepared by Barbot\" is not on the page), so it now says that and where the text was taken from. Role and 1678–82 voyages match the VIU headnote and the text (Goree, December 1681); title page calls him \"Agent-General of the Royal Company of Africa ... at Paris\"."
+    },
+    {
+      "id": "barbot-1732-kidnapping-famine",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "John (Jean) Barbot, French Huguenot agent of the French Royal African Company who made slaving voyages to West Africa in 1678–82, A Description of the Coasts of North and South Guinea (passage on the Senegal coast), published 1732 (adapted)",
+        "translation": "No translator named: printed in English \"from his original manuscript\" in A. and J. Churchill, A Collection of Voyages and Travels, vol. 5, London, 1732; text as reproduced on a Vancouver Island University course page (HIST 320) and checked against the 1732 printing",
+        "adapted": true,
+        "original": "Abundance of little Blacks of both sexes are also stolen away by their neighbours, when found abroad on the roads, or in the woods; or else in the Cougans, or corn-fields, at the time of the year, when their parents keep them there all day, to scare away the devouring small birds, that come to feed on the millet, in swarms. … In times of dearth and famine, abundance of those people will sell themselves, for a maintenance, and to prevent starving. … To conclude, some slaves are also brought to these Blacks, from very remote inland countries, by way of trade, and sold for things of very inconsiderable value; but these slaves are generally poor and weak, by reason of the barbarous usage they have had in traveling so far, being continually beaten, and almost famish'd; so inhuman are the Blacks to one another.",
+        "text": "Abundance of little Blacks of both sexes are also stolen away by their neighbours, when found abroad on the roads, or in the woods; or else in the Cougans, or corn-fields, at the time of the year, when their parents keep them there all day, to scare away the devouring small birds, that come to feed on the millet, in swarms. … In times of dearth and famine, abundance of these people will sell themselves, for a maintenance, and to prevent starving. … To conclude, some slaves are also brought to these Blacks, from very remote inland countries, by way of trade, and sold for things of very inconsiderable value; but these slaves are generally poor and weak, by reason of the barbarous usage they have had in traveling so far, being continually beaten, and almost famish'd; so inhuman are the Blacks to one another."
+      },
+      "note": "Flagged source. Checked against Churchill vol. 5, 1732 (archive.org cihm_33301), Book I ch. 4, pp. 47–48 (leaves 71–72), page images viewed. The VIU page misprints one word: the printed text is \"abundance of these people will sell themselves\", not \"those\". Now adapted: \"original\" keeps the VIU wording, \"text\" has the printed \"these\" (\"traveling\" for printed \"travelling\" is spelling only). The two cuts remove \"as has been said above\" and Barbot's own note that at Goree in December 1681 he could have bought many famine victims cheaply; meaning kept. The passage is about the Senegal coast, so the sourceLine now says so. Translation credit made honest as for barbot-1732-kings-and-merchants (no translator named in the 1732 printing)."
+    },
+    {
+      "id": "phillips-1694-whydah-king",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with archive.org b30455042_0006 (Churchill vol. 6, the 1746 printing: journal title page \"Printed for Henry Lintot; and John Osborn ... 1746\"), \"A Journal of a Voyage made in the Hannibal of London, Ann. 1693, 1694 ... By Thomas Phillips, Commander of the said Ship\", p. 234; page image leaf 296 viewed. Word diff text vs original: spelling only, plus two OCR fixes confirmed on the image: \"to fell us\" is printed \"to ſell us\" (long s), and \"Reys Co fa\" is the single italic word \"Cofa\" (Reys Cosa). Brackets only gloss terms ([his chief men], [slave prison], [the king's property]). The journal says he served the Royal African Company (part-owner and commander of the Hannibal); \"first printed 1732\" is correct (Churchill first edition), the scan is the 1746 reprint with the same text."
+    },
+    {
+      "id": "bosman-1704-firearms",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Willem Bosman, chief merchant of the Dutch West India Company at Elmina on the Gold Coast, A New and Accurate Description of the Coast of Guinea, letter 11, 1704 (adapted)",
+        "text": "The chief of these are Muskets or Carabins, in the management of which they are wonderful dextrous … you wonder how the Negroes come to be furnished with Fire-Arms, but you will have no Reason when you know we sell them incredible quantities, thereby obliging them with a Knife to cut our own Throats. But we are forced to it; for if we would not, they might be sufficiently stored with that Commodity by the English, Danes, and Brandenburghers … And since that and Gun-powder for some time hath been the chief vendible Merchandise here, we should have found but an indifferent Trade without our share in it.",
+        "original": "The chief of thefe are Mufquets or Carabins, in the management of which they are wonderful dextrous, … you wonder how the Negroes come to be furnifhed with Fire-Arms, but you will have no Reafon when you know we fell them incredible quantities, thereby obliging them with a Knife to cut our own Throats. But we are forced to it; for if we would not, they might be fufficiently ftored with that Commodity by the Enelifh, Danes, and Brandenbughers … And fince that and Gun-powder for fometime hath been the chief vendible Merchandife here, we fhould have found but an indifferent Trade with-\ngut out fhare in it."
+      },
+      "note": "Compared with archive.org b30519032 (English translation, London: Knapton and Midwinter, 1705; \"now faithfully done into English\", no translator named), pp. 183–184; page image leaf 208 viewed. (1) Attribution: the running head is \"LET. XI.\" and the passage is in Letter XI (whose summary lists \"Their usual Arms\"); Letter X ends on p. 160. Changed \"letter 10\" to \"letter 11\". (2) \"[from other Europeans]\" stood in for the cut words \"by the English, Danes, and Brandenburghers\": restored the source words instead (OCR \"Enelifh\", \"Brandenbughers\"; printed \"Engliſh\", \"Brandenburghers\"). The confusing rest of that sentence (\"and could we all agree together to sell them any, the English and Zeeland Interlopers would abundantly furnish them\") stays cut. (3) The excerpt ended mid-sentence at \"an indifferent Trade\"; the printed sentence ends \"an indifferent Trade with- out our ſhare in it\" (OCR \"with- gut out fhare\"), which carries the point that the Dutch would lose trade without their share in the gun trade: restored, with \"without our share\" in text and the OCR line break kept in \"original\". Other differences are long-s/spelling only (word diff; \"fell\"→\"sell\" confirmed as long s on the image). Translation credit is accurate."
+    },
+    {
+      "id": "snelgrave-1734-war-captives",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with archive.org bim_eighteenth-century_a-new-account-of-some-pa_snelgrave-william_1734 (London 1734), Book on \"The manner how the Negroes become Slaves\", pp. 158 and 160; page images leaves 181 and 183 viewed. The OCR reads long s correctly here; text differs from original only by long s, \"Masters'\" apostrophe and capitalisation. The cut (c. 430 words) removes Snelgrave's other \"heads\" (crimes, debt, selling children), the 70,000-a-year export figure and his preface to the \"following Reasons\" in justification of the trade; \"First, ...\" is the first of those reasons. Meaning kept. Attribution (captain, Whydah, Agaja's camp 1727, 1734 title) is right."
+    },
+    {
+      "id": "bluett-1734-ayuba-capture",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with DocSouth (UNC) electronic edition of Bluett, Some Memoirs of the Life of Job (London: Richard Ford, 1734), Sect. II, pp. 16–17. Words verbatim; the two cuts remove the dispute with Captain Pike and the stop at a friend's house where Job hung up his arms; the remaining \"rush'd in ... at a back Door ... before he could get to his Arms\" still reads correctly. Attribution: title page \"By Thomas Bluett, Gent. who was intimately acquainted with him in America\"; Bluett met him in 1731 while \"attending the Courts\" in Kent County (consistent with \"lawyer\"); Job was born at Boonda (Bundu) in Futa."
+    },
+    {
+      "id": "moore-1738-punishments-slavery",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with archive.org travelsintoinlan00moor (London: Edward Cave, 1738; \"By Francis Moore, Factor several Years to the Royal African Company\"; appointed Writer at James Fort, July 1730), p. 42; page image leaf 82 viewed. Word diff: spelling only; OCR fixes confirmed on the image: \"felling\" (twice) and \"fame\" are printed with long s (\"ſelling\", \"ſame\"), and \"Slavery j\" is \"Slavery ;\". (The OCR's \"condemned\" is printed \"condemn'd\"; the text's \"condemned\" is the modern spelling.) The cut removes the Company's claim that its servants consult the Alcade before buying people suspected of being stolen; meaning of the rest kept."
+    },
+    {
+      "id": "acosta-1590-potosi-mine-labour",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared original with Markham 1880 vol. 1 (Hakluyt Soc.), book 4 ch. 8, pp. 207-208 (archive.org naturalmoralhist01acos leaves 275-276, page images): original matches the printed page word for word. Word diff text vs original: spelling only (continuall->continual, Sunne->Sun, vp->up, indure->endure etc.); \"[man-heights]\" is a pure gloss on estados. Cuts remove Acosta's own sickness in the mine/candle shifts and the ladder description; \"He that goes before\" is self-defining (the leading climber), meaning unchanged. Title page confirms \"reprinted from the English translated edition of Edward Grimston, 1604 ... edited by Clements R. Markham, vol. I (books I-IV)\", 1880. Role: Markham intro (pp. ii-ix) has Acosta leave Spain 1570, accompany Toledo in Charcas, reside in Mexico 1586 and sail home in the 1587 fleet; \"Peru 1572-86\" matches the standard biography; he says he entered a Potosí mine himself. Original Spanish 1590 (Seville)."
+    },
+    {
+      "id": "acosta-1590-mercury-amalgamation",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared original with Markham 1880 vol. 1, book 4 chs. 11-12, pp. 217-218 (leaves 285-286, page images): matches the print. Text vs original: spelling only (rialls->reals, vnstopt->unstopped, loose->lose etc.). Leading \"[Pedro Fernández de Velasco,]\" supplies the name the source gives immediately before \"who offred\" (\"called Pedro Fernandes de Velasco\") - a referent, not a paraphrase. Cut 1 drops one explanatory sentence; cut 2 drops the Huancavelica output figure and the description of distilling quicksilver in luted pots; the last piece (danger of mercury vapour on unstopping the pots, ch. 12) keeps its meaning. Edition/translator as for the other Acosta docs."
+    },
+    {
+      "id": "acosta-1590-silver-fleets",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared original with Markham 1880 vol. 1, book 4, p. 204 (leaf 272, page image): continuous passage, matches the print exactly; text differs by spelling only (ioyned->joined, invironing->environing etc.). Excerpt stops before Markham's bracketed passage \"[It may be thought...]\". Markham intro p. ix confirms Acosta went home in the fleet of 1587. Attribution, year and translation credit correct."
+    },
+    {
+      "id": "cieza-de-leon-1553-potosi",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Gutenberg #48770 (Markham, Hakluyt Society 1864), ch. CIX: both pieces verbatim. The cut (~366 words: royal fifths 1548-51, failure of bellows) does not alter meaning; piece 2 begins a new paragraph. Cieza himself writes \"I will say what I saw in the year of our Lord 1549 in this place\", supporting \"saw Potosí in 1549\". Part 1 of the Crónica del Perú was published 1553; translator Markham named on the title page."
+    },
+    {
+      "id": "vazquez-de-espinosa-1629-potosi-mita",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Smithsonian Misc. Coll. vol. 102 (1942), paras 1652-1653 (p. 624-625): verbatim. The \"…\" omits only the paragraph number \"1653.\"; \"[mita workers]\" is a pure gloss. Title page: \"translated by Charles Upson Clark\", Smithsonian, 1 Sept. 1942. Date: Clark's introduction says the book \"was written in 1628, and corrected in 1629\" (licence to print 12 Nov. 1629), so \"c. 1629\"/1629 is sound; it was not published in his lifetime. Intro dates his Peruvian travels 1612-1619 (\"1610s\" fits)."
+    },
+    {
+      "id": "garcilaso-de-la-vega-1609-mercury-ban",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Markham, First Part of the Royal Commentaries of the Yncas, vol. II (books V-IX), Hakluyt Society 1871, book 8 ch. XXV \"Of the quicksilver\", p. 413: verbatim continuous passage; \"[quicksilver]\" is a pure gloss on \"it\" (the Inca kings who are \"They\" are named in the next sentence). Running heads confirm the Eighth Book. Attribution and 1609 (Lisbon) correct."
+    },
+    {
+      "id": "grau-y-monfalcon-1637-mines-decline",
+      "verdict": "corrected",
+      "changes": {
+        "text": "So great was the abundance of these metals in the Indias, that one could say the same as of Jerusalem in the time of Solomon, that they were regarded as the stones of the street. Accordingly, articles were paid for at so exorbitant prices, as is apparent from the histories of their conquests. That region has failed, for the ores that yielded three hundred pesos per quintal by smelting, now yield eight or six by quicksilver, which costs more than smelting; and [such ores] are worked as good ones. Potosi, which is the heart of the Indias, is threatening to give out; for it alone yielded for forty years an amount that it cannot now yield, although aided by the opening of many mines … The cost of mining is greater, the mines are poorer, and, consequently, the gains less, and less the amount obtained."
+      },
+      "note": "Compared with B&R vol. 27 (1905), Grau y Monfalcón, Memorial informatorio (Madrid, 1637), Number 68. \"[such ores]\" is the editors' own bracket in the source. The first \"…\" (after \"good ones.\") marked no omission - the source runs straight on to \"Potosi, which is the heart\" - so it was removed; the remaining cut drops \"which sustain its reputation. The mines of Nueva Reino ... have lost a part of what they had\" without changing the meaning. Translator: section heading says \"Translation: This is made by James A. Robertson\". Role: B&R calls him \"procurator-general for Manila and the Philippines at the Spanish court\"; the royal decree of 1636 calls him the city's procurator-general."
+    },
+    {
+      "id": "ming-official-chincheo-1605-letter-luzon",
+      "verdict": "corrected",
+      "changes": {
+        "translation": "Translated by Henry B. Lathrop from a contemporary Spanish translation of the Chinese letter (Spanish translator not named), in E. H. Blair and J. A. Robertson, eds., The Philippine Islands, 1493–1898, vol. 13, 1904"
+      },
+      "note": "Compared with B&R vol. 13 (1904), \"Letter from a Chinese official to Acuña\": verbatim; \"[Chinese merchants]\" glosses Sangleys. Heading: \"Translation of a letter from the inspector-general of Chincheo ... received in this year 1605, addressed to Don Pedro de Acuña\"; dated 12th of the second month = March [1605]. The B&R text is an English version of a Spanish translation made at the time, so the credit now says so (as for the Chanchian letter); section note says \"the second and third [are translated] by Henry B. Lathrop\" - this letter is the second of the 1605 documents. Excerpt ends before the letter's threat of war if the Spaniards do not comply (not a cut, but worth knowing)."
+    },
+    {
+      "id": "chanchian-1603-letter-silver-mountain",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with B&R vol. 12 (1904), within \"Three Chinese mandarins at Manila\" (Salazar y Salcedo, 1603): verbatim. \"[the Wanli emperor]\" stands where the page has the footnote marker [16], and footnote 16 reads \"The emperor of China at this time was Wanleh\" - it clarifies the referent \"king of China\". The final piece stops at \"Tio Heng is lying\" where the source continues \", and command that they shall go...\" - the clause stands on its own. Header: letter \"wrote in the Chinese characters and tongue ... translated from the original of the said letter by a Dominican religious\"; section note: \"These documents are translated by Robert W. Haight\" (except the second). Dated 31st year of Wanli (\"Landec\"), 4th moon = May 1603. Role (\"who governs the warriors of the province of Hoquien, the envoy of the king\") correct."
+    },
+    {
+      "id": "morga-1609-chinese-trade-silver",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Gutenberg #7001, Morga, History of the Philippine Islands (Blair & Robertson separate issue, 1907, vol. II = series vol. 16), ch. 8: all pieces verbatim; \"[of the trade]\" is the editors' bracket, \"[Chinese merchants]\" a gloss on Sangleys. Cuts (galleon lading; no husbandry or mining by Spaniards) keep the meaning; \"in this respect\" still points back to the retained statement that Spaniards engage in no other industry. Translation note: \"This is made by Alfonso de Salvio, Norman F. Hall, and James Alexander Robertson\". B&R preface: Morga sent out in 1595 as lieutenant-governor, later auditor; he left in 1603. Sucesos printed Mexico 1609."
+    },
+    {
+      "id": "grau-y-monfalcon-1637-silver-to-china",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with B&R vol. 27, Memorial informatorio, Number 64 (\"Commerce of the islands: why it is injurious to España\"): verbatim; \"[These are sold]\" is the editors' bracket. The cut drops the elaboration on silver enriching enemies; meaning unchanged. The sourceLine correctly flags that Grau is stating the opposing case: Number 65 is his \"Reply to the damages of the commerce of Filipinas\", and the memorial elsewhere describes the damage \"to the commerce of Sevilla\" that drove the restrictions. Translator Robertson as above."
+    },
+    {
+      "id": "davenant-1697-silver-to-the-east",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Charles Davenant, English writer on trade and public finance and former commissioner of the excise, An Essay on the East-India Trade, 1697",
+        "text": "For Europe draws from thence nothing of solid use; materials to supply luxury, and only perishable commodities, and sends thither gold and silver, which is there buried and never returns. I have good grounds to think, that the silver and gold brought from America, the gold dust brought from Africa, and the silver produced from the European mines, in the 200 years last past, has not amounted to less, in the whole, than 800 millions. There is no appearance of this immense sum in any country of Europe. … The English and Dutch, which together are not 1/10th part of Europe, enjoy this traffic almost without any rivalship; and if it be a burthen, it lies not upon the one, but on the other 9 parts, so that if the East-India trade carry out the gold and silver from this side of the world, it is truly and properly, at the cost and expence of France, Germany, Spain, and the northern kingdoms, who have little or no opportunities of trading thither."
+      },
+      "note": "Compared with Avalon's text of An Essay on the East-India Trade ('by Charles D'Avenant, 1697', addressed to the Marquis of Normanby). All words match. The first two '…' marked only paragraph breaks: nothing is omitted there, so they were removed and the sentences run on as on the page. The third cut (~290 words, on the wear of coin and on why England should keep the trade) does not change the argument. Role corrected: in 1697 Davenant held no government post. He had been an excise commissioner until 1689 and became inspector-general of exports and imports only in 1703, so 'government revenue official' was wrong for the date. Year 1697 is as on the page."
+    },
+    {
+      "id": "mun-1664-exporting-money",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Checked the Wikisource text against its scan (W. J. Ashley's Economic Classics reprint of the 1664 text, Commons djvu pp. 19 and 24). Chapter IV begins 'This Position is so contrary...' and the excerpt matches the printed page word for word in both pieces. The bracket stands for the chapter title, 'The Exportation of our Moneys in Trade of Merchandize is a means to encrease our Treasure', and only clarifies 'This Position'. The ~1,180-word cut leaves the argument intact: the second piece is Mun's reason why hoarding money makes wares dearer and shrinks trade. Mun was an East India Company director from 1615. 'written c. 1630, published 1664' is right: the book was published after his death by his son."
+    },
+    {
+      "id": "montesquieu-1748-riches-of-spain",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Montesquieu (Charles de Secondat), French nobleman, former magistrate in the Parlement of Bordeaux, and political philosopher, The Spirit of Laws, book 21, chapter 22, \"Of the Riches which Spain drew from America\", 1748",
+        "translation": "Translated by Thomas Nugent (1750), revised by J. V. Prichard; The Spirit of Laws, G. Bell & Sons, London, 1914 (as reproduced by the Constitution Society)",
+        "text": "Gold and silver are either a fictitious or a representative wealth. The representative signs of wealth are extremely durable, and, in their own nature, but little subject to decay. But the more they are multiplied, the more they lose their value, because the fewer are the things which they represent. The Spaniards, after the conquest of Mexico and Peru, abandoned their natural riches, in pursuit of a representative wealth which daily degraded itself. … However, it was not long before the specie of Europe was doubled; this appeared from the price of commodities, which everywhere was doubled. … The king of Spain, who receives great sums from his custom-house at Cadiz, is in this respect only a rich individual in a state extremely poor."
+      },
+      "note": "Compared with constitution.org book 21, chapter 22 'Of the Riches which Spain drew from America' (the heading is right). The site's title page says the text is Nugent's translation as revised by J. V. Prichard, 'based on a public domain edition published in 1914 by G. Bell & Sons, Ltd., London'. The old credit's '1900' is not supported, so the credit was corrected. The first '…' marked only a paragraph break and was removed. The other cuts (on the Indians not knowing mercury; ~900 words of the doubling argument) keep the meaning. Role refined: Montesquieu had sold his office as président à mortier of the Parlement of Bordeaux in 1726, so in 1748 he was a former magistrate. Year 1748 (first edition, Geneva) is right."
+    },
+    {
+      "id": "dudley-north-1691-against-bullionism",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Avalon's Discourses upon Trade (London: Tho. Basset, 1691), 'A Discourse of Coyned Money' and its conclusion. The three pieces are verbatim. They are joined by long cuts (~2,100 and ~1,300 words) but each piece states North's own view and none reverses it. The last piece is his concluding 'uniform Sentiment' that laws hampering trade do not make a people rich. Role is right: a Levant (Turkey) merchant at Smyrna and Constantinople, knighted 1683, later a commissioner of customs and of the Treasury, all before 1691."
+    },
+    {
+      "id": "philip-iii-1604-decree-manila-trade",
+      "verdict": "corrected",
+      "changes": {
+        "text": "The king my lord and father (may he rest in peace!) by various decrees prohibited trade and commerce of the Western Indias with the Philipinas Islands and China generally, to obviate the loss that resulted therefrom to these kingdoms and to their trade and commerce. … Although it has been ordered by other decrees at various times that these should be observed and complied with, I have been informed that this has not been done, and that the quantity allowed has been and is being greatly exceeded in the amount taken each year, with the knowledge and permission of my viceroys, audiencias, and governors—goods to the extent of more than two millions of ducats being registered and openly sent, besides what is secretly shipped. All this money finally makes it [sic] way into infidel kingdoms, whereby their power is increased; and from this have resulted great losses to our exchequer and to the commerce of these kingdoms with the Western Indias. … I have decided that for the present the trade and commerce of the said Philipinas Islands with Nueva España should be maintained according to the ordinances.",
+        "original": "The king my lord and father (may he rest in peace!) by various decrees prohibited trade and commerce of the Western Indias with the Philipinas Islands and China generally, to obviate the loss that resulted therefrom to these kingdoms and to their trade and commerce. … Although it has been ordered by other decrees at various times that these should be observed and complied with, I have been informed that this has nut been done, and that the quantity allowed has been and is being greatly exceeded in the amount taken each year, with the knowledge and permission of my viceroys, audiencias, and governors—goods to the extent of more than two millions of ducats being registered and openly sent, besides what is secretly shipped. All this money finally makes it way into infidel kingdoms, whereby their power is increased; and from this have resulted great losses to our exchequer and to the commerce of these kingdoms with the Western Indias. … I have decided that for the present the trade and commerce of the said Philipinas Islands with Nueva España should be maintained according to the ordinances.",
+        "adapted": true,
+        "sourceLine": "King Philip III of Spain, royal decree regulating trade between the Philippines and New Spain (the Manila galleon), 31 December 1604 (adapted)"
+      },
+      "note": "Compared with B&R vol. 13 (1904), \"Decree regulating commerce with Nueva España\", issued at Valladolid \"on the last of December\" 1604; translator Robert W. Haight (section note: all 1604 documents by Haight except the third). The bracket \"[I am informed]\" stood in for cut source words, so the full source sentence was restored (\"Although it has been ordered ... I have been informed that this has not been done, and that the quantity allowed...\"). The Gutenberg page reads \"this has nut been done\"; the printed page (archive.org philippineisland13blai, leaf 261 = p. 257, page image) reads \"not\", so the doc is now adapted: original keeps the page text (\"nut\"), text has the printed \"not\". \"makes it [sic] way\" confirmed as printed on p. 258 (leaf 262), so [sic] is kept in the text only. Other cuts (the earlier 250,000-peso limits; the Seville consulado's petition for a total ban) do not change the meaning of what remains."
+    },
+    {
+      "id": "english-parliament-1651-navigation-act",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Wikisource 'Navigation Act (1651)' [Oct. 9, 1651, Scobell's Acts, pt. ii, p. 176]. Words match. The cuts drop a pious clause and 'or of any islands belonging to them...' and do not change the meaning. The excerpt ends before the further forfeiture of the ship, which is not misleading. The title 'An Act for increase of Shipping and Encouragement of the Navigation of this Nation', the Rump/Commonwealth Parliament and the date 9 October 1651 are right."
+    },
+    {
+      "id": "english-parliament-1660-navigation-act",
+      "verdict": "corrected",
+      "changes": {
+        "text": "Be it enacted by the King’s most excellent majesty, … That from and after the first day of December one thousand six hundred and sixty, and from thenceforward, no goods or commodities whatsoever shall be imported into or exported out of any lands, islands, plantations or territories to his Majesty belonging or in his possession, … in Asia, Africa, or America, in any other ship or ships, vessel or vessels whatsoever, but in such ships or vessels as do truly and without fraud belong only to the people of England or Ireland, … and all governors of the said lands, islands, plantations or territories, and every of them, are hereby strictly required and commanded, and all who hereafter shall be governors of any such islands, plantations or territories, by his Majesty, his heirs and successors, shall before their entrance into their government take a solemn oath, to do their utmost, that every the aforementioned clauses, and all the matters and things therein contained, shall be punctually and bona fide observed according to the true intent and meaning thereof."
+      },
+      "note": "Compared with Wikisource 12 Car. II c. 18 (Pickering's Statutes at Large), assented 13 September 1660. The last cut ('are hereby strictly required and commanded, … shall before their entrance') removed the subject of 'shall' ('and all who hereafter shall be governors of any such islands, plantations or territories, by his Majesty, his heirs and successors,'). That left a broken sentence that read as if present governors were 'commanded … shall'. Those 21 source words are restored (now ~175 words). The other cuts (the Lords and Commons formula, 'or which may hereafter belong...', and ~490 words of penalties and the clause on aliens) keep the meaning. sourceLine and year are right."
+    },
+    {
+      "id": "mun-1664-balance-of-trade",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Thomas Mun, London merchant and director of the English East India Company, England's Treasure by Forraign Trade, chapter 2, \"The means to enrich the Kingdom, and to encrease our Treasure\", written c. 1630, published 1664 (adapted)",
+        "adapted": true,
+        "original": "Although a Kingdom may be enriched by gifts received, or by purchase taken from some other Nations, yet these are things uncertain and of small consideration when they happen. … The ordinary means therefore to encrease our wealth and treasure is by Forraign Trade, wherein wee must ever observe this rule; to sell more to strangers yearly than wee consume of theirs in value. For suppose that when this Kingdom is pletifully served with the Cloth, Lead, Tinn, Iron, Fish and other native commodities, we doe yearly export the overplus to forraign Countries to the value of twenty two hundred thousand pounds; by which means we are enabled beyond the Seas to buy and bring in forraign wares for our use and Consumption, to the value of twenty hundred thousand pounds; By this order duly kept in our trading, we may rest assured that this order duly kept in our trading, we may rest assured that the Kingdom shall be enriched yearly two hundred thousand pounds, which must be brought to us in so much Treasure; because that part of our stock which is not returned to us in wares must necessarily be brought home in treasure.",
+        "text": "Although a Kingdom may be enriched by gifts received, or by purchase taken from some other Nations, yet these are things uncertain and of small consideration when they happen. … The ordinary means therefore to encrease our wealth and treasure is by Forraign Trade, wherein wee must ever observe this rule; to sell more to strangers yearly than wee consume of theirs in value. For suppose that when this Kingdom is plentifully served with the Cloth, Lead, Tinn, Iron, Fish and other native commodities, we doe yearly export the overplus to forraign Countries to the value of twenty two hundred thousand pounds; by which means we are enabled beyond the Seas to buy and bring in forraign wares for our use and Consumptions, to the value of twenty hundred thousand pounds; By this order duly kept in our trading, we may rest assured that the Kingdom shall be enriched yearly two hundred thousand pounds, which must be brought to us in so much Treasure; because that part of our stock which is not returned to us in wares must necessarily be brought home in treasure."
+      },
+      "note": "Checked against the scan behind the Wikisource transcription (Ashley's Economic Classics reprint of the 1664 text, Commons djvu p. 7, image viewed). The printed text reads 'By this order duly kept in our trading, we may rest assured that the Kingdom shall be enriched...'. The Wikisource page repeats 'we may rest assured that this order duly kept in our trading,', and the old excerpt cut around that, losing 'By this order duly kept in our trading'. The page also has 'pletifully' for printed 'plentifully' and 'Consumption' for printed 'Consumptions'. Now adapted: 'original' is the exact page text including the repeat, and 'text' is the printed wording (the repeat removed and the two transcription errors corrected, all confirmed on the page image; no other change). The first '…' still drops only the side-note 'Forraign Trade is the Rule of our Treasure.' The chapter title in sourceLine was wrong; it now uses the printed title."
+    },
+    {
+      "id": "charles-ii-1670-hudsons-bay-charter",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Wikisource 'Charter of Hudson's Bay' (granted 2 May 1670, 22 Charles II). A word diff of text against original shows spelling modernisation only (Doe→do, theire→their, Streightes→Straits, Shippes→Ships, Amunicion→Ammunition, Plantacions→Plantations, Factoryes→Factories, Warre→War, benefitt→benefit, etc.), plus punctuation. No words changed. '[We]' supplies the grant's subject, the King's royal 'Wee' that opens the clause in the source ('Wee have given granted and confirmed ... Doe give grant and confirme'). It does not change the meaning. The ~2,600-word cut joins the trade-monopoly grant to the clause allowing war and peace with non-Christian peoples, and both are genuine grants of the charter."
+    },
+    {
+      "id": "states-general-netherlands-1621-west-india-company-charter",
+      "verdict": "corrected",
+      "changes": {
+        "text": "And we find by experience, that without the common help, assistance, and interposition of a General Company, the people designed from hence for those parts cannot be profitably protected and mantained in their great risque from pirates, extortion and otherwise, which will happen in so very long a voyage. … That, moreover, the aforesaid Company may, in our name and authority, within the limits herein before prescribed, … make contracts, engagements and alliances with the princes and natives of the countries comprehended therein, and also build any forts and fortifications there, to appoint and discharge Governors, people for war, and officers of justice, and other public officers, for the preservation of the places, keeping good order, police and justice, and in like manner for the promoting of trade.",
+        "translation": "Translator not named; English text from Ebenezer Hazard, Historical Collections, vol. 1 (Philadelphia, 1792), as reprinted in Francis Newton Thorpe, ed., The Federal and State Constitutions, Colonial Charters, and Other Organic Laws, vol. 1 (US Government Printing Office), 1909"
+      },
+      "note": "Compared with Avalon (source: Thorpe 1909) and with Thorpe vol. 1 pp. 59–61 on archive.org (federalstatecons01thor). Thorpe's printed text itself repeats 'make contracts, engagements and alliances with the limits herein before prescribed,' in article II. The old excerpt cut out both the repeat and the genuine limit 'within the limits herein before prescribed'. The limit is restored, and the '…' now covers only the repeated words. Neither Avalon nor Thorpe names a translator; Thorpe's footnote gives the text as from Hazard's Historical Collections (1792), vol. I, pp. 121–131. So the credit now says honestly that the translator is not named. The first cut (~580 words of monopoly limits) does not change the meaning. Date 3 June 1621 is right."
+    },
+    {
+      "id": "davenant-1697-forts-and-garrisons",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Charles Davenant, English writer on trade and public finance and former commissioner of the excise, An Essay on the East-India Trade, written in defence of the East India Company, 1697",
+        "text": "Their [the English traders'] business in India cannot be managed without frequent gifts and presents to the rajas and governors, according to the practice in all the eastern countries. Forts and castles, with good garrisons, are there indispensably necessary for the preservation of the pepper-trade, and indeed needful upon many other accounts, … besides, they are a safety to our people from any insults of the natives, and a refuge upon any disorder, revolution, or other emergency in the Mogul's state and empire. … The Hollanders, at this time, are very powerful in India; they have many good forts and castles well provided, and large colonies of men; and they can, upon any occasion, call together there 40 strong frigates."
+      },
+      "note": "Compared with Avalon's text. 'Their' had no referent (in the source it refers back to 'the undertakers' who send large ships to India, i.e. the English traders), so a clarifying bracket was added. The first '…' marked only a paragraph break, so it was removed. The other cuts drop 'and magazines for naval provision...' (20 words) and ~1,400 words of profit figures before the passage on Dutch strength in India. Neither changes the meaning. The excerpt ends at a semicolon where the source goes on to say the Dutch could expel the English, which is consistent. Role corrected as for the other Davenant documents (former excise commissioner, not an official in 1697). 'written in defence of the East India Company' fits the essay, which argues against the bill banning East India silks and calicoes."
+    },
+    {
+      "id": "davenant-1697-plantations",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Charles Davenant, English writer on trade and public finance and former commissioner of the excise, An Essay on the East-India Trade, 1697 (adapted)",
+        "text": "There is no trade so advantageous, especially to an island, as that of buying goods in one country, to sell them in another; and it is the original and chief article of the great wealth in Holland. There is gain by the freight; it occasions consumption of our home product; it breeds seamen, increases shipping, and improves navigation. … Our plantations (if we take care to preserve them from foreign insults and invasions) as they increase in people, will consume more of our home manufactures than we have hands to make: they produce commodities indispensably necessary to this part of the world, and not to be produced elsewhere, and, with industry and conduct, may be made an inexhaustible mine of treasure to their mother kingdom.",
+        "original": "There is no trade so advantageous, especially to an island, as that of buying goods in one country, to sell them in another; and it is the original and chief article of the great wealth in Holland. There is gain by the freight; it occasions consumption of our home product; it breeds seamen, increases shipping, and improves navigation. … Our plantations (if we take care to preserve them from foreign insults and invasions) as they increase in people, will consume more of our home manufactures than we have hands to make: they produce commodities indispensably necessary to this part of the world, and not to be produced elsewhere, and, with industry and conduct, may be made an inexhastible mine of treasure to their mother kingdom.",
+        "adapted": true
+      },
+      "note": "Compared with Avalon's text. All words match. One cut (62 words, on discouraging home manufactures that hinder the carrying trade) does not change the meaning. 'inexhastible' is printed that way on the Avalon page (probably a transcription slip; the page has others, e.g. 'iwll', 'attempot'). It is kept, with [sic] added so students do not take it for our error. Role corrected as for the other Davenant documents. Lead verifier follow-up: found the first edition on archive.org (DAVENANTCharles1696AnEssayOnTheEastIndiaTrade, \"London, printed anno MDCXCVI\", p. 36, page image leaf 38 viewed): it prints \"may be made an inexhaustible Mine of Treasure to their Mother Kingdom\", so \"inexhastible\" is Avalon's slip, not Davenant's. \"[sic]\" would have pinned it on Davenant, so the document is now adapted: \"original\" keeps the Avalon wording, \"text\" has the printed \"inexhaustible\" (no [sic]); every other word of the excerpt matches p. 36 of the 1696 printing. Note: that imprint is 1696 (Old Style, so it may be Jan–Mar 1697); year 1697 is kept as Avalon gives it."
+    },
+    {
+      "id": "montesquieu-1748-colonial-monopoly",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Montesquieu (Charles de Secondat), French nobleman, former magistrate in the Parlement of Bordeaux, and political philosopher, The Spirit of Laws, book 21, chapter 21, on European colonies, 1748",
+        "translation": "Translated by Thomas Nugent (1750), revised by J. V. Prichard; The Spirit of Laws, G. Bell & Sons, London, 1914 (as reproduced by the Constitution Society)",
+        "text": "The colonies they [the nations of Europe] have formed are under a kind of dependence, of which there are but very few instances in all the colonies of the ancients; whether we consider them as holdings of the state itself, or of some trading company established in the state. The design of these colonies is to trade on more advantageous conditions than could otherwise be done with the neighbouring people, with whom all advantages are reciprocal. … Thus it is still a fundamental law of Europe that all commerce with a foreign colony shall be regarded as a mere monopoly, punishable by the laws of the country. … The disadvantage of a colony that loses the liberty of commerce is visibly compensated by the protection of the mother country, who defends it by her arms, or supports it by her laws."
+      },
+      "note": "Compared with constitution.org book 21, chapter 21 ('The Discovery of two new Worlds, and in what manner Europe is affected by it'). Words match. 'they' referred back to 'several nations' of Europe in the previous paragraph, so a clarifying bracket was added. The cuts (45 words: 'It has been established that the metropolis... alone shall trade in the colonies...'; 56 words on ancient precedent) do not change the meaning. Translation credit corrected to the 1914 G. Bell edition the site names, and role refined, as for the other Montesquieu document."
+    },
+    {
+      "id": "grotius-1609-freedom-of-the-seas",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Gutenberg #75962 (Magoffin translation, ed. James Brown Scott, Oxford University Press for the Carnegie Endowment, 1916). The first piece is the opening of chapter I and the second the opening of chapter XIII ('The Dutch must maintain their right of trade with the East Indies by peace, by treaty, or by war'), both verbatim. The long cut joins Grotius's thesis to his conclusion and does not distort it. Mare Liberum was published in 1609; the Latin title page reproduced in the edition says 1608, the year it was written as part of his brief for the VOC, so year 1609 is right."
+    },
+    {
+      "id": "john-blande-1661-remonstrance-virginia",
+      "verdict": "corrected",
+      "changes": {
+        "text": "Most humbly representing unto Your Majesty the inevitable destruction of those Colonies, if so be that the late Act for increase of Trade and Shipping [the Navigation Act] be not as to them dispensed with … Why these men [the Act's promoters] procured this Act, prohibiting the Hollanders trade into those Colonies at first, and its continuance now, was, and is, because they would keep still in their own hands that Trade which they had engrossed, and have no body come there to hinder them, and that for the following reasons. First, That for whatever goods they carried out of England to those Plantations, the Inhabitants should pay to them what prices and rates they pleased to require, else they should have nothing at all of them to supply their necessities. Secondly, To force the Planters to deliver them such Tobaccoes, which by the labour and sweat of their brows they had made, at the rates they themselves trading thither would have it, whereby they got that oftentimes of the poor Planters for a halfpenny, which they made us pay for here in England by Retale three or four shillings."
+      },
+      "note": "Compared with the EarlyPrint text A28354 and with the EEBO-TCP original-spelling transcription (Wing B3157, ESTC R33225; '[London?, 1661?]', 'Place and date of publication suggested by Wing'), so 'c. 1661' is right. EarlyPrint only standardises spelling (encrease→increase, dispenc'd→dispensed, Majesties→Majesty's, browes→brows, ingrossed→engrossed). The words match the TCP text. The bracket '[The Act's promoters intended:]' stood in for a cut sentence, so it was replaced by restoring the source sentence: 'Why these men procured this Act... was, and is, because they would keep still in their own hands that Trade which they had engrossed... for the following reasons.' 'these men' gets a referent bracket using the source's own word 'promoters'. To stay under 200 words, the clause 'for it will not only ruinate the Inhabitants and Planters, but make desolate ... Dominion' after 'dispensed with' is now cut (marked …). The petition's claim of 'inevitable destruction of those Colonies' stays."
+    },
+    {
+      "id": "berkeley-1671-answers-navigation-act",
+      "verdict": "corrected",
+      "changes": {
+        "text": "What obstructions do you find to the improvement of the trade and navigation of the plantations within your government? Answer. Mighty and destructive, by that severe act of parliament, which excludes us the having any commerce with any nation in Europe but our own, so that we cannot add to our plantation any commodity that grows out of it. … for it is not lawful for us to carry a pipe stave, or a barrel of corn to any place in Europe out of the king's dominions. If this were for his majesty's service or the good of his subjects, we should not repine, whatever our sufferings are for it; but on my soul, it is the contrary for both. And this is the cause why no small or great vessels are built here; for we are most obedient to all laws, whilst the New England men break through, and men trade to any place that their interest lead them."
+      },
+      "note": "Compared with Hening, Statutes at Large vol. 2, pp. 515–516 (page images viewed, leaves 533–534). Hening introduces the 'Enquiries to the Governor of Virginia' as 'propounded in the year 1670, and received their answers in 1671, while Sir William Berkeley was governor', so the attribution and 1671 are right. The printed word is 'com-' + 'merce' across the page break; the OCR has 'com- … mei'ce' with side-notes between. The text had '[commerce]' in brackets as if it were an editorial insertion. It is now plain 'commerce' (an OCR correction confirmed on the image). The rest of the word diff is spelling only (lawfull→lawful, vessells→vessels) and matches the image, including 'and men trade to any place that their interest lead them'. The cut ('as olive trees, cotton or vines. Besides this, ... silk;') keeps the meaning."
+    },
+    {
+      "id": "hideyoshi-1587-expulsion-edict",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Murdoch, History of Japan [During the Century of Early Foreign Intercourse 1542-1651], Kobe 1903 (archive.org historyofjapan02murd, catalogued as vol. 2), p. 243: text is continuous and verbatim; Murdoch introduces it as the Edict 'published and posted up in Hakata' on 25 July 1587. Bracket only glosses 'religieux'. The version is the one given by the Jesuit historians (Murdoch cites Charlevoix/Crasset in the same passage), so the credit's 'from a European version of the edict' is accurate. Hideyoshi was kampaku (imperial regent) in 1587. 1450-1750 primary source; reads on its own."
+    },
+    {
+      "id": "hideyoshi-1591-letter-viceroy-indies",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Murdoch 1903, pp. 375-376 ('To the Viceroy of the Indies the Regent wrote as follows', dated 1591 by Murdoch). Words verbatim; the one cut removes the Confucian-order sentence ('the good order of the government ... tranquillity abroad'), which does not alter the religious argument; excerpt ends at 'in all security' where the source has a semicolon. Murdoch gives no source for this version; credit says honestly it comes from a European version. Year 1591 matches."
+    },
+    {
+      "id": "tokugawa-1640-sentence-macao-envoys",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Senior councillors of the Tokugawa shogunate, sentence signed at Edo and read at Nagasaki to the envoys sent from Portuguese Macao to ask for the reopening of trade, 1640",
+        "translation": "Translated in James Murdoch and Isoh Yamagata, A History of Japan, vol. 2, 1903 (from the European accounts of the episode by the Jesuit Cardim and others, not the Japanese original)",
+        "text": "The crimes committed by these men during a long series of years in promulgating the Christian faith contrary to the decrees of the Shogun are very numerous, and exceedingly serious; last year [1639] the Shogun has, under the gravest penalties, forbidden any one to sail from Macao to Japan, and he has decreed that in case any vessel disregard this prohibition, the said vessel shall be burned, and all her crew and passengers put to death without exception. … It is decreed that the vessel shall be burned, and that the chiefs of the embassy with all their suite shall be put to death, in order that the bruit of this example may reach Macao and even the country of Europe … We mean, however, that the lowest among the crew be spared and sent back to Macao. If by any chance whatsoever — from stress of weather or from any other cause — any Portuguese vessel put into a Japanese harbour, no matter where, all on board of her shall be put to death to the last man."
+      },
+      "note": "Compared with Murdoch 1903, pp. 665-667. Attribution: Murdoch says the sentence was 'drawn up and signed by all the senior members of the Shogun's Government on July 21st' in Edo and read by an interpreter at Nagasaki at the commissioners' order (Aug. 1640), so sourceLine changed from 'Commissioners of the Tokugawa shogunate'. Translation: Murdoch's footnote 1 p. 665 names the 'chief original authorities' as Father Cardim (Jesuit, Macao) and the Spaniard Magisu, used by Charlevoix and Pages, so the credit now says it is from European accounts, not the Japanese text. '[1639]' is Murdoch's own bracket (OCR '[1639J'). Text: the second cut had dropped the sentence's own qualification 'We mean, however, that the lowest among the crew be spared and sent back to Macao.' (p. 667), leaving 'all her crew ... put to death without exception' unqualified; restored it from the page (174 words)."
+    },
+    {
+      "id": "kangxi-1721-ban-on-preaching",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Fordham page 1715chineserites.asp, 'From Decree of Kangxi (1721)': excerpt is the whole passage, verbatim, no cuts; credit on page: Dan J. Li, trans., China in Transition, 1517-1911 (Van Nostrand Reinhold, 1969), p. 22 -- matches the translation field. Kangxi's comment on Clement XI's decree (Ex illa die) as brought by the legate in 1720-21; year 1721 matches page."
+    },
+    {
+      "id": "kangxi-1692-edict-of-toleration",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "The Kangxi emperor of the Qing dynasty, edict of toleration for Christianity (a ruling of the Board of Rites issued with his approval), 1692",
+        "translation": "Translator not named; quoted in Stephen Neill, A History of Christian Missions, Penguin, 1964, pp. 189-190 (Internet Modern History Sourcebook)"
+      },
+      "note": "Fordham page 1715chineserites.asp, 'From Decree of K'ang-hsi (1692)': text verbatim; the '…' corresponds to the page's own '. . .'. Page credits 'From S. Neill, A History of Christian Missions (Harmondsworth: Penguin Books 1964), pp. 189-190' -- Neill quotes an existing English version and is not named as translator, so 'Translated in Stephen Neill' changed to an honest 'translator not named; quoted in'. sourceLine: the 1692 toleration edict was the Board of Rites' deliberation ('We decide therefore...') approved by the emperor; added that so the 'we' voice is not read as the emperor's own words. Year 1692 matches."
+    },
+    {
+      "id": "xavier-1551-satsuma-ban",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Fordham 1551xavier3.asp ('Letter from Japan, to the Society of Jesus at Goa, 1551'); Satsuma passage (bonzes persuade the lord of Satsuma to forbid conversion): continuous, verbatim; bracket is a pure insertion naming the lord ('the prince'/'the king' in the source). Page source note: Henry James Coleridge, ed., Life and Letters of St. Francis Xavier, 2d ed., 1890, vol. II, pp. 295-301, 'modernized by Prof. Arkenberg' -- matches the credit (Coleridge's 1st ed. 1872). Letter opens 'Last year ... I wrote to you from Cagoxima', so 1551 and the 1549-50 Satsuma dating hold."
+    },
+    {
+      "id": "xavier-1551-yamaguchi-licence",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Fordham 1551xavier3.asp ('Letter from Japan, to the Society of Jesus at Goa, 1551'); Yamaguchi passage (licence to preach, edicts posted): continuous, verbatim; bracket is a pure insertion naming the lord ('the prince'/'the king' in the source). Page source note: Henry James Coleridge, ed., Life and Letters of St. Francis Xavier, 2d ed., 1890, vol. II, pp. 295-301, 'modernized by Prof. Arkenberg' -- matches the credit (Coleridge's 1st ed. 1872). Letter opens 'Last year ... I wrote to you from Cagoxima', so 1551 and the 1549-50 Satsuma dating hold."
+    },
+    {
+      "id": "xavier-1552-japanese-curiosity",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Fordham 1552xavier4.asp ('Letter from Japan, to the Society of Jesus in Europe, 1552'; Coleridge, 2d ed. 1890, vol. II, pp. 331-350, modernised by Arkenberg): passage continuous and verbatim, no cuts or brackets. Letter recounts arrival at Kagoshima 15 Aug 1549 through the Yamaguchi mission, so 'after two years in Japan' and 1552 hold."
+    },
+    {
+      "id": "hamel-1668-korea-detains-strangers",
+      "verdict": "corrected",
+      "changes": {
+        "translation": "Translator not named; English version from Churchill's Collection of Voyages, 1732, slightly modernised by William Elliot Griffis in Corea, Without and Within, 2nd ed., 1885",
+        "text": "He [Jan Weltevree, a Dutch sailor held in Korea since 1627] added that during his long residence in Corea he had often asked leave of the king to go over to Japan, without ever obtaining any other answer than that he must never expect it, unless he had wings and could fly thither — that the custom of the country was to detain strangers that came thither, but that they wanted for nothing, being provided with diet and clothes as long as they lived. … The king [of Korea] told us it was not the custom of Corea to suffer strangers to depart the kingdom—that we must resolve to end our days in his dominions, and he would provide us with all necessaries."
+      },
+      "note": "Compared with Griffis, Corea, Without and Within, 2nd ed. (Philadelphia, preface note Oct. 1885), pp. 56-57 and 71. Griffis's note (ch. IV n.1) says he used the English version in Churchill's Collection, London 1732, with 'substitution of modern for obsolete words' -- translator unnamed, so credit made explicit. First bracket names 'He' (John Wetterree; the page gives his 1627 wreck), fine. Second piece: '[The Korean king]' replaced the source words 'The king' (p. 71); restored the source words and made the bracket a pure insertion: 'The king [of Korea] told us'. Hamel, VOC bookkeeper/supercargo, wrecked 1653, escaped 1666, journal published 1668: sourceLine and year fine."
+    },
+    {
+      "id": "coyett-1675-koxinga-claims-taiwan",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Frederick Coyett, last Dutch governor of Taiwan, and associates (published under the initials C.E.S.), 't Verwaerloosde Formosa (Neglected Formosa), 1675, reporting Koxinga's reply to Dutch envoys in 1661 (adapted)"
+      },
+      "note": "Compared text vs original word by word: only change 'Chi;ia' -> 'China' (plus spacing before ; and :). Page image viewed (archive.org cu31924023514403 leaf 442 = Campbell, Formosa under the Dutch, 1903, p. 423): printed word is 'China'. OK under rule 6. Campbell (preface; p. 383 n.1) says the narrative is translated from 't Verwaerloosde Formosa 'which C. E. S. published in 1675' and does not name Coyett as author, so the sourceLine now states the C.E.S. imprint (the usual reading is Coyett et Socii). The cut drops Koxinga's further point that he took Formosa for his war with the Tartars; the excerpt does not contradict it. Translation credit (Campbell 1903) correct."
+    },
+    {
+      "id": "kaempfer-1692-dejima",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Engelbert Kaempfer, German physician to the Dutch East India Company post at Nagasaki in 1690–92, The History of Japan (written after his return to Europe, published in English 1727)"
+      },
+      "note": "Compared with Kaempfer, History of Japan, trans. J. G. Scheuchzer, Glasgow: MacLehose 1906, vol. II, pp. 173-175 (margin 'A.D. 1692'): both pieces verbatim (1727 spellings 'publick' etc. as printed); the cut skips the description of the island's layout and does not change the meaning. Title page: 'Physician to the Dutch Embassy to the Emperor's Court', translated by Scheuchzer -- credit fine. sourceLine said 'written in the 1690s'; Kaempfer left Japan in 1692 and wrote the work afterwards in Europe (it appeared only posthumously in 1727), which the page does not date to the 1690s, so changed to 'written after his return to Europe'. Year 1692 = the time described (margin date), and both dates now show."
+    },
+    {
+      "id": "kaempfer-1691-shogun-asks-about-medicine",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Engelbert Kaempfer, German physician with the Dutch embassy to the shogun Tokugawa Tsunayoshi at Edo in 1691, The History of Japan (written after his return to Europe, published in English 1727)",
+        "text": "As for my own particular the following questions were put to me: What external and internal distempers I thought the most dangerous, and most difficult to cure? How I proceeded in the cure of cancrous humors and imposthumations of the inner parts? Whether our European Physicians did not search after some Medicine to render people immortal, as the Chinese Physicians had done for many hundred years? Whether we had made any considerable progress in this search, and which was the last remedy conducive to long life, that had been found out in Europe? … Then ’twas ask’d, whether it [the remedy] could be had at Batavia? and having return’d in answer, that it was to be had there, the Emperor [the shogun] desir’d, that it should be sent over by the next ships."
+      },
+      "note": "Compared with Kaempfer, History of Japan (Scheuchzer trans., Glasgow 1906), vol. III, pp. 91-92 (margin 'A.D. 1691'): pieces verbatim; '[the shogun]' glosses Kaempfer's 'Emperor'. The 239-word cut removes the naming of the medicine (Sal volatile Oleosum Sylvii), leaving 'whether it could be had' without a clear referent: added the clarifying bracket 'it [the remedy]'. sourceLine 'written in the 1690s' changed to 'written after his return to Europe' (as for kaempfer-1692-dejima). Year 1691 = audience at Edo (margin date). Lead verifier: added \"in 1691\" after \"at Edo\" so the sourceLine shows the date that \"year\" gives (the margin date of the audience)."
+    },
+    {
+      "id": "xu-guangqi-1617-defends-jesuit-learning",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Xu Guangqi, Ming scholar-official, mathematician and Christian convert, memorial to the Wanli emperor defending the Jesuits accused by the Board of Rites, 1616",
+        "year": 1616,
+        "translation": "Translator not named; English version printed in The Chinese Repository, March 1850, as modernised by Jerome S. Arkenberg (Internet Modern History Sourcebook)",
+        "text": "Knowing full well that the arts and sciences of the foreigners are in a high degree correct, your majesty's humble servant earnestly begs of his sacred Intelligence, the illustrious honor of issuing a manifesto in their behalf, so as to render his own felicity eternal, and give great tranquility to ten thousand generations. … As your servant for years past has been thus accustomed to engage in discussions and investigations with these courtiers [the Jesuit missionaries], he has become well acquainted with them, and knows that they are not only in deportment and in heart wholly free from aught which can excite suspicion, but that they are indeed worthies and sages; that their doctrines are most correct; their regimen most strict; their learning most extensive; their knowledge most refined; their hearts most true; their views most steady; and that among the people of their own nations, there is not one in a thousand so accomplished, or one in ten thousand so talented as these men."
+      },
+      "note": "Fordham 1617hsukuang.asp ('Memorial to Fra Matteo Ricci, 1617'; source note: Chinese Repository, March 1850, pp. 118-126, modernised by Arkenberg; no translator named, so credit made explicit). Pieces verbatim; cut removes the Board of Rites report and Xu's own involvement, meaning intact. Added '[the Jesuit missionaries]' after 'these courtiers' (no referent for 'courtiers' in the excerpt). Date: the memorial answers the 1616 accusations by Shen Que of the (Nanjing) Board of Rites; it is Xu's 'Bianxue zhangshu' of Wanli 44 = 1616 (zh.wikipedia 'Nanjing jiao'an' dates the incident and Xu's memorial, quoting this very passage, to 1616; Pantoja was expelled at the end of that year). The Sourcebook's '1617' is the later date; year and sourceLine set to 1616 (id left unchanged)."
+    },
+    {
+      "id": "xu-guangqi-1617-proposes-examination",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Xu Guangqi, Ming scholar-official and Christian convert, memorial to the Wanli emperor proposing how the Jesuits should be examined, 1616",
+        "year": 1616,
+        "translation": "Translator not named; English version printed in The Chinese Repository, March 1850, as modernised by Jerome S. Arkenberg (Internet Modern History Sourcebook)",
+        "text": "1st. Let all the courtiers [the Jesuit missionaries], whose names have been included in the memorials, be called to the capital; and let a selection be made of your majesty's ministers both in and out of the capital; let all these jointly translate the standard works that have been brought from the West; let subjects be taken up in detail—what is said on serving Heaven and loving man, what relates to natural and moral philosophy, to the systems of civil government, to astronomy, to mathematics, to physic and medicine, to agriculture and irrigation, to political economy, &c.; and let a distinct treatise be prepared on each of these; and then let his majesty command the ministers of his own palace, in general assembly, to decide whether they are correct or erroneous. And if indeed they be subversive of the cardinal virtues and opposed to the classics, involving wicked doctrines and sinister means, then let the said courtiers be immediately dismissed and expelled; and your majesty's servant will willingly abide the punishment appointed for those who aid and abet the deceivers of his majesty."
+      },
+      "note": "Same Fordham page; first of Xu's 'three modes of examination', continuous and verbatim (180 words). Added '[the Jesuit missionaries]' after 'the courtiers' for a student reading it alone. Date corrected to 1616 and translation credit made explicit, as for xu-guangqi-1617-defends-jesuit-learning (same memorial)."
+    },
+    {
+      "id": "adams-1611-shipbuilder-to-ieyasu",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Fordham 1611adams-japan.asp ('My Coming to Japan, 1611'; from Tappan, ed., The World's Story, vol. I, 1914, pp. 325-331, modernised by Arkenberg; Tappan: 'The letter ... was written in 1611'). Pieces verbatim; '[Tokugawa Ieyasu]' glosses Adams's 'emperor'; cut drops only the stipend amount. Written in English, translation null correct. The letter ends asking that his being in Japan be made known to his friends and countrymen, matching 'letter to his countrymen'."
+    },
+    {
+      "id": "du-halde-1735-kangxi-and-jesuit-science",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Jean-Baptiste du Halde, French Jesuit in Paris who compiled the reports of missionaries in China (not an eyewitness), Description of the Empire of China, 1735, on the Kangxi emperor (reigned 1661–1722)",
+        "translation": "Translator not named; English version printed in Eva March Tappan, ed., The World's Story, vol. 1, 1914 (Internet Modern History Sourcebook)"
+      },
+      "note": "Fordham 1680halde1.asp ('Père du Halde: Teaching Science to the Manchu Emperor, c. 1680'; from Tappan, The World's Story, vol. I, 1914, pp. 155-162; no translator named): opening paragraph verbatim, '[Kangxi]' glosses 'Cang hi'. Rule 4: du Halde (1674-1743) never went to China; he edited missionaries' reports into the 1735 Description. It was written within 1450-1750 and by a contemporary of Kangxi's reign, so it stays as a period source of European (Jesuit) views, and the sourceLine now says plainly that he was a compiler in Paris, not an eyewitness. 'The late emperor' fits writing after 1722; year 1735 = publication, and sourceLine gives Kangxi's reign."
+    },
+    {
+      "id": "las-casas-1542-hatuey",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Gutenberg #20321 (preparer's note: translation of the Brevisima relacion, 1552; title page 'Popery Truly Display'd in its Bloody Colours', London, R. Hewson, 1689) — translation credit matches the page. Excerpt is the Hatuey passage on Cuba, contiguous apart from one '…' that spans only a paragraph break and one that drops a clause on the friar's promises of heaven; '[Hatuey]' is a pure insertion after 'Cacic' (source spells him 'Hathney'); 'endeavuoring' and 'Hathney' are as printed. Las Casas was a Dominican friar in 1542 (bishop only from 1543/44); written 1542, printed 1552; Hatuey's resistance and execution 1511–12. All consistent."
+    },
+    {
+      "id": "pedro-pizarro-1571-siege-of-cuzco",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Means's translation (Cortes Society, New York, 1921, vol. II, pp. 301–302). Title page of the Relation says it was signed in 1571 by Pedro Pizarro, 'a conqueror and settler'; Means's notes call him Francisco Pizarro's cousin. '[Indian]' is the translator's own bracket on the page, not an insertion. The single cut drops the sentence giving 200,000 besiegers; no change of meaning. Events: Manco Inca's siege of Cuzco, 1536."
+    },
+    {
+      "id": "cakchiquel-annals-revolt-against-alvarado",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Francisco Hernández Arana Xajilá, Kaqchikel Maya noble who lived through the Spanish conquest (Brinton's edition credits this early part to his father), The Annals of the Cakchiquels (written c. 1560s–1580s), on the Kaqchikel revolt of 1524",
+        "text": "Then Tunatiuh [Pedro de Alvarado] began to ask the chiefs for money. He wished that they should give him jars full of precious metals, and even their drinking cups and crowns. Not receiving anything, Tunatiuh became angry and said to the chiefs: “Why have you not given me the metal? If you do not bring me the precious metal in all your towns, choose then, for I shall burn you alive and hang you.” Thus did he speak to the chiefs. … Thus it was that our city was abandoned on the day 7 Ahmak on account of a priest of the Demon, O my children. … But what the chiefs did was soon known to Tunatiuh. Ten days after we had left the city, war was begun by Tunatiuh. On the day 4 Camey began our destruction. Then began our misery. We scattered in the forests; all our towns were taken, O my children; we were slaughtered by Tunatiuh. The Castilians entered the city and they arrived as to a deserted spot. From that time the Castilians were hated by the Cakchiquels. They made trenches, they dug pitfalls, that the horses might be killed, and war was waged by their men."
+      },
+      "note": "Compared with Brinton, The Annals of the Cakchiquels (Philadelphia, 1885), §§152 and 156 (English). Text matches; the cut (§§153–155: more gold demands, the chiefs' payment and their flight from Iximche on a priest's advice) is marked, and '[abandoning their capital, Iximche]' is a pure insertion clarifying 'what the chiefs did' (it summarises §155, which says the city of Iximche was deserted); '[Pedro de Alvarado]' glosses Tunatiuh. Attribution: Brinton's introduction (pp. 57–58) says the writer first names himself as Francisco Ernantez Arana in 1582, but argues the part up to 1559 (which includes 1524) was written by his father, an adult at the conquest, and that Francisco continued it 1560–1583; the sourceLine now says so rather than giving one author as settled. Year 1575 kept as an estimate for a text compiled between c. 1559 and 1583 (Brinton's dates). Lead verifier override: the bracket \"[abandoning their capital, Iximche]\" summarised the cut §155 rather than naming a referent, so it is removed and the last sentence of §155 is restored from the page instead (\"Thus it was that our city was abandoned on the day 7 Ahmak on account of a priest of the Demon, O my children.\"); \"But what the chiefs did was soon known to Tunatiuh\" (§156) follows; the \"…\" between them spans only the Kaqchikel-language text of §156 and the section number on the bilingual page, no English words. Now 197 words."
+    },
+    {
+      "id": "nahua-accounts-toxcatl-massacre",
+      "verdict": "corrected",
+      "changes": {
+        "translation": "Translated from Nahuatl into Spanish by Ángel María Garibay K. and from Spanish into English by Lysander Kemp, in Miguel León-Portilla, ed., The Broken Spears: The Aztec Account of the Conquest of Mexico, Beacon Press, 1962 (Internet Modern History Sourcebook)"
+      },
+      "note": "Compared with the Fordham page (source note: León-Portilla, ed., The Broken Spears, Boston: Beacon Press, 1962, pp. 64–66, 129–131). Text matches; the cut drops the attack on temple workers and Motecuhzoma's protest; '[Pedro de Alvarado]' glosses 'The Sun' (Tonatiuh); the em dashes render the page's hyphens. The page names no translator; library records for the 1962 Beacon edition (archive.org catalogue entries brokenspearsazte00le, brokenspearsaz00leac) give Lysander Kemp as English translator of Visión de los vencidos, itself translated from Nahuatl by Garibay, so the credit now names both stages. The page does not say which Nahuatl text (Florentine Codex, Codex Aubin, etc.) the passage comes from, so the sourceLine stays generic; year 1560 is an estimate for accounts recorded between the 1520s and 1570s."
+    },
+    {
+      "id": "gardiner-1660-miantonomo-speech",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Miantonomo, Narragansett sachem, speech to the Montaukett on Long Island in 1642, as reported to and recorded by Lion Gardiner, English settler and former commander of the fort at Saybrook, Relation of the Pequot Warres (written 1660)"
+      },
+      "note": "Compared with A History of the Pequot War (Cincinnati: J. Harpel for W. Dodge, 1860, per archive.org metadata; ahistorypequotw00dodggoog), Gardiner's Relation pp. 25–26, dated East Hampton, June 12, 1660. Text matches the page ('[Miantonomo]' replaces the pronoun 'he'; source spells him 'Miantenomie'). Role corrected: by 1642 Gardiner was no longer commanding Saybrook fort — the narrative has the Montaukett coming to him 'at my house' by 'my Island', and the editor's note says he left the fort and moved to Gardiner's Island; he was not present at the speech, which the Montaukett sachem Waiandance reported to him ('he came over to me and acquainted me'), so the sourceLine now says 'as reported to and recorded by'. The 1642 date is the usual dating (not stated on the page; Miantonomo died 1643)."
+    },
+    {
+      "id": "rowlandson-1682-captivity-narrative",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Gutenberg #851 (the 'second Addition, Corrected and amended', 1682). Excerpt joins items 2 and 4 of her closing list of 'remarkable passages of providence'; the cut is all of item 3 (the Baquaug river crossing) and is marked; no change of meaning. Attack on Lancaster dated 'tenth of February 1675' in the text (Old Style = 1676), as the sourceLine gives; published 1682."
+    },
+    {
+      "id": "easton-1675-metacom-grievances",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared word by word with the printed pages (Lincoln, Narratives of the Indian Wars 1675–1699, 1913, pp. 10–11; page images archive.org narrativesindia01mathgoog n28–n29). Every text/original difference is spelling modernisation of Easton's phonetic spelling or an OCR misreading confirmed on the image: printed 'thay' (OCR 'Hhay'), 'litell' (OCR 'Utell') → little, 'ronging' (OCR 'rouging') → wronging, 'do' (OCR 'dq'), 'Cumpareson' (OCR 'Gumpareson'), 'therof.' (OCR 'therofj'); 'home' is printed with the editor's footnote 'Whom', so → whom is spelling; 'then' → than. Cuts drop the grievances about testimony, drunkenness and cheating in land sales, and the cattle/liquor grievances, without changing what is kept. Easton was deputy governor of Rhode Island 1674–1676 (editor's introduction); the Relacion is dated '5th 12m: 1675' (Feb. 1675/6) and headed 1675; the meeting with Philip was in June 1675, a week before the war began."
+    },
+    {
+      "id": "powhatan-1609-speech-to-smith",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Powhatan (Wahunsenacah), paramount chief of the Powhatan peoples of Virginia, speech to John Smith in 1609, as recorded by Smith's companions (this section by Anas Todkill) in The Proceedings of the English Colonie in Virginia, 1612 (adapted)",
+        "translation": "Powhatan's words as rendered in English by the colonists (no interpreter named); The Proceedings of the English Colonie in Virginia, Oxford, 1612, reprinted in Travels and Works of Captain John Smith, ed. Edward Arber, new ed. A. G. Bradley, 1910",
+        "text": "What will it avail you to take that perforce, you may quietly have with love, or to destroy them that provide you food? What can you get by war, when we can hide our provision and fly to the woods, whereby you must famish, by wronging us your friends? And why are you thus jealous of our loves, seeing us unarmed, and both do, and are willing still to feed you with that you cannot get but by our labours? Think you I am so simple not to know it is better to eat good meat, lie well, and sleep quietly with my women and children, laugh and be merry with you, have copper, hatchets, or what I want, being your friend; than be forced to fly from all, to lie cold in the woods, feed upon acorns, roots and such trash, and be so hunted by you that I can neither rest, eat nor sleep …",
+        "original": "What will it availe you to take that perforce, you may quietly haue with loue, or to destroy them that provide you food ? What can you get by war, when we can hide our provision and flie to the woodes, whereby you must famish, by wronging vs your friends ? And whie are you thus iealous of our loues, seeing vs vnarmed, and both doe, and are willing still to feed you with that you cannot get but by our labours ? Think you I am so simple not to knowe it is better to eate good meate, lie well, and sleepe quietly with my women and children, laugh and be merrie with you, haue copper, hatchets, or what I want, being your friend ; then bee forced to flie from al, to lie cold in the woods, feed vpon acorns roots and such trash, and be so hunted by you that I can neither rest eat nor sleepe …"
+      },
+      "note": "Compared with the page image (Arber/Bradley ed., Edinburgh 1910, p. 135, leaf 301; 1612 Proceedings p. 61). All text/original differences are spelling (vs→us, haue→have, then→than, iealous→jealous etc.); no OCR corrections were needed. Changes: the sourceLine now says whose record this is — the chapter is signed 'By Richard Wiffin, William Phettiplace, and Anas Todkill' and the running head of this page credits 'A. Todkill'; the translation note now names the edition correctly (Arber's text, 1910 new edition by Bradley). The excerpt ended with a full stop where the printed sentence continues (', but my tired men must watch …'), so a closing '…' marks the cut in both text and original."
+    },
+    {
+      "id": "kiotseaeton-1645-peace-speech",
+      "verdict": "corrected",
+      "changes": {
+        "translation": "Translated by Thwaites's staff (Finlow Alexander, Percy Favor Bicknell, William Frederic Giese, Crawford Lindsay, William Price, Hiram Allen Sober; the translator of this document is not specified), The Jesuit Relations and Allied Documents, ed. Reuben Gold Thwaites, vol. 27, 1898"
+      },
+      "note": "Compared with the page image (Thwaites vol. 27, p. 253, leaf 257) and p. 261: the OCR joins/splits 'ina', 'Iam', 'songsin', 'havea', 'Onon- tio' are printed 'in a', 'I am', 'songs in', 'have a', 'Onon-|tio' (line-break hyphen), so the text's spacing fixes are correct; no other differences. The cut skips the first nine presents; the quotation marks follow the page. Document LV is the Relation of 1644–45 by Barthélemy Vimont, superior at Quebec (dated Quebec, Oct. 1, 1645); the Three Rivers council was in July 1645. Translation credit changed to name the translators the volume lists (it assigns no individual translator), instead of an unnamed 'Translated in'."
+    },
+    {
+      "id": "canassatego-1744-lancaster-treaty",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with the page image of Franklin's 1744 printing (archive.org treatyheldattown00unse, leaf 13): Canassatego's speech of June 26, 1744, P.M., 'Conrad Weiser, Interpreter', 'Printed and Sold by B. Franklin'. The OCR corrections are confirmed on the image: 'Province of Maryland' (OCR 'a'), 'remained' (OCR 'yemained'); all other differences are long-s spelling. The cut drops the Dutch ship-and-rope story; 'During all this Time the New-comers, the Dutch' still reads correctly. Translation credit and sourceLine are accurate."
+    },
+    {
+      "id": "otreouti-1684-reply-to-la-barre",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Otreouti (called 'Grangula'), Onondaga speaker, reply to Joseph-Antoine de La Barre, governor of New France, at La Famine in 1684, as retold by the French officer the Baron de Lahontan, who was with the expedition and said he set the speech 'in an European Dress', New Voyages to North-America, 1703 (adapted)",
+        "translation": "Translator not named (English edition issued by Lahontan, London, 1703); reprinted in New Voyages to North-America, ed. Reuben Gold Thwaites, 1905"
+      },
+      "note": "Compared with the page images (Thwaites reprint of the London 1703 English text, 1905, pp. 81–82, leaves 195–196). Text vs original: long-s spelling, 'I'll' (OCR ''11'), 'Onnontio' (OCR 'Onnontto'), 'conduct' (OCR 'condudl'), all confirmed on the images; the '…' marks in the original that the text drops only bridge the OCR's interleaving of the side-note 'Corlar is the Title of the Governor of New-York', which also supports the two bracketed glosses (Thwaites's footnote glosses Onontio as the governor of Canada). The cuts drop the Jesuit-brandy comparison and the sentence about bringing the English to the Lakes; meaning kept. sourceLine corrected: Lahontan's Preface says 'the thoughts of the Savages are set forth in an European Dress' and that his correspondent asked him 'not to make a literal Translation' of the Grangula's harangue, so 'as recorded by' overstated it; Lahontan narrates as a member of La Barre's camp ('we row'd', 'our Camp'). Thwaites's note identifies the speaker as Otreouate, an Onondaga. Translation credit now says the translator is not named (Thwaites's introduction says only that Lahontan 'put out an English translation')."
+    },
+    {
+      "id": "molina-1575-taki-onqoy",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Markham, Narratives of the Rites and Laws of the Yncas (Hakluyt Society, 1873), p. 61 (page image, leaf 97). 'Christain' is printed so (printer's error), and kept. Cuts drop the 'fields sown with worms' sentence and one on the prosperity promised to followers; meaning kept. Markham's introduction: Molina was priest of the hospital for natives at Cuzco and a master of Quechua, and the report was written for Bishop Artaun between 1570 and 1584; c. 1575 is a reasonable estimate within that span. The text itself dates the beginnings of the movement to 1560."
+    },
+    {
+      "id": "garcilaso-1609-inca-memory",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Markham's translation, First Part of the Royal Commentaries of the Yncas, vol. 1 (Hakluyt Society, M.DCCC.LXIX = 1869), book I, ch. 15. Text matches; the one cut removes a parenthesis ('as we shall relate in the account of his life'). Garcilaso, son of a Spanish conquistador and an Inca noblewoman; Part 1 published Lisbon 1609. All consistent."
+    },
+    {
+      "id": "avila-1608-huarochiri-traditions",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Markham, Narratives of the Rites and Laws of the Yncas (1873), Avila's narrative, pp. 130–131. Title on the page: 'collected by the Doctor Francisco de Avila, Presbyter (Cura of the parish of San Damian in the said province of Huarachiri…)'; Markham's introduction: 'It was written in 1608.' The cut removes Avila's remark that people asked how he dared kill condors; meaning kept. 'The above traditions' refers to the Coniraya story that precedes it (Coniraya is named in the excerpt). sourceLine accurate; the narrative itself denounces these 'errors, false gods … and diabolical rites', so 'campaigner against Andean religion' is fair."
+    },
+    {
+      "id": "le-jeune-1634-montagnais-beliefs",
+      "verdict": "corrected",
+      "changes": {
+        "text": "Thirdly: \"What do these souls do when they arrive at their dwelling place?\" \"During the daytime, they are seated with their two elbows upon their two knees, and their heads between their two hands, the usual position of sick Savages; during the night, they go and come, they work, they go to the chase.\" \"Oh, but they cannot see at all during the night,\" I rejoined. \"Thou art an ignoramus, thou hast no sense,\" they answered; \"souls are not like us, they do not see at all during the day, and see very clearly at night; their day is in the darkness of the night, and their night in the light of the day.\" … And when they see that I make sport of their dreams, they are astonished and ask me, \"What does thou believe then, if thou dost not believe in thy dream?\" \"I believe in him who has made all things, and who can do all things.\" \"Thou hast no sense, how canst thou believe in him, if thou hast not seen him?\"",
+        "translation": "Translated by John Cutler Covert (assisted by Mary Sifton Pepper), The Jesuit Relations and Allied Documents, ed. Reuben Gold Thwaites, vol. 6, 1897"
+      },
+      "note": "Compared with Gutenberg #51262 (Thwaites vol. 6), Relation of 1634, ch. 4, English pp. 179–183. The leading bracket '[Le Jeune asked:]' stood in for the source word 'Thirdly:' (Le Jeune is numbering his questions), so the source word is restored; the sourceLine already says he records their answers to his questions, and he speaks in the first person ('I rejoined'). The long cut (the fourth question, on hunting souls, and other beliefs) is marked; 'What does thou believe' is as printed. Translation credit now names the translators listed on the volume's staff page: 'Translator from the French: John Cutler Covert; Assistant Translator from the French: Mary Sifton Pepper'. Relation closed at Quebec, August 7, 1634; Le Jeune wintered with the Montagnais 1633–34."
+    },
+    {
+      "id": "brebeuf-1636-wendat-blend-beliefs",
+      "verdict": "corrected",
+      "changes": {
+        "translation": "Translated by Thwaites's staff (Finlow Alexander, Percy Favor Bicknell, William Frederic Giese, Crawford Lindsay, William Price; the translator of this document is not specified), The Jesuit Relations and Allied Documents, ed. Reuben Gold Thwaites, vol. 10, 1897"
+      },
+      "note": "Compared with Thwaites vol. 10 (contents: Document XXVI part II, 'Brebeuf's Relation of the Hurons', Ihonatiria, July 16, 1636), English pp. 25–27 and 61. Two of the '…' marks only bridge the page markers '[16]' and '[41]'; the long cut jumps from pp. 25–27 to p. 61, and '[One Wendat man]' replaces the pronoun 'He' (the source's 'an old man of our village', who died on 'the twentieth of October' (1635) 'in his unbelief'); the last cut omits his farewell feast before 'We went to see him'. Nothing kept is reversed or misleading. Translation credit changed to the translators the volume lists (no individual translator is given)."
+    },
+    {
+      "id": "shimabara-rebels-1638-arrow-letter",
+      "verdict": "corrected",
+      "changes": {
+        "translation": "Translator not named; English version printed in James Murdoch and Isoh Yamagata, A History of Japan, vol. 2, 1903"
+      },
+      "note": "Compared with Murdoch 1903, p. 660 n.13: letter text verbatim, dated '4th of 1st month of 15th year of Kanyei (February 17th, 1638). Addressed to the attendants on the Imperial Commissioner' -- sourceLine (Feb. 1638, shogun's commissioner) fine. Cut 1 removes 'Frequent prohibitions ... For these there is no escape'; '[the faithful]' is a pure insertion naming 'they' (those who value the future life). Cut 2 removes the passage on recanters and the rising. Neither changes the argument. Murdoch does not say who translated it, so the credit now says 'translator not named'."
+    },
+    {
+      "id": "koeckebacker-1638-shimabara-taxes",
+      "verdict": "corrected",
+      "changes": {
+        "translation": "Translator not named; English version (from the Dutch) printed in James Murdoch and Isoh Yamagata, A History of Japan, vol. 2, 1903",
+        "text": "On the 17th December, 1637, we received intelligence that the peasants in the county of Arima had revolted, taken up arms, set fire to all the habitations of the nobility and citizens, murdered some of the nobles … The newly-arrived lord [Matsukura, Bungo-no-Kami], not content herewith, imposed moreover upon them [the former lord's retainers, now farmers] and upon the other farmers more taxes, and forced them to raise such a quantity of rice as was impossible for them to do. Those who could not pay the fixed taxes were dressed, by his order, in a rough straw coat (mino) … These mantles were tied round the neck and body, the hands being tightly bound behind their backs with ropes, after which the straw-coats were set on fire. … but as his son, the present lord [Matsukura, Nagato-no-Kami], who resides in Yedo, feels also inclined to follow in the footsteps of his father, and forces the farmers to pay far more taxes than they are able to do, in such a manner that they languish from hunger … the people resolved not to bear any longer the vexations, and to die one single death instead of the many slow deaths to which they were subjected."
+      },
+      "note": "Compared with Murdoch 1903, pp. 650-651 ('Koeckebacker's letter to Governor-General Van Diemen'). The old final cut jumped from the father's straw-coat torture to 'the people resolved...', but the source says the people endured the newly-arrived lord's cruelty 'as long as he was present' and rose because his son, the present lord, kept overtaxing them. That changed the cause, so the son's clause was restored from the page ('but as his son, the present lord [Matsukura, Nagato-no-Kami] ... they languish from hunger'; the bracket is Murdoch's). To stay under 200 words the description of the mino grass was cut, and so was 'taking ouly some roots...' (OCR error). Added clarifying brackets '[Matsukura, Bungo-no-Kami]' (from Murdoch's n.3) and 'them [the former lord's retainers, now farmers]', whose referent was in the cut paragraph. Now 190 words, every piece at least 27 words. No translator named on the page, so the credit says so."
+    },
+    {
+      "id": "twelve-articles-1525-right-to-choose-pastors",
+      "verdict": "corrected",
+      "changes": {
+        "text": "In the second place, it is clear that the peasants demand that this Gospel be taught them as a guide in life, and they ought not to be called disobedient or disorderly. … First, it is our humble petition and desire, as also our will and resolution, that in the future we should have power and authority so that each community should choose and appoint a pastor, and that we should have the right to depose him should he conduct himself improperly. The pastor thus chosen should teach us the Gospel pure and simple, without any addition, doctrine or ordinance of man. … We will that for the future our church provost, whomsoever the community may appoint, shall gather and receive this tithe. From this he shall give to the pastor, elected by the whole community, a decent and sufficient maintenance for him …",
+        "translation": "Translated by the editors, James Harvey Robinson and Merrick Whitcomb, in Translations and Reprints from the Original Sources of European History, vol. 2, no. 6 (Period of the Early Reformation in Germany), University of Pennsylvania Press; this printing undated"
+      },
+      "note": "Compared with Translations and Reprints vol. 2 no. 6, pp. 25-27 (archive.org translationsrepr02univiala; leaves 163-165): piece 1 is the preface ('In the second place…'), piece 2 the First Article, piece 3 the Second Article; cuts are between whole sentences and do not change meaning. The excerpt ended mid-sentence at 'maintenance for him' (source continues 'and his [im und den seynen], as shall seem right to the whole community'), so a closing '…' was added. Translation: the headnote says 'In the translation the editors have availed themselves so far as possible of the partial translation… in Gieseler's Ecclesiastical History', and the vol. 2 contents (leaf 7) name the editors of no. 6 as James Harvey Robinson and Merrick Whitcomb; credit now names them. The scan carries no date (title page leaf 5 undated; archive.org catalogues it '[1897?-1907?]', and no. 4 in the same volume cites an 1898 book), so the unsupported '1897' was replaced by 'this printing undated'. Attribution (Swabian peasants' manifesto, 1525) and year fine."
+    },
+    {
+      "id": "twelve-articles-1525-serfdom-and-rents",
+      "verdict": "corrected",
+      "changes": {
+        "text": "It has been the custom hitherto for men to hold us as their own property, which is pitiable enough, considering that Christ has delivered and redeemed us all, without exception, by the shedding of his precious blood, the lowly as well as the great. Accordingly, it is consistent with Scripture that we should be free and wish to be so. Not that we would wish to be absolutely free and under no authority. … We are thus ready to yield obedience according to God's law to our elected and regular authorities in all proper things becoming to a Christian. We, therefore, take it for granted that you will release us from serfdom, as true Christians, unless it should be shown us from the Gospel that we are serfs. … In the eighth place, we are greatly burdened by holdings which cannot support the rent exacted from them. The peasants suffer loss in this way and are ruined; and we ask that the lords may appoint persons of honor to inspect these holdings, and fix a rent in accordance with justice, so that the peasant shall not work for nothing, since the laborer is worthy of his hire.",
+        "translation": "Translated by the editors, James Harvey Robinson and Merrick Whitcomb, in Translations and Reprints from the Original Sources of European History, vol. 2, no. 6 (Period of the Early Reformation in Germany), University of Pennsylvania Press; this printing undated"
+      },
+      "note": "Compared with Translations and Reprints vol. 2 no. 6, pp. 27-29 (Third and Eighth Articles). The first cut removed the Article's own qualification right after 'we should be free and wish to be so' — 'Not that we would wish to be absolutely free and under no authority… We are thus ready to yield obedience according to God's law to our elected and regular authorities' — so the excerpt read as a demand for freedom from all authority. Restored those two source sentences (copied from the page; 195 words now). The second cut (Articles 4-7) is fine. Translation credit corrected as for the companion document (editors Robinson and Whitcomb named; printing undated, '1897' not supported by the scan)."
+    },
+    {
+      "id": "petition-of-right-1628",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with the Wikisource text, sections I, II and the prayer (section X/XI). The first '…' spans only the section label 'II.'; the second skips sections III-IX (imprisonment, billeting, martial law) and the third piece is the prayer clause, cut at a semicolon; meaning intact. Excerpt begins mid-sentence ('…statutes of this realm, your subjects have inherited this freedom'), capital added, sense unchanged. 'therfore' is the page's own typo, kept as on the page (no scan to check). Attribution (Lords and Commons to Charles I, 1628), year, translation null all correct. Confirmed."
+    },
+    {
+      "id": "grand-remonstrance-1641",
+      "verdict": "corrected",
+      "changes": {
+        "text": "The root of all this mischief we find to be a malignant and pernicious design of subverting the fundamental laws and principles of government, upon which the religion and justice of this kingdom are firmly established. The actors and promoters hereof have been: 1. The Jesuited Papists, who hate the laws, as the obstacles of that change and subversion of religion which they so much long for. 2. The Bishops, and the corrupt part of the Clergy, who cherish formality and superstition as the natural effects and more probable supports of their own ecclesiastical tyranny and usurpation. … And although all this [Tonnage and Poundage and other customs duties] was taken upon pretence of guarding the seas, yet a new unheard-of tax of ship-money was devised, and upon the same pretence, by both which there was charged upon the subject near £700,000 some years, and yet the merchants have been left so naked to the violence of the Turkish pirates, that many great ships of value and thousands of His Majesty's subjects have been taken by them, and do still remain in miserable slavery."
+      },
+      "note": "Compared with constitution.org, Gardiner, Constitutional Documents of the Puritan Revolution, no. 43 ('Presented to the King, December 1, 1641'). Piece 1 is the 'root of all this mischief' paragraph and actors 1-2 (actor 3 omitted, marked by '…'); piece 2 is clause 20. Clause 20's 'all this' refers back to clauses 18-19 (Tonnage and Poundage, impositions, Book of Rates), which the cut removes, so it dangled after the list of actors; added the referent bracket '[Tonnage and Poundage and other customs duties]'. Attribution (House of Commons, December 1641), year 1641 correct."
+    },
+    {
+      "id": "retz-1647-tariff-edict",
+      "verdict": "corrected",
+      "changes": {
+        "text": "Emeri, Superintendent of the Finances, and in my opinion the most corrupt man of the age, multiplied edicts as fast as he could find names to call them by. … In August, 1647, there was a mighty clamour against the tariff edict imposing a general tax upon all provisions that came into Paris, which the people were resolved to bear no longer. But the gentlemen of the Council being determined to support it, the Queen consulted the members deputed from Parliament, when Cardinal Mazarin, a mere ignoramus in these affairs, said he wondered that so considerable a body as they were should mind such trifles,—an expression truly worthy of Mazarin. However, the Council at length imagining the Parliament would do it, thought fit to suppress the tariff themselves by a declaration, in order to save the King’s credit. … Thereupon they [the Council] trumped up a declaration which had been registered two years before for the establishment of the Chamber of Domain, which was a terrible charge upon the people … The people mutinied, went in crowds to the Palace, and used very abusive language to the President de Thore, Emeri’s son.",
+        "translation": "Anonymous English translation, 1723; Project Gutenberg text (Historic Court Memoirs series), whose wording matches the 1896 London reprint by H. S. Nichols, “reprinted from a translation dated 1723”"
+      },
+      "note": "Compared with the Gutenberg text (Book II) and the 1896 H. S. Nichols edition (archive.org cu31924028186421, pp. 71-72), whose wording matches. The last cut skipped the Council's five new edicts and its revival of the Chamber of Domain declaration, so 'The people mutinied…' read as a reaction to the suppressed tariff; in the source the mutiny follows the Chamber of Domain declaration, 'a terrible charge upon the people'. Restored that clause from the page ('Thereupon they [the Council] trumped up a declaration… a terrible charge upon the people'; bracket only names the referent of 'they'); 187 words. Translation: the Gutenberg page names no translator or edition; the 1896 Nichols reprint's publisher's note says it 'is reprinted from a translation dated 1723' and its text matches the excerpt word for word, but the Gutenberg file (Historic Court Memoirs series) is not that 1896 printing (its preface modernises names, e.g. 'Philippe' for 'Philip'), so the credit was reworded. Role (coadjutor archbishop of Paris, Fronde leader) correct; year 1647 is the event year for sorting and the sourceLine shows the c. 1675 writing date."
+    },
+    {
+      "id": "retz-1648-barricades",
+      "verdict": "corrected",
+      "changes": {
+        "text": "On the 26th of August, 1648, the worthy Broussel, councillor of the Grand Chamber, and Rene Potier, Sieur de Blancmenil, President of the Inquests, were both arrested by the Queen’s officers. … The Chancellor, hemmed in on every side, narrowly escaped with his life to the Hotel d’O, which the people broke open, rushed in with fury … The news of this occurrence ran like wild-fire through the whole city. Men and women were immediately up in arms, and mothers even put daggers into the hands of their children. In less than two hours there were erected above two hundred barricades, adorned with all the standards and colours that the League had left entire. All the cry was, “God bless the King!” sometimes, “God bless the Coadjutor!” and the echo was, “No Mazarin!” … The Court minions of the two last centuries knew not what they did when they reduced that effectual regard which kings ought to have for their subjects into mere style and form; for there are, as you see, certain conjunctures in which, by a necessary consequence, subjects make a mere form also of the real obedience which they owe to their sovereigns.",
+        "translation": "Anonymous English translation, 1723; Project Gutenberg text (Historic Court Memoirs series), whose wording matches the 1896 London reprint by H. S. Nichols, “reprinted from a translation dated 1723”"
+      },
+      "note": "Compared with the Gutenberg text (Book II) and the 1896 Nichols edition pp. 89-90. The first cut (~4,000 words) joined Broussel's arrest (26 August) directly to 'The news of this occurrence ran like wild-fire… In less than two hours there were erected above two hundred barricades', but in the source 'this occurrence' is the next day's attack on the Chancellor, whom the people chased into the Hotel d'O. Restored the source clause 'The Chancellor, hemmed in on every side, narrowly escaped with his life to the Hotel d’O, which the people broke open, rushed in with fury' before it so the referent and sequence are right (193 words). Translation credit corrected as for retz-1647 (1723 anonymous translation; Gutenberg text matches the 1896 Nichols reprint 'from a translation dated 1723'). Year 1648 is the event year; sourceLine shows the c. 1675 writing date."
+    },
+    {
+      "id": "shivaji-1679-letter-against-jizya",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Sarkar, Shivaji and His Times, 2nd ed. (Longmans, 1920), ch. XIII §8, pp. 366-370 ('About the middle of this year [1679] Shivaji sent to Aurangzib a… letter of protest against the jaziya, which was drafted by Nila Prabhu in eloquent Persian'; translation cited from Sarkar's History of Aurangzib iii. 325-329). '[of Rupees]' is Sarkar's own bracket. Cuts (praise of Akbar/Jahangir/Shah Jahan; army/merchants lament; infamy and Quran passages) do not change meaning; 'Him' in the last piece is plainly God. Sarkar's edition does not raise the Rana Raj Singh attribution, and the letter itself names 'Rana Raj Singh, who is the head of the Hindus' in the third person; the sourceLine's caveat ('some historians attribute the letter to Rana Raj Singh of Mewar') is honest and kept. Sarkar calls Nila Prabhu 'the accomplished Persian draftsman (munshi)'; 'secretary' is a fair gloss. Confirmed."
+    },
+    {
+      "id": "manucci-1700-jizya-and-begam-sahib",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Niccolao Manucci, Venetian who lived in India from 1653 and served Mughal princes as gunner and physician, Storia do Mogor, Part IV (written after August 1702), on the poll tax (jizya) imposed on Hindus in 1679",
+        "year": 1702,
+        "text": "It was during the years 1678 and 1679 that Aurangzeb decided to impose a new tribute upon all the Hindus. … But all was in vain, and the king stood firm, still more so because it was his purpose to spread the Mahomedan religion among those people (the Hindus). He was of the opinion that he had found in this tax an excellent means of succeeding in converting them, besides … thereby replenishing his treasuries greatly, which were daily becoming depleted. … Begam Sahib, eldest sister of the king, a very generous princess, wanted to make a fresh appeal. With this intent she paid her brother a visit, and entreated most humbly that he would not go farther with this affair … ‘Just think, sire,’ said she, ‘that the lands of Hindustan are like a vast ocean; your majesty and all the other members of our royal family are like ships navigating its waters and ploughing through its waves. Where is there any sovereign prince who would desire to load with imposts the sea on which he sails? Who has ever seen the physician pay the patient?’"
+      },
+      "note": "Compared with Irvine, Storia do Mogor vol. 3 (John Murray, 1907), pp. 288-289. Date: the passage is in Part IV (Part IV begins p. 249; its preface is dated by Irvine to early 1701), and the paragraph immediately before it narrates 'the end of August, 1702' (Muhammad Sa'id at San Thome, p. 287), so 'written c. 1700' was wrong: sourceLine now 'Part IV (written after August 1702)', year 1702. Text: the cut after 'converting them' removed the rest of the same sentence, Manucci's second motive — 'besides thereby replenishing his treasuries greatly, which were daily becoming depleted' — leaving a religion-only reading; restored it from the page. The '…' between 'besides' and 'thereby' spans only footnotes 1-2 and the page head at the p. 288/289 break, not text (needed so the mechanical check matches). 'But all was in vain' follows a marked cut of the nobles' protest; acceptable. Translation credit correct."
+    },
+    {
+      "id": "guru-gobind-singh-1705-zafarnama",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Macauliffe, The Sikh Religion vol. 5 (Oxford, Clarendon Press, 1909), pp. 202-205, 'Address to Aurangzeb' in the Zafarnama, which Macauliffe says the Guru wrote at Dina after Chamkaur. Pieces follow the source order; cuts (Chamkaur battle detail, long reproaches, praise of Aurangzeb before 'Thou art monarch of the world, but far from thee is religion') keep the meaning. Attribution, 1705 date (after the Chamkaur battle and the sons' deaths, 1704-05) and translation credit correct. Confirmed."
+    },
+    {
+      "id": "busbecq-1556-false-mustafa-revolt",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Forster and Daniell, Life and Letters of Busbecq vol. 1 (Kegan Paul, 1881), Letter II, pp. 182-184; the letter is dated 'Constantinople, July 14, 1556' (p. 191, editors' correction of the Latin editions' 1555). Brackets '[the pretender]' and '[Suleiman’s son Bayezid]' are pure referent insertions (no source words replaced). Cuts (how the impostor won followers; Pertau Pasha's despatch) do not change meaning. Attribution (ambassador of the Habsburg Ferdinand I at Suleiman's court), year and translation correct. Confirmed."
+    },
+    {
+      "id": "aguirre-1561-letter-to-philip-ii",
+      "verdict": "corrected",
+      "changes": {
+        "translation": "Translated by Tom Holloway, Cornell University, from the text in A. Arellano Moreno, ed., Documentos para la historia económica de Venezuela, 1961; released 1994 (Internet Modern History Sourcebook)"
+      },
+      "note": "Compared with the Fordham page: text matches; the cut drops his complaints about his war wounds and the viceroy's hangings; meaning kept. The page says 'The following translation is by Tom Holloway, History, Cornell University, from the version published in A. Arellano Moreno (org.), Documentos para la Historia economic de Venezuela (Caracas: Univ. Central, 1961)' and gives his 1994 permission note; the credit now uses the name and edition as the page gives them (the earlier 'Thomas H.' was not on the page). Aguirre's role (Basque conquistador, leader of the rebellion on Ursúa's Amazon expedition) and the 1561 date match the letter."
+    },
+    {
+      "id": "dutch-act-of-abjuration-1581",
+      "verdict": "corrected",
+      "changes": {
+        "text": "As it is apparent to all that a prince is constituted by God to be ruler of a people, to defend them from oppression and violence as the shepherd his sheep; and whereas God did not create the people slaves to their prince, to obey his commands, whether right or wrong, but rather the prince for the sake of the subjects (without which he could be no prince), to govern them according to equity, to love and support them as a father his children or a shepherd his flock, and even at the hazard of life to defend and preserve them. And when he does not behave thus, but, on the contrary, oppresses them, seeking opportunities to infringe their ancient customs and privileges, exacting from them slavish compliance, then he is no longer a prince, but a tyrant, and the subjects are to consider him in no other view. And particularly when this is done deliberately, unauthorized by the states, they may not only disallow his authority, but legally proceed to the choice of another prince for their defense.",
+        "translation": "Translator not named; reprinted in Oliver J. Thatcher, ed., The Library of Original Sources, vol. 5 (Milwaukee: University Research Extension Co., 1907), via the Internet Modern History Sourcebook"
+      },
+      "note": "Compared with the Fordham Modern History Sourcebook page (from Thatcher, Library of Original Sources vol. V, 1907, pp. 189-197). The '…' between 'to defend and preserve them.' and 'And when he does not behave thus' marked no omission (the source runs straight on), so it was removed. Translation: the page names no translator (Thatcher reprints an unnamed English version), so the credit now says 'Translator not named; reprinted in…'. Attribution (States General, The Hague, 26 July 1581) and year correct."
+    },
+    {
+      "id": "koxinga-1660-letter-to-dutch-governor",
+      "verdict": "corrected",
+      "changes": {
+        "translation": "Translated by William Campbell, Formosa under the Dutch, 1903, from the Dutch version of the Chinese letter printed in 't Verwaerloosde Formosa, 1675"
+      },
+      "note": "Compared with Campbell, Formosa under the Dutch (1903), pp. 404-405: the letter ('Koxin, General of the army on the coast of China, sends this letter to the Governor of Formosa') answers the messenger sent 31 Oct 1660. It is printed in the 't Verwaerloosde Formosa narrative ('Translated from Chinese the letter reads as follows'; Campbell p. 383 n.1), so the credit now names that intermediate Dutch text. Pieces verbatim; '[from the Tartars]' is Campbell's own bracket; the cut (rumours and import duties) does not change the meaning. OCR text checked for misreadings: all words are real and fit the context. sourceLine and 1660 fine."
+    },
+    {
+      "id": "jamaica-maroon-treaty-1739",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Articles of Pacification concluded by John Guthrie and Francis Sadler for the British colonial government of Jamaica with the Maroons of Trelawny Town led by Captain Cudjoe, 1 March 1739 (dated 1738, Old Style), as printed in R. C. Dallas, The History of the Maroons, 1803 (adapted)",
+        "text": "Whereas Captain Cudjoe, Captain Acompong, Captain Johnny, Captain Cuffee, Captain Quaco, and several other negroes, their dependants and adherents, have been in a state of war and hostility, for several years past, against our sovereign Lord the King, and the inhabitants of this island; … First, That all hostilities shall cease on both sides for ever. Second, That the said Captain Cudjoe, the rest of his captains, adherents, and men, shall be for ever hereafter in a perfect state of freedom and liberty, … Third, That they shall enjoy and possess, for themselves and posterity for ever, all the lands situate and lying between Trelawny Town and the Cockpits, to the amount of fifteen hundred acres, bearing north-west from the said Trelawny Town. … Ninth, That if any negroes shall hereafter run away from their masters or owners, and fall into Captain Cudjoe’s hands, they shall immediately be sent back to the chief magistrate of the next parish where they are taken; and those that bring them are to be satisfied for their trouble, as the legislature shall appoint.",
+        "original": "Whereas Captain Cudjoe, Captain Aqompong^ Cap-* tain Johnny, Captain Cu^ee, Captain Quaco, and feveral other negroes, their dependants and adherents, , have been in a ftate of war and hoftility, for feveral years paft, againft our fovereign Lord the King, and the inhabitants of this ifland ; … Firft, That all hoftilities ihall oeafe on both fides for ever. Second, That the faid Captain Cudjoe,^ the reft of his captains, adherents, and men, ihall be for ever hereafter in a perfeA ftate of freedom and liberty, … Thirds That they ihall enjoy and poffeifi, for themfelves and pofterity for ever^ all the lands fituate and lying between Trelawny Town and the Cockpits, to the amount of fifteen hundred aeres, bearing north-weft from the faid Trelawny Towai … Ninth, That if any negroes ihall hereafter run away frpm their mailers or owners^ and fall into Captain Cudjoe*s hands^ … they (hall immediately be fent back to the chief magiftrate of the next pariih where they are taken ; and thofe that bring them are to be fatisfied for their trouble, as the legiflature (hall appoint."
+      },
+      "note": "Compared word by word with the page images (Dallas, History of the Maroons, vol. 1, 1803, pp. 58–63; archive.org historymaroonsf01dallgoog n193–n198). Confirmed OCR corrections: 'Cuffee', 'cease' (OCR 'oeafe'), 'perfect' (OCR 'perfeA'), 'Third', 'possess', 'acres' (OCR 'aeres'), 'from' (OCR 'frpm'), 'masters' (OCR 'mailers'), 'shall'. Changes: (1) the printed name is 'Acompong', not 'Accompong', restored; (2) 'Trelawny [Town]' — 'Town' is printed (OCR 'Towai'), so it is no longer bracketed and the original carries the OCR word; (3) the Ninth article ended at 'taken.' though the printed sentence continues; the rest of it ('; and those that bring them are to be satisfied for their trouble, as the legislature shall appoint') is added from p. 63 so the article is complete (178 words). The dropped '…' in the original only bridged the catchword 'hands' repeated at the page turn. sourceLine corrected: the treaty was negotiated by Guthrie and Sadler under letters patent in George II's name, not by the governor in person, and the page heads it 'concluded March 1, 1738' (Old Style for 1739)."
+    }
+  ]
+}

@@ -1,0 +1,597 @@
+{
+  "set": 1,
+  "decisions": [
+    {
+      "id": "zurara-1453-henry-reasons-profit",
+      "verdict": "corrected",
+      "changes": {
+        "text": "And because the said Lord Infant wished to know the truth of this [the land beyond Cape Bojador],--since it seemed to him that if he or some other lord did not endeavour to gain that knowledge, no mariners or merchants would ever dare to attempt it--(for it is clear that none of them ever trouble themselves to sail to a place where there is not a sure and certain hope of profit)--and seeing also that no other prince took any pains in this matter, he sent out his own ships against those parts, to have manifest certainty of them all. And to this he was stirred up by his zeal for the service of God and of the King Edward his Lord and brother, who then reigned. And this was the first reason of his action. The second reason was that if there chanced to be in those lands some population of Christians, or some havens, into which it would be possible to sail without peril, many kinds of merchandise might be brought to this realm, which would find a ready market, and reasonably so, because no other people of these parts traded with them, nor yet people of any other that were known; and also the products of this realm might be taken there, which traffic would bring great profit to our countrymen."
+      },
+      "note": "Compared with Gutenberg 35738 (Beazley & Prestage, Hakluyt Society vol. 1, 1896; translators named in the header and title page), ch. VII. Attribution, date (chronicle finished 1453) and translation correct. The excerpt stopped the first sentence after its parenthesis \"(for it is clear ... hope of profit)\", dropping the main clause (\"he sent out his own ships against those parts ...\") and \"And this was the first reason of his action\", so the first reason read as if it were about profit and the \"because\" clause had no main verb; \"this\" had no referent. Restored the rest of the paragraph from the page (no cut now) and added the bracket [the land beyond Cape Bojador] for \"this\" (the preceding sentence on the page is about the land beyond Cape Bojador)."
+    },
+    {
+      "id": "zurara-1453-henry-reasons-faith",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Gutenberg 35738, ch. VII, reasons four and five. Cuts drop only the theological elaboration of the fifth reason; meaning kept. Attribution, date, translation (Beazley & Prestage 1896, named on the page) correct."
+    },
+    {
+      "id": "zurara-1453-gil-eannes-bojador",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Gutenberg 35738, ch. IX. First cut skips the account of earlier captains and of Henry charging Gil Eannes (sourceLine supplies that context); second \"…\" skips only footnote marker [N52]. Henry's words unchanged. Date of event 1434 matches ch. IX (\"in the next year\" after 1433). Translation correct."
+    },
+    {
+      "id": "nicholas-v-1455-romanus-pontifex-faith",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with papalencyclicals.net, which states the translation is Davenport, European Treaties (1917) pp. 20-26. Bull dated January 8, 1455. Cuts remove a clause on western ignorance of those shores and a clause on subduing pagans and preaching to them; the remaining sentence keeps its sense and grammar."
+    },
+    {
+      "id": "nicholas-v-1455-romanus-pontifex-conquest",
+      "verdict": "corrected",
+      "changes": {
+        "text": "… and war was waged for some years against the peoples of those parts in the name of the said King Alfonso and of the infante, and in it very many islands in that neighborhood were subdued and peacefully possessed, as they are still possessed together with the adjacent sea. Thence also many Guineamen and other negroes, taken by force, and some by barter of unprohibited articles, or by other lawful contract of purchase, have been sent to the said kingdoms. … we had formerly by other letters of ours granted among other things free and ample faculty to the aforesaid King Alfonso — to invade, search out, capture, vanquish, and subdue all Saracens and pagans whatsoever, and other enemies of Christ wheresoever placed, and the kingdoms, dukedoms, principalities, dominions, possessions, and all movable and immovable goods whatsoever held and possessed by them and to reduce their persons to perpetual slavery, and to apply and appropriate to himself and his successors the kingdoms, dukedoms, counties, principalities, dominions, possessions, and goods, and to convert them to his and their use and profit …"
+      },
+      "note": "Compared with papalencyclicals.net (Davenport 1917 translation, named on the page). The second segment began \"… granted among other things free and ample faculty ...\", cutting its subject, so it was not clear that the Pope himself had granted the power to enslave. Restored the source words \"we had formerly by other letters of ours\" before \"granted\". Attribution and date (January 8, 1455) correct."
+    },
+    {
+      "id": "alexander-vi-1493-inter-caetera",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "The papalencyclicals.net page names no translator. Compared its text with Davenport, European Treaties vol. 1 (Carnegie Institution, 1917), archive.org europeantreaties01daveuoft, Doc. 7 (bull Inter caetera of May 4, 1493), English translation: same wording (\"Wherefore, as becomes Catholic kings and princes ... mainlands and islands\"), which differs from her translation of the May 3 bull of the same name. So the Davenport credit is correct and the date May 4 is right. Cuts skip the narrative of Columbus's voyage; meaning kept."
+    },
+    {
+      "id": "tordesillas-1494-treaty-line",
+      "verdict": "corrected",
+      "changes": {
+        "text": "That, whereas a certain controversy exists between the said lords, their constituents, as to what lands, of all those discovered in the ocean sea up to the present day, the date of this treaty, pertain to each one of the said parts respectively; therefore, for the sake of peace and concord, … they, their said representatives, acting in their name and by virtue of their powers herein described, covenanted and agreed that a boundary or straight line be determined and drawn north and south, from pole to pole, on the said ocean sea, from the Arctic to the Antarctic pole. This boundary or line shall be drawn straight, as aforesaid, at a distance of three hundred and seventy leagues west of the Cape Verde Islands, … And all lands, both islands and mainlands, found and discovered already, or to be found and discovered hereafter, by the said King of Portugal and by his vessels on this side of the said line and bound determined as above, toward the east, in either north or south latitude, on the eastern side of the said bound provided the said bound is not crossed, shall belong to, and remain in the possession of, and pertain forever to, the said King of Portugal and his successors."
+      },
+      "note": "Compared with Avalon (source: Davenport, European Treaties, 1917, named on the page), article I. Three fixes, all restoring source words: (1) the first cut removed the subject, leaving \"… covenanted and agreed\" with no one agreeing; restored \"they, their said representatives, acting in their name and by virtue of their powers herein described,\"; (2) removed a \"…\" between \"Antarctic pole.\" and \"This boundary\", where nothing is cut; (3) restored \"and bound determined as above, toward the east, in either north or south latitude, on the eastern side of the said bound provided the said bound is not crossed,\" because without it \"on this side of the said line\" does not say which side goes to Portugal. Attribution and date (June 7, 1494) correct."
+    },
+    {
+      "id": "ferdinand-isabella-1492-privileges-columbus",
+      "verdict": "corrected",
+      "changes": {
+        "text": "For as much of you, Christopher Columbus, are going by our command, with some of our vessels and men, to discover and subdue some Islands and Continent in the ocean, and it is hoped that by God's assistance, some of the said Islands and Continent in the ocean will be discovered and conquered by your means and conduct, therefore it is but just and reasonable, that since you expose yourself to such danger to serve us, you should be rewarded for it. … Our will is, That you, Christopher Columbus, after discovering and conquering the said Islands and Continent in the said ocean, or any of them, shall be our Admiral of the said Islands and Continent you shall so discover and conquer; and that you be our Admiral, Vice-Roy, and Governour in them, and that for the future, you may call and stile yourself, D. Christopher Columbus, and that your sons and successors in the said employment, may call themselves Dons, Admirals, Vice-Roys, and Governours of them …"
+      },
+      "note": "Compared with Avalon (source: Thorpe, Federal and State Constitutions, 1909; no translator named, which the credit says). Dated Granada, April 30, 1492. The excerpt ended on a semicolon in mid-sentence; changed the final \";\" to \" …\" so it is marked as cut. No words changed."
+    },
+    {
+      "id": "soncino-1497-cabot-rivalry",
+      "verdict": "corrected",
+      "changes": {
+        "text": "Perhaps amidst so many occupations of your Excellency it will not be unwelcome to learn how this Majesty has acquired a part of Asia without drawing his sword. In this kingdom there is a certain Venetian named Zoanne Caboto, of gentle disposition, very expert in navigation, who, seeing that the most serene Kings of Portugal and Spain had occupied unknown islands, meditated the achievement of a similar acquisition for the said Majesty. Having obtained royal privileges securing to himself the use of the dominions he might discover, the sovereignty being reserved to the Crown, he entrusted his fortune to a small vessel with a crew of 18 persons, and set out from Bristo, a port in the western part of this kingdom. … This Messer Zoanne has the description of the world on a chart, and also on a solid sphere which he has constructed, and on which he shows where he has been …"
+      },
+      "note": "Compared with Fordham 1497cabot-3docs (second despatch, 18 December 1497; page says the texts are from the Hakluyt Society edition of Columbus's Journal, i.e. Markham 1893, and the despatch was \"translated ... for the Hakluyt Society\"). Soncino was the Milanese envoy in London. The excerpt ended on a semicolon in mid-sentence; changed it to \" …\". No words changed."
+    },
+    {
+      "id": "soncino-1497-cabot-spices",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Fordham 1497cabot-3docs, second despatch. Cuts skip Cabot's argument about the spice caravans and the earth's roundness; meaning kept. Attribution, date and translation as for soncino-1497-cabot-rivalry."
+    },
+    {
+      "id": "columbus-1492-journal-prologue",
+      "verdict": "corrected",
+      "changes": {
+        "text": "… and in the present month, in consequence of the information which I had given your Highnesses respecting the countries of India and of a Prince, called Great Can, which in our language signifies King of Kings, how, at many times he, and his predecessors had sent to Rome soliciting instructors who might teach him our holy faith, and the holy Father had never granted his request, whereby great numbers of people were lost, believing in idolatry and doctrines of perdition. Your Highnesses, as Catholic Christians, and princes who love and promote the holy Christian faith, and are enemies of the doctrine of Mahomet, and of all idolatry and heresy, determined to send me, Christopher Columbus, to the above-mentioned countries of India, to see the said princes, people, and territories, and to learn their disposition and the proper method of converting them to our holy faith; and furthermore directed that I should not proceed by land to the East, as is customary, but by a Westerly route, in which direction we have hitherto no certain evidence that any one has gone."
+      },
+      "note": "Translation checked: Fordham credits Olson & Bourne 1906, but Bourne's volume (archive.org northmencolumbus00olso, p. 88) says it uses Markham's translation, and its wording differs (\"Because, O most Christian, and very high ...\"). The Fordham text matches Samuel Kettell, Personal Narrative of the First Voyage of Columbus (Boston, 1827; archive.org personalnarrati00casagoog) word for word, and Ford 1892 also identifies the prologue as Kettell's. So the Kettell credit is right. Removed a \"…\" between \"our holy faith;\" and \"and furthermore\", where the page has no cut."
+    },
+    {
+      "id": "columbus-1492-journal-navigation",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Christopher Columbus, Genoese navigator sailing for Spain, journal of his first voyage (known from Bartolomé de las Casas's abstract), 1492",
+        "text": "Moreover, Sovereign Princes, besides describing every night the occurrences of the day, and every day those of the preceding night, I intend to draw up a nautical chart, which shall contain the several parts of the ocean and land in their proper situations; and also to compose a book to represent the whole by picture with latitudes and longitudes, on all which accounts it behooves me to abstain from my sleep, and make many trials in navigation, which things will demand much labor. … Sunday, 9 September. Sailed this day nineteen leagues, and determined to count less than the true number, that the crew might not be dismayed if the voyage should prove long. … Monday, 17 September. Steered west and sailed, day and night, above fifty leagues; wrote down only forty-seven; the current favored them. They saw a great deal of weed which proved to be rockweed, it came from the west and they met with it very frequently. They were of opinion that land was near. The pilots took the sun's amplitude, and found that the needles varied to the northwest a whole point of the compass; the seamen were terrified, and dismayed without saying why."
+      },
+      "note": "Compared with Fordham columbus1 (Kettell 1827 translation; see columbus-1492-journal-prologue). The bracket \"[17 September:]\" stood in for cut source words; replaced it with the whole 17 September entry from the page (\"Monday, 17 September. Steered west ... without saying why.\"). sourceLine: the daily entries survive only in Las Casas's abstract, which is largely his paraphrase (Ford 1892, p. 27: \"the bulk of it is in no sense the latter's writing\"), so added \"(known from Bartolomé de las Casas's abstract)\"."
+    },
+    {
+      "id": "columbus-1493-letter-gold-spices",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Fordham 1493-columbustosanchez (source given as Ford, Writings of Christopher Columbus, 1892). Ford's introduction (archive.org ofthenewworld00colurich, p. 33) says the English translation is by R. H. Major, Select Letters, 1847, from the Latin version, so the credit is right. Date \"Lisbon, the 14th of March\" [1493]. Cuts keep the meaning."
+    },
+    {
+      "id": "columbus-1493-letter-navidad",
+      "verdict": "corrected",
+      "changes": {
+        "text": "… yet there was one large town in Espanola of which especially I took possession, situated in a remarkably favourable spot, and in every way convenient for the purposes of gain and commerce. To this town I gave the name of Navidad del Senor, and ordered a fortress to be built there, which must by this time be completed, in which I left as many men as I thought necessary, with all sorts of arms, and enough provisions for more than a year. I also left them one caravel, and skilful workmen both in ship-building and other arts, and engaged the favor and friendship of the King of the island in their behalf, to a degree that would not be believed, for these people are so amiable and friendly that even the King took a pride in calling me his brother. But supposing their feelings should become changed, and they should wish to injure those who have remained in the fortress, they could not do so, for they have no arms, they go naked, and are moreover too cowardly; …"
+      },
+      "note": "Compared with Fordham 1493-columbustosanchez (Major 1847 via Ford 1892, confirmed as for the gold-spices excerpt). Removed a \"…\" between \"gain and commerce.\" and \"To this town\", where only a paragraph break separates them. Final cut is at a semicolon; meaning kept."
+    },
+    {
+      "id": "columbus-1503-jamaica-gold",
+      "verdict": "corrected",
+      "changes": {
+        "text": "From hence [Veragua] they will obtain gold, and whereas if they should wish to become masters of the products of other lands, they will have to take them by force, or retire empty-handed, in this country they will simply have to trust their persons in the hands of a savage. … The Genoese, Venetians, and all other nations that possess pearls, precious stones, and other articles of value, take them to the ends of the world to exchange them for gold. Gold is the most precious of all commodities; gold constitutes treasure, and he who possesses it has all he needs in this world, as also the means of rescuing souls from purgatory, and restoring them to the enjoyment of paradise."
+      },
+      "note": "Compared with archive.org selectlettersofc00colurich, pp. 202-203 (title page: Major, Select Letters, Hakluyt Society, 2nd ed., 1870, which matches the credit). Ford 1892 dates the letter Jamaica, July 7, 1503. \"From hence\" refers to Veragua (\"this country\", in the sentence before), not Jamaica, which the sourceLine names; added the bracket [Veragua] so students do not misread it. Cut skips Columbus's disclaimer; meaning kept."
+    },
+    {
+      "id": "gama-journal-1498-christians-spices",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Fordham 1497degama credits only Thatcher, Library of Original Sources vol. 5 (1907). Checked the text against Ravenstein's 1898 Hakluyt translation (Gutenberg 46440): same wording (\"May the Devil take thee! What brought you hither?\" ... \"in search of Christians and of spices\"), Thatcher lightly editing it (\"captain\" to \"captain-major\"). Credit is right. The cut skips one sentence (bread and honey); meaning kept. The quotation marks are on the page HTML."
+    },
+    {
+      "id": "gama-journal-1498-ambassador-speech",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Fordham 1497degama and Ravenstein (Gutenberg 46440): same translation. The cut skips one sentence about earlier captains returning without success. \"him\" is the king, named in the sourceLine. Date (late May 1498) correct."
+    },
+    {
+      "id": "gama-journal-1498-calicut-terms",
+      "verdict": "corrected",
+      "changes": {
+        "text": "On Tuesday, May 29, the captain-major got ready the following things to be sent to the king, viz., twelve pieces of lambel, four scarlet hoods, six hats, four strings of coral, a case containing six wash-hand basins, a case of sugar, two casks of oil, and two of honey. And as it is the custom not to send anything to the king without the knowledge of the Moor, his factor, and of the bale [governor], the captain-major informed them of his intention. They came, and when they saw the present they laughed at it, saying that it was not a thing to offer to a king, that the poorest merchant from Mecca, or any other part of India, gave more, and that if he wanted to make a present it should be in gold, as the king would not accept such things. … On the following day, Saturday, June 2, in the morning, these gentlemen [i.e., the bale and others] came back, and this time they wore better faces. They told the captain-major that as he had informed the king that he intended to land his merchandise, he should now give orders to have this done, as it was the custom of the country that every ship on its arrival should at once land the merchandise it brought, as also the crews, and that the vendors should not return on board until the whole of it had been sold."
+      },
+      "note": "Compared with Fordham 1497degama (Ravenstein translation via Thatcher, checked against Gutenberg 46440). Each segment began \"They ...\" with no referent, because the sentences naming them were cut. Restored from the page \"And as it is the custom not to send anything to the king without the knowledge of the Moor, his factor, and of the bale, the captain-major informed them of his intention.\" and \"On the following day, Saturday, June 2, in the morning, these gentlemen [i.e., the bale and others] came back, and this time they wore better faces.\" (the bracket is on the page and in Ravenstein). Added [governor] after the first \"bale\", per Ravenstein's note 152 (\"Bale in the Arabic Wali, governor\"). The second sentence also shows that the June 2 terms came after the Portuguese had been detained."
+    },
+    {
+      "id": "zamorin-calicut-1498-letter-manuel",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "The Zamorin, Hindu ruler of Calicut, letter to King Manuel I of Portugal, its substance as reported in the journal of Vasco da Gama's first voyage (attributed to Alvaro Velho), August 1498",
+        "text": "When the king heard that we had sailed for Portugal, and that he was thus no longer able to carry his point, he thought of undoing the evil he had done. … At the same time he forwarded a letter to the captain, which had been written for him by Diogo Dias with an iron pen upon a palm-leaf, as is the custom of the country, and which was intended for the King of Portugal. The tenor [the general sense, not the exact words] of this letter was as follows:— “Vasco da Gama, a gentleman of your household, came to my country, whereat I was pleased. My country is rich in cinnamon, cloves, ginger, pepper, and precious stones. That which I ask of you in exchange is gold, silver, corals and scarlet cloth.”"
+      },
+      "note": "Compared with Gutenberg 46440 (Ravenstein 1898). The excerpt cut \"The tenor of this letter was as follows:—\", the journal's own warning that it gives only the gist; Ravenstein's note 189 stresses that it is \"the 'tenor', not the literal phraseology\". Without it students would take the 37 words as the Zamorin's exact wording. Restored the sentence; the bracket [the general sense, not the exact words] sits where the page has the footnote marker [189] and glosses \"tenor\" from that note. sourceLine now says the letter's substance is reported in the journal (flagged item). The rest of the narration is as on the page; date (c. 26-27 August 1498) correct."
+    },
+    {
+      "id": "manuel-i-1499-letter-castile",
+      "verdict": "corrected",
+      "changes": {
+        "text": "Your Highnesses already know that we had ordered Vasco da Gama, a nobleman of our household, and his brother Paulo da Gama, with four vessels to make discoveries by sea, and that two years have now elapsed since their departure. And as the principal motive of this enterprise has been, with our predecessors, the service of God our Lord, and our own advantage, … it pleased Him in His mercy to speed them on their route. From a message which has now been brought to this city by one of the captains [Nicolau Coelho], we learn that they did reach and discover India and other kingdoms and lordships bordering upon it; that they entered and navigated its sea, finding large cities, large edifices and rivers, and great populations, among whom is carried on all the trade in spices and precious stones, which are forwarded in ships … to Mecca, and thence to Cairo, whence they are dispersed throughout the world. … Moreover, we hope, with the help of God, that the great trade which now enriches the Moors of those parts, through whose hands it passes without the intervention of other persons or peoples, shall, in consequence of our regulations (ordenanços) be diverted to the natives and ships of our own kingdom, so that henceforth all Christendom, in this part of Europe, shall be able, in a large measure, to provide itself with these spices and precious stones."
+      },
+      "note": "Compared with Gutenberg 46440, Appendix A, letter I (Ravenstein 1898; dated July 1499; Ravenstein's italics mark words missing from one of the two printed versions and are genuine text). The excerpt joined \"And as the principal motive ... and our own advantage, …\" straight onto \"we learn that they did reach ...\", cutting the main clause (\"it pleased Him in His mercy to speed them on their route\") and making it read as if the motive caused the news. Restored the source words, and the opening sentence naming Vasco and Paulo da Gama so that \"they\" has a referent. The \"…\" after \"advantage,\" skips only footnote marker [269]. [Nicolau Coelho] sits at footnote marker [270] and names the captain, per Ravenstein's introduction (letter written after \"the arrival of Coelho's vessel on July 10\"). Other cuts unchanged."
+    },
+    {
+      "id": "albuquerque-1511-malacca-speech",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with archive.org commentariesgre02unkngoog, pp. 116-118 (title page: Birch, Commentaries vol. III, Hakluyt Society; vol. III is 1880). Cuts skip supporting arguments within each of the two reasons; meaning kept. The sourceLine says honestly that the speech is as recorded in the Commentaries compiled by his son (1557); year 1511 is the date of the speech."
+    },
+    {
+      "id": "albuquerque-1511-sack-malacca",
+      "verdict": "corrected",
+      "changes": {
+        "text": "And when Afonso Dalboquerque found himself less troubled by the uproars which the Moors caused by day and night, and that there was no longer in the city any force which could resist them, and as a recompense for past labours, he gave permission to everyone to sack the city, and free power to keep or dispose of everything they took, … When the city had been sacked, certain merchants, who had fled away to their country houses, seeing the kind way in which Ninachatu [a Hindu who had been kind to the Portuguese captives] had been treated, sent and begged a safe-conduct from Afonso Dalboquerque that they might come to the city; and he granted this to all, except the Malays, who were natives of the country, for as to these he gave orders that all should be put to death wheresoever they were found. … In this second time of taking the city, many of our men were wounded, … and of the Moors, women and children, there died by the sword an infinite number, for no quarter was given to any of them."
+      },
+      "note": "Compared with archive.org commentariesgre02unkngoog, pp. 126-127 (Birch, vol. III, 1880). \"Ninachatu\" appeared with no introduction (the cut removed the order to spare his houses, and the earlier passage is outside the excerpt). Added the bracket [a Hindu who had been kind to the Portuguese captives], taken from p. 126 (\"Ninachatu, a Hindoo by nation\", who had shown \"kindnesses\" to Ruy de Araujo and the Christians \"during their captivity\"). Restoring the cut words was not possible because they run across a page break and running head. Year 1557 (publication of the Commentaries) matches the sourceLine."
+    },
+    {
+      "id": "hakluyt-1584-discourse-western-planting",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Adapted: compared text with original word by word against the chapter list on the Wayback copy of the let.rug.nl page; only spelling is modernised (westerne->western, Phillippe->Philip, shewed->showed, etc.), no word changes. Heading: \"Written In the yere 1584 by Richarde Hackluyt ... at the requeste and direction of ... Mr. Walter Raghly\". Written in English, so translation null. Cuts skip whole chapter headings only."
+    },
+    {
+      "id": "zainuddin-1583-pepper-lands",
+      "verdict": "corrected",
+      "changes": {
+        "text": "… a party from on board left the ships, and proceeded by land to Calicut. At this city they [the Franks] remained for some months, employing themselves in gathering information of the statistics and condition of the several countries of Malabar ; but, on this occasion, they abstained from engaging in trade, and at the expiration of the above period returned to their own country in Europe … the occasion of this visit of the Franks to Malabar was, according to their own accounts, in quest of pepper lands, they being greatly desirous of establishing a trade in that spice; because, at this time, they could only procure it from those who brought it from the original exporters of the article from Malabar."
+      },
+      "note": "Compared with archive.org TohfutUlMujahideen, pp. 75-77 (Rowlandson, Oriental Translation Fund, 1833, named on the title page). The opening bracket \"[At Calicut the Franks]\" replaced the cut source words \"At this city they\" (rule 5). Restored the source words \"a party from on board left the ships, and proceeded by land to Calicut. At this city they\", with the bracket [the Franks] at the page break, where footnotes intervene, to name the referent. Date c. 1583: the text narrates events of AH 990-991 (AD 1582-83, p. 177), and the author dedicated it to Ali Adil Shah of Bijapur, so c. 1583 is a reasonable estimate."
+    },
+    {
+      "id": "zainuddin-1583-franks-oppression",
+      "verdict": "corrected",
+      "changes": {
+        "text": "Subsequently, however, they [the Muslims of Malabar] were guilty of ingratitude towards God, forgetting the blessings that they enjoyed; going astray, and becoming divided into schisms. On this account, therefore, did God bring down upon them the people of Europe, the Franks, Christians by religion (whom may Almighty God confound !), who began to oppress the Mahomedans, and to bring ruin amongst them ; being guilty of actions the most diabolical and infamous, such indeed as are beyond the power of description … seizing their ships ; defacing and treading under foot their archives and writings ; burning their records ; profaning the sanctuaries of their mosques ; ever striving to make the professors of Islamism apostates from their creed, and worshippers of their crucifixes, and seeking, by bribes of money, to induce them to this apostacy. … these Franks sallying forth in the directions of Guzerat, the Conkan, and Malabar, and towards the coast of Arabia, would there lie in wait for the purpose of intercepting vessels … How many noble Seids, too, and learned and worthy men, did they not imprison and persecute even unto death ! How many Moslems, both men and women, did they not compel to embrace Christianity !"
+      },
+      "note": "Compared with archive.org TohfutUlMujahideen, pp. 103-107 (Rowlandson 1833). The excerpt began \"On this account, therefore, did God bring down upon them the people of Europe\", where both \"this account\" and \"them\" pointed to a sentence that had been cut. Restored that sentence (\"Subsequently, however, they were guilty of ingratitude towards God ... divided into schisms.\") with the bracket [the Muslims of Malabar] (named in the sentence before it on the page), so the author's view that the Portuguese came as God's punishment is clear. The other cuts skip items in a list; meaning kept. Date as for zainuddin-1583-pepper-lands."
+    },
+    {
+      "id": "palacios-rubios-1513-requerimiento",
+      "verdict": "corrected",
+      "changes": {
+        "adapted": true,
+        "original": "Wherefore, as best we can, we ask and require you that you consider what we have said to you, and that you take the time that shall be necessary to understand and deliberate upon it, and that you acknowledge the Church as the Ruler and Superior of the whole world … and the high priest called Pope, and in his name the King and Queen Dona Juana our lords, in his place, as superiors and lords and kings of these islands and this Terra-firma by virtue of the said donation, and that you consent and give place that these religious fathers should declare and preach to you the aforesaid. If you do so, you will do well, and that which you are obliged to do to their Highnesses, and we in their name shall receive you in all love and charity, … But, if you do not do this, and maliciously … make delay in it, I certify to you that, with the help of Grod, we shall powerfully enter into your country, and shall make war against you in all ways and manners that we can, and shall subject you to the yoke and obedience of the Church and of their Highnesses ; we shall take you and your wives and your children, and shall make slaves of them, … and we protest that the deaths and losses which shall accrue from this are your fault, and not that of their Highnesses, or ours, nor of these cavaliers who come with us.",
+        "text": "Wherefore, as best we can, we ask and require you that you consider what we have said to you, and that you take the time that shall be necessary to understand and deliberate upon it, and that you acknowledge the Church as the Ruler and Superior of the whole world … and the high priest called Pope, and in his name the King and Queen Doña Juana our lords, in his place, as superiors and lords and kings of these islands and this Terra-firma by virtue of the said donation, and that you consent and give place that these religious fathers should declare and preach to you the aforesaid. If you do so, you will do well, and that which you are obliged to do to their Highnesses, and we in their name shall receive you in all love and charity, … But, if you do not do this, and maliciously make delay in it, I certify to you that, with the help of God, we shall powerfully enter into your country, and shall make war against you in all ways and manners that we can, and shall subject you to the yoke and obedience of the Church and of their Highnesses ; we shall take you and your wives and your children, and shall make slaves of them, … and we protest that the deaths and losses which shall accrue from this are your fault, and not that of their Highnesses, or ours, nor of these cavaliers who come with us.",
+        "sourceLine": "The Requerimiento (Requirement), drafted by the royal jurist Juan Lopez de Palacios Rubios for the Spanish Crown, to be read to Indigenous peoples before conquest, 1513 (adapted)"
+      },
+      "note": "Compared with archive.org spanishconquesti01helpuoft, pp. 381-382 (Helps, The Spanish Conquest in America, vol. 1, London: Parker, 1855). (1) The bracket \"[But if you refuse,]\" replaced the cut clause \"But, if you do not do this, and maliciously make delay in it, I certify to you that, with the help of God,\" (rule 5); restored it. The OCR reads \"Grod\" and puts the margin note \"The Requisition\" in mid-clause. I viewed the printed page (leaf n401, p. 382), which reads \"help of God\", so the document is now adapted: \"original\" has the OCR \"Grod\" and a \"…\" where the margin note falls; \"text\" has \"God\" and no ellipsis there, because no words are cut. (2) The first cut dropped the second half of the demand, that the hearers acknowledge \"the high priest called Pope, and in his name the King and Queen Doña Juana our lords ... as superiors and lords and kings of these islands\", and allow the friars to preach. Without it the demand reads as purely religious, so I restored it; the remaining \"…\" skips only Helps's Spanish gloss \"(por Señora y Superiora del universo mundo)\". \"Doña\" is as printed on p. 381 (OCR \"Dona\"). Added \"(adapted)\" to the sourceLine, as for the bank's other adapted documents. Attribution correct: p. 382 calls it the Requisition \"drawn up by the learned Doctor Palacios Rubios\"."
+    },
+    {
+      "id": "las-casas-1542-hispaniola",
+      "verdict": "corrected",
+      "changes": {
+        "text": "… they [the Indians] began to consider by what wayes and means they might expel the Spaniards out of their Countrey, and immediately took up Arms. But, good God, what Arms, do you imagin? Namely such, both Offensive and Defensive, as resemble Reeds wherewith Boys sport with one another, more than Manly Arms and Weapons. Which the Spaniards no sooner perceived, but they, mounted on generous Steeds, well weapon'd with Lances and Swords, begin to exercise their bloody Butcheries and Strategems, and overrunning their Cities and Towns, spar'd no Age, or Sex, nay not so much as Women with Child, but ripping up their Bellies, tore them alive in pieces. They laid Wagers among themselves, who should with a Sword at one blow cut, or divide a Man in two; or which of them should decollate or behead a Man, with the greatest dexterity; nay farther, which should sheath his Sword in the Bowels of a Man with the quickest dispatch and expedition. … and if at any time it hapned, (which was rarely) that the Indians irritated upon a just account destroy'd or took away the Life of any Spaniard, they promulgated and proclaim'd this Law among them, that One Hundred Indians should dye for every individual Spaniard that should be slain."
+      },
+      "note": "Compared with Gutenberg 20321 (the anonymous 1689 English translation \"Popery Truly Display'd\", from the 1552 Brevisima; preparer's note on the page). The excerpt began \"Which the Spaniards no sooner perceived\", where \"Which\" refers to the Indians taking up arms, a sentence that had been cut. Restored that passage from the page (\"they began to consider ... immediately took up Arms. But, good God, what Arms ... more than Manly Arms and Weapons.\") with the bracket [the Indians]. It also shows the contrast in weapons the author draws. Date and attribution correct."
+    },
+    {
+      "id": "diaz-1568-tlaxcala-alliance",
+      "verdict": "corrected",
+      "changes": {
+        "text": "Xicotencatl said, \"He came, in the name of his father, of Maxixcatzin, and of all the caziques of the republic of Tlascalla, to beg of us to admit them to our friendship: he, at the same time, in their name, came to do homage, and promise obedience to our emperor and master, and to beg forgiveness for having taken up arms against us. … Hard experience at length taught them who we were, and they now desired to become our friends, and the vassals of the great emperor Don Carlos; for, they were convinced, that in alliance with us, they would be able to live in security and peace with their wives and children, and not be each moment exposed to the incursions of the treacherous Mexicans.\" … He [Cortes] then continued to address them in a harsher tone of voice, and mentioned the repeated attacks they had made upon us. He would certainly bear them no malice, and freely forgave all the past, but they must sacredly observe the peace which he had granted them, and show no inconstancy in their conduct. If they did he would assuredly destroy their town and put all the inhabitants to the sword, …"
+      },
+      "note": "Compared with Gutenberg 32474 (Lockhart, vol. 1, 1844), ch. LXXIII. The bracket \"[Cortes answered that]\" stood in for cut source words (rule 5). Restored the source sentences \"He [Cortes] then continued to address them in a harsher tone of voice, and mentioned the repeated attacks they had made upon us. He would certainly bear them no malice, and freely forgave all the past, but\", keeping only a bracket naming Cortes. The first cut joins two speeches by Xicotencatl, as on the page. Date (written c. 1568, events of 1519) and translation correct."
+    },
+    {
+      "id": "diaz-1568-cholula",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Gutenberg 32474 (Lockhart, vol. 1, 1844), chapter on Cholula. The first segment is continuous on the page; the second is Diaz's later defence of the massacre against Las Casas (\"and, indeed, if we had not made an example here ...\"). The cut skips the aftermath, which does not change the meaning of either part. Attribution and date correct."
+    },
+    {
+      "id": "cortes-1520-second-letter-idols",
+      "verdict": "corrected",
+      "changes": {
+        "text": "In these chapels are the images of idols, although, as I have before said, many of them are also found on the outside; the principal ones, in which the people have greatest faith and confidence, I precipitated from their pedestals, and cast them down the steps of the temple, purifying the chapels in which they had stood, … In the place of these I put images of Our Lady and the Saints, which excited not a little feeling in Moctezuma and the inhabitants, who at first remonstrated, declaring that if my proceedings were known throughout the country, the people would rise against me; … Moctezuma and many of the principal citizens remained with me until I had removed the idols, purified the chapels, and placed the images in them, manifesting apparent pleasure; and I forbade them sacrificing human beings to their idols as they had been accustomed to do; because, besides being abhorrent in the sight of God, your sacred Majesty had prohibited it by law, and commanded to put to death whoever should take the life of another.",
+        "translation": "Translated by George Folsom, The Despatches of Hernando Cortes, 1843, as reprinted in Oliver J. Thatcher, ed., The Library of Original Sources, vol. 5, 1907, and modernized by J. S. Arkenberg for the Internet Modern History Sourcebook"
+      },
+      "note": "Compared with Fordham 1520cortes. The page credits Thatcher 1907 and adds \"The text has been modernized by Prof. Arkenberg\". I checked the wording against Folsom, Despatches of Hernando Cortes (1843; archive.org despatchesofhern00cort, pp. 116-117): it is the same translation, with Folsom's \"Muteczuma\" changed to \"Moctezuma\" and similar touches. Added the modernization to the credit. The excerpt began \"… the principal ones\", whose noun (idols) had been cut; restored the clause before it from the page, \"In these chapels are the images of idols, although, as I have before said, many of them are also found on the outside;\". Date 1520 correct (second letter, October 30, 1520)."
+    },
+    {
+      "id": "mayr-1505-kilwa",
+      "verdict": "corrected",
+      "changes": {
+        "text": "Immediately on their arrival the Grand-Captain, Dom Francisco d'Almeida, sent Bona Ajuta Veneziano to summon the king. … Then the captains, each in his best clothes, and full armour, went in his own boat to lie off the town in the hope that the king would decide to come out. The sheikh, however, sent a message to say that he could not come since he had guests, but, if required, he would send the tribute due to the King of Portugal. This message was brought by a party of five Moors, who were immediately seized. … As soon as the town had been taken without opposition, the Vicar-General and some of the Franciscan fathers came ashore carrying two crosses in procession and singing the Te Deum. They went to the palace, and there the cross was put down and the Grand-Captain prayed. Then everyone started to plunder the town of all its merchandise and provisions. … The fortress of Kilwa was built out of the best house there was there. All the other houses round it were pulled down. It was fortified and guns were set in place with everything else a fort needs. Pero Ferreira was left in command of it with eighty men.",
+        "translation": "Translated in Eric Axelson, South-East Africa 1488-1530, 1940, as reprinted in G. S. P. Freeman-Grenville, The East African Coast: Select Documents (London: Rex Collings), 1974, and given in the Internet Modern History Sourcebook"
+      },
+      "note": "Compared with Fordham 1505mayr (source: Axelson, South East Africa, 1940, pp. 231-238, quoted in Freeman-Grenville, 1974). The excerpt went from the seizing of the king's messengers straight to \"Then everyone started to plunder the town\", leaving out the landing and capture of the town, so \"Then\" was misleading. Restored the source sentence that comes just before \"Then everyone started\" on the page (\"As soon as the town had been taken without opposition, the Vicar-General and some of the Franciscan fathers came ashore ... and the Grand-Captain prayed.\"). Added the 1974 reprint year, which the page gives, to the credit."
+    },
+    {
+      "id": "mombasa-sultan-1505-letter-malindi",
+      "verdict": "corrected",
+      "changes": {
+        "text": "Now the King of Mombasa and the King of Malindi were at war, and many of their people had been killed on both sides, the cause of the war being the friendship of the King of Malindi with the King of Portugal. Eventually the King of Mombasa had been defeated by the King of Malindi, and for the present they were friends. So the King of Mombasa wrote the following letter to the King of Malindi: May God's blessing be upon you, Sayyid Ali! This is to inform you that a great lord has passed through the town, burning it and laying it waste. He came to the town in such strength and was of such cruelty, that he spared neither man nor woman, old nor young, nay, not even the smallest child. Not even those who fled escaped from his fury. He not only killed and burnt men but even the birds of the heavens were shot down. The stench of the corpses is so great in the town that I dare not go there; nor can I ascertain nor estimate what wealth they have taken from the town. I give you these sad news for your own safety.",
+        "translation": "Translated in Eric Axelson, South-East Africa 1488-1530, 1940, as reprinted in G. S. P. Freeman-Grenville, The East African Coast: Select Documents (London: Rex Collings), 1974, and given in the Internet Modern History Sourcebook"
+      },
+      "note": "Compared with Fordham 1505mayr. The cut removed \"Eventually the King of Mombasa had been defeated by the King of Malindi, and for the present they were friends.\", so the excerpt read \"they were at war ... So the King of Mombasa wrote ...\", a false link. Restored the sentence. The sourceLine already says the letter is as recorded by Hans Mayr. Credit: Axelson 1940 as quoted in Freeman-Grenville; added the 1974 year given on the page."
+    },
+    {
+      "id": "barbosa-1518-kilwa",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with archive.org bookofduartebarb0001mans, p. 18 (Dames, Hakluyt Society, 2nd series no. XLIV, issued for 1918; title page: \"completed about the year 1518\", which supports c. 1518). The cut skips a description of the Moors' dress and religion; meaning kept."
+    },
+    {
+      "id": "barbosa-1518-melinde",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with archive.org bookofduartebarb0001mans, pp. 22-23 (Dames 1918). The \"…\" between \"the Moors and\" and \"Heathen\" skips only footnotes and a page break; the other cuts skip description. The closing quoted variant reading, which Dames marks with quotation marks, is left out. Date as for barbosa-1518-kilwa."
+    },
+    {
+      "id": "malay-annals-1612-cannon-malacca",
+      "verdict": "corrected",
+      "changes": {
+        "text": "When the monsoon arrived, the capitan [captain of a Portuguese trading ship] returned to Goa, and reported to the vizier the greatness of Malaca, and its great population. Now the name of the great vizier was Alphonsus Albuquerco, and he began to covet it eagerly, when he heard how fine a country Malaca was. He accordingly ordered a fleet of seven ships and thirteen galleons to be fitted out ; and he appointed Gonsalvo Pereira to be captain-admiral to attack Malaca. When they reached Malaca they began to fire away with their cannon, and all the people of Malaca, were frightened when they heard the sound of their cannon, saying, “What sound is this like thunder ?” And the bullets came and struck the people who were on the land, and some had their necks severed, and some had their waists, and some their hands and their feet. The terror grew constantly worse and worse, and they said, “What is the name of this weapon which is so round ? It is not sharp, yet will it kill.”"
+      },
+      "note": "Compared with archive.org b29336600, pp. 324-325 (Leyden, Malay Annals, 1821, translator named on the title page). \"the capitan\" had no referent in the excerpt; the page just before introduces him as the captain of \"a Frangi vessel from Goa, to trade at Malaca\". Added the bracket [captain of a Portuguese trading ship]. Date c. 1612: the preface dates the compilation to AH 1021 (AD 1612). The Annals' version of events (Albuquerque sending \"Gonsalvo Pereira\") is the chronicle's own and is kept as it stands."
+    },
+    {
+      "id": "genoese-pilot-1524-cebu-mactan",
+      "verdict": "corrected",
+      "changes": {
+        "text": "… in this island [Cebu] Fernando de Magalhaes did what he pleased with the consent of the country, and in one day eight hundred people became Christian, on which account Fernan de Magalhaes desired that the other kings, neighbors to this one, should become subject to this who had become Christian: and these did not choose to yield such obedience. Fernan de Magalhaes seeing that, got ready one night with his boats, and burned the villages of those who would not yield the said obedience; … he sent to a village about half a league from that which he had burned, which is named Matam [Mactan], and which is also an island, and ordered them to send him at once three goats, three pigs, three loads of rice, and three loads of millet for provisions for the ships; they replied that of each article which he sent to ask them three of, they would send to him by twos, and if he was satisfied with this they would at once comply, if not, it might be as he pleased, but that they would not give it. Because they did not choose to grant what he demanded of them, Fernan de Magalhaes ordered three boats to be equipped with a matter of fifty or sixty men, and went against the said place, which was on the 28th day of April, in the morning; there they found many people, who might well be as many as three thousand or four thousand men, who fought with such a good will that the said Fernan de Magalhaes was killed there, with six of his men, in the year 1521."
+      },
+      "note": "Translation checked: Fordham credits only Thatcher 1907, but the text matches Stanley of Alderley, The First Voyage Round the World by Magellan (Hakluyt Society, 1874; archive.org firstvoyageround00piga, p. 12) word for word, so the credit is right. The bracket \"[the islanders]\" stood in for cut source words (rule 5); restored the full passage \"Because they did not choose to grant ... there they found many people, who might well be as many as three thousand or four thousand men, who fought ...\". \"this one\" (the king who became Christian) had no context, so started the excerpt at \"in this island [Cebu] Fernando de Magalhaes did what he pleased ... eight hundred people became Christian, on which account ...\" (the page calls the island \"Cabo\"). Added [Mactan] after \"Matam\". Date c. 1524: the page says the pilot \"went to Portugal in the year 1524\", so the narrative dates from then."
+    },
+    {
+      "id": "genoese-pilot-1524-tidore-cloves",
+      "verdict": "corrected",
+      "changes": {
+        "text": "As soon as they arrived at the island of Tydor, which is in half a degree, the King thereof did them great honor, which could not be exceeded: there they treated with the King for their cargo, and the King engaged to give them a cargo and whatever there was in the country for their money, … there arrived the King of Baraham, which is near there, and said that he wished to be a vassal of the King of Castile, and also that he had got four hundred bahars of cloves, and that he had sold it to the King of Portugal, and that they had bought it, but that he had not yet delivered it, and if they wished for it, he would give it all to them; to which the captains answered that if he brought it to them, and came with it, they would buy it, but otherwise not. The King, seeing that they did not wish to take the cloves, asked them for a flag and a letter of safe conduct, which they gave him, signed by the captains of the ships."
+      },
+      "note": "Compared with Fordham 1519magellan (Stanley 1874 translation; see genoese-pilot-1524-cebu-mactan). The cut removed the captains' answer (\"to which the captains answered that if he brought it to them, and came with it, they would buy it, but otherwise not.\"), which the next sentence (\"seeing that they did not wish to take the cloves\") depends on. Restored it. Date as for genoese-pilot-1524-cebu-mactan."
+    },
+    {
+      "id": "dieppe-relation-1617-dutch-banda",
+      "verdict": "corrected",
+      "changes": {
+        "adapted": true,
+        "original": "Two English ships coming to Banda, in course of trade and traffic, the Hollanders assaulted with certain of their ships, which English ships in their resistance and defense of the said Hollanders took, slew seven or eight of their men (whereof one was a chief factor), chained the captain, merchants, and mariners, and put the mariners into their galleys. All the munition and victuals in the said English ships did the Hollanders take out and carried the same ashore, challenging all to be theirs as their proper inheritance, and therefore will be lords of the same. … At Bantam the English and Hollanders had great disputes, insomuch as it was verily thought they would have fought together in the road, … but they fought not, for the governor of Bantam forbade them to fight in his road, and threatened them that if they did fight contrary to his command he would cut the throats of all their men that he should find upon the land.",
+        "text": "Two English ships coming to Banda, in course of trade and traffic, the Hollanders assaulted with certain of their ships, which English ships in their resistance and defense the said Hollanders took, slew seven or eight of their men (whereof one was a chief factor), chained the captain, merchants, and mariners, and put the mariners into their galleys. All the munition and victuals in the said English ships did the Hollanders take out and carried the same ashore, challenging all to be theirs as their proper inheritance, and therefore will be lords of the same. … At Bantam the English and Hollanders had great disputes, insomuch as it was verily thought they would have fought together in the road, … but they fought not, for the governor of Bantam forbade them to fight in his road, and threatened them that if they did fight contrary to his command he would cut the throats of all their men that he should find upon the land.",
+        "sourceLine": "Anonymous \"relation\" of Frenchmen who returned to France in a ship of Dieppe from the East Indies, on wrongs done by the Dutch to English traders there, 1617 (adapted)"
+      },
+      "note": "Fordham 1617englandindies credits Robinson, Readings in European History, vol. II (1906), pp. 333-335. I checked the printed page (archive.org readingsineurope02robiuoft, leaf n372, p. 335), which reads \"which English ships in their resistance and defense the said Hollanders took\": the Hollanders took the English ships. Fordham's transcription inserts \"of\" (\"defense of the said Hollanders\"), which garbles the sense. The document is now adapted: \"original\" keeps the page wording with \"of\", and \"text\" drops \"of\" to match the printed book. sourceLine: Robinson's heading reads \"A relation of the Frenchmen which lately arrived into France in a ship of Dieppe out of the East Indies ... (1617)\"; it does not call them sailors, so \"French sailors returned to Dieppe\" became \"Frenchmen who returned to France in a ship of Dieppe\". Original language and translator are not stated, which the credit says."
+    },
+    {
+      "id": "lebna-dengel-1526-letter-manuel",
+      "verdict": "corrected",
+      "changes": {
+        "year": 1522,
+        "sourceLine": "Lebna Dengel (King David), Christian emperor of Ethiopia, letter to King Manuel I of Portugal, written c. 1522 before news of Manuel's death (December 1521) reached Ethiopia, and carried back by the Portuguese embassy in 1526, as printed in Francisco Alvares's account of the embassy (1540)"
+      },
+      "note": "Compared with archive.org narrativeofportu00alvarich, pp. 389-395 (Stanley of Alderley, Hakluyt Society, 1881, named on the title page); the cuts keep the meaning. Date (flagged): the letter addresses Manuel as living. Alvares (ch. cxii, p. 299) records the arrival of letters announcing Manuel's death while the embassy was still in Ethiopia, between entries dated 1521 and 1526, and the emperor's separate letter to King John III (pp. 396-397) says he heard of Manuel's death \"before we had despatched his ambassadors\". So the Manuel letter was written between the embassy's arrival (1520) and that news (c. 1523), not in 1526, when it was carried back. Set year 1522 (c., the midpoint of 1520-1523) and reworded the sourceLine."
+    },
+    {
+      "id": "jahangir-1617-letter-james-i",
+      "verdict": "corrected",
+      "changes": {
+        "text": "When your Majesty shall open this letter let your royal heart be as fresh as a sweet garden. … Upon which assurance of your royal love I have given my general command to all the kingdoms and ports of my dominions to receive all the merchants of the English nation as the subjects of my friend; … and at what port soever they shall arrive, that neither Portugal nor any other shall dare to molest their quiet; and in what city soever they shall have residence, I have commanded all my governors and captains to give them freedom answerable to their own desires; to sell, buy, and to transport into their country at their pleasure. … For confirmation of our love and friendship, I desire your Majesty to command your merchants to bring in their ships of all sorts of rarities and rich goods fit for my palace; …",
+        "year": 1618,
+        "sourceLine": "Jahangir, Mughal emperor of India, letter to King James I of England, sent to the English ambassador Sir Thomas Roe from Ahmedabad, February 1618",
+        "translation": "Contemporary English version (a copy in Sir Thomas Roe's hand survives), translator not named; modernised text as printed in James Harvey Robinson, ed., Readings in European History, vol. 2, 1906"
+      },
+      "note": "Compared with Fordham 1617englandindies, with Robinson vol. II (1906) p. 334, and with Foster, The Embassy of Sir Thomas Roe, vol. II (Hakluyt Society 1899; archive.org embassysirthoma01fostgoog, pp. 557-558). (1) Fordham's transcription drops a line. Robinson and Roe's copy read \"that in what place soever they choose to live, they may have reception and residence to their own content and safety; and what goods soever they desire to sell or buy, they may have free liberty without any restraint\", but Fordham joins the start of this sentence to its end. So the excerpt's clause misstated the grant. I cut that clause (\"…\") rather than keep the garbled version. The remaining words are the same in Robinson and, spelling aside, in Roe's copy. (2) Date: Roe's note at the end of the letter (Foster p. 558) says it was \"sent to the Ambassador the 20 day feb. 1617[-18]\" from Ahmedabad. 1617 is the Old Style year, so I set year 1618 and changed the sourceLine to February 1618. (3) Translator: the English text survives in a copy in Roe's handwriting (Foster p. 557n); no translator is named, which the credit now says."
+    },
+    {
+      "id": "roe-1616-letter-quiet-trade",
+      "verdict": "corrected",
+      "changes": {
+        "text": "For a fort, at my first arrival I received it as very necessary; but experience teaches me we are refused it to our advantage. If he [the Mughal emperor] would offer me ten, I would not accept one. … A war and traffic are incompatible. By my consent, you shall no way engage yourselves but at sea, where you are like to gain as often as to lose. It is the beggaring of the Portugal, notwithstanding his many rich residences and territories, that he keeps soldiers that spends it; yet his garrisons are mean. He never profited by the Indies, since he defended them. Observe this well. It hath been also the error of the Dutch, who seek plantation here by the sword. … Let this be received as a rule that if you will profit, seek it at sea, and in quiet trade; for without controversy it is an error to affect garrisons and land wars in India."
+      },
+      "note": "Adapted: compared text with original word by word against archive.org embassysirthoma01fostgoog, pp. 343-344 (Foster, Embassy of Sir Thomas Roe, vol. II, 1899; letter to the East India Company dated 24 November 1616). Only spelling is modernised. \"If he would offer me ten\" has no referent in the excerpt: it is the Mughal emperor, who refused the fort. Added the bracket [the Mughal emperor] in \"text\"."
+    },
+    {
+      "id": "penn-1681-letter-lenape",
+      "verdict": "corrected",
+      "changes": {
+        "text": "Now this great God hath been pleased to make me concerned in your part of the world, and the king of the country where I live hath given me a great province therein, but I desire to enjoy it with your love and consent, that we may always live together as neighbours and friends; else what would the great God do to us? who hath made us not to devour and destroy one another, but to live soberly and kindly together in the world. Now I would have you well observe, that I am very sensible of the unkindness and injustice that hath been too much exercised towards you by the people of these parts of the world, who have sought themselves, and to make great advantages of you, rather than to be examples of justice and goodness unto you, which I hear hath been matter of trouble to you, and caused great grudgings and animosities, sometimes to the shedding of blood, which hath made the great God angry. But I am not such a man, as is well known in my own country. I have great love and regard towards you, and I desire to win and gain your love and friendship by a kind, just, and peaceable life, … I shall shortly come to you myself, at what time we may more largely and freely confer and discourse of these matters; in the mean time I have sent my commissioners to treat with you about land, and a firm league of peace."
+      },
+      "note": "Compared with CCEL primitivechristianity.vii (letter dated \"London, the 18th of the 8th month, 1681\", i.e. October 18, 1681, Old Style). (1) Removed a \"…\" between \"in the world.\" and \"Now I would\", where the page has no cut. (2) The second cut removed Penn's central contrast, \"But I am not such a man ... I desire to win and gain your love and friendship by a kind, just, and peaceable life\", so the excerpt went from European injustice straight to sending commissioners about land. Restored \"which I hear hath been matter of trouble ... peaceable life,\" and \"I shall shortly come to you myself, at what time we may more largely and freely confer and discourse of these matters;\", which \"in the mean time\" depends on. Written in English (translation null)."
+    },
+    {
+      "id": "powhatan-1609-speech-smith",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Gutenberg 56347 (Smith, Generall Historie, 1624, in the MacLehose 1907 reprint of the 1624 text). The excerpt joins two of Powhatan's speeches from the same January 1609 visit (\"Powhatans reply and flattery\" and \"Powhatans discourse of peace and warre\"), separated by narrative and marked by \"…\"; the last cut skips the \"Thinke you I am so simple\" passage. Meaning kept. The sourceLine says honestly that the speech is as recorded by Smith in 1624. Translation null is right, since the words are Smith's English rendering."
+    },
+    {
+      "id": "sidi-ali-reis-1557-gujarat-portuguese",
+      "verdict": "corrected",
+      "changes": {
+        "text": "… one of the nobles, Nasir-ul-Mulk, had refused to take the oath of allegiance, and had raised the banner of sovereignty on his own behalf. … called in the aid of the Governor of the Portuguese at Goa, promising that in return for his services the harbors on the coast of Gujarat, … should be thrown open to the Portuguese, while he would retire to the land of the interior. … One day, being at the house of Imad-ul-Mulk, I met the infidel [Portuguese] envoy, and our host addressed him in this way, \"We have need of the Sultan of Turkey. Our ships touch the ports of his Empire, and if we were not free to do so, it would be bad for us. Moreover, he is the Padishah of the Islamitic world, and it is not seemly that we should be expected to deliver up his Admiral to you.\"",
+        "translation": "Translated by A. Vambery, The Travels and Adventures of the Turkish Admiral Sidi Ali Reis (London: Luzac), 1899, as reprinted without the translator's name in Charles F. Horne, ed., The Sacred Books and Early Literature of the East, vol. 6, 1917"
+      },
+      "note": "Fordham 16CSidi1 credits only Horne 1917. Compared it with Vambery's 1899 translation (archive.org india.history.resource.111193; title page \"Translated from the Turkish, with notes, by A. Vambery. London: Luzac & Co. 1899\"): the Nasir-ul-Mulk passage and Imad-ul-Mulk's speech are word for word the same. So the translator is established (flagged item) and named in the credit. Added [Portuguese] after \"the infidel\", because the excerpt cut the earlier passage where the Portuguese demand his surrender. Date: The Mirror of Countries, 1557, on events of 1554 (AH 961-962), correct."
+    },
+    {
+      "id": "xahila-1559-plague",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Gutenberg 20775 (Brinton, Annals of the Cakchiquels, 1885), sec. 127-130. Cuts skip intervening year entries and deaths; meaning kept. Authorship (flagged): Brinton (introduction, pp. 57-58) believed the part he prints, to 1559, was written by the father of Francisco Hernandez Arana, while the Gutenberg header names Arana. The sourceLine avoids the dispute by saying it was written by a family member who lived through the events, which both views support. Year 1559 / \"written before 1560\" rests on Brinton: 1559 is the last entry with the author's \"you my children\"."
+    },
+    {
+      "id": "xahila-1559-gold-tribute",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Gutenberg 20775 txt, sec. 165-166 and 177 (Brinton 1885). The brackets [Pedro de Alvarado] for Tunatiuh and [Alonso López de Cerrato] for \"President Cerrado\" are correct identifications that clarify names, which rule 5 allows (Tonatiuh was the Nahua name for Alvarado; Cerrato became president of the Audiencia of Guatemala in 1548). Cuts skip entries; the sourceLine gives the span \"c. 1530-1548\". Date and authorship as for xahila-1559-plague."
+    },
+    {
+      "id": "xahila-1559-nobles-alcaldes",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Gutenberg 20775, sec. 183-184 (Brinton 1885): Philip II's accession (1556), the Ramirez tribute order, the Doctrina, and the alcaldes of 1557. Cuts skip dates and the Lacandon raid; meaning kept. The \"Note by a later writer\" is on the page. Date and authorship as for xahila-1559-plague."
+    },
+    {
+      "id": "chilam-balam-tizimin-1600-katuns",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Maya chronicle of the katuns (twenty-year periods) from the Book of Chilam Balam of Tizimin, a community record kept in Yucatec Maya by unnamed Maya scribes; the book is dated by its editor to about 1600, and this chronicle's last entries are for 1610 and 1611"
+      },
+      "note": "Compared with Gutenberg 20205 (Brinton, The Maya Chronicles, 1882), \"The Series of the Katuns\", sec. 13-21; text correct. Date (flagged): Brinton says this book \"appears to have been written about the close of the sixteenth century\", which supports year 1600 as an estimate. But the same chronicle on the page continues to \"22. 1610; this year those of Tekax were hanged. 23. 1611; ...\", so \"late sixteenth century\" was not accurate for the text as preserved. Brinton notes that the copyists added current items. Kept year 1600 and changed the sourceLine to give both facts."
+    },
+    {
+      "id": "nakuk-pech-1562-hidalgos",
+      "verdict": "corrected",
+      "changes": {
+        "text": "…I, Nakuk Pech, was taken and given to Don Julian Doncel the Encomendero, the first lord of the town Chac Xulub Chen, the first Encomendero, and my hand was given him by the captain Don Francisco de Montejo, and I was given for a chief to Don Julian Doncel, in his hand, and I began to take tribute for the holy fathers. … when I entered the water and received baptism, I was called Don Pablo Pech; and I ceased to be called Nakuk Pech; we first … chiefs were created hidalgos by the captains when possession was first taken of this province, and we first paid tribute to the foreigners, and possession was given to us by God and the ruling king; and our descendants are hidalgos, and all our sons, until the time shall come when the world shall end … and I was also the first to receive the rod of the justicia, because I went to aid the Word of God and our great Lord the ruling king …"
+      },
+      "note": "Compared with Gutenberg 20205 (Brinton 1882), Chronicle of Chac Xulub Chen, sec. 8-9. Brinton dates it \"about 1562\" (p. 189), which matches the year. \"[we first]\" put source words in brackets, as if an editor had added them. The page reads \"we first [222]chiefs\", where [222] is the print page number, so I made it \"we first … chiefs\", the bank's convention for skipping a page number. Added a closing \"…\" because the excerpt ends mid-sentence. No words changed."
+    },
+    {
+      "id": "diaz-del-castillo-1568-smallpox",
+      "verdict": "corrected",
+      "changes": {
+        "translation": "Translated by John Ingram Lockhart, The Memoirs of the Conquistador Bernal Diaz del Castillo, vol. 1, 1844"
+      },
+      "note": "Compared with Gutenberg 32474 (images), pp. 332 and 376-377 of Lockhart vol. 1. Both segments are exact. Lockhart is loose (flagged): \"before they had the blessing of being received into the bosom of the Christian church\" expands Diaz's \"sin ser cristianos\", but the meaning matches. Only change: added \"vol. 1\" to the credit, to match the other Lockhart documents."
+    },
+    {
+      "id": "hariot-1588-sickness",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Adapted: compared text with original word by word against Gutenberg 4247 (the 1590 de Bry edition of the 1588 Briefe and True Report). Only spelling is modernised (\"preswaded\" to \"persuaded\", \"&\" to \"and\", etc.). The bracket [chief] after \"Wiroans\" clarifies the word. The cuts drop Hariot's parenthesis on winning the people \"by gentlenesse\" and a clause on where the deaths happened; meaning kept. Year 1588 is the first edition; the page reproduces the 1590 printing of the same text."
+    },
+    {
+      "id": "bradford-1634-smallpox",
+      "verdict": "corrected",
+      "changes": {
+        "original": "This spring, also, those Indeans that lived aboute their trading house there fell sick of ye small poxe, and dyed most miserably; for a sorer disease cannot befall them; they fear it more then ye plague; for usualy they that have this disease have them in abundance, and for wante of bedding & lin̅ing and other helps, they fall into a lamentable condition, as they lye on their hard matts, ye poxe breaking and mattering, and runing one into another, their skin cleaving (by reason therof) to the matts they lye on … and then being very sore, what with could and other distempers, they dye like rotten sheep. … But those of ye English house, (though at first they were afraid of ye infection,) yet seeing their woefull and sadd condition, and hearing their pitifull cries and lamentations, they had compastion of them, and dayly fetched them wood & water, and made them fires, gott them victualls whilst they lived, and buried them when they dyed. For very few of them escaped, notwithstanding they did what they could for them, to ye haszard of them selvs. The cheefe Sachem him selfe now dyed, & allmost all his freinds & kinred. But by ye marvelous goodnes & providens of God not one of ye English was so much as sicke, or in ye least measure tainted with this disease, though they dayly did these offices for them for many weeks togeather.",
+        "text": "This spring, also, those Indians that lived about their trading house there fell sick of the small pox, and died most miserably; for a sorer disease cannot befall them; they fear it more than the plague; for usually they that have this disease have them in abundance, and for want of bedding and linen and other helps, they fall into a lamentable condition, as they lie on their hard mats, the pox breaking and mattering, and running one into another, their skin cleaving (by reason thereof) to the mats they lie on … and then being very sore, what with cold and other distempers, they die like rotten sheep. … But those of the English house, (though at first they were afraid of the infection,) yet seeing their woeful and sad condition, and hearing their pitiful cries and lamentations, they had compassion of them, and daily fetched them wood and water, and made them fires, got them victuals whilst they lived, and buried them when they died. For very few of them escaped, notwithstanding they did what they could for them, to the hazard of themselves. The chief Sachem himself now died, and almost all his friends and kindred. But by the marvellous goodness and providence of God not one of the English was so much as sick, or in the least measure tainted with this disease, though they daily did these offices for them for many weeks together."
+      },
+      "note": "Adapted: compared text with original against Gutenberg 24950 (images), Anno 1634. The existing modernisation is spelling only (\"lin̅ing\" = linning, i.e. linen; \"could\" = cold). The second cut removed the passage where the English at the trading house nursed the sick, so the closing \"though they daily did these offices for them\" had no referent. Restored it (\"But those of ye English house ... to ye haszard of them selvs.\") in \"original\", copied from the page (the page HTML has \"&amp;\" in \"wood & water\"), and modernised only the spelling in \"text\". Year 1634 is the entry year; the sourceLine also says the history was written c. 1640s."
+    },
+    {
+      "id": "winthrop-1633-smallpox",
+      "verdict": "corrected",
+      "changes": {
+        "text": "A great mortality among the Indians. Chickatabot, the sagamore of Naponsett, died, and many of his people. The disease was the small pox. … John Sagamore died of the small pox, and almost all his people; (above thirty buried by Mr. Maverick … of Winesemett in one day). The towns in the bay took away many of the children; but most of them died soon after. … Divers of them, in their sickness, confessed that the Englishmen's God was a good God; and that, if they recovered, they would serve him. … Hall and the two others, who went to Connecticut November 3, came now home, having lost themselves and endured much misery. They informed us, that the small pox was gone as far as any Indian plantation was known to the west, and much people dead of it, by reason whereof they could have no trade. At Naragansett, by the Indians' report, there died seven hundred; but, beyond Pascataquack, none to the eastward."
+      },
+      "note": "Compared with archive.org winthropsjournal00wint (Hosmer's edition, vol. 1), pp. 111-118. The last segment began \"They informed us\", whose referent had been cut; restored the source sentence \"Hall and the two others, who went to Connecticut November 3, came now home, having lost themselves and endured much misery.\" The \"…\" after \"Mr. Maverick\" skips only a page break and running head. Dates (November 1633 to January 20, 1634) correct."
+    },
+    {
+      "id": "las-casas-1552-depopulation",
+      "verdict": "corrected",
+      "changes": {
+        "text": "The Spaniards first assaulted the innocent Sheep, so qualified by the Almighty, as is premention'd, like most cruel Tygers, Wolves and Lions hunger-starv'd, studying nothing, for the space of Forty Years, after their first landing, but the Massacre of these Wretches … that of Three Millions of Persons, which lived in Hispaniola itself, there is at present but the inconsiderable remnant of scarce Three Hundred. Nay the Isle of Cuba, which extends as far, as Valledolid in Spain is distant from Rome, lies now uncultivated, like a Desert, and intomb'd in its own Ruins. … The Lucayan Islands on the North Side, adjacent to Hispaniola and Cuba, which are Sixty in number, or thereabout, … is now laid waste and uninhabited; and whereas, when the Spaniards first arriv'd here, about Five Hundred Thousand Men dwelt in it, they are now cut off, some by slaughter, and others ravished away by Force and Violence, to work in the Mines of Hispanioloa [Hispaniola], which was destitute of Native Inhabitants …"
+      },
+      "note": "Compared with Gutenberg 20321 (images), Preface of the 1689 translation. After \"Cuba ... intomb'd in its own Ruins. …\" the excerpt went on \"whereas, when the Spaniards first arriv'd here, about Five Hundred Thousand Men dwelt in it\", so the 500,000 seemed to be Cuba's. On the page they are the Lucayan Islands' (the Bahamas). Restored \"The Lucayan Islands on the North Side, adjacent to Hispaniola and Cuba, which are Sixty in number, or thereabout, … is now laid waste and uninhabited; and\"; the new \"…\" skips a list of other islands. Added a closing \"…\" because the excerpt ends mid-sentence. Attribution, dates and the credit (translator not named) correct."
+    },
+    {
+      "id": "garcilaso-1609-cattle",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with archive.org firstpartofroyal02vega, Book IX ch. XVII, pp. 470-471 (Markham, Hakluyt Society, vol. II, M.DCCC.LXXI = 1871). Cuts skip names and anecdotes; meaning kept. Published Lisbon 1609; correct."
+    },
+    {
+      "id": "acosta-1590-livestock-hides",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Adapted: compared text with original word by word against archive.org naturalmoralhist01acos, Book IV ch. xxxiii, pp. 270-271 (Grimston 1604, ed. Markham, Hakluyt Society, vol. I, MDCCCLXXX = 1880). Only spelling is modernised, and the bracket [cattle] clarifies \"kine\". Cuts keep the meaning."
+    },
+    {
+      "id": "martyr-1510-hispaniola-food",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Gutenberg 12425 (MacNutt 1912, vol. 1). The passage is in the First Decade, Book X (\"and Epilogue to the Decade\"), continuous, with no cuts. Date c. 1510: in Book X Martyr says he is narrating \"the principal events between the years 1500 and 1510\", and the First Decade was first printed in 1511, so c. 1510 is reasonable."
+    },
+    {
+      "id": "pigafetta-lopes-1591-maize-kongo",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Adapted: compared text with original against archive.org areportkingdomc00hutcgoog, p. 67 (Hutchinson, 1881; title page \"By Filippo Pigafetta, in Rome, 1591\"). The changes are long-s readings by the OCR (\"beft\" for best, \"alfo\" for also), which rule 6 allows, and the bracket [wheat] clarifying \"corn\". The cut skips the sentence saying the grains came from the Nile; meaning kept."
+    },
+    {
+      "id": "gerard-1636-maize",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "John Gerard, English herbalist and gardener, The Herball or Generall Historie of Plantes (first published 1597), chapter \"Of Turkie Corne\", from Thomas Johnson's enlarged edition (1633, reprinted 1636) as abridged by Marcus Woodward, Gerard's Herball, 1927"
+      },
+      "note": "Compared with archive.org gerardsherball0000gera, pp. 25-26. This is Marcus Woodward's selection \"distilled ... from the Edition of Th. Johnson, 1636\" (1927; this scan is the 1964 reprint). Woodward says \"No word has been altered, though all that is tedious or gross has been omitted\", so the excerpt may contain unmarked cuts. The sourceLine did not say so, and said Johnson revised the text \"for the 1636 edition\"; his enlarged edition appeared in 1633 and was reprinted in 1636. Corrected the sourceLine. Year 1636 kept, as the printing used. \"[T]hese\": I viewed the page image (leaf n48), where the chapter opens with a large printed initial T that the OCR dropped; the bracket supplies that printed letter. Text otherwise exact."
+    },
+    {
+      "id": "james-i-1604-tobacco",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Adapted: compared text with original word by word against Gutenberg 17008 (Goldsmid 1884 reprint of the 1604 edition \"Imprinted at London by R.B. Anno 1604\"). Only spelling is modernised (e.g. \"vs\" to \"us\", \"Stigian\" to \"Stygian\"); [J] in \"original\" is the reprint's footnote marker. Cuts keep the meaning; \"whereof\" refers to tobacco-taking. Published anonymously in 1604 and known to be by James I."
+    },
+    {
+      "id": "hawks-1572-cattle-maize",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Henry Hawks, English merchant who lived five years in New Spain, report on New Spain written at the request of Richard Hakluyt of Eyton, Herefordshire (the elder Hakluyt, a lawyer, cousin of the editor of the Principal Navigations), 1572 (adapted)"
+      },
+      "note": "Adapted: compared text with original word by word against Gutenberg 40803 (Hakluyt, Principal Navigations, ed. Goldsmid, vol. XIV): only spelling modernised (\"Maiz\" to \"Maize\", \"then ours\" to \"than ours\"); cuts keep the meaning. sourceLine: the heading on the page says Hawks drew up the relation \"at the request of M. Richard Hakluyt Esquire of Eton in the county of Hereford, 1572\", i.e. the elder Richard Hakluyt, the lawyer of Eyton. In 1572 the younger Hakluyt, compiler of the Principal Navigations and author of the 1584 Discourse in this bank, was about 19. \"written for Richard Hakluyt\" invited confusing the two, so I named him precisely."
+    },
+    {
+      "id": "ligon-1657-barbados-plantation",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Gutenberg 70489 (Ligon, A True & Exact History, London: Humphrey Moseley, 1657). Cuts skip buildings, the purchase terms and a list of fruits; the closing sentence is complete. The brackets [sugar mill] and [donkeys] clarify words. The role is correct: Ligon managed the plantation with Colonel Modyford for about three years from 1647."
+    },
+    {
+      "id": "gandavo-1576-settlers-slaves",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Pero de Magalhães de Gândavo, Portuguese writer who had lived in Brazil, History of the Province of Santa Cruz (Brazil), 1576",
+        "text": "…there are many others who are scattered about on the sugar mills and ranches, here [in Pernambuco] as in the other Captaincies, all the surrounding territory being settled. … for the inhabitants are much favoured and aided by the Indians of the land from among whom they get an infinite number of slaves with whom they work their farms. … The first thing they try to obtain is slaves to work the farms; and any one who succeeds in obtaining two pairs or a half-dozen of them (although he may not have another earthly possession) has the means to sustain his family in a respectable way; for one fishes for him, another hunts for him, and the rest cultivate and till his fields, and consequently there is no expense for the maintenance of his slaves or of his household. … one may infer how very extensive are the estates of those who own two hundred or three hundred slaves, for there are many colonists who have that number or more."
+      },
+      "note": "Compared with archive.org historiesofbrazi02ganduoft, pp. 33-34 and 41 (Stetson, Cortes Society, vol. II, 1922; History printed 1576). \"here\" pointed to Paranambuco (Pernambuco), named in a sentence the excerpt cuts; added the bracket [in Pernambuco]. Role: the edition's introduction describes him as a writer who went to Brazil and stayed long enough to collect his material; it names no office, so \"Portuguese official\" became \"Portuguese writer who had lived in Brazil\". The \"…\" before \"one may infer\" skips a footnote marker and \"From this,\"."
+    },
+    {
+      "id": "philips-1582-hawkins-slave-raid",
+      "verdict": "corrected",
+      "changes": {
+        "original": "… passing the time vpon the coast of Guinea, until the twelfth of Ianuary, we obteined by that time the number of 150. Negros. And being ready to depart from the Sea coast, there was a Negro sent as an Ambassadour to our Generall, from a King of the Negros, which was oppressed with other Kings his bordering neighbours, desiring our Generall to grant him succour and ayde against those his enemies, which … our Generall granted vnto, and went himselfe in person a lande … and the said King which had requested our ayde, did ioyne his force with ours, so that thereby our Generall assaulted, and set fire vpon a Towne of the said King his enemies, in which there was at the least the number of eight or ten thousand Negros … there were taken prisoners to the number of eight or nine hundreth, which our Generall ought to haue had for his share: howbeit the Negro King which requested our ayde, falsifying his word and promise, secretly in the night conueyed himselfe away with as many prisoners as he had in his custodie: but our Generall notwithstanding finding himselfe to haue nowe very neere the number of 500. Negros thought it best without longer abode to depart with them, and such marchandize as hee had from the coast of Africa, towards the West Indies …",
+        "text": "… passing the time upon the coast of Guinea, until the twelfth of January, we obtained by that time the number of 150. Negroes. And being ready to depart from the Sea coast, there was a Negro sent as an Ambassador to our General, from a King of the Negroes, which was oppressed with other Kings his bordering neighbours, desiring our General to grant him succour and aid against those his enemies, which … our General granted unto, and went himself in person a land … and the said King which had requested our aid, did join his force with ours, so that thereby our General assaulted, and set fire upon a Town of the said King his enemies, in which there was at the least the number of eight or ten thousand Negroes … there were taken prisoners to the number of eight or nine hundred, which our General ought to have had for his share: howbeit the Negro King which requested our aid, falsifying his word and promise, secretly in the night conveyed himself away with as many prisoners as he had in his custody: but our General notwithstanding finding himself to have now very near the number of 500. Negroes thought it best without longer abode to depart with them, and such merchandise as he had from the coast of Africa, towards the West Indies …"
+      },
+      "note": "Adapted: compared text with original against Gutenberg 40803 (Hakluyt, ed. Goldsmid, vol. XIV), Philips's discourse ch. 1, pp. 188-189; the modernisation is spelling only. (1) The cut \"for his share … but our General notwithstanding\" removed the reason Hawkins did not get his share (\"howbeit the Negro King which requested our aid, falsifying his word and promise, secretly in the night conveyed himself away with as many prisoners as he had in his custody:\"), which \"notwithstanding\" depends on; restored it. (2) \"the Sea coast\" had no referent; restored the sentence before it (\"passing the time upon the coast of Guinea, until the twelfth of January, we obtained by that time the number of 150. Negroes.\"). (3) Added a closing \"…\" because the excerpt ends mid-sentence. The \"…\" after \"which\" skips only page number 189."
+    },
+    {
+      "id": "hawks-1572-mines-labor",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Henry Hawks, English merchant who lived five years in New Spain, report on New Spain written at the request of Richard Hakluyt of Eyton, Herefordshire (the elder Hakluyt, a lawyer, cousin of the editor of the Principal Navigations), 1572 (adapted)"
+      },
+      "note": "Adapted: compared text with original word by word against Gutenberg 40803: only spelling modernised (\"there meanes\" to \"their means\", \"kings quinto\" to \"king's quinto\"); cuts skip the mine owners' households and the list of mining equipment; meaning kept. sourceLine: the heading on the page says Hawks drew up the relation \"at the request of M. Richard Hakluyt Esquire of Eton in the county of Hereford, 1572\", i.e. the elder Richard Hakluyt, the lawyer of Eyton. In 1572 the younger Hakluyt, compiler of the Principal Navigations and author of the 1584 Discourse in this bank, was about 19. \"written for Richard Hakluyt\" invited confusing the two, so I named him precisely."
+    },
+    {
+      "id": "las-casas-1552-encomienda",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Gutenberg 20321 (images), section on Hispaniola. Cuts skip Las Casas's comment on the masters' vices and the details of starvation; meaning kept. Attribution, dates and credit correct (the 1689 translation names no translator)."
+    },
+    {
+      "id": "garcilaso-1609-caste-names",
+      "verdict": "corrected",
+      "changes": {
+        "text": "One of the chief things that have happened in the Indies, which must not be forgotten, is the introduction of Negroes, whom the Spaniards have brought there as slaves to work for them ; for there were none in my country before the conquest. From these two races others have arisen, mixed in various ways, and they have given them different names for distinction. … The sons of a Spanish man and woman, born in the country, are called Creoles, which means that they are born in the country. … Thus both Spaniards and Negroes born in the Indies are called Creoles. … The sons of a Spaniard by an Indian woman, or of an Indian by a Spanish woman are called Mestizos, which means that we are a mixture of both nations. It was adopted by the first Spaniards who had children by Indian women; and, being a name given by our parents, I call myself by it with open mouth, and pride myself upon it. But the Indians look upon it as an insult, if anyone calls them Mestizos. … The son of a Spaniard and a Mestiza, or of a Mestizo and a Spanish woman, is called Quatralvo, meaning that he is three parts Spanish and one Indian. … All these names, and others which I do not mention to avoid being tedious, have been invented in my country to designate the generations that have risen up since the arrival of the Spaniards; and we may say that the Spaniards brought them with the other things, as they were not there before."
+      },
+      "note": "Compared with archive.org india.history.resource.85882 (Markham, Royal Commentaries vol. II, Book IX ch. XXXI, pp. 502-504; Hakluyt Society 1871). The excerpt kept only \"Mestizos\" and then closed with \"All these names, and others which I do not mention ... have been invented\", which had nothing to refer to, because every other name had been cut. Restored, from the same chapter, \"From these two races others have arisen ... different names for distinction\", the Creole definition and \"Thus both Spaniards and Negroes born in the Indies are called Creoles\", and the Quatralvo definition. I skipped the sentences where the OCR is unreliable (\"Mulaito\", \"Meéstizo\", \"Montafies\"). Attribution, date and translation correct."
+    },
+    {
+      "id": "gage-1648-creoles",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Gutenberg 54425 (Gage, The English-American, London 1648), ch. IV, p. 9-10 of the edition. Cuts skip Gage's anti-Spanish aside and lists of offices; \"this deadly hatred\" follows from \"two sorts of Spaniards more opposite one to another\". The sourceLine's role (Dominican in Mexico and Guatemala 1625-1637, later Protestant, writing for an anti-Spanish English readership) is correct."
+    },
+    {
+      "id": "vazquez-de-espinosa-1628-cuzco-population",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with archive.org smithsonianmisce1021942smit, sec. 1599, pp. 597-598 (Clark, Smithsonian Misc. Coll. vol. 102, 1942). The first \"…\" cuts only \"here called Montañeses\" (OCR \"Montafieses\"); the second skips only the page break and running head (flagged). Clark's introduction says the work was \"written in 1628 or 1629\" (corrected 1629), and that Vazquez travelled between Mexico (1612) and Peru and returned to Spain about 1622; this supports the sourceLine and year."
+    },
+    {
+      "id": "juan-ulloa-1748-quito-classes",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with archive.org voyagetosouthame00ullo, Book V ch. V, pp. 261-262 (John Adams's translation, fourth edition, vol. I, London: Stockdale, 1806; first English edition 1758; Spanish original 1748). Cuts keep the meaning. The credit matches the edition."
+    },
+    {
+      "id": "philips-1582-overseers-mexico",
+      "verdict": "corrected",
+      "changes": {
+        "original": "The gentlemen that thus tooke vs for their seruants or slaues, did new apparell vs through out, with whom we abode, doing such service as they appointed vs vnto, which was for the most part to attend vpon them at the table … for in that countrey no Spaniard will serue one another, but they are all of them attended and serued by Indians weekly, and by Negroes which be their slaues during their life. … Afterwards many of vs were by our masters appointed to go to sundry of their Mines where they had to doe, and to be as ouerseers of the Negroes and Indians that laboured there. In which mines many of vs did profite and gaine greatly: for first we were allowed three hundred Pezos a man for a yeere, which is threescore pound sterling and besides that the Indians and Negroes which wrought vnder our charge, vpon our well using and intreating of them, would at times as vpon Saturdayes when they had left worke, labour for vs, and blow as much siluer as should be worth vnto vs 3 markes or there abouts … Sundry weeks we did gaine so much by this means besides our wages, that many of vs became very rich, and were worth three thousand, or foure thousand Pezos …",
+        "text": "The gentlemen that thus took us for their servants or slaves, did new apparel us throughout, with whom we abode, doing such service as they appointed us unto, which was for the most part to attend upon them at the table … for in that country no Spaniard will serve one another, but they are all of them attended and served by Indians weekly, and by Negroes which be their slaves during their life. … Afterwards many of us were by our masters appointed to go to sundry of their Mines where they had to do, and to be as overseers of the Negroes and Indians that laboured there. In which mines many of us did profit and gain greatly: for first we were allowed three hundred Pesos a man for a year, which is threescore pound sterling and besides that the Indians and Negroes which wrought under our charge, upon our well using and entreating of them, would at times as upon Saturdays when they had left work, labour for us, and blow as much silver as should be worth unto us 3 marks or thereabouts … Sundry weeks we did gain so much by this means besides our wages, that many of us became very rich, and were worth three thousand, or four thousand Pesos …"
+      },
+      "note": "Adapted: compared text with original against Gutenberg 40803, Philips's discourse, p. 208; the modernisation is spelling only. The last sentence (\"Sundry weeks we did gain so much by this means besides our wages\") pointed to \"this means\" and \"our wages\", both cut. Restored them from the page: the wage of 300 pesos a year and the Indians and Africans under their charge working for them on Saturdays. The currency conversion that follows is cut with \"…\". Added a closing \"…\" because the excerpt ends mid-sentence."
+    },
+    {
+      "id": "gage-1648-mulatta-dress",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Gutenberg 54425, ch. on Mexico City; one continuous passage with no cuts. Attribution correct."
+    },
+    {
+      "id": "vazquez-de-espinosa-1628-free-colored-militia",
+      "verdict": "corrected",
+      "changes": {
+        "text": "The city [Cartagena] contains more than 1,500 Spanish residents, not counting mestizos, mulattoes, free Negroes and other categories, and the population is increasing … There is another company of free creole colored men, with a Captain appointed by His Majesty and 600 soldiers, as good as Spaniards and in their very image. These are employed in the handling of the artillery and other matters in His Majesty’s service, like trench and fascine work. … [In Lima] there are 32 municipal companies, not counting 22 appointed by the Viceroy to enroll men … and there are 3 of mulattoes and 2 of free Negroes, persons who are necessary and important for the work …"
+      },
+      "note": "Compared with archive.org smithsonianmisce1021942smit, sec. 912 and 915 (Cartagena, pp. 309-310) and p. 457 (Lima defences, \"information arriving from Lima this present year, 1629, and written in 1627\"). Added [Cartagena] after \"The city\", which the excerpt never named, and a closing \"…\" because the excerpt ends mid-sentence. \"[In Lima]\" is a correct clarifying bracket: the companies are raised by \"the city's residents\" and the Viceroy at Lima. Date as for the Cuzco excerpt."
+    },
+    {
+      "id": "erauso-1626-mestiza-widow",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Catalina de Erauso, Basque woman who fled a convent and lived as a man, serving as a soldier in Peru and Chile, memoir attributed to her, c. 1626 (authorship and date disputed: her 1908 translator thought another hand pieced it together from her own accounts; first printed 1829)",
+        "text": "The lady was a half-breed, the daughter of a Spaniard and an Indian woman. She was a widow, a good-natured soul, who seeing me and hearing of my calamity and misery, took pity on me and received me kindly. … and had vast herds and flocks; and as, apparently, few Spaniards ever pass that way, it seems that she cast her eye on me for her daughter. … A few days later she gave me to understand that she would be willing for me to marry a daughter of hers who lived there with her, and who was very black and as ugly as the devil — the very opposite of my taste, which has always been for pretty faces. I vowed myself enchanted at a condescension so undeserved, and fell at her feet, declaring that she might command me as a creature of hers snatched from destruction. I continued to serve her to the best of my powers. She dressed me out like a beau, and confidingly entrusted me with her house and belongings."
+      },
+      "note": "Compared with archive.org nunensign00erauuoft, ch. VII, pp. 45-47 (Fitzmaurice-Kelly, London: Fisher Unwin, MCMVIII = 1908). (1) Authenticity (flagged): the translator writes that \"we have no evidence as to when, or by whom, the Historia was written\", reports Serrano y Sanz's view that it is a forgery, and concludes it is \"mainly pieced together by some deft hand from the genuine Relaciones\" of Erauso. It was first printed by Ferrer in 1829 (pp. xxxiii-xxxix). The sourceLine now says so instead of implying a dated memoir; c. 1626 is kept as the date of her own accounts, which end with her 1626 stay in Rome. Under rule 4 it is a borderline case; I kept it because the edition judges it based on her first-hand accounts. (2) The cut after \"who was very black\" removed \"and as ugly as the devil — the very opposite of my taste, which has always been for pretty faces.\". Without it, \"I vowed myself enchanted\" reads as sincere, when the narrator is pretending; restored it. The racist language is the source's own."
+    },
+    {
+      "id": "philip-ii-1565-conqueror-son",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Fordham 17C-spanishbios (source: Hackett, Historical Documents Relating to New Mexico..., Carnegie Institution, 1923, vol. 1). The cedula is dated \"Madrid, April 1, 1565. I THE KING.\" Cuts skip the list of Bernal Diaz's campaigns and the Council's grant of 300 pesos; meaning kept. Fordham's own bracket \"[But he wanted even more!]\" is not in the excerpt."
+    },
+    {
+      "id": "charles-v-1542-new-laws",
+      "verdict": "confirmed",
+      "changes": {},
+      "note": "Compared with Fordham 1542newlawsindies (source: The New Laws of the Indies, ed. Henry Stevens, London: Chiswick Press, 1893). Cuts skip the pearl-fishery provisions for the bishop and judge and a list of ways of transferring encomiendas; the remaining clauses keep their sense. The New Laws were issued in 1542 (Barcelona, November 20); attribution to Charles V (Charles I of Spain) is correct."
+    },
+    {
+      "id": "vazquez-de-espinosa-1628-potosi-mita",
+      "verdict": "corrected",
+      "changes": {
+        "text": "These Indians [drafted for the mita] are sent out every year under a captain whom they choose in each village or tribe, for him to take them and oversee them for the year each has to serve; every year they have a new election, for as some go out, others come in. This works out very badly, with great losses and gaps in the quotas of Indians, the villages being depopulated; and this gives rise to great extortions and abuses on the part of the inspectors toward the poor Indians, ruining them and thus depriving the caciques and chief Indians of their property and carrying them off in chains because they do not fill out the mita assignment, which they cannot do … These mita Indians earn each day, or there is paid each one for his labor, 4 reals. Besides these there are others not under obligation, who are mingados or hire themselves out voluntarily: these each get from 12 to 16 reals, and some up to 24, according to their reputation of wielding the pick and knowing how to get the ore out."
+      },
+      "note": "Compared with archive.org smithsonianmisce1021942smit, sec. 1652-1653, pp. 623-624. \"These Indians\" referred to the 13,300 mita Indians of the cut opening paragraph; added the bracket [drafted for the mita]. Cuts keep the meaning. Date as for the Cuzco excerpt."
+    },
+    {
+      "id": "gage-1648-repartimiento",
+      "verdict": "corrected",
+      "changes": {
+        "text": "The Spaniards that live about that Country … alleadge that all their trading, and farming, is for the good of the Common-wealth, and therefore whereas there are not Spaniards enough for so ample and large a Countrey to doe all their work, and all are not able to buy slaves and Blackmores, they stand in need of the Indians help to serve them for their pay and hire; whereupon it hath been considered, that a partition of Indian labourers be made every Monday, or Sonday in the afternoon to the Spaniards … for every Indian delivered unto them, they give unto the Juez Repartidor or officer, halfe a Riall, which is three pence an Indian for his fees, … If complaint be made by any Spaniard that such and such an Indian did run away from him … the Indian must be brought, and surely tied to a post by his hands in the Market place, and there be whipped upon his bare backe. But if the poor Indian complaine that the Spaniards cousened and cheated him of his shovell, axe, bill, mantle, or wages, no justice shall be executed against the cheating Spaniard … Thus are the poore Indians sold for three pence a peece for a whole weeks slavery …"
+      },
+      "note": "Compared with Gutenberg 54425, Guatemala chapter, pp. 139-140 (flagged as cut to 180 words). The closing \"Thus are the poore Indians sold for three pence a peece\" depends on the cut description of the Juez Repartidor's fee. Restored the single source clause that explains it (\"for every Indian delivered unto them, they give unto the Juez Repartidor or officer, halfe a Riall, which is three pence an Indian for his fees,\") and added a closing \"…\" because the excerpt ends mid-sentence. The other cuts keep the meaning."
+    },
+    {
+      "id": "gandavo-1576-indian-slave-trade",
+      "verdict": "corrected",
+      "changes": {
+        "sourceLine": "Pero de Magalhães de Gândavo, Portuguese writer who had lived in Brazil, History of the Province of Santa Cruz (Brazil), 1576",
+        "text": "Since these Indians covet certain things which come from the Kingdom of Portugal, namely, shirts, jerkins, iron tools, and similar things, they sell one another in exchange for these articles to the Portuguese; these, on the other hand, capture as many as they want and do them many injuries without any one's checking them [the Portuguese]. But now there is no longer this disorder in the land or the traffic in slaves as formerly. … the Fathers [Jesuits] ordered and arranged with the Governours and Captains of the land that there should be no more trading in slaves in the same way as in the past … whatever slaves are newly come out of the sertao … all go first to the custom house where they examine them and ask them questions: who sold them and what were the terms of purchase; for no one has the right to sell them save their fathers (if in case of dire necessity) or those who have captured them in a just war; those whom they find acquired illegally, they set at liberty."
+      },
+      "note": "Compared with archive.org historiesofbrazi02ganduoft, ch. XIII \"Of the results obtained there by the Fathers of the Company\", pp. 113-115 (Stetson 1922). (1) The cut \"save their fathers … or those who have captured them in a just war\" removed the condition \"(if in case of dire necessity)\", making it seem fathers could sell their children freely; restored it. (2) Added [Jesuits] after \"the Fathers\" (the chapter's subject is the Fathers of the Company of Jesus). \"[the Portuguese]\" is Stetson's own bracket on the page. Role changed as for gandavo-1576-settlers-slaves."
+    }
+  ]
+}
