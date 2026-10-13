@@ -340,3 +340,37 @@ remote).
 - Long essay questions (LEQs).
 - AI grading of written answers.
 - Units other than Unit 4.
+
+## Amendments (2026-10-13, during implementation)
+
+### References for the answer material
+
+Students have the AMSCO book, but a second reference for every claim in the
+answer material lets them check it.
+
+- DBQ notes: each `contextualization` and `outsideEvidence` item becomes
+  `{text, ref: {title, url}}`. `thesis` and `complexity` stay plain strings.
+- SAQs get `refs`: 1–3 `{title, url}` references for the scoring notes.
+- Every multiple-choice question gets `ref: {title, url}` for its
+  explanation.
+- References link to Britannica (`https://www.britannica.com/…`) first, and to
+  English Wikipedia (`https://en.wikipedia.org/wiki/…`) when Britannica has no
+  suitable article. The validator refuses a missing reference or any other host.
+- `tools/check-refs.js` confirms every link before release. Wikipedia pages are
+  fetched directly. Britannica blocks scripted requests, so a Britannica link
+  counts as confirmed only if the Wayback Machine's index holds a 200 capture of
+  it. In both cases the page title must contain the reference's title. A
+  Britannica link that can't be confirmed is replaced with a Wikipedia one.
+- The page shows each reference as "Check it: <title> ↗".
+
+### GitHub Pages
+
+The repo is public at github.com/zrrbite/ap-history-practice. A GitHub Actions
+workflow runs the tests and the build on every push to `main`, and publishes
+`dist/local.html` as the site's `index.html`
+(https://zrrbite.github.io/ap-history-practice/). The claude.ai artifact stays
+as well.
+
+"Copy link" uses the page's own address when the page is served directly
+(GitHub Pages, a local server). It uses the configured artifact URL only inside
+the artifact viewer's frame.

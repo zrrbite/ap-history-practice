@@ -2933,3 +2933,13 @@ Following `~/Development/todo/README.md`: add a `nat` section to `TODO.md` with 
 - [ ] **Step 6: Finish the branch**
 
 Use superpowers:finishing-a-development-branch. The local repo has no remote, so landing `v1` means `git switch main && git merge --ff-only v1`. Report `git log --oneline main` and the artifact link.
+
+---
+
+## Amendment A (2026-10-13): references and GitHub Pages
+
+These were added at the user's request after Task 6. The spec's "Amendments" section has the rules. The work runs before Tasks 8–9 so that the writing agents' briefs include the reference rule.
+
+- **A1 (TDD).** `validate.js` requires and checks references. The fixture gains them. `app.js` renders "Check it" links. `code.js` gains `shareBaseFor(configured, location, framed) => string | null`, and the page uses it for "Copy link".
+- **A2 (TDD).** `tools/check-refs.js` exports `collectRefs(bank)`, `pageTitle(html)`, `titleMatches(refTitle, pageTitle)` and `checkRef(ref, fetcher)`. CLI: `node tools/check-refs.js [file.json …]` checks every reference, and `--title <url>` prints a page's confirmed title.
+- **A3.** `.github/workflows/pages.yml` runs test, then build, then deploys `dist/local.html` as `index.html`. Task 11 adds: run `node tools/check-refs.js`, and turn on Pages with source "GitHub Actions" (the user does this, or `gh` does with their OK).
