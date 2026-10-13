@@ -1,0 +1,69 @@
+<title>Unit 4 DBQ Practice</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=IBM+Plex+Sans:wght@400;500;600&family=IM+Fell+English&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<style>/*STYLES*/</style>
+
+<div class="page">
+  <header class="masthead">
+    <p class="eyebrow">AP World History: Modern · AMSCO Unit 4 · c. 1450–1750</p>
+    <h1>Transoceanic Interconnections</h1>
+    <p class="lede">Practice questions built from real primary sources. Every new DBQ draws a different set of seven documents.</p>
+  </header>
+
+  <nav class="tabs" role="tablist" aria-label="Question type">
+    <button type="button" id="tab-dbq" role="tab" aria-controls="panel-dbq" aria-selected="true">DBQ</button>
+    <button type="button" id="tab-drill" role="tab" aria-controls="panel-drill" aria-selected="false">Short drills</button>
+  </nav>
+
+  <section class="settings" aria-label="Settings">
+    <fieldset class="topics">
+      <legend>Topics</legend>
+      <div id="topic-list" class="topic-list"></div>
+      <p id="topic-count" class="hint"></p>
+    </fieldset>
+    <div class="code-box">
+      <div class="code-row">
+        <span class="label">Code</span>
+        <code id="current-code">–</code>
+        <button type="button" id="copy-code">Copy code</button>
+        <button type="button" id="copy-link" hidden>Copy link</button>
+      </div>
+      <form id="open-code-form" class="code-row">
+        <label for="open-code" class="label">Open a code</label>
+        <input id="open-code" name="code" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="dbq.silver-trade.k2x9q1">
+        <button type="submit">Open</button>
+      </form>
+    </div>
+  </section>
+
+  <p id="notice" class="notice" role="status" hidden></p>
+
+  <main>
+    <section id="panel-dbq" role="tabpanel" aria-labelledby="tab-dbq">
+      <div class="toolbar">
+        <button type="button" id="new-dbq" class="primary">New DBQ</button>
+        <button type="button" id="timer-toggle">Start 60-minute timer</button>
+        <span id="timer" class="timer" role="timer" hidden></span>
+      </div>
+      <article id="dbq"></article>
+    </section>
+    <section id="panel-drill" role="tabpanel" aria-labelledby="tab-drill" hidden>
+      <div class="toolbar">
+        <fieldset class="drill-kind">
+          <legend class="visually-hidden">Drill type</legend>
+          <label><input type="radio" name="drill-kind" id="kind-any" value="any" checked> Either</label>
+          <label><input type="radio" name="drill-kind" id="kind-saq" value="saq"> Short answer</label>
+          <label><input type="radio" name="drill-kind" id="kind-mcq" value="mcq"> Multiple choice</label>
+        </fieldset>
+        <button type="button" id="new-drill" class="primary">New drill</button>
+      </div>
+      <article id="drill"></article>
+    </section>
+  </main>
+
+  <footer class="colophon">Every document is an excerpt from a real primary source. The “Source text” link under each one opens the text it was checked against.</footer>
+</div>
+
+<script type="application/json" id="bank">__BANK__</script>
+<script type="module">/*SCRIPT*/</script>
