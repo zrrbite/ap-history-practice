@@ -1,1 +1,777 @@
-[]
+[
+  {
+    "id": "henry-navigator-motives",
+    "topics": ["4.2"],
+    "docs": ["zurara-1453-henry-reasons-profit"],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE reason Prince Henry sent ships beyond Cape Bojador, as shown in the passage.",
+        "accept": [
+          "Names his wish to know the truth about the land beyond Cape Bojador, since no sailor or merchant would go there without a sure hope of profit.",
+          "Names the hope of finding Christian peoples or safe harbors in those lands.",
+          "Names the hope of profitable trade: goods from those lands could be sold in Portugal, and Portuguese goods could be sold there.",
+          "Names his zeal for the service of God."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE way the passage shows that a royal prince, not private merchants, started the Portuguese voyages along the West African coast.",
+        "accept": [
+          "Explains that the passage says merchants and sailors never sail where there is no sure hope of profit, so Henry sent out his own ships and took the risk himself.",
+          "Explains that Henry acted because 'no other prince took any pains in this matter', which shows that exploration depended on a ruler paying for it.",
+          "Uses outside knowledge: Henry used his position as master of the Order of Christ to pay for the expeditions, so the early voyages were his project, not the work of private traders."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE result of Portuguese voyages along the West African coast in the 1400s.",
+        "accept": [
+          "Explains that from 1441 Henry's ships brought back gold dust and enslaved Africans, and by 1448 the trade in enslaved people to Portugal was large enough that he built a fort and warehouse on Arguin Island.",
+          "Explains that the Portuguese built trading forts on the coast, such as Elmina on the Gold Coast (1482), to protect their gold trade; Elmina later became a major center of the Atlantic slave trade.",
+          "Explains that each voyage pushed farther south until Bartolomeu Dias led the first European expedition around the Cape of Good Hope in 1488, opening a sea route to Asia through the Indian Ocean.",
+          "Does not earn the point: naming Columbus's voyages, which were paid for by Spain, not Portugal."
+        ]
+      }
+    ],
+    "refs": [
+      { "title": "Henry the Navigator", "url": "https://www.britannica.com/biography/Henry-the-Navigator" },
+      { "title": "Elmina", "url": "https://www.britannica.com/place/Elmina" },
+      { "title": "Bartolomeu Dias", "url": "https://www.britannica.com/biography/Bartolomeu-Dias" }
+    ]
+  },
+  {
+    "id": "da-gama-calicut-1498",
+    "topics": ["4.2"],
+    "docs": ["gama-journal-1498-christians-spices"],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE goal of the Portuguese voyage, as stated in the passage.",
+        "accept": [
+          "Names the search for spices.",
+          "Names the search for Christians.",
+          "Names the hope of great riches, such as the rubies and emeralds that one of the Moors from Tunis promises."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE reason the Portuguese wanted a sea route of their own to the spices of India.",
+        "accept": [
+          "Explains that Muslim merchants controlled the trade with India, and spices reached Europe through Egyptian and Levantine ports where Venice bought them, so a route around Africa let Portugal cut out these middlemen.",
+          "Explains that the Portuguese crown wanted to outflank its Muslim rivals and spread Christianity, which is why the passage pairs 'Christians and spices'; they also hoped to find the Christian ruler Prester John.",
+          "Explains that Portugal wanted the new route for itself, as the passage hints when the convict says the King of Portugal would not let Castile, France or Venice send ships."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way the Portuguese voyage depended on people or knowledge already present in the Indian Ocean world.",
+        "accept": [
+          "Explains that at Malindi in East Africa, da Gama took on a Gujarati pilot who knew the route to Calicut and guided the fleet across the Indian Ocean.",
+          "Explains that the Portuguese needed go-betweens to deal with Calicut; in the passage, the man sent ashore was taken to two Muslims from Tunis who could speak Castilian and Genoese.",
+          "Does not earn the point: saying the Portuguese found the way across the Indian Ocean on their own; they relied on a local pilot for that crossing."
+        ]
+      }
+    ],
+    "refs": [
+      { "title": "Vasco da Gama", "url": "https://www.britannica.com/biography/Vasco-da-Gama" },
+      { "title": "Vasco da Gama", "url": "https://en.wikipedia.org/wiki/Vasco_da_Gama" }
+    ]
+  },
+  {
+    "id": "potosi-mercury-refining",
+    "topics": ["4.1", "4.5"],
+    "docs": ["acosta-1590-mercury-amalgamation"],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE danger to workers described in the passage.",
+        "accept": [
+          "Names the danger from mercury fumes when the pots were opened: workers could die, lose the use of their limbs, or lose their teeth.",
+          "Says that refining with quicksilver (mercury) could poison the workers who handled it.",
+          "Does not earn the point: a danger the passage does not describe, such as cave-ins in the mine shafts."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE way the refining method described in the passage increased silver output at Potosí.",
+        "accept": [
+          "Explains that mercury amalgamation took silver out of low-grade ore, the 'scrapings' the passage says miners once ignored, so ore that was not worth smelting became profitable to mine.",
+          "Explains that after mercury refining reached the Andes in 1571, silver production in Peru rose about five times in four years.",
+          "Explains that the mercury mine at Huancavelica in Peru, named in the passage, was a key source of the mercury the new process needed, so Potosí could refine ore on a large scale."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way the growth of silver mining at Potosí depended on forced Indigenous labor.",
+        "accept": [
+          "Explains that Viceroy Francisco Toledo organized the mita in the 1570s, forcing Andean villages to send thousands of men each year to work at Potosí for very low wages.",
+          "Explains that the Spanish turned the mit'a, a rotating labor duty of the Inca Empire, into a draft that supplied workers for the silver mines.",
+          "Explains that forced workers were also sent to the mercury mines, so the new refining method itself rested on coerced labor."
+        ]
+      }
+    ],
+    "refs": [
+      { "title": "Patio process", "url": "https://en.wikipedia.org/wiki/Patio_process" },
+      { "title": "Mit'a", "url": "https://en.wikipedia.org/wiki/Mit%27a" }
+    ]
+  },
+  {
+    "id": "malacca-portuguese-cannon",
+    "topics": ["4.1", "4.4"],
+    "docs": ["malay-annals-1612-cannon-malacca"],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Describe ONE effect of the Portuguese cannon on the people of Malacca, as shown in the passage.",
+        "accept": [
+          "Describes their fear: the people were frightened by a sound 'like thunder', and 'the terror grew constantly worse and worse'.",
+          "Describes the wounds: cannonballs struck people on land and cut off necks, waists, hands and feet.",
+          "Does not earn the point: only naming the weapon ('cannon') without describing what it did to the people."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE reason the Portuguese wanted to control Malacca in the early 1500s.",
+        "accept": [
+          "Explains that Malacca controlled the narrow Strait of Malacca, through which the sea trade between India and China passed.",
+          "Explains that Malacca was a great market for cloves, nutmeg, porcelain and silk, so holding it gave the Portuguese a share of the spice trade.",
+          "Explains that Albuquerque wanted to cut off the flow of spices toward Cairo and Mecca and to stop Islam from taking hold there.",
+          "Explains that taking Malacca in 1511 was part of Albuquerque's plan to control the main sea trade routes of the East from fortified ports, along with Goa (1510) and Hormuz (1515)."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE reason a historian might question the passage's picture of the cannon as a weapon the people of Malacca had never known.",
+        "accept": [
+          "Explains that when Albuquerque attacked in 1511, Malacca had thousands of gunpowder weapons of its own, including cannon, many of them bought from Java and Gujarat.",
+          "Explains that the Malay Annals were compiled about a century after the events (c. 1612) as a court chronicle, so the scene may be a story told to explain the defeat, not an eyewitness report.",
+          "Does not earn the point: saying the source is unreliable only because it is old or biased, without explaining what in it is doubtful."
+        ]
+      }
+    ],
+    "refs": [
+      { "title": "Capture of Malacca (1511)", "url": "https://en.wikipedia.org/wiki/Capture_of_Malacca_(1511)" },
+      { "title": "Afonso de Albuquerque", "url": "https://www.britannica.com/biography/Afonso-de-Albuquerque" }
+    ]
+  },
+  {
+    "id": "adams-ieyasu-european-skills",
+    "topics": ["4.1", "4.5"],
+    "docs": ["adams-1611-shipbuilder-to-ieyasu"],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE kind of European knowledge that Adams shared with Tokugawa Ieyasu, as shown in the passage.",
+        "accept": [
+          "Names shipbuilding: Adams built Ieyasu a ship of about eighty tons 'as our manner is'.",
+          "Names geometry or mathematics, which Adams says he taught Ieyasu.",
+          "Does not earn the point: naming Christianity; the passage describes practical skills, and Adams was a sailor, not a missionary."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE reason Tokugawa Ieyasu valued an adviser like Adams.",
+        "accept": [
+          "Explains that Adams had trained for years in shipbuilding and navigation, so he could build European-style ships for Japan.",
+          "Explains that Adams was a Protestant Englishman, not a Catholic priest, so Ieyasu could learn about Europe from someone outside the Jesuits; in 1610 Ieyasu made Adams his adviser on European affairs in place of a Jesuit interpreter.",
+          "Explains that Adams helped Dutch and English merchants win permission to trade in Japan, giving Ieyasu new trading partners besides the Portuguese and Spanish."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way European firearms changed warfare in Japan in the late 1500s.",
+        "accept": [
+          "Explains that after Portuguese traders brought matchlock guns to the island of Tanegashima in 1543, Japanese smiths copied them and were soon making them in large numbers.",
+          "Explains that armies of the warring lords formed units of gunners, so masses of foot soldiers with guns became central to battle.",
+          "Explains that at the Battle of Nagashino (1575), Oda Nobunaga, allied with Tokugawa Ieyasu, used about 3,000 matchlock guns behind fences to stop the Takeda clan's cavalry charges and win a crushing victory."
+        ]
+      }
+    ],
+    "refs": [
+      { "title": "William Adams (samurai)", "url": "https://en.wikipedia.org/wiki/William_Adams_(samurai)" },
+      { "title": "Tanegashima (gun)", "url": "https://en.wikipedia.org/wiki/Tanegashima_(gun)" },
+      { "title": "Battle of Nagashino", "url": "https://en.wikipedia.org/wiki/Battle_of_Nagashino" }
+    ]
+  },
+  {
+    "id": "peru-european-livestock",
+    "topics": ["4.3"],
+    "docs": ["garcilaso-1609-cattle"],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Describe how the price of cows in Cuzco changed, as shown in the passage.",
+        "accept": [
+          "Describes the fall from about two hundred pesos when cows were first sold to seventeen pesos (twenty and a half ducats) in 1559.",
+          "Describes that prices dropped step by step as the animals became more plentiful, then fell suddenly.",
+          "Does not earn the point: saying prices rose; the passage shows them falling as cattle multiplied."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE way the passage shows that plough oxen were something new to the Indigenous people of Cuzco.",
+        "accept": [
+          "Explains that 'a whole army of Indians' came from all parts to see the bullocks, astonished at a sight so new to them.",
+          "Explains that the Indians said the Spaniards were too idle to work and made the great animals do their work for them, which shows that ploughing with animals was unknown to them."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way animals brought from Europe changed life for Indigenous peoples of the Americas in the period 1500–1750.",
+        "accept": [
+          "Explains that horses transformed the lives of the Plains Indians of North America, making them far better at hunting and warfare.",
+          "Explains that horses, cattle and pigs ran wild and multiplied across the grasslands, changing landscapes and economies, as the falling price of cows in the passage suggests.",
+          "Explains that the Mapuche of Chile adopted the horse and used it to fight the Spanish in the Arauco War.",
+          "Does not earn the point: an effect of crops or diseases; the part asks about animals brought from the Old World."
+        ]
+      }
+    ],
+    "refs": [
+      { "title": "Columbian Exchange", "url": "https://www.britannica.com/event/Columbian-exchange" },
+      { "title": "Columbian exchange", "url": "https://en.wikipedia.org/wiki/Columbian_exchange" }
+    ]
+  },
+  {
+    "id": "manila-silver-trade",
+    "topics": ["4.5"],
+    "docs": ["morga-1609-chinese-trade-silver"],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE complaint Morga makes about the Manila trade in the passage.",
+        "accept": [
+          "Names the loss of silver: a huge amount passes every year to 'infidels' (the Chinese) and never comes back to Spanish hands.",
+          "Names the harm to work: the Spaniards in Manila do no other work, and the native Filipinos are abandoning the farming they used to do.",
+          "Does not earn the point: saying the Chinese demanded gold; the passage says they did not want gold, only silver."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE reason Chinese merchants wanted to be paid in silver, as the passage shows they did.",
+        "accept": [
+          "Explains that Ming China's Single Whip reform, spread across the empire in 1580, turned most taxes and labor duties into one payment in silver, so China's demand for silver was huge.",
+          "Explains that silver was worth much more in Asia than in the Americas, so merchants made a profit by trading their goods for American silver.",
+          "Explains that trade in East Asia ran mainly on silver, because Ming China used silver ingots as money."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way the Manila galleon trade connected different regions of the world.",
+        "accept": [
+          "Explains that from 1565 Spanish galleons carried silver mined in New Spain and at Potosí from Acapulco to Manila, where Chinese merchants exchanged silk and porcelain for it.",
+          "Explains that Asian goods unloaded at Acapulco went overland to Veracruz and then on the treasure fleet to Spain, linking Asia, the Americas and Europe in one network.",
+          "Explains that the galleons returning to Manila also carried American crops such as maize and sweet potatoes into Asia."
+        ]
+      }
+    ],
+    "refs": [
+      { "title": "Manila galleon", "url": "https://en.wikipedia.org/wiki/Manila_galleon" },
+      { "title": "Single whip law", "url": "https://en.wikipedia.org/wiki/Single_whip_law" }
+    ]
+  },
+  {
+    "id": "tokugawa-macao-envoys-1640",
+    "topics": ["4.4", "4.5"],
+    "docs": ["tokugawa-1640-sentence-macao-envoys"],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE reason the shogunate gives in the passage for punishing the envoys from Macao.",
+        "accept": [
+          "Names the 'crimes' committed over many years in spreading the Christian faith against the shogun's decrees.",
+          "Names that their ship broke the 1639 ban on any vessel sailing from Macao to Japan.",
+          "Names the aim of making an example, so that news of it 'may reach Macao and even the country of Europe'."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE reason the Tokugawa shogunate saw Portuguese and Spanish Catholics as a threat in the 1630s.",
+        "accept": [
+          "Explains that the shogunate saw Japanese Christians as a threat to its rule; the Shimabara Rebellion of 1637–1638, which began over heavy taxes, became a rising of peasants converted to Catholicism by Portuguese and Spanish missionaries.",
+          "Explains that Japanese rulers had watched Spain conquer the Philippines and feared that missionaries prepared the way for Spanish or Portuguese conquest of Japan.",
+          "Explains that Protestant Dutch and English traders told the shogunate that Catholic missionaries spread their religion in order to dominate Asian countries."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way Japan kept some foreign trade after adopting the policy shown in the passage.",
+        "accept": [
+          "Explains that Dutch traders were allowed to keep trading at Nagasaki, but only on the small island of Dejima, cut off from the city.",
+          "Explains that Chinese merchants kept trading at Nagasaki, where they had their own quarter.",
+          "Explains that trade with Korea went on through the Tsushima domain, and trade with the Ryukyu Kingdom through Satsuma.",
+          "Does not earn the point: saying Japan ended all foreign trade; it limited trade to a few controlled places and partners."
+        ]
+      }
+    ],
+    "refs": [
+      { "title": "Sakoku", "url": "https://en.wikipedia.org/wiki/Sakoku" },
+      { "title": "Shimabara Rebellion", "url": "https://www.britannica.com/event/Shimabara-Rebellion" }
+    ]
+  },
+  {
+    "id": "shivaji-letter-jizya",
+    "topics": ["4.6", "4.8"],
+    "docs": ["shivaji-1679-letter-against-jizya"],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE argument against the jizya made in the source.",
+        "accept": [
+          "Names the argument that the empire's peasants are already crushed and village revenues have collapsed, so a new tax adds hardship.",
+          "Names the complaint that the emperor is using the tax to refill a treasury emptied by his war against the writer.",
+          "Names the religious argument that God is worshipped in both mosques and temples, so Hindus should not be singled out."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE way the policy protested in the source differed from the policy of an earlier Mughal emperor.",
+        "accept": [
+          "Explains that Akbar had abolished the jizya as part of his policy of religious tolerance, while Aurangzeb brought it back in 1679.",
+          "Explains that Aurangzeb's return to the jizya ended about a century without the tax, and many Hindu rulers and even Mughal court officials criticized it.",
+          "Does not earn the point: saying Aurangzeb removed Hindus from his government; the number of Hindu officials, many of them Marathas, actually rose during his reign."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way the Maratha challenge weakened the Mughal Empire in the late 1600s and early 1700s.",
+        "accept": [
+          "Explains that the long war against the Marathas in the Deccan drained the empire's resources and drove it toward bankruptcy, as the source's complaint about an empty treasury suggests.",
+          "Explains that Shivaji twice plundered the great port of Surat (1664 and 1670) and died in 1680 as ruler of an independent Maratha kingdom, which showed that a regional ruler could defy the emperor.",
+          "Explains that after Aurangzeb died in 1707, the Marathas expanded into a large realm, and by the late 1730s they largely controlled Mughal politics."
+        ]
+      }
+    ],
+    "refs": [
+      { "title": "Aurangzeb", "url": "https://www.britannica.com/biography/Aurangzeb" },
+      { "title": "Aurangzeb", "url": "https://en.wikipedia.org/wiki/Aurangzeb" },
+      { "title": "Maratha Empire", "url": "https://en.wikipedia.org/wiki/Maratha_Empire" }
+    ]
+  },
+  {
+    "id": "fronde-day-of-barricades",
+    "topics": ["4.6"],
+    "docs": ["retz-1648-barricades"],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Describe ONE action the people of Paris took after the arrests, as shown in the passage.",
+        "accept": [
+          "Describes how men and women took up arms, and mothers even put daggers in their children's hands.",
+          "Describes how Parisians put up more than two hundred barricades in less than two hours.",
+          "Describes how a crowd chased the Chancellor and broke into the Hôtel d'O, where he had fled.",
+          "Does not earn the point: saying the crowd turned against the king; the passage has them shouting 'God bless the King!' and 'No Mazarin!'"
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE cause of the Fronde.",
+        "accept": [
+          "Explains that the cost of the Thirty Years' War and the war with Spain forced Cardinal Mazarin's government to raise taxes, which the Parlement of Paris refused to accept.",
+          "Explains that judges of the Parlement and many nobles opposed the centralizing policies of the regency of Anne of Austria and Mazarin while Louis XIV was a child.",
+          "Explains that Mazarin's sudden arrest of Parlement leaders in August 1648, such as Broussel in the passage, set off the rising in Paris."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way the Fronde affected royal power in France after it ended in 1653.",
+        "accept": [
+          "Explains that Louis XIV, who suffered fear, humiliation and hunger during the Fronde as a boy, later insisted on absolute monarchy so that nobles and the Parlement could not challenge the crown again.",
+          "Explains that the failure of the Fronde cleared the way for Louis XIV's absolutism, so royal power grew stronger, not weaker.",
+          "Does not earn the point: saying the Fronde forced the king to share power with the Parlement or the nobles; the revolt failed."
+        ]
+      }
+    ],
+    "refs": [
+      { "title": "Fronde", "url": "https://en.wikipedia.org/wiki/Fronde" },
+      { "title": "Louis XIV", "url": "https://www.britannica.com/biography/Louis-XIV-king-of-France" }
+    ]
+  },
+  {
+    "id": "jamaica-maroon-treaty",
+    "topics": ["4.6"],
+    "docs": ["jamaica-maroon-treaty-1739"],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE thing the Maroons gained from the treaty, as shown in the passage.",
+        "accept": [
+          "Names freedom: Cudjoe and his people were to be 'for ever hereafter in a perfect state of freedom and liberty'.",
+          "Names land: fifteen hundred acres between Trelawny Town and the Cockpits, for them and their descendants.",
+          "Names peace: all fighting was to stop on both sides for ever."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE reason the British colonial government of Jamaica agreed to make peace with the Maroons.",
+        "accept": [
+          "Explains that after about ten years of war, British troops and militia could not defeat the Maroons, who used guerrilla tactics in Jamaica's rugged, mountainous interior.",
+          "Explains that the war was costly: Maroon raids hit plantations, sugar exports fell, and the colony spent heavily on soldiers and barracks.",
+          "Explains that while the war went on, enslaved people kept escaping to freedom, which threatened the plantation system."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way the ninth article shown in the passage helped protect slavery in Jamaica.",
+        "accept": [
+          "Explains that the Maroons had to send back any runaways who reached them, so the Maroon towns stopped being a refuge for people escaping slavery.",
+          "Explains that by rewarding Maroons who returned runaways, the colony turned former enemies into helpers of the planters and split the Maroons from the enslaved population.",
+          "Does not earn the point: saying the treaty freed enslaved people in Jamaica; it freed only the Maroons it names, and slavery went on."
+        ]
+      }
+    ],
+    "refs": [
+      { "title": "First Maroon War", "url": "https://en.wikipedia.org/wiki/First_Maroon_War" }
+    ]
+  },
+  {
+    "id": "nakuk-pech-maya-noble",
+    "topics": ["4.7", "4.8"],
+    "docs": ["nakuk-pech-1562-hidalgos"],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE way Nakuk Pech's life changed under Spanish rule, as shown in the passage.",
+        "accept": [
+          "Names that he was 'given' to the encomendero Julian Doncel and served under him.",
+          "Names that he was baptized and took the Christian name Don Pablo Pech.",
+          "Names that he began collecting tribute for the friars, and that the chiefs now paid tribute to the 'foreigners'."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE way the passage shows continuity in the Maya social hierarchy after the Spanish conquest.",
+        "accept": [
+          "Explains that Pech remained a chief over his town, now with Spanish approval, so Maya nobles still stood above Maya commoners.",
+          "Explains that the Spanish made the Maya chiefs hidalgos (nobles) and declared that their sons and descendants would keep that rank, so noble status stayed hereditary.",
+          "Explains that Pech received the 'rod of the justicia', a staff of local office, so an old ruling family kept authority under the new system."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE reason the Spanish relied on Indigenous nobles like Nakuk Pech to govern their American colonies.",
+        "accept": [
+          "Explains that under the encomienda, Indigenous leaders were charged with gathering the tribute and labor that their communities owed.",
+          "Explains that the Spanish used native lords as go-betweens with Indigenous communities, and leaders of well-organized societies proved effective and loyal intermediaries.",
+          "Explains that the Spanish treated Indigenous nobles as a European-style nobility, giving them titles such as 'don', which tied them to Spanish rule."
+        ]
+      }
+    ],
+    "refs": [
+      { "title": "Encomienda", "url": "https://en.wikipedia.org/wiki/Encomienda" },
+      { "title": "Cacique", "url": "https://en.wikipedia.org/wiki/Cacique" }
+    ]
+  },
+  {
+    "id": "quito-social-order-1748",
+    "topics": ["4.7", "4.8"],
+    "docs": ["juan-ulloa-1748-quito-classes"],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Describe ONE way, shown in the passage, that ancestry decided a person's rank in Quito.",
+        "accept": [
+          "Describes that the families of 'high rank and distinction' descended from the conquerors or from officials sent from Spain.",
+          "Describes that a 'Spaniard' meant a person of Spanish descent 'without a mixture of blood', ranked above mestizos, Indians and Negroes.",
+          "Describes that people born in Europe ('Chapitones') were named as a group apart from Spaniards born in America."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE way the passage shows that racial categories in Spanish America could change.",
+        "accept": [
+          "Explains that light-skinned mestizos were often 'accounted' Spaniards because of their complexion alone.",
+          "Explains that in Quito, mestizos who had European coloring by the second or third generation were treated as Spaniards, so a family could move up a category over time.",
+          "Uses outside knowledge: people sometimes 'passed' into a higher category to gain its benefits, such as an Indian passing as a mestizo to escape the tribute that Indians paid."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE continuity in the social hierarchy of Spanish America from the 1500s to the mid-1700s.",
+        "accept": [
+          "Explains that people born in Spain (peninsulares) kept the higher offices in the colonies throughout the period, above American-born creoles.",
+          "Explains that Indigenous people and free Black people kept paying a tribute tax that Spaniards and mestizos did not pay, marking them as lower in rank.",
+          "Explains that, as the passage shows, descent from the conquerors still brought high status two centuries after the conquest.",
+          "Does not earn the point: describing the hierarchy at only one moment, without showing that it lasted over time."
+        ]
+      }
+    ],
+    "refs": [
+      { "title": "Casta", "url": "https://en.wikipedia.org/wiki/Casta" },
+      { "title": "Peninsulares", "url": "https://en.wikipedia.org/wiki/Peninsulares" }
+    ]
+  },
+  {
+    "id": "jolof-horses-and-slaves",
+    "topics": ["4.4", "4.8"],
+    "docs": ["cadamosto-1455-horses-for-slaves"],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE way the king of the Jolof gained slaves or wealth, as shown in the passage.",
+        "accept": [
+          "Names raiding ('robbery') and enslaving his own subjects and people of neighboring provinces.",
+          "Names selling slaves to Arab and Azanhaji traders for horses and other goods, and to the Christians (the Portuguese).",
+          "Names the yearly presents of horses, cattle, goats and grain that the lords of the country gave him."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE way the passage shows that the Portuguese joined a trade in enslaved people that already existed in West Africa.",
+        "accept": [
+          "Explains that Arab traders were already exchanging Barbary horses for slaves, ten to eighteen people for each horse.",
+          "Explains that the passage lists the 'Christians' as new buyers, who traded there only 'since they have established a trade in these parts', alongside the older Arab and Azanhaji buyers.",
+          "Explains that the king already used slaves to farm his lands and sold the rest, so the Portuguese bought from an African ruler who controlled the supply."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way slavery in the Atlantic slave trade differed from the slavery that existed in West Africa before Europeans arrived.",
+        "accept": [
+          "Explains that the scale became enormous: between 10 and 12 million enslaved Africans were carried across the Atlantic from the 1500s to the 1800s, and demand rose sharply in the 1600s with the growth of sugar and tobacco plantations in the Americas.",
+          "Explains that in the Americas slavery became a racial, hereditary system: enslaved Africans were property, and the children of enslaved mothers were born enslaved.",
+          "Explains that in many West African societies slaves could become part of the master's kin group, and their children could even rise to high positions.",
+          "Does not earn the point: saying slavery did not exist in Africa before Europeans came; the passage itself shows an African ruler enslaving and selling people."
+        ]
+      }
+    ],
+    "refs": [
+      { "title": "Transatlantic slave trade", "url": "https://www.britannica.com/topic/transatlantic-slave-trade" },
+      { "title": "Atlantic slave trade", "url": "https://en.wikipedia.org/wiki/Atlantic_slave_trade" },
+      { "title": "Slavery in Africa", "url": "https://en.wikipedia.org/wiki/Slavery_in_Africa" }
+    ]
+  },
+  {
+    "id": "epidemics-kaqchikel-plymouth",
+    "topics": ["4.3"],
+    "docs": ["xahila-1559-plague", "bradford-1634-smallpox"],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Describe ONE similarity in what the two sources show about epidemics among Indigenous peoples.",
+        "accept": [
+          "Describes that both report terrible numbers of deaths: the Kaqchikel author says 'the number of deaths ... was truly terrible', and Bradford says the sick 'died most miserably'.",
+          "Describes that both show communities too stricken to care for their sick or dead: in the Kaqchikel account dogs and foxes fed on the bodies, and in Bradford's the sick lay on hard mats without bedding, linen or other help."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE difference in the two authors' points of view about the epidemics.",
+        "accept": [
+          "Explains that the Kaqchikel author writes as a survivor from inside his own people, grieving to his children for 'our fathers and ancestors', while Bradford writes as an English outsider describing the suffering of others.",
+          "Explains that Bradford sees God's goodness in the fact that none of the English fell sick, a meaning the Kaqchikel author, whose own people were dying, does not give in the passage.",
+          "Explains that Bradford stresses the kindness of the English who nursed the sick, which shows his own colony in a good light, while the Kaqchikel author dwells only on loss and fear."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE reason epidemics like these killed so many Indigenous people in the Americas.",
+        "accept": [
+          "Explains that Indigenous Americans had never been exposed to Afro-Eurasian diseases such as smallpox and measles, so they had little or no immunity.",
+          "Explains that disease spread from person to person ahead of the Europeans: epidemics swept southern Guatemala in 1519–1520, before Spanish soldiers arrived there in 1524.",
+          "Explains that, as some historians argue, slave raiding, overwork and other harsh conditions under colonial rule weakened communities and helped diseases spread and kill.",
+          "Does not earn the point: saying the Europeans spread these epidemics on purpose; they were brought by accident."
+        ]
+      }
+    ],
+    "refs": [
+      { "title": "Columbian Exchange", "url": "https://www.britannica.com/event/Columbian-exchange" },
+      { "title": "Spanish conquest of Guatemala", "url": "https://en.wikipedia.org/wiki/Spanish_conquest_of_Guatemala" },
+      { "title": "Virgin soil epidemic", "url": "https://en.wikipedia.org/wiki/Virgin_soil_epidemic" }
+    ]
+  },
+  {
+    "id": "maize-europe-and-kongo",
+    "topics": ["4.3"],
+    "docs": ["gerard-1636-maize", "pigafetta-lopes-1591-maize-kongo"],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Describe ONE similarity in how the two sources judge maize.",
+        "accept": [
+          "Describes that both treat maize as food for animals: Gerard calls it 'a more convenient food for swine than for man', and in Kongo maize was 'of so little value that they give it to pigs'.",
+          "Describes that both rank maize below grains people already knew: Gerard says it feeds less than wheat, rye, barley or oats, and the Kongo account prefers luco and the white grain of Congo.",
+          "Describes that both treat maize as a foreign crop: Gerard says it came from America, and in Kongo it was called 'Portugal grain'."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain how ONE of the two sources shows maize spreading from the Americas through European voyages.",
+        "accept": [
+          "Explains that Gerard says maize was first brought into Spain from America and then into other parts of Europe, and that he grew it in his own garden in England.",
+          "Explains that the Kongo name 'mazza Manputo', 'Portugal grain', shows that Portuguese traders brought maize from the Americas to Central Africa.",
+          "Does not earn the point: saying maize came from Turkey or Asia; Gerard himself says it came out of America, not from the Turks' lands, despite its name 'Turkie Corne'."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE long-term effect of American food crops on Africa or Europe.",
+        "accept": [
+          "Explains that between about 1550 and 1850, farmers across Africa, from Senegal to southern Africa, turned to maize, and cassava spread as well, so American crops became staple foods.",
+          "Explains that maize, at first fed to animals, became a common peasant food in southern Europe by the 1600s, and potatoes later fed the workers of northern Europe's growing cities.",
+          "Explains that maize made it easier to feed the captives held on the African coast before they were shipped across the Atlantic, which helped the slave trade grow.",
+          "Does not earn the point: an effect on the Americas, such as wheat or cattle arriving there; the part asks about Africa or Europe."
+        ]
+      }
+    ],
+    "refs": [
+      { "title": "Columbian Exchange", "url": "https://www.britannica.com/event/Columbian-exchange" },
+      { "title": "Maize", "url": "https://en.wikipedia.org/wiki/Maize" }
+    ]
+  },
+  {
+    "id": "mercantilism-mun-and-north",
+    "topics": ["4.5"],
+    "docs": ["mun-1664-balance-of-trade", "dudley-north-1691-against-bullionism"],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Describe the rule for increasing a kingdom's wealth that Mun gives in his source.",
+        "accept": [
+          "Describes Mun's rule 'to sell more to strangers yearly than wee consume of theirs in value', that is, a favorable balance of trade.",
+          "Describes his point that the difference between exports and imports must come home as treasure (gold and silver), so a trade surplus brings bullion into the kingdom.",
+          "Does not earn the point: saying Mun wants to stop foreign trade; he calls foreign trade 'the ordinary means' to increase wealth."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE difference between Mun's and North's ideas about wealth.",
+        "accept": [
+          "Explains that Mun measures a kingdom's gain in treasure brought home, while North says no one is richer for keeping his estate in money or plate; wealth lies in land, money lent at interest and goods in trade.",
+          "Explains that North treats gold and silver as ordinary goods whose supply rises and falls, while Mun treats treasure as the goal that trade should bring in.",
+          "Explains that North says laws that 'hamper Trade' do not make a people rich, while mercantilist governments regulated trade by law to make exports exceed imports and to pile up bullion, the goal that Mun's rule describes."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way a European government put mercantilist ideas like Mun's into practice in the period 1600–1750.",
+        "accept": [
+          "Explains that England's Navigation Acts, starting in 1651, limited trade with England and its colonies to English ships or ships of the colony, aimed at their Dutch rivals; from 1660, certain 'enumerated' colonial goods could be shipped only to England, Ireland or another English colony.",
+          "Explains that colonies had to sell their raw materials only to the mother country and buy finished goods only from it, and manufacturing was forbidden in the colonies.",
+          "Explains that mercantilist governments tried to cut purchases of imported luxury goods, because paying for them drained gold and silver out of the country."
+        ]
+      }
+    ],
+    "refs": [
+      { "title": "Mercantilism", "url": "https://www.britannica.com/topic/mercantilism" },
+      { "title": "Navigation Acts", "url": "https://www.britannica.com/event/Navigation-Acts" },
+      { "title": "Dudley North (economist)", "url": "https://en.wikipedia.org/wiki/Dudley_North_(economist)" }
+    ]
+  },
+  {
+    "id": "maritime-technology",
+    "topics": ["4.1", "4.2"],
+    "docs": [],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE technology that helped European sailors make long ocean voyages in the period 1450–1750.",
+        "accept": [
+          "Names the caravel, a light ship much used by the Portuguese and Spanish for long voyages, known for its ability to sail to windward (toward the wind).",
+          "Names the mariner's astrolabe, which let navigators find their latitude by measuring the height of the sun or a star.",
+          "Names the magnetic compass, which showed a ship's heading even when clouds hid the sun and stars."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain how ONE technology helped Portuguese explorers sail down the coast of Africa and into the Indian Ocean in the 1400s.",
+        "accept": [
+          "Explains that the caravel, a light ship apparently developed by the Portuguese for exploring the coast of Africa, could sail to windward (toward the wind), which made it well suited to that work.",
+          "Explains that the mariner's astrolabe let Portuguese pilots measure their latitude at sea, so they could sail far out into the open Atlantic and still know how far north or south they were."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way the Dutch fluyt helped the Dutch become a leading trading power in the 1600s.",
+        "accept": [
+          "Explains that the fluyt carried about twice the cargo of rival ships and needed a smaller crew, which cut the cost of shipping goods.",
+          "Explains that fluyts carried few or no guns and were built in specialized shipyards, so they cost about half as much as rival ships and Dutch merchants could charge less.",
+          "Explains that cheap Dutch shipping, used widely by the Dutch East India Company, gave the Dutch an edge; by 1670 they owned about half of Europe's merchant shipping."
+        ]
+      }
+    ],
+    "refs": [
+      { "title": "Caravel", "url": "https://www.britannica.com/technology/caravel" },
+      { "title": "Mariner's astrolabe", "url": "https://en.wikipedia.org/wiki/Mariner%27s_astrolabe" },
+      { "title": "Fluyt", "url": "https://en.wikipedia.org/wiki/Fluyt" }
+    ]
+  },
+  {
+    "id": "indian-ocean-trade-change",
+    "topics": ["4.5", "4.8"],
+    "docs": [],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE method the Portuguese used to control trade in the Indian Ocean in the 1500s.",
+        "accept": [
+          "Names the cartaz, a pass that merchant ships had to carry; ships without one risked losing their cargo or being attacked and sunk by Portuguese fleets.",
+          "Names the capture of fortified ports at key points, such as Goa (1510), Malacca (1511) and Hormuz (1515), where the Portuguese collected customs duties.",
+          "Names the armed fleets that patrolled the coasts each monsoon season to check ships for passes."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE way the Dutch East India Company (VOC) changed Indian Ocean trade in the 1600s.",
+        "accept": [
+          "Explains that the VOC, a joint-stock company founded in 1602 with a monopoly on Dutch trade in Asia, used force as well as trade and set up its headquarters at Batavia on Java in 1619.",
+          "Explains that the VOC conquered the Banda Islands (1609–1621), killed or drove out almost all of the people, and grew nutmeg on plantations to keep a monopoly over nutmeg and mace.",
+          "Explains that the VOC took ports from the Portuguese, such as Galle in Ceylon (1640) and Malacca (1641), and broke Portugal's hold on the cinnamon trade."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE continuity in Indian Ocean trade from 1450 to 1750, despite the arrival of European powers.",
+        "accept": [
+          "Explains that Muslim, Hindu and Malay merchant ships kept sailing and trading throughout the period; under Portuguese control many of them simply carried Portuguese passes.",
+          "Explains that trade among Asian ports stayed the larger business: by 1580 the Portuguese crown earned about twice as much from leasing rights to trade between Asian ports as from the Goa–Lisbon route.",
+          "Explains that Mughal India and China stayed the great producers of silk, cotton cloth and porcelain, so European companies paid for these goods largely in metal; the VOC, for example, used Japanese silver and copper to buy them.",
+          "Does not earn the point: describing a change, such as the rise of the VOC, instead of something that stayed the same."
+        ]
+      }
+    ],
+    "refs": [
+      { "title": "Cartaz", "url": "https://en.wikipedia.org/wiki/Cartaz" },
+      { "title": "Portuguese India", "url": "https://en.wikipedia.org/wiki/Portuguese_India" },
+      { "title": "Dutch East India Company", "url": "https://en.wikipedia.org/wiki/Dutch_East_India_Company" }
+    ]
+  },
+  {
+    "id": "land-empire-hierarchies",
+    "topics": ["4.7"],
+    "docs": [],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE policy the Manchu rulers of Qing China used to rule over the much larger Han Chinese population.",
+        "accept": [
+          "Names the Queue Order of 1645, which forced Han Chinese men, on pain of death, to shave the front of the head and wear the Manchu braid as a test of loyalty.",
+          "Names the system of dual appointments, which placed a Manchu beside a Han Chinese official in each post of the central government; the Han official did the work, and the Manchu made sure of Han loyalty to Qing rule."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE way the Mughal emperor Akbar won the support of Hindu elites.",
+        "accept": [
+          "Explains that Akbar abolished the tax that non-Muslims paid in place of military service (the jizya), as well as the tax on pilgrims.",
+          "Explains that Akbar made marriage alliances with Rajput rulers, such as his marriage in 1562 to the daughter of the raja of Amber.",
+          "Explains that Akbar let Rajput rulers keep their ancestral lands if they accepted him as emperor, and Rajput princes rose to the highest ranks in Mughal service as generals and provincial governors."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way the Russian law code of 1649 changed the social hierarchy in Russia.",
+        "accept": [
+          "Explains that the 1649 Law Code (Sobornoye Ulozheniye) merged slaves and free peasants into one serf class and made that status hereditary.",
+          "Explains that the code let nobles recover runaway serfs with no time limit, binding peasants to the land.",
+          "Explains that nobles received the sole right to own serfs in return for serving in the tsar's army, tying noble privilege to service to the state."
+        ]
+      }
+    ],
+    "refs": [
+      { "title": "Qing dynasty", "url": "https://en.wikipedia.org/wiki/Qing_dynasty" },
+      { "title": "Akbar", "url": "https://www.britannica.com/biography/Akbar" },
+      { "title": "Sobornoye Ulozheniye", "url": "https://en.wikipedia.org/wiki/Sobornoye_Ulozheniye" }
+    ]
+  }
+]

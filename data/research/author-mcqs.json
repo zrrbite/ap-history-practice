@@ -1,0 +1,755 @@
+[
+  {
+    "id": "acosta-mercury-silver",
+    "topics": ["4.1", "4.3", "4.5"],
+    "doc": "acosta-1590-mercury-amalgamation",
+    "questions": [
+      {
+        "stem": "Which development does the passage most directly describe?",
+        "options": [
+          "New smelting furnaces that used fire to melt rich silver ore",
+          "A refining method using mercury that made low-grade silver ore profitable to process",
+          "The replacement of Indigenous mine workers in the Andes with enslaved Africans",
+          "The use of steam-powered pumps to drain water from deep mine shafts"
+        ],
+        "answer": 1,
+        "explanation": "Acosta says that once refining with mercury began at Potosí in 1571, miners drew 'an infinite quantity of metal' from 'scrapings' they had once ignored. Mercury amalgamation, first used on a large scale in New Spain in 1554, let miners make a profit from low-grade ore. Option A is tempting because smelting with fire was the older method, but the passage describes mercury taking its place, not new furnaces.",
+        "ref": { "title": "Patio process", "url": "https://en.wikipedia.org/wiki/Patio_process" }
+      },
+      {
+        "stem": "The rise in silver output described in the passage most directly contributed to which of the following?",
+        "options": [
+          "A long period of falling prices in Europe as silver became plentiful",
+          "The decline of the Manila galleon trade across the Pacific",
+          "The end of Spanish trade with Asian merchants",
+          "A global silver trade in which much American silver ended up in China"
+        ],
+        "answer": 3,
+        "explanation": "American silver crossed the Atlantic to Europe and the Pacific to Manila on the galleons, and much of it ended up in China, whose trade ran on silver and which sold silk and other goods for it. This silver trade connected the world's continents. Option A has the effect backwards: the flood of American silver is linked to rising prices in Europe, not falling ones.",
+        "ref": { "title": "Manila galleon", "url": "https://en.wikipedia.org/wiki/Manila_galleon" }
+      },
+      {
+        "stem": "Acosta notes that the king earned large sums from his quicksilver (mercury) mines 'without any charge or hazard.' This reflects which feature of Spanish colonial rule?",
+        "options": [
+          "The crown kept a monopoly on mercury, so silver refiners had to buy it from royal supplies",
+          "The crown let colonists sell mercury freely to any foreign merchant",
+          "The crown excused silver miners from all royal taxes to encourage production",
+          "The crown gave the mercury mines to Indigenous nobles as a reward for loyalty"
+        ],
+        "answer": 0,
+        "explanation": "From soon after mercury refining began until the end of the colonial period, the Spanish crown controlled the production and sale of mercury. This gave it a steady income on top of its taxes on silver. Option C is wrong: Acosta also mentions the royal 'rights that rise in Potosí,' so the crown taxed silver as well.",
+        "ref": { "title": "Patio process", "url": "https://en.wikipedia.org/wiki/Patio_process" }
+      },
+      {
+        "stem": "Which labor system did Viceroy Francisco de Toledo expand in the 1570s to send workers to the silver mines of Potosí?",
+        "options": [
+          "The encomienda, which granted conquistadors the labor and tribute of Indigenous villages",
+          "Indentured servitude, in which European migrants worked for a set number of years",
+          "The mita, a forced labor draft based on an Inca labor duty",
+          "Chattel slavery of Africans bought from Portuguese traders"
+        ],
+        "answer": 2,
+        "explanation": "Toledo turned the Inca mit'a into a forced draft that sent thousands of Indigenous men to Potosí each year; the first draft workers arrived in 1573. The new refining method made it worth mining far more ore, so the mines needed far more workers. The encomienda is tempting, but it was a grant of tribute and labor to individual Spaniards, and the crown had been limiting it since the New Laws of 1542.",
+        "ref": { "title": "Mit'a", "url": "https://en.wikipedia.org/wiki/Mit%27a" }
+      }
+    ]
+  },
+  {
+    "id": "quito-social-classes",
+    "topics": ["4.7", "4.8"],
+    "doc": "juan-ulloa-1748-quito-classes",
+    "questions": [
+      {
+        "stem": "The passage best illustrates which feature of society in Spanish America?",
+        "options": [
+          "A hierarchy based only on wealth, in which ancestry did not matter",
+          "Legal equality between Indigenous nobles and Spanish officials",
+          "A hierarchy shaped by ancestry, with people of European descent at the top",
+          "A society in which mestizos held most of the high government posts"
+        ],
+        "answer": 2,
+        "explanation": "Juan and Ulloa divide the common people into Spaniards or whites, mestizos, Indians, and Black people, and say the families of high rank descend from the conquerors or from officials sent from Spain. People born in Spain held most of the leading posts, and creoles ranked below them but above Indians, Black people, and people of mixed ancestry. Option D is wrong because the highest posts went mostly to men born in Spain, not to mestizos.",
+        "ref": { "title": "Peninsular", "url": "https://www.britannica.com/topic/peninsular" }
+      },
+      {
+        "stem": "The authors write that some mestizos 'from only this fortuitous advantage' of a light complexion 'are accounted as' Spaniards. This best supports which conclusion?",
+        "options": [
+          "Racial categories in Spanish America could be flexible, and appearance could change how a person was classified",
+          "Racial categories were fixed at birth and could never change",
+          "The Spanish crown had abolished all legal differences between racial groups",
+          "Mestizos in Quito had higher status than people of full Spanish descent"
+        ],
+        "answer": 0,
+        "explanation": "The authors say that in Quito, mestizos who looked European were counted as Spaniards, even in the second or third generation. Historians who study colonial records find that the categories were fluid, and people could move from one label to another. Option B is the opposite of what the passage shows; 18th-century casta paintings suggest fixed categories, but real records were more flexible.",
+        "ref": { "title": "Casta", "url": "https://en.wikipedia.org/wiki/Casta" }
+      },
+      {
+        "stem": "The passage separates the name 'Spaniard' from 'Chapitone or European.' This distinction reflects the division between",
+        "options": [
+          "Spanish nobles and Spanish commoners",
+          "people born in Spain (peninsulares) and people of Spanish descent born in the Americas (creoles)",
+          "Catholic Spaniards and Spaniards of Jewish or Muslim descent",
+          "Spanish soldiers and Spanish missionaries"
+        ],
+        "answer": 1,
+        "explanation": "In South America, people born in Spain were called chapetones; the authors use 'Spaniard' for American-born people of Spanish descent. The crown gave most leading posts in government and the Church to the Spanish-born, which left creoles with second-class status. Option C is tempting because Spain did care about 'purity of blood,' but their distinction is about where a person was born.",
+        "ref": { "title": "Peninsular", "url": "https://www.britannica.com/topic/peninsular" }
+      },
+      {
+        "stem": "Compared with Spanish America in the early 1500s, the society described in the passage shows which change?",
+        "options": [
+          "The disappearance of Indigenous people from the cities of the Andes",
+          "The end of African slavery in Spanish South America",
+          "The replacement of Spanish rule by creole self-government",
+          "The growth of a large population of mixed European, Indigenous, and African ancestry"
+        ],
+        "answer": 3,
+        "explanation": "By 1748 the authors sort Quito's people into Spaniards, mestizos, Indians, and Black people 'with their progeny.' From the start of colonization, unions among Spaniards, Indigenous people, and Africans produced new mixed groups such as mestizos and mulattoes. Option C is wrong because Spanish America stayed under Spanish rule until the wars of independence in the early 1800s.",
+        "ref": { "title": "Casta", "url": "https://en.wikipedia.org/wiki/Casta" }
+      }
+    ]
+  },
+  {
+    "id": "maya-katun-chronicle",
+    "topics": ["4.3", "4.8"],
+    "doc": "chilam-balam-tizimin-1600-katuns",
+    "questions": [
+      {
+        "stem": "The repeated entries about smallpox and 'the general death' are best explained by which development?",
+        "options": [
+          "The return of the bubonic plague along the Silk Roads",
+          "The arrival of Old World diseases to which the peoples of the Americas had no earlier exposure",
+          "Famines caused by the failure of the maize crop during long droughts",
+          "The spread of diseases carried from the Americas to Europe"
+        ],
+        "answer": 1,
+        "explanation": "Smallpox was first recorded in the Americas in 1518. Indigenous Americans had never been exposed to Old World diseases and had little or no immunity, so epidemics like those in the chronicle killed huge numbers of people. Option D reverses the direction: the chronicle records diseases striking the Maya, not Europeans.",
+        "ref": { "title": "Columbian exchange", "url": "https://en.wikipedia.org/wiki/Columbian_exchange" }
+      },
+      {
+        "stem": "The way the chronicle is organized best illustrates which continuity in Maya society after the Spanish conquest?",
+        "options": [
+          "The use of Maya hieroglyphic writing for community records",
+          "The rule of independent Maya kings over northern Yucatán",
+          "The use of the Maya calendar's twenty-year katuns to record history",
+          "The public worship of Maya gods in the town temples"
+        ],
+        "answer": 2,
+        "explanation": "The scribes still arrange events by katun, the Maya twenty-year period, even while they record Spanish bishops, governors, and Christian years. The historical texts in the Books of Chilam Balam are built on the native Maya calendar, partly adapted to the European one. Option A is the most tempting, but these books were written in Yucatec Maya using the Latin alphabet, which was itself a change brought by the Spanish.",
+        "ref": { "title": "Chilam Balam", "url": "https://en.wikipedia.org/wiki/Chilam_Balam" }
+      },
+      {
+        "stem": "The entries about baptism, the first bishop, and 'the Fathers' settling at Maní reflect which development?",
+        "options": [
+          "Campaigns by Spanish missionaries, mostly Franciscan friars, to convert the Maya to Catholicism",
+          "Missions sent by Protestant churches in England and the Netherlands",
+          "A Maya religious revival that drove all Spanish priests out of Yucatán",
+          "A Spanish royal ban on missionaries in New Spain"
+        ],
+        "answer": 0,
+        "explanation": "Franciscan friars led the work of converting the Maya of Yucatán. Diego de Landa, whose death the chronicle records, was a Franciscan missionary who became head of the order in Yucatán, burned Maya books and images at Maní in 1562, and was named bishop of Yucatán in 1572. Option C is wrong: the chronicle records baptisms and bishops as events of the katuns, with no sign that the priests were driven out.",
+        "ref": { "title": "Diego de Landa", "url": "https://www.britannica.com/biography/Diego-de-Landa" }
+      }
+    ]
+  },
+  {
+    "id": "kongo-maize",
+    "topics": ["4.3"],
+    "doc": "pigafetta-lopes-1591-maize-kongo",
+    "questions": [
+      {
+        "stem": "The Kongo name for maize, 'Portugal grain,' suggests that the crop most likely reached Kongo through",
+        "options": [
+          "trans-Saharan caravans from North Africa",
+          "Swahili merchants trading across the Indian Ocean",
+          "the Bantu migrations from West Africa",
+          "Portuguese ships carrying American crops across the Atlantic"
+        ],
+        "answer": 3,
+        "explanation": "Maize is native to the Americas, and the Portuguese brought it to Africa in the 1500s as part of the Columbian Exchange, which is why the people of Kongo called it 'Portugal grain.' Trans-Saharan trade is tempting because it linked Africa to the Mediterranean for centuries, but it could not have carried an American crop.",
+        "ref": { "title": "Maize", "url": "https://en.wikipedia.org/wiki/Maize" }
+      },
+      {
+        "stem": "In Lopes's time, maize in Kongo was 'of so little value that they give it to pigs.' Which of the following best describes a later change involving this crop?",
+        "options": [
+          "Maize became one of Africa's most important staple food crops",
+          "Maize replaced wheat in the bread used for the Catholic mass in Kongo",
+          "Kongo became the main supplier of maize to European markets",
+          "African farmers gave up maize because it would not grow in tropical soils"
+        ],
+        "answer": 0,
+        "explanation": "Lopes saw maize as fit only for pigs, but over the following centuries it became one of Africa's most important staple food crops. Option B is wrong: the passage says that only wheat was used for the bread of the mass.",
+        "ref": { "title": "Maize", "url": "https://en.wikipedia.org/wiki/Maize" }
+      },
+      {
+        "stem": "The passage's note that only wheat bread was used 'in the celebration of mass' reflects which development in Kongo?",
+        "options": [
+          "The spread of Islam into Kongo through trans-Saharan trade",
+          "The conversion of Kongo's kings and many of their people to Catholic Christianity",
+          "Portugal's conquest and direct rule of the Kingdom of Kongo",
+          "The work of Protestant missionaries sent by the Dutch West India Company"
+        ],
+        "answer": 1,
+        "explanation": "Kongo's king Nzinga a Nkuwu and his son Afonso were baptized in 1491, and Christianity became permanently established in the kingdom. Option C is tempting, but Kongo remained an independent kingdom; the Portuguese built their own colony to the south, at Luanda, from 1575.",
+        "ref": { "title": "Kongo", "url": "https://www.britannica.com/place/Kongo-historical-kingdom-Africa" }
+      }
+    ]
+  },
+  {
+    "id": "gold-coast-firearms",
+    "topics": ["4.1", "4.4", "4.5"],
+    "doc": "bosman-1704-firearms",
+    "questions": [
+      {
+        "stem": "Bosman's reason for selling firearms best illustrates which feature of the Atlantic trade around 1700?",
+        "options": [
+          "An agreement among European states to stop selling weapons in Africa",
+          "Portugal's monopoly over European trade on the West African coast",
+          "Competition among several European nations and trading companies for African trade",
+          "A refusal by African rulers to trade with Europeans"
+        ],
+        "answer": 2,
+        "explanation": "Bosman sells guns because if the Dutch refused, 'the English, Danes, and Brandenburghers' would sell them instead. Portugal led the Atlantic slave trade in the 1500s, but the Dutch took the lead for parts of the 1600s, and English and French merchants controlled about half of it in the 1700s. Option B describes an earlier period, long before 1704.",
+        "ref": { "title": "Transatlantic slave trade", "url": "https://www.britannica.com/topic/transatlantic-slave-trade" }
+      },
+      {
+        "stem": "The trade described in the passage most directly contributed to which development in West Africa?",
+        "options": [
+          "More warfare among African states, which produced captives to sell to European slave traders",
+          "European conquest of the West African interior before 1750",
+          "The end of the trans-Saharan trade routes",
+          "A decline in African demand for European manufactured goods"
+        ],
+        "answer": 0,
+        "explanation": "States such as Dahomey went to war partly to take captives, and they sold many of those captives to Europeans in exchange for weapons. Guns helped these states fight their wars, and captives paid for more guns. Option B is wrong: Europeans did not conquer the interior in this period; France conquered Dahomey only in the 1890s.",
+        "ref": { "title": "Dahomey", "url": "https://www.britannica.com/place/Dahomey-historical-kingdom-Africa" }
+      },
+      {
+        "stem": "The passage best supports which conclusion about gunpowder weapons in this period?",
+        "options": [
+          "Europeans kept firearms out of the hands of non-Europeans",
+          "Africans used imported firearms mainly for hunting, not war",
+          "Firearms were first invented in West Africa and then copied by Europeans",
+          "Gunpowder weapons spread through trade, and African societies adopted them skillfully"
+        ],
+        "answer": 3,
+        "explanation": "Bosman says the people of the Gold Coast are 'wonderful dextrous' with muskets and that guns and gunpowder had become the chief goods sold there. African rulers such as Agaja of Dahomey were eager to buy arms from European traders. Option A is contradicted by the passage itself, since Bosman admits that Europeans sold 'incredible quantities' of guns.",
+        "ref": { "title": "Dahomey", "url": "https://www.britannica.com/place/Dahomey-historical-kingdom-Africa" }
+      },
+      {
+        "stem": "Bosman says that selling guns is like 'obliging them with a Knife to cut our own Throats.' This comment shows that he",
+        "options": [
+          "believed the gun trade was immoral and should end at once",
+          "saw the gun trade as dangerous to Europeans but too profitable to give up",
+          "wanted Africans to use the guns against the English and the Danes",
+          "thought that Africans could not learn to use firearms"
+        ],
+        "answer": 1,
+        "explanation": "Bosman was a head merchant of the Dutch West India Company, and he judges the gun trade by Dutch safety and profit. He fears the guns could be turned on Europeans, but he says 'we are forced to it' because rivals would take the trade, and without guns the Dutch would have 'but an indifferent Trade.' Option A misreads him: his worry is danger to Europeans, not right and wrong.",
+        "ref": { "title": "Willem Bosman", "url": "https://en.wikipedia.org/wiki/Willem_Bosman" }
+      }
+    ]
+  },
+  {
+    "id": "whydah-war-captives",
+    "topics": ["4.4", "4.5"],
+    "doc": "snelgrave-1734-war-captives",
+    "questions": [
+      {
+        "stem": "Snelgrave's argument in the passage was most likely meant to",
+        "options": [
+          "call for an end to the Atlantic slave trade",
+          "persuade African rulers to free their war captives",
+          "defend the slave trade by claiming that it saved captives from being killed",
+          "urge Britain to conquer the kingdom of Dahomey"
+        ],
+        "answer": 2,
+        "explanation": "Snelgrave, a slave-ship captain, argues that captives 'would be inhumanly destroyed' if Europeans did not buy them. Defenders of the slave trade often claimed that buying slaves saved captives from execution, and the claim served Snelgrave's own business. Option A misreads the passage: he describes cruelty only to argue that the trade was a kindness.",
+        "ref": { "title": "Atlantic slave trade", "url": "https://en.wikipedia.org/wiki/Atlantic_slave_trade" }
+      },
+      {
+        "stem": "Which statement about African history best supports Snelgrave's claim that Africans had enslaved war captives 'time out of Mind'?",
+        "options": [
+          "Slavery and the sale of war captives existed in many African societies before Europeans arrived on the coast",
+          "Slavery in Africa was the same as the hereditary plantation slavery of the Americas",
+          "Africans began taking war captives only after Europeans offered to buy them",
+          "European governments had banned slavery in their colonies before 1700"
+        ],
+        "answer": 0,
+        "explanation": "Historians agree that Africa had a large population of enslaved people before and during the Atlantic trade, and that rulers and traders sold captives taken in wars. Option B goes too far: slavery in African societies took many forms and was not the same as the race-based, hereditary plantation slavery that developed in the Americas.",
+        "ref": { "title": "Atlantic slave trade", "url": "https://en.wikipedia.org/wiki/Atlantic_slave_trade" }
+      },
+      {
+        "stem": "Which of the following best describes the role of African states such as Dahomey in the trade Snelgrave describes?",
+        "options": [
+          "They were ruled directly by European trading companies",
+          "They had little part in the trade, because European raiders seized most captives",
+          "They traded only gold and ivory and refused to sell captives",
+          "Their rulers took captives in war and sold many of them to Europeans at the coast"
+        ],
+        "answer": 3,
+        "explanation": "Dahomey was organized for war, partly to take captives. Its kings sold captives to Europeans in exchange for weapons or kept them to work royal plantations, just as Snelgrave mentions captives kept for 'their own Plantations.' Option B is wrong: European traders mostly stayed at the coast and bought captives that African rulers and traders brought from inland.",
+        "ref": { "title": "Dahomey", "url": "https://www.britannica.com/place/Dahomey-historical-kingdom-Africa" }
+      }
+    ]
+  },
+  {
+    "id": "kilwa-1505",
+    "topics": ["4.2", "4.4"],
+    "doc": "mayr-1505-kilwa",
+    "questions": [
+      {
+        "stem": "The actions described in the passage best illustrate which Portuguese strategy in the Indian Ocean?",
+        "options": [
+          "Sending large numbers of Portuguese farmers to settle the East African interior",
+          "Using armed fleets to seize port cities and build forts to control trade",
+          "Signing equal trade treaties with the Swahili city-states",
+          "Trading at existing markets without using military force"
+        ],
+        "answer": 1,
+        "explanation": "Almeida's fleet took Kilwa, turned its best house into a fortress, and left eighty men to hold it. As viceroy, Almeida built a series of fortified posts to make Portugal the strongest power in the East and to control the spice trade. Option A is wrong: the Portuguese held coastal forts and sea routes, not large farming settlements inland.",
+        "ref": { "title": "Francisco de Almeida", "url": "https://www.britannica.com/biography/Francisco-de-Almeida" }
+      },
+      {
+        "stem": "Kilwa was a target for the Portuguese mainly because it",
+        "options": [
+          "produced most of the pepper sold in Europe",
+          "was the capital of the Christian kingdom of Ethiopia",
+          "was a wealthy Swahili city linked to the gold trade through its outpost at Sofala",
+          "was the main port for Chinese silk and porcelain"
+        ],
+        "answer": 2,
+        "explanation": "Kilwa was a rich Muslim trading city, and Sofala, its southern outpost, exported gold from the interior of what is now Zimbabwe. In 1505 the Portuguese also seized Sofala and built a fort there to capture this gold trade. Option A is wrong: Europe's pepper came mainly from the Malabar coast of India, not from East Africa.",
+        "ref": { "title": "Sofala", "url": "https://www.britannica.com/place/Sofala" }
+      },
+      {
+        "stem": "The procession with crosses and the singing of the Te Deum after the town was taken shows which motive for Portuguese expansion?",
+        "options": [
+          "Spreading Christianity alongside the search for trade and wealth",
+          "Escaping religious persecution in Portugal",
+          "Forming alliances with Muslim rulers against the Ottomans",
+          "Finding new land for Portugal's growing population"
+        ],
+        "answer": 0,
+        "explanation": "The friars celebrate the capture with crosses and a hymn of thanks, and then the men plunder the town. Since Prince Henry's time, Portuguese voyages had aimed both to spread Christianity and to win trade and riches. Option B describes groups like the English Puritans, not the expeditions of the Portuguese crown.",
+        "ref": { "title": "Henry the Navigator", "url": "https://www.britannica.com/biography/Henry-the-Navigator" }
+      },
+      {
+        "stem": "Compared with Spanish conquests in the Americas in the 1500s, Portuguese expansion in East Africa differed mainly because the Portuguese",
+        "options": [
+          "relied on epidemic disease to weaken the local population",
+          "converted most of the local people to Christianity within a generation",
+          "avoided using military force against local rulers",
+          "held a few fortified ports instead of conquering large inland populations"
+        ],
+        "answer": 3,
+        "explanation": "The Portuguese seized coastal towns like Kilwa to control sea trade, and they held Kilwa itself only from 1505 to 1512. The Spanish, by contrast, conquered the Aztec and Inca empires and ruled millions of people inland. Option C is wrong because the passage shows the Portuguese seizing messengers, taking the town, and plundering it.",
+        "ref": { "title": "Kilwa", "url": "https://www.britannica.com/place/Kilwa" }
+      }
+    ]
+  },
+  {
+    "id": "malacca-cannon",
+    "topics": ["4.1", "4.4"],
+    "doc": "malay-annals-1612-cannon-malacca",
+    "questions": [
+      {
+        "stem": "The passage most directly shows which advantage the Portuguese had when they attacked Malacca?",
+        "options": [
+          "Armies much larger than any Southeast Asian ruler could raise",
+          "Resistance to the tropical diseases that weakened local soldiers",
+          "Ship-mounted cannon that could bombard a port from the water",
+          "Support from a Ming Chinese fleet"
+        ],
+        "answer": 2,
+        "explanation": "The annals describe Portuguese ships firing cannon at the shore and killing people on land. In 1511 Albuquerque's force was far smaller than the sultan's army of about 20,000 men, but his fleet carried powerful artillery with a longer range than Malacca's guns. Option A is wrong because the Portuguese were heavily outnumbered.",
+        "ref": { "title": "Capture of Malacca (1511)", "url": "https://en.wikipedia.org/wiki/Capture_of_Malacca_(1511)" }
+      },
+      {
+        "stem": "Malacca was valuable to the Portuguese mainly because it",
+        "options": [
+          "sat on a narrow strait, and much of Asia's spice trade passed through its port",
+          "grew most of the world's cloves and nutmeg",
+          "was the main Spanish base in Asia",
+          "was the capital of the Mughal Empire"
+        ],
+        "answer": 0,
+        "explanation": "Malacca lies on the Strait of Malacca, and the spice trade that passed through its port brought the Portuguese enormous profits after 1511. Option B is tempting, but cloves and nutmeg grew in the Spice Islands farther east; Malacca was a trading hub, not the place where spices were grown.",
+        "ref": { "title": "Melaka", "url": "https://www.britannica.com/place/Melaka-Malaysia" }
+      },
+      {
+        "stem": "The Malay Annals were written to honor the sultans of Malacca, and the surviving version was revised in 1612, a century after the conquest. The passage is therefore most useful as evidence of",
+        "options": [
+          "the exact number of ships in the Portuguese fleet",
+          "how the Malay court later remembered and explained the Portuguese attack",
+          "the orders the Portuguese viceroy gave to his captains",
+          "how Chinese merchants in Malacca viewed the Portuguese"
+        ],
+        "answer": 1,
+        "explanation": "The main theme of the Malay Annals is the greatness of the Malaccan state, and the text was changed in 1612. That makes the passage strong evidence of the court's memory and point of view, but weaker evidence for exact details. Option A trusts the numbers too much: a later court chronicle is not a reliable count of ships.",
+        "ref": { "title": "Sejarah Melayu", "url": "https://www.britannica.com/topic/Sejarah-Melayu" }
+      },
+      {
+        "stem": "Which of the following was a result of the Portuguese capture of Malacca in 1511?",
+        "options": [
+          "The Malacca sultans converted to Christianity and ruled as Portuguese allies",
+          "The Ming dynasty sent its navy to drive the Portuguese out of the city",
+          "Portugal gained complete control of the spice trade of Southeast Asia",
+          "The Portuguese built a fortress and held Malacca as a trading base"
+        ],
+        "answer": 3,
+        "explanation": "After the conquest the Portuguese built a fortress designed by Albuquerque and held Malacca until the Dutch took it in 1641. Option C is tempting, but Portugal never controlled the whole spice trade; rival states, including Johor, founded by the exiled sultan's family, kept competing for it.",
+        "ref": { "title": "Melaka", "url": "https://www.britannica.com/place/Melaka-Malaysia" }
+      }
+    ]
+  },
+  {
+    "id": "malabar-franks",
+    "topics": ["4.4", "4.5"],
+    "doc": "zainuddin-1583-franks-oppression",
+    "questions": [
+      {
+        "stem": "Zainuddin's book, from which this passage comes, was most likely written to",
+        "options": [
+          "praise the Portuguese for opening new trade routes to Europe",
+          "persuade the Portuguese to convert to Islam",
+          "urge the Muslims of Malabar to fight the Portuguese",
+          "ask the Mughal emperor to tax Portuguese merchants"
+        ],
+        "answer": 2,
+        "explanation": "The Tuhfat al-Mujahidin calls on Muslims to wage jihad against the Portuguese under the Zamorin of Calicut, and Zainuddin dedicated it to the sultan of Bijapur. His anger at Portuguese attacks on ships, mosques, and Muslim scholars fits this purpose. Option D is wrong because the book looked to local rulers in southern India for leadership, not to the Mughals, who did not rule Malabar.",
+        "ref": { "title": "Tuhfat Ul Mujahideen", "url": "https://en.wikipedia.org/wiki/Tuhfat_Ul_Mujahideen" }
+      },
+      {
+        "stem": "The Portuguese practice of lying in wait to intercept ships was part of which system?",
+        "options": [
+          "The Navigation Acts, which kept foreign ships out of English colonial trade",
+          "The cartaz system, which made Asian ships buy Portuguese passes or risk seizure",
+          "The Manila galleon trade between the Philippines and Mexico",
+          "The Ming tribute system, which required foreign rulers to send gifts to China"
+        ],
+        "answer": 1,
+        "explanation": "From 1502 the Portuguese required ships sailing along the Indian coast to carry a cartaz, a pass bought from them. Each monsoon season their fleets patrolled the coasts and attacked or seized ships without one, mainly Muslim, Hindu, and Malay ships. The Navigation Acts are tempting because they also controlled shipping, but they were English laws of the 1600s for England's own trade.",
+        "ref": { "title": "Cartaz", "url": "https://en.wikipedia.org/wiki/Cartaz" }
+      },
+      {
+        "stem": "In the period Zainuddin describes (1498 to 1583), Portuguese attacks on Malabar shipping were resisted most directly by",
+        "options": [
+          "the fleets of the Dutch East India Company",
+          "the Ming treasure fleets of Zheng He",
+          "the navy of the Mughal emperor Akbar",
+          "the Zamorin of Calicut and the Muslim sea captains known as the Kunjali Marakkars"
+        ],
+        "answer": 3,
+        "explanation": "Zainuddin's history describes the fight that the fleets of the Kunjali Marakkars, allied with the Hindu Zamorin of Calicut, waged against the Portuguese from 1498 to 1583. Option A is wrong for this period because the Dutch East India Company was not founded until 1602.",
+        "ref": { "title": "Tuhfat Ul Mujahideen", "url": "https://en.wikipedia.org/wiki/Tuhfat_Ul_Mujahideen" }
+      }
+    ]
+  },
+  {
+    "id": "dejima-dutch",
+    "topics": ["4.4", "4.5"],
+    "doc": "kaempfer-1692-dejima",
+    "questions": [
+      {
+        "stem": "The restrictions on the Dutch described in the passage were part of which Tokugawa policy?",
+        "options": [
+          "Limiting contact with Europeans to the Dutch at Nagasaki while banning Christianity",
+          "Inviting Jesuit missionaries to teach European science at the shogun's court",
+          "Opening Japanese ports to all foreign traders",
+          "Sending Japanese merchants abroad to build trading posts across Asia"
+        ],
+        "answer": 0,
+        "explanation": "Under the sakoku policy the shogunate banned Christianity, forbade Japanese people to travel abroad, and in 1639 closed Japan to Portuguese ships. The Dutch were allowed to stay, but only on the small artificial island of Dejima in Nagasaki harbor. Option D is the reverse of the policy: from 1635 Japanese people were forbidden to travel overseas.",
+        "ref": { "title": "Sakoku", "url": "https://www.britannica.com/topic/sakoku" }
+      },
+      {
+        "stem": "The Tokugawa shogunate let the Dutch, but not the Portuguese, keep trading in Japan mainly because the Dutch",
+        "options": [
+          "had a navy strong enough to force Japan to accept them",
+          "had converted to Buddhism",
+          "were willing to trade without trying to spread Christianity",
+          "had helped the Japanese invade Korea"
+        ],
+        "answer": 2,
+        "explanation": "The shogunate saw Christianity as a threat to its rule, and Kaempfer shows the Dutch giving up public prayer, psalms, and the sign of the cross to keep their trade. The Portuguese, who had brought Catholic missionaries, were shut out in 1639. Option A is wrong: Japan set the terms, and the Dutch accepted what Kaempfer calls 'an almost perpetual imprisonment' at Dejima.",
+        "ref": { "title": "Sakoku", "url": "https://www.britannica.com/topic/sakoku" }
+      },
+      {
+        "stem": "Kaempfer's description best supports which conclusion about European trade with Japan around 1700?",
+        "options": [
+          "European merchants used warships to force Japan to open more ports",
+          "Japanese rulers set the terms of trade, and Europeans had to accept them to profit",
+          "Japan had cut off all foreign trade completely",
+          "The Dutch could travel and preach freely inside Japan"
+        ],
+        "answer": 1,
+        "explanation": "The Dutch accepted life on a walled island, posts in the water warning boats away, and a ban on showing their religion, because the trade was 'most advantageous.' Option C is tempting because of the word 'isolation,' but Japan still traded with the Dutch and Chinese at Nagasaki and kept up trade with Korea and the Ryukyu Islands.",
+        "ref": { "title": "Sakoku", "url": "https://www.britannica.com/topic/sakoku" }
+      }
+    ]
+  },
+  {
+    "id": "shimabara-arrow-letter",
+    "topics": ["4.6"],
+    "doc": "shimabara-rebels-1638-arrow-letter",
+    "questions": [
+      {
+        "stem": "According to the letter, the rebels took up arms mainly because",
+        "options": [
+          "they wanted to conquer lands and win houses for themselves",
+          "Portuguese priests had ordered them to overthrow the shogun",
+          "they hoped to restore the emperor to real power",
+          "Christians were punished, tortured, and killed for refusing to give up their faith"
+        ],
+        "answer": 3,
+        "explanation": "The rebels say they did not rise 'for the sake of conquering countries and acquiring houses' but because Christians who would not change their religion were 'tortured to death.' Japan had banned Christianity in 1614, and this persecution helped bring on the Shimabara Rebellion. Option A is the exact claim the letter denies.",
+        "ref": { "title": "Sakoku", "url": "https://www.britannica.com/topic/sakoku" }
+      },
+      {
+        "stem": "Historians point to which other major cause of the Shimabara Rebellion, one that this letter does not mention?",
+        "options": [
+          "A Portuguese invasion of the island of Kyushu",
+          "Heavy taxes and harsh treatment of peasants by local lords and officials",
+          "The shogun's decision to open Japan to Dutch traders",
+          "A famine caused by crops brought from the Americas"
+        ],
+        "answer": 1,
+        "explanation": "The revolt began with peasants angry at heavy taxation and abuses by local officials on the Shimabara Peninsula and the Amakusa Islands. Because many of these peasants were Catholics, the rebellion soon took on a Christian character. Option A is wrong: no Portuguese army invaded Japan, although the shogunate distrusted Portuguese influence.",
+        "ref": { "title": "Shimabara Rebellion", "url": "https://www.britannica.com/event/Shimabara-Rebellion" }
+      },
+      {
+        "stem": "Which of the following was a result of the Shimabara Rebellion?",
+        "options": [
+          "The shogunate enforced its ban on Christianity more strictly and shut out the Portuguese",
+          "The shogunate legalized Christianity to restore peace",
+          "The Tokugawa shogunate collapsed, and Japan split into warring states",
+          "Japan opened more of its ports to European merchants"
+        ],
+        "answer": 0,
+        "explanation": "After the rebellion was put down, all Japanese people had to register with a Buddhist temple to root out Christianity, and in 1639 Portuguese ships were forbidden to come to Japan. Option C is wrong: the Tokugawa shogunate lasted until 1867.",
+        "ref": { "title": "Sakoku", "url": "https://www.britannica.com/topic/sakoku" }
+      },
+      {
+        "stem": "In giving the suppression of their religion as a reason to rebel, the Shimabara rebels most resemble which other group of this period?",
+        "options": [
+          "The Parisian crowds and judges of the Fronde, who opposed royal taxes",
+          "The Cossacks and peasants who rose with Stenka Razin against Russian nobles",
+          "The Pueblo peoples of New Mexico, who revolted against Spanish rule in 1680",
+          "The Chinese peasants who followed Li Zicheng after years of famine"
+        ],
+        "answer": 2,
+        "explanation": "The Pueblo peoples rose in 1680 after missionaries forced Catholicism on them and burned their sacred objects; like the Shimabara rebels, they fought partly to protect their own religion. The Fronde is tempting as another revolt of the mid-1600s, but it was a fight over taxes and royal power, not religion.",
+        "ref": { "title": "Pueblo Rebellion", "url": "https://www.britannica.com/event/Pueblo-Rebellion" }
+      }
+    ]
+  },
+  {
+    "id": "manila-silver-china",
+    "topics": ["4.3", "4.5"],
+    "doc": "grau-y-monfalcon-1637-silver-to-china",
+    "questions": [
+      {
+        "stem": "The trade between Spanish America and the Philippines described in the passage was carried mainly by",
+        "options": [
+          "Portuguese ships sailing around the Cape of Good Hope to Macau",
+          "Spanish galleons that crossed the Pacific between Acapulco and Manila",
+          "Dutch East India Company ships based at Batavia",
+          "camel caravans on the overland Silk Roads"
+        ],
+        "answer": 1,
+        "explanation": "From 1565 to 1815 the Manila galleons made one round trip a year across the Pacific, carrying Chinese silk and other Asian goods to Acapulco and bringing back huge amounts of Mexican silver. Option A was a real route, but it was Portuguese and linked Europe with Asia, not New Spain with the Philippines.",
+        "ref": { "title": "Manila galleon", "url": "https://www.britannica.com/technology/Manila-galleon" }
+      },
+      {
+        "stem": "China's role as 'the general center for the silver of Europe and Asia' is best explained by which development?",
+        "options": [
+          "The Qing dynasty's ban on all foreign trade",
+          "China's lack of manufactured goods to sell abroad",
+          "The Ming government's reliance on paper money instead of metal",
+          "The Ming government's demand that most taxes be paid in silver"
+        ],
+        "answer": 3,
+        "explanation": "Under the single whip reform, spread across the empire in 1580, the Ming turned most taxes and labor duties into one payment in silver. Demand for silver rose, and China imported it from Japan and Spanish America in exchange for silk and other goods. Option B is contradicted by the passage itself, which complains about cheap Chinese textiles flooding the Americas.",
+        "ref": { "title": "Single whip law", "url": "https://en.wikipedia.org/wiki/Single_whip_law" }
+      },
+      {
+        "stem": "The case against the Manila trade set out in this passage most directly served the interests of",
+        "options": [
+          "merchants in Seville whose goods competed with cheap Chinese textiles in the Americas",
+          "Chinese merchants who sold silk in Manila",
+          "Spanish colonists in Manila who lived off the galleon trade",
+          "mine owners in Peru who sold silver to buyers bound for Manila"
+        ],
+        "answer": 0,
+        "explanation": "The source line explains that Grau is setting out the Seville merchants' case. Seville held the official monopoly on Spain's trade with the Americas, and its merchants asked the king to protect it, complaining that silver drained away to China and that Chinese silks and cottons undersold Spanish goods. Option C is wrong because the Spanish in Manila depended on the galleon trade and wanted it to continue.",
+        "ref": { "title": "Manila galleon", "url": "https://en.wikipedia.org/wiki/Manila_galleon" }
+      },
+      {
+        "stem": "The complaint that sending silver to Asia harms Spain best reflects which economic idea of the period?",
+        "options": [
+          "Laissez-faire, the idea that governments should leave trade alone",
+          "The Confucian view that merchants were the lowest social class",
+          "Mercantilism, the belief that a kingdom grows rich by keeping gold and silver and selling more than it buys",
+          "Joint-stock investment, in which many investors share the risks of a trading company"
+        ],
+        "answer": 2,
+        "explanation": "Mercantilists held that gold and silver were the basis of a nation's wealth and that trade should bring bullion in, not send it out. The memorial objects both to silver leaving Spain's empire and to foreign goods beating Spanish ones. Option A is the opposite view, which later critics of mercantilism argued for.",
+        "ref": { "title": "Mercantilism", "url": "https://www.britannica.com/topic/mercantilism" }
+      }
+    ]
+  },
+  {
+    "id": "henry-bojador-voyage",
+    "topics": ["4.1", "4.2"],
+    "doc": "zurara-1453-gil-eannes-bojador",
+    "questions": [
+      {
+        "stem": "Prince Henry's mention of 'the needle or sailing-chart' refers to which tools that aided Portuguese voyages?",
+        "options": [
+          "The printing press and printed maps",
+          "The lateen sail and the sternpost rudder",
+          "The telescope and the marine chronometer",
+          "The magnetic compass and charts of the sea"
+        ],
+        "answer": 3,
+        "explanation": "A magnetic compass uses a magnetized needle that lines up in a north-south direction, and sea charts showed coasts and routes. Henry dismisses the fears of sailors from the familiar Flanders trade, who know nothing of these tools. The lateen sail and sternpost rudder (option B) also mattered on these voyages, but they are parts of a ship, not a needle or a chart.",
+        "ref": { "title": "Compass", "url": "https://www.britannica.com/technology/compass-navigational-instrument" }
+      },
+      {
+        "stem": "Henry's words to his captains best reflect which motive for Portuguese exploration?",
+        "options": [
+          "The hope of winning honor and profit, with God's favor",
+          "The need to find farmland for a crowded Portugal",
+          "The wish to escape religious persecution at home",
+          "The search for a western sea route to China"
+        ],
+        "answer": 0,
+        "explanation": "Henry tells his men that 'the hope of reward' outweighs any danger and that 'with the grace of God' they will gain 'honour and profit.' His voyages sought West African trade, especially in gold and enslaved people, along with the spread of Christianity. Option D was Columbus's plan for Spain in 1492; Henry's captains sailed south along the coast of Africa.",
+        "ref": { "title": "Henry the Navigator", "url": "https://www.britannica.com/biography/Henry-the-Navigator" }
+      },
+      {
+        "stem": "The voyage described in the passage was part of which larger effort?",
+        "options": [
+          "Spain's final campaign to conquer Granada",
+          "The Ming dynasty's treasure voyages across the Indian Ocean",
+          "A series of Portuguese voyages, paid for by Henry, down the west coast of Africa",
+          "Venetian efforts to control the spice trade through Egypt"
+        ],
+        "answer": 2,
+        "explanation": "From the 1420s Henry paid for voyages along the western coast of Africa, and by his death in 1460 his captains had reached what is now Sierra Leone. The Ming treasure voyages (option B) were also state-sponsored voyages of the early 1400s, but they were Chinese fleets in the Indian Ocean, and they had ended by 1433.",
+        "ref": { "title": "Henry the Navigator", "url": "https://www.britannica.com/biography/Henry-the-Navigator" }
+      },
+      {
+        "stem": "Which development followed most directly from voyages like the one in the passage?",
+        "options": [
+          "The Portuguese conquest of the Aztec Empire",
+          "A Portuguese trade in gold and enslaved Africans, with a fort and trading post on Arguin Island",
+          "The founding of Portuguese colonies in North America",
+          "The Portuguese capture of Ceuta in North Africa"
+        ],
+        "answer": 1,
+        "explanation": "In 1441 a caravel came back from West Africa with gold dust and enslaved people, and by 1448 the trade in enslaved Africans was large enough for Henry to order a fort and warehouse built on Arguin Island. Option D is wrong on timing: Portugal captured Ceuta in 1415, before these voyages, and that conquest was the start of Henry's career.",
+        "ref": { "title": "Henry the Navigator", "url": "https://www.britannica.com/biography/Henry-the-Navigator" }
+      }
+    ]
+  },
+  {
+    "id": "navigation-act-1651",
+    "topics": ["4.5"],
+    "doc": "english-parliament-1651-navigation-act",
+    "questions": [
+      {
+        "stem": "The Navigation Act of 1651 was aimed mainly at which rival of England?",
+        "options": [
+          "Spain, whose treasure fleets carried American silver",
+          "Portugal, which controlled the sea route around Africa",
+          "The Dutch Republic, whose merchants carried much of Europe's sea trade",
+          "France, whose colonists in Canada traded in furs"
+        ],
+        "answer": 2,
+        "explanation": "The act said that goods from Asia, Africa, and America could reach England and its colonies only in English or colonial ships. It was aimed at the Dutch, then England's greatest commercial rivals. Spain is tempting as England's old enemy, but the act was about which ships could carry goods, and Dutch shipping was its main target.",
+        "ref": { "title": "Navigation Acts", "url": "https://www.britannica.com/event/Navigation-Acts" }
+      },
+      {
+        "stem": "The act's stated purpose, 'the increase of the shipping' of England, was linked to which goal?",
+        "options": [
+          "Ending England's part in the Atlantic slave trade",
+          "Letting English colonists trade with any nation they chose",
+          "Ending the trade monopoly of the English East India Company",
+          "Building a large merchant fleet that could support the navy in wartime"
+        ],
+        "answer": 3,
+        "explanation": "The Navigation Acts were first framed to build up English shipping so that enough extra ships would be ready in wartime, and they became a form of trade protection in the age of mercantilism. Option B is the reverse of the act, which shut foreign ships out of England's colonial trade.",
+        "ref": { "title": "Navigation Acts", "url": "https://www.britannica.com/event/Navigation-Acts" }
+      },
+      {
+        "stem": "The Navigation Act of 1651 contributed most directly to which of the following?",
+        "options": [
+          "A series of naval wars between England and the Dutch Republic",
+          "An English alliance with the Dutch against Spain",
+          "The founding of the English East India Company",
+          "Spain's loss of its colonies in the Americas"
+        ],
+        "answer": 0,
+        "explanation": "The First Anglo-Dutch War (1652 to 1654) grew out of the Navigation Act of 1651, which tried to shut the Dutch out of English sea trade, and commercial rivalry led to two more wars in the 1660s and 1670s. Option C cannot be a result, because the English East India Company was founded in 1600, half a century before the act.",
+        "ref": { "title": "Anglo-Dutch Wars", "url": "https://www.britannica.com/event/Anglo-Dutch-Wars" }
+      }
+    ]
+  },
+  {
+    "id": "fronde-barricades",
+    "topics": ["4.6"],
+    "doc": "retz-1648-barricades",
+    "questions": [
+      {
+        "stem": "The events described in the passage were part of which conflict?",
+        "options": [
+          "The French Wars of Religion between Catholics and Huguenots",
+          "The Fronde, a series of revolts against royal government while Louis XIV was a child",
+          "The French Revolution",
+          "The Thirty Years' War in the German states"
+        ],
+        "answer": 1,
+        "explanation": "On 26 August 1648 the queen's officers arrested two outspoken judges of the Parlement of Paris, and an uprising in the city forced their release two days later. This was part of the Fronde (1648 to 1653), a challenge to the growing power of the royal government during Louis XIV's minority. Option A is tempting because the crowds used banners left by 'the League' from the Wars of Religion, but those wars had ended in the 1590s.",
+        "ref": { "title": "The Fronde", "url": "https://www.britannica.com/event/The-Fronde" }
+      },
+      {
+        "stem": "The crowd's cry of 'No Mazarin!' shows opposition to",
+        "options": [
+          "the pope's control over the French Church",
+          "Louis XIV's decision to cancel the Edict of Nantes",
+          "Spanish troops occupying Paris",
+          "the queen regent's chief minister and his government's demands for money"
+        ],
+        "answer": 3,
+        "explanation": "Cardinal Jules Mazarin, born in Italy, ran the government for the queen regent, Anne of Austria. The revolt began when the Parlement of Paris refused to approve the government's revenue measures while France was at war with Spain. Option B is wrong on timing: Louis XIV cancelled the Edict of Nantes in 1685, decades after the Fronde.",
+        "ref": { "title": "The Fronde", "url": "https://www.britannica.com/event/The-Fronde" }
+      },
+      {
+        "stem": "Which of the following was a long-term result of the Fronde?",
+        "options": [
+          "The failure of the revolts prepared the way for Louis XIV's absolute rule",
+          "France became a constitutional monarchy in which the Parlement approved all taxes",
+          "The rebels captured and executed Cardinal Mazarin",
+          "The French nobles won the right to elect the king"
+        ],
+        "answer": 0,
+        "explanation": "The Fronde ended in victory for Mazarin and the crown. By showing that the nobles and the Parlement could not lead, it cost them their role as a check on the king, and its failure prepared the way for the absolutism of Louis XIV. Option B is tempting because the Parlement demanded the right to approve new taxes in 1648, but by the end of the Fronde it was forbidden to interfere in royal government.",
+        "ref": { "title": "The Fronde", "url": "https://www.britannica.com/event/The-Fronde" }
+      },
+      {
+        "stem": "Retz's closing comment about subjects making 'a mere form' of their obedience suggests that he",
+        "options": [
+          "believed subjects must obey their king in all cases",
+          "blamed the Parisian crowds alone for the violence",
+          "blamed royal favorites who ignored the subjects' interests for causing the revolt",
+          "wanted to end the monarchy and make France a republic"
+        ],
+        "answer": 2,
+        "explanation": "Retz says the 'Court minions' turned the real care that kings owe their subjects into 'mere style and form,' so in a crisis subjects treat their obedience the same way. Retz was one of the leaders of the Fronde and wrote his memoirs years later, so it suits him to blame the court rather than the rebels. Option D goes too far: the crowd still shouted 'God bless the King!'",
+        "ref": { "title": "Jean-François-Paul de Gondi, cardinal de Retz", "url": "https://www.britannica.com/biography/Jean-Francois-Paul-de-Gondi-cardinal-de-Retz" }
+      }
+    ]
+  }
+]
