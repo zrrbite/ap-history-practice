@@ -97,3 +97,35 @@ test('checkRef gives up when the Wayback index stays offline', async () => {
   assert.equal(result.ok, false);
   assert.match(result.reason, /Wayback index unavailable/);
 });
+
+test('checkRef reports a Wikipedia fetch that keeps timing out instead of throwing', async () => {
+  const { fetch } = fetcher([[/wikipedia/, () => { throw new Error('The operation was aborted due to timeout'); }]]);
+  const result = await checkRef(WIKI, fetch, { wait: noWait });
+  assert.equal(result.ok, false);
+  assert.match(result.reason, /fetch failed: The operation was aborted due to timeout/);
+});
+
+test('checkRef retries a Wikipedia page that answers 429', async () => {
+  const { fetch } = fetcher([[/wikipedia/, (n) => (n < 2 ? { status: 429, text: 'slow down' } : { status: 200, text: '<title>Mit&#39;a - Wikipedia</title>' })]]);
+  assert.equal((await checkRef(WIKI, fetch, { wait: noWait })).ok, true);
+});
+
+test('checkRef retries the Wayback index when the request times out', async () => {
+  const { fetch } = fetcher([
+    [CDX, (n) => { if (n < 2) throw new Error('The operation was aborted due to timeout'); return { status: 200, text: '[["timestamp","original"],["20261006053551","https://www.britannica.com/topic/encomienda"]]' }; }],
+    [/id_\//, { status: 200, text: '<title>Encomienda | Spanish colonial system | Britannica</title>' }],
+  ]);
+  assert.equal((await checkRef(BRIT, fetch, { wait: noWait })).ok, true);
+});
+
+test('checkRef retries a Wayback snapshot that times out or answers 503', async () => {
+  const { fetch } = fetcher([
+    [CDX, { status: 200, text: '[["timestamp","original"],["20261006053551","https://www.britannica.com/topic/encomienda"]]' }],
+    [/id_\//, (n) => {
+      if (n === 1) throw new Error('The operation was aborted due to timeout');
+      if (n === 2) return { status: 503, text: 'unavailable' };
+      return { status: 200, text: '<title>Encomienda | Spanish colonial system | Britannica</title>' };
+    }],
+  ]);
+  assert.equal((await checkRef(BRIT, fetch, { wait: noWait })).ok, true);
+});

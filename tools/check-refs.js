@@ -38,27 +38,50 @@ export function titleMatches(refTitle, title) {
 const cdxUrl = (url) =>
   `https://web.archive.org/cdx/search/cdx?url=${encodeURIComponent(url.replace(/^https?:\/\//, ''))}&filter=statuscode:200&limit=-1&fl=timestamp,original&output=json`;
 
+const isTransient = (page) => page.status === 0 || page.status === 429 || page.status >= 500;
+
+// Calls the fetcher until `again` is false or the attempts run out, waiting between tries.
+// A thrown error becomes {status: 0, error}. Returns the last answer.
+async function patientFetch(url, fetcher, { retries, wait }, again = isTransient) {
+  for (let attempt = 1; ; attempt++) {
+    let page;
+    try {
+      page = await fetcher(url);
+    } catch (error) {
+      page = { status: 0, text: '', error: error.message };
+    }
+    if (!again(page) || attempt >= retries) return page;
+    await wait(attempt * 2000);
+  }
+}
+
+// The parsed Wayback index, or null when the answer is not a usable 200 JSON array.
+function parseIndex(page) {
+  if (page.status !== 200) return null;
+  try {
+    return JSON.parse(page.text);
+  } catch {
+    // The index answers with an HTML "Temporarily Offline" page when it is overloaded.
+    return null;
+  }
+}
+
 // Finds the page title behind a reference URL: {title, via} or {reason}.
 export async function resolveTitle(url, fetcher, { retries = 3, wait = sleep } = {}) {
+  const options = { retries, wait };
   if (!BRITANNICA.test(url)) {
-    const page = await fetcher(url);
+    const page = await patientFetch(url, fetcher, options);
+    if (page.error) return { reason: `fetch failed: ${page.error}` };
     return page.status === 200 ? { via: 'direct', title: pageTitle(page.text) } : { reason: `HTTP ${page.status}` };
   }
-  let rows = null;
-  for (let attempt = 1; attempt <= retries && rows === null; attempt++) {
-    const index = await fetcher(cdxUrl(url));
-    try {
-      if (index.status === 200) rows = JSON.parse(index.text);
-    } catch {
-      // The index answers with an HTML "Temporarily Offline" page when it is overloaded.
-    }
-    if (rows === null && attempt < retries) await wait(attempt * 2000);
-  }
+  const index = await patientFetch(cdxUrl(url), fetcher, options, (page) => parseIndex(page) === null);
+  const rows = parseIndex(index);
   if (rows === null) return { reason: 'Wayback index unavailable; try again later' };
   const captures = rows.slice(1);
   if (captures.length === 0) return { reason: 'no Wayback capture; use a Wikipedia link instead' };
   const [timestamp, original] = captures[captures.length - 1];
-  const snapshot = await fetcher(`https://web.archive.org/web/${timestamp}id_/${original}`);
+  const snapshot = await patientFetch(`https://web.archive.org/web/${timestamp}id_/${original}`, fetcher, options);
+  if (snapshot.error) return { reason: `fetch failed: ${snapshot.error}` };
   return snapshot.status === 200 ? { via: 'wayback', title: pageTitle(snapshot.text) } : { reason: `Wayback capture HTTP ${snapshot.status}` };
 }
 
