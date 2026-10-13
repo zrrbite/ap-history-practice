@@ -240,17 +240,34 @@ fallback as the DBQ tab.
 
 ### Shareable codes
 
-The current item is kept in the URL hash, which is the shareable code:
-`#dbq/<prompt-id>/<seed>` (seed in base36) or `#saq/<id>` / `#mcq/<id>`.
-Opening such a link reproduces the item: the sampler is a pure function of
-(prompt, seed). If the id no longer exists, the page says so and offers a new
-item. If a prompt's pool has changed since the link was made, the same seed
-may draw a different set. That is accepted.
+Every item on screen has a code made only of letters, digits, `.` and `-`.
+That is all a claude.ai artifact link can pass through to the page after `#`:
+`dbq.<prompt-id>.<seed>` (seed in base36), or `saq.<id>` / `mcq.<id>`.
+
+- The code is shown above the question, with a "Copy code" button. An "Open a
+  code" box loads any code typed or pasted into it.
+- A link ending in `#<code>` opens that item directly.
+- Once the page's own URL is known (after the first publish), the build bakes
+  it in and a "Copy link" button appears next to "Copy code".
+- Opening a code reproduces the item, because the sampler is a pure function of
+  (prompt, seed).
+- If the code is malformed, or its id no longer exists, the page says so,
+  keeps the current item, and offers a new one.
+- If a prompt's pool has changed since the code was made, the same seed may
+  draw a different set. That is accepted.
+
+### First view
+
+On load the page opens a code if the link carries one. Otherwise it shows a
+freshly drawn DBQ, never an empty screen.
 
 ### Print
 
-A print stylesheet hides the controls and prints the prompt, directions and
-documents. The rubric is printed only if it has been revealed.
+The claude.ai viewer cannot open the print dialog, so the page has no print
+button. The build also writes `dist/local.html`, a standalone copy that can be
+opened from disk and printed from the browser. Its print stylesheet hides the
+controls and prints the prompt, directions and documents. The rubric is
+printed only if it has been revealed.
 
 ### Look
 
@@ -280,7 +297,9 @@ docs/        this spec
 - `app.js` handles the DOM and depends only on `sampler.js` and the inlined
   data.
 - `build.js` runs `validate.js`, then inlines the CSS, the JS and the four data
-  files into `dist/index.html`.
+  files into `dist/index.html`, which is published and so carries no
+  doctype/html/head/body of its own. It also writes `dist/local.html`, the same
+  page wrapped in a full HTML skeleton for opening from disk.
 
 ## Validation (fails the build)
 
@@ -302,12 +321,15 @@ docs/        this spec
 - **Data.** The validation runs as a test.
 - **Page.** Load the built page in a browser. Generate a DBQ, an SAQ and a
   multiple-choice set. Reveal the rubric, check answers, reopen from a code,
-  print preview. Check at phone width and in dark mode.
+  try a bad code, use an empty filter, and print-preview `local.html`. Check at
+  phone width and in dark mode.
 
 ## Delivery
 
-Publish `dist/index.html` as a private claude.ai artifact (icon: "book"). Later
-updates republish to the same URL. The repo is local only (no remote).
+Publish `dist/index.html` as a private claude.ai artifact (icon: "book"). Then
+rebuild with that URL baked in, so "Copy link" works, and republish to the same
+URL. Later updates republish to the same URL. The repo is local only (no
+remote).
 
 ## Out of scope (v1)
 
