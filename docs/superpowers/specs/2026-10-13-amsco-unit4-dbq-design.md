@@ -173,9 +173,11 @@ Four options, A–D, as on the current exam. Each set has 3–4 questions.
 
 ## Content production and verification
 
-1. **Research.** Four parallel research agents, one per topic cluster: (a)
-   4.1–4.2; (b) 4.3 + 4.7; (c) 4.4–4.5 (empires, slave trade, silver,
-   mercantilism); (d) East Asia + 4.6. Each finds public-domain or openly
+1. **Research.** Four parallel research agents, one per cluster of DBQ
+   prompts: (a) exploration causes and empire building (4.1, 4.2, 4.4); (b)
+   Columbian Exchange and social hierarchy (4.3, 4.7); (c) slave trade,
+   silver and mercantilism (4.5); (d) East Asia, Indigenous resistance and
+   challenges to state power (4.6). Each finds public-domain or openly
    licensed source texts, pulls excerpts, and records `sourceUrl` and
    `translation`. Output goes to `data/documents.json` with `verified: false`.
 2. **Mechanical check.** `tools/check-sources.js` fetches each `sourceUrl`,
@@ -288,8 +290,8 @@ docs/        this spec
 ```
 
 - `sampler.js` is pure and has no DOM access. It contains a seeded PRNG
-  (mulberry32), `drawDbq(prompt, docsById, seed)`, which returns 7 document ids
-  or throws, and `pickRandom(items, recent, rng)`. The draw picks 2 documents
+  (mulberry32), `drawDbq(prompt, docsById, seed)`, which returns the 7 drawn
+  pool entries (document id, group and sourcing note) or throws, and `pickRandom(items, recent, rng)`. The draw picks 2 documents
   per group, then fills the rest, from a seeded shuffle. It retries with the
   next shuffle up to 50 times when author clashes leave no valid set, and
   throws if all 50 fail. The 1,000-seed sampler test below makes sure no
