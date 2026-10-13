@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { formatCode, parseCode, resolveCode } from '../src/code.js';
+import { formatCode, parseCode, resolveCode, shareBaseFor } from '../src/code.js';
 import { drawDbq } from '../src/sampler.js';
 import { makeData } from './helpers/fixture.js';
 
@@ -69,4 +69,20 @@ test('resolveCode reports a DBQ that cannot be drawn instead of throwing', () =>
   const result = resolveCode(parseCode('dbq.test-prompt.1'), bank, docs);
   assert.equal(result.ok, false);
   assert.match(result.message, /can’t be drawn/);
+});
+
+test('shareBaseFor uses the page address when served directly, such as on GitHub Pages', () => {
+  const pages = { protocol: 'https:', origin: 'https://zrrbite.github.io', pathname: '/ap-history-practice/' };
+  assert.equal(shareBaseFor('https://claude.ai/artifact/abc', pages, false), 'https://zrrbite.github.io/ap-history-practice/');
+  assert.equal(shareBaseFor(null, pages, false), 'https://zrrbite.github.io/ap-history-practice/');
+});
+
+test('shareBaseFor uses the configured artifact link inside the artifact frame', () => {
+  const frame = { protocol: 'https:', origin: 'https://sandbox.example', pathname: '/x' };
+  assert.equal(shareBaseFor('https://claude.ai/artifact/abc', frame, true), 'https://claude.ai/artifact/abc');
+  assert.equal(shareBaseFor(null, frame, true), null);
+});
+
+test('shareBaseFor offers no link for a page opened from disk', () => {
+  assert.equal(shareBaseFor('https://claude.ai/artifact/abc', { protocol: 'file:', origin: 'null', pathname: '/x/local.html' }, false), null);
 });

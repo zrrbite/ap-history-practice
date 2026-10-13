@@ -113,6 +113,8 @@ button.primary { background: var(--accent); border-color: var(--accent); color: 
 .rubric td { padding: 0.45rem 0.3rem; vertical-align: top; border-bottom: 1px solid var(--rule); }
 .rubric td.pts { text-align: right; white-space: nowrap; font: 600 0.9rem var(--font-mono); }
 .notes { display: grid; gap: 0.35rem; margin: 0; padding-left: 1.2rem; font: 0.95rem/1.55 var(--font-text); }
+.ref { font: 0.8rem var(--font-ui); color: var(--accent); }
+.refs { display: flex; flex-wrap: wrap; gap: 0.3rem 1rem; margin: 0; }
 
 .part { display: grid; gap: 0.45rem; }
 .part-task { margin: 0; font: 1rem/1.55 var(--font-text); }
@@ -151,7 +153,7 @@ textarea {
   :root, :root:not([data-theme="light"]), :root[data-theme="dark"] {
     --paper: #ffffff; --surface: #ffffff; --ink: #000000; --muted: #333333; --rule: #999999; color-scheme: light;
   }
-  .tabs, .settings, .toolbar, .notice, .credit, .colophon, .lede, button, textarea { display: none !important; }
+  .tabs, .settings, .toolbar, .notice, .credit, .colophon, .lede, .ref, button, textarea { display: none !important; }
   .document { break-inside: avoid; }
   body { font-size: 11pt; }
 }

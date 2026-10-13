@@ -1,7 +1,7 @@
 // The page: renders DBQs and drills from the inlined bank and wires up the controls.
 // Every node is built from text nodes, never from HTML strings, so source text shows exactly as written.
 import { drawDbq, pickRandom, pushRecent, matchesFilter, topicsWithItems } from './sampler.js';
-import { formatCode, parseCode, resolveCode } from './code.js';
+import { formatCode, parseCode, resolveCode, shareBaseFor } from './code.js';
 import { timerState, formatClock } from './timer.js';
 import { safeStore, asStringArray } from './store.js';
 
@@ -210,6 +210,10 @@ function renderDocument(doc, title) {
   );
 }
 
+function refLink(ref) {
+  return el('a', { class: 'ref', href: ref.url, target: '_blank', rel: 'noopener noreferrer' }, `Check it: ${ref.title} ↗`);
+}
+
 function revealButton(targets, showLabel, hideLabel) {
   const button = el('button', { type: 'button', 'aria-expanded': 'false' }, showLabel);
   button.addEventListener('click', () => {
@@ -274,8 +278,10 @@ function renderDbq(prompt, entries) {
   );
 }
 
+// Notes are plain text (theses, complexity) or {text, ref} (contextualization, outside evidence).
 function noteList(title, items) {
-  return [el('h3', {}, title), el('ul', { class: 'notes' }, items.map((t) => el('li', {}, t)))];
+  const item = (note) => (typeof note === 'string' ? el('li', {}, note) : el('li', {}, note.text, ' ', refLink(note.ref)));
+  return [el('h3', {}, title), el('ul', { class: 'notes' }, items.map(item))];
 }
 
 function renderDbqGuide(prompt, entries) {
@@ -343,6 +349,8 @@ function renderSaq(saq) {
       guide,
     );
   });
+  const refs = el('p', { class: 'refs', hidden: true }, saq.refs.map((ref) => refLink(ref)));
+  guides.push(refs);
   const directions = docs.length === 0
     ? 'Answer all parts of the question that follows.'
     : `Use the ${docs.length === 1 ? 'source' : 'sources'} below to answer all parts of the question that follows.`;
@@ -354,6 +362,7 @@ function renderSaq(saq) {
     ),
     docs.map((doc, i) => renderDocument(doc, docs.length === 1 ? 'Source' : `Source ${i + 1}`)),
     parts,
+    refs,
     el('div', { class: 'toolbar' }, revealButton(guides, 'Show scoring guide', 'Hide scoring guide')),
   );
 }
@@ -389,7 +398,7 @@ function renderMcq(set) {
         : choice === q.answer ? 'Correct.' : `Incorrect. The answer is (${LETTERS[q.answer]}).`;
       feedback.replaceChildren(
         el('p', { class: `verdict ${choice === q.answer ? 'good' : 'bad'}` }, verdict),
-        el('p', { class: 'explanation' }, q.explanation),
+        el('p', { class: 'explanation' }, q.explanation, ' ', refLink(q.ref)),
       );
       feedback.hidden = false;
     }
@@ -447,6 +456,14 @@ function renderTimer() {
 
 // ---- Start --------------------------------------------------------------
 
+function isFramed() {
+  try {
+    return window.self !== window.top;
+  } catch {
+    return true;
+  }
+}
+
 function init() {
   renderTopics();
   for (const input of document.querySelectorAll('input[name="drill-kind"]')) {
@@ -465,12 +482,13 @@ function init() {
     const code = currentCode();
     if (code) copyText(code, event.currentTarget, selectCode);
   });
-  if (bank.config.shareBase) {
+  const shareBase = shareBaseFor(bank.config.shareBase, location, isFramed());
+  if (shareBase) {
     $('copy-link').hidden = false;
     $('copy-link').addEventListener('click', (event) => {
       const code = currentCode();
       if (!code) return;
-      const link = `${bank.config.shareBase}#${code}`;
+      const link = `${shareBase}#${code}`;
       copyText(link, event.currentTarget, () => notify(`Copy this link: ${link}`));
     });
   }

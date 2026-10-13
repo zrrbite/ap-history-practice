@@ -40,6 +40,13 @@ test('each broken rule is reported', () => {
     ['mcq answer', (d) => { d.mcqs[0].questions[0].answer = 4; }, /question 1 answer must be 0–3/],
     ['mcq count', (d) => { d.mcqs[0].questions = d.mcqs[0].questions.slice(0, 2); }, /has 2 questions; it must have 3–4/],
     ['mcq unknown doc', (d) => { d.mcqs[0].doc = 'nope'; }, /mcq test-mcq: unknown document nope/],
+    ['note without ref', (d) => { d.dbqs[0].notes.outsideEvidence = ['bare string']; }, /notes\.outsideEvidence 1 needs text and a ref/],
+    ['context without text', (d) => { d.dbqs[0].notes.contextualization[0].text = ''; }, /notes\.contextualization 1 needs text and a ref/],
+    ['ref to another site', (d) => { d.dbqs[0].notes.contextualization[0].ref.url = 'https://example.com/x'; }, /notes\.contextualization 1: ref must link to britannica\.com or en\.wikipedia\.org\/wiki/],
+    ['ref without title', (d) => { d.dbqs[0].notes.outsideEvidence[0].ref.title = ' '; }, /notes\.outsideEvidence 1 needs text and a ref/],
+    ['saq without refs', (d) => { d.saqs[0].refs = []; }, /saq test-saq: refs needs 1–3 references/],
+    ['saq bad ref', (d) => { d.saqs[0].refs = [{ title: 'X', url: 'http://www.britannica.com/x' }]; }, /saq test-saq: ref 1: ref must link to britannica\.com/],
+    ['mcq without ref', (d) => { delete d.mcqs[0].questions[1].ref; }, /question 2 needs a ref with a title and url/],
   ];
   for (const [name, mutate, pattern] of cases) {
     const errors = errorsAfter(mutate);

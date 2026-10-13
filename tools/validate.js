@@ -10,13 +10,22 @@ export const TOPICS = ['4.1', '4.2', '4.3', '4.4', '4.5', '4.6', '4.7', '4.8'];
 export const RELEASE_MINIMUMS = { documents: 60, dbqs: 10, saqs: 18, mcqs: 13 };
 const ID_PATTERN = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 const SEEDS_CHECKED = 1000;
-const NOTE_KINDS = ['thesis', 'contextualization', 'outsideEvidence', 'complexity'];
+const TEXT_NOTES = ['thesis', 'complexity'];
+const REFERENCED_NOTES = ['contextualization', 'outsideEvidence'];
+const REF_URL = /^https:\/\/(?:www\.britannica\.com\/|en\.wikipedia\.org\/wiki\/)\S+$/;
 
 export function wordCount(text) {
   return text.replace(/…/g, ' ').split(/\s+/).filter(Boolean).length;
 }
 
 const nonEmpty = (s) => typeof s === 'string' && s.trim().length > 0;
+
+// A reference students can check an answer against: Britannica first, English Wikipedia as fallback.
+function refProblem(ref) {
+  if (!ref || typeof ref !== 'object' || !nonEmpty(ref.title) || typeof ref.url !== 'string') return 'needs a ref with a title and url';
+  if (!REF_URL.test(ref.url)) return 'ref must link to britannica.com or en.wikipedia.org/wiki';
+  return null;
+}
 
 export function validate(data, { release = false } = {}) {
   const errors = [];
@@ -126,9 +135,21 @@ function checkDbqs(dbqs, docsById, fail) {
     }
     const allAuthors = new Set(pool.filter((e) => docsById.has(e.doc)).map(authorOf));
     if (allAuthors.size < 7) local(`pool has ${allAuthors.size} different authors; it needs at least 7`);
-    for (const kind of NOTE_KINDS) {
+    for (const kind of [...TEXT_NOTES, ...REFERENCED_NOTES]) {
       const notes = q.notes?.[kind];
-      if (!Array.isArray(notes) || notes.length === 0 || !notes.every(nonEmpty)) local(`notes.${kind} needs at least one entry`);
+      if (!Array.isArray(notes) || notes.length === 0) {
+        local(`notes.${kind} needs at least one entry`);
+        continue;
+      }
+      notes.forEach((note, i) => {
+        if (TEXT_NOTES.includes(kind)) {
+          if (!nonEmpty(note)) local(`notes.${kind} ${i + 1} must be non-empty text`);
+          return;
+        }
+        if (!note || !nonEmpty(note.text) || !note.ref || !nonEmpty(note.ref.title)) return local(`notes.${kind} ${i + 1} needs text and a ref`);
+        const problem = refProblem(note.ref);
+        if (problem) local(`notes.${kind} ${i + 1}: ${problem}`);
+      });
     }
     if (problems > 0) continue;
     for (let seed = 0; seed < SEEDS_CHECKED; seed++) {
@@ -156,6 +177,11 @@ function checkSaqs(saqs, docsById, fail) {
       if (!nonEmpty(p.task)) local(`part ${p.label} needs a task`);
       if (!Array.isArray(p.accept) || p.accept.length === 0 || !p.accept.every(nonEmpty)) local(`part ${p.label} needs at least one accepted answer`);
     }
+    if (!Array.isArray(s.refs) || s.refs.length < 1 || s.refs.length > 3) local('refs needs 1–3 references');
+    else s.refs.forEach((ref, i) => {
+      const problem = refProblem(ref);
+      if (problem) local(`ref ${i + 1}: ${problem}`);
+    });
   }
 }
 
@@ -174,6 +200,8 @@ function checkMcqs(mcqs, docsById, fail) {
       if (!Array.isArray(q.options) || q.options.length !== 4 || !q.options.every(nonEmpty)) local(`question ${n} needs exactly 4 options`);
       if (!Number.isInteger(q.answer) || q.answer < 0 || q.answer > 3) local(`question ${n} answer must be 0–3 (A–D)`);
       if (!nonEmpty(q.explanation)) local(`question ${n} needs an explanation`);
+      const problem = refProblem(q.ref);
+      if (problem) local(`question ${n} ${problem}`);
     });
   }
 }

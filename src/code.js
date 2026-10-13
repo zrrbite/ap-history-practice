@@ -46,3 +46,11 @@ export function resolveCode(parsed, bank, docsById) {
   }
   return { ok: true, kind: parsed.kind, item };
 }
+
+// Where "Copy link" should point. Served directly (GitHub Pages, a local server), the page's own
+// address is shareable. Inside the claude.ai viewer's frame it is not, so use the configured
+// artifact URL. A page opened from disk has no shareable address.
+export function shareBaseFor(configured, loc, framed) {
+  if (framed) return configured ?? null;
+  return /^https?:$/.test(loc.protocol) ? `${loc.origin}${loc.pathname}` : null;
+}

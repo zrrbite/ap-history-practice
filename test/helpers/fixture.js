@@ -3,6 +3,7 @@ import { mkdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 
 export const WORDS_80 = Array.from({ length: 80 }, (_, i) => `word${i}`).join(' ');
+export const REF = { title: 'Encomienda', url: 'https://www.britannica.com/topic/encomienda' };
 
 export function makeDoc(n, overrides = {}) {
   return {
@@ -34,13 +35,19 @@ export function makeData() {
       { key: 'g2', label: 'Group two' },
     ],
     pool: documents.map((d, i) => ({ doc: d.id, group: i < 5 ? 'g1' : 'g2', sourcing: `Sourcing note ${i + 1}` })),
-    notes: { thesis: ['T'], contextualization: ['C'], outsideEvidence: ['O'], complexity: ['X'] },
+    notes: {
+      thesis: ['T'],
+      contextualization: [{ text: 'C', ref: REF }],
+      outsideEvidence: [{ text: 'O', ref: { title: 'Mit\'a', url: 'https://en.wikipedia.org/wiki/Mita_(Inca)' } }],
+      complexity: ['X'],
+    },
   };
   const saq = {
     id: 'test-saq',
     topics: ['4.3'],
     docs: ['doc-1'],
     parts: ['a', 'b', 'c'].map((label) => ({ label, task: `Task ${label}`, accept: [`Accept ${label}`] })),
+    refs: [REF],
   };
   const mcq = {
     id: 'test-mcq',
@@ -51,6 +58,7 @@ export function makeData() {
       options: ['One', 'Two', 'Three', 'Four'],
       answer: n % 4,
       explanation: `Because ${n}`,
+      ref: REF,
     })),
   };
   return { documents, dbqs: [dbq], saqs: [saq], mcqs: [mcq] };
