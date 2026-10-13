@@ -1,0 +1,791 @@
+[
+  {
+    "id": "exploration-causes",
+    "topics": [
+      "4.1",
+      "4.2"
+    ],
+    "prompt": "Evaluate the relative importance of the causes of European maritime exploration in the period c. 1450–1750.",
+    "groups": [
+      {
+        "key": "economic",
+        "label": "Profit: gold, spices and new trade routes"
+      },
+      {
+        "key": "religious",
+        "label": "Religion: spreading Christianity and fighting Muslim powers"
+      },
+      {
+        "key": "state",
+        "label": "Royal sponsorship, rivalry and navigation technology"
+      }
+    ],
+    "pool": [
+      {
+        "doc": "zurara-1453-henry-reasons-profit",
+        "group": "economic",
+        "sourcing": "Zurara was Portugal's royal chronicler and an admirer of Prince Henry, so he puts God's service first among Henry's reasons. Even so he admits that sailors went only where profit was certain and lists new markets as a reason, which makes the passage strong evidence that trade mattered even to the prince's own supporters."
+      },
+      {
+        "doc": "soncino-1497-cabot-spices",
+        "group": "economic",
+        "sourcing": "Soncino was the Duke of Milan's envoy reporting what he heard at the English court, so this is secondhand news of Cabot's plans. It shows the hope of making London a greater spice market than Alexandria, which is good evidence of what backers wanted and weaker evidence of what the voyage achieved."
+      },
+      {
+        "doc": "zamorin-calicut-1498-letter-manuel",
+        "group": "economic",
+        "sourcing": "The letter was written down for the Zamorin by the Portuguese Diogo Dias, and it survives only as its general sense reported in the journal of da Gama's voyage, so the wording passed through Portuguese hands. It still shows an Indian ruler treating the Portuguese as ordinary traders who must pay in gold, silver, coral and cloth, which supports an economic reading of what drew them to India."
+      },
+      {
+        "doc": "zainuddin-1583-pepper-lands",
+        "group": "economic",
+        "sourcing": "Zainuddin was a Muslim scholar of Malabar writing about eighty-five years after da Gama's arrival, in a history that urged Muslims to fight the Portuguese. He did not witness 1498 and repeats what the Portuguese said 'according to their own accounts'. Still, his view from India that they came to buy pepper at its source is a useful check on European claims of religious purpose."
+      },
+      {
+        "doc": "nicholas-v-1455-romanus-pontifex-faith",
+        "group": "religious",
+        "sourcing": "A papal bull is a legal grant, and this one gave Portugal rights in Africa, so the pope had reason to describe the voyages as a holy effort to reach Christians in the Indies and fight the 'Saracens'. It is strong evidence of how the Church justified exploration and weaker evidence of what sailors and merchants wanted."
+      },
+      {
+        "doc": "columbus-1492-journal-prologue",
+        "group": "religious",
+        "sourcing": "Columbus addressed this prologue to Ferdinand and Isabella, who sponsored the voyage, in 1492, the year they completed the conquest of Granada, so he describes the mission in the crusading terms they would welcome. It shows the religious language of royal sponsorship, though Columbus's other writings for the same rulers stress gold."
+      },
+      {
+        "doc": "albuquerque-1511-malacca-speech",
+        "group": "religious",
+        "sourcing": "The speech is known from the Commentaries that Albuquerque's son compiled from his papers and published in 1557 to honour him, so the wording may be polished. Albuquerque gives driving out the Moors as his first reason and seizing the spice trade as his second, which makes the speech good evidence that religious and economic aims were joined and weak evidence that either one came first."
+      },
+      {
+        "doc": "lebna-dengel-1526-letter-manuel",
+        "group": "religious",
+        "sourcing": "The Christian emperor of Ethiopia wrote to King Manuel around 1522 as one Christian ruler to another, looking for allies against the Muslims and pagans around his lands. It shows from the African side that the Christian alliance Portugal had long hoped to find was real, though Lebna Dengel had his own reasons for welcoming Portuguese settlers, such as gaining Christian allies in coastal ports held by Muslims."
+      },
+      {
+        "doc": "ferdinand-isabella-1492-privileges-columbus",
+        "group": "state",
+        "sourcing": "This is a royal grant written before the voyage, a legal promise of titles and power to Columbus if he discovered and conquered lands. It is strong evidence that the crown sponsored the voyage and expected to rule new lands, and it says little about trade or conversion."
+      },
+      {
+        "doc": "columbus-1492-journal-navigation",
+        "group": "state",
+        "sourcing": "The daily entries survive only in Bartolomé de las Casas's abstract of the journal, much of it his own paraphrase, so the words are not exactly Columbus's. The passage is still useful evidence that charts, latitudes, compass readings and careful records made the crossing possible, and it shows how frightening the open ocean was to the crew."
+      },
+      {
+        "doc": "gama-journal-1498-ambassador-speech",
+        "group": "state",
+        "sourcing": "A member of da Gama's crew reports what da Gama told the Zamorin, a ruler he needed to impress, so the claim that Portugal sought Christian kings and had no need of gold or silver was diplomacy. Its stronger evidence is the sixty years of royal voyages and King Manuel's orders, which show steady sponsorship by the Portuguese crown."
+      },
+      {
+        "doc": "hakluyt-1584-discourse-western-planting",
+        "group": "state",
+        "sourcing": "Hakluyt wrote this at Walter Raleigh's request to persuade Queen Elizabeth I to back English colonies, so he gathers every argument that might win her support. His stress on weakening King Philip of Spain and strengthening the navy shows rivalry between states driving English expansion by the 1580s, next to Protestant and trade arguments."
+      }
+    ],
+    "notes": {
+      "thesis": [
+        "Economic motives were the most important cause, because the search for spices, gold and new trade routes explains why voyages continued for three centuries and drew in merchants and later trading companies: Zurara admits that sailors went only where profit was certain, Cabot hoped to make London a spice market, and Indian observers such as the Zamorin and Zainuddin saw the Portuguese as traders who had come for pepper and spices.",
+        "Religious motives were the most important cause of the first voyages of the 1400s, because Portugal and Spain came out of centuries of war against Muslim states: the pope, Prince Henry's chronicler and Columbus all present exploration as a way to find Christian allies and convert new peoples, and the Ethiopian emperor's letter shows such allies existed. Economic aims grew in weight once the sea route to Asia was open.",
+        "State sponsorship and rivalry were the decisive cause, because the wish for spices and converts was old and became voyages only when monarchs paid for ships and new navigation methods made long ocean crossings possible: Ferdinand and Isabella's grant to Columbus, sixty years of Portuguese royal voyages and Hakluyt's case against Spain show crowns driving exploration to gain land and power."
+      ],
+      "contextualization": [
+        {
+          "text": "Before 1500, Asian spices reached Europe through Arab merchants and then Venice, which dominated the Mediterranean end of the trade and made very large profits. No European ruler had broken that hold, so states facing the Atlantic began looking for a sea route to the spice lands.",
+          "ref": {
+            "title": "Spice trade",
+            "url": "https://www.britannica.com/topic/spice-trade"
+          }
+        },
+        {
+          "text": "The Reconquista, the long war of Christian kingdoms against Muslim rulers in Iberia, ended in 1492 when Ferdinand and Isabella conquered Granada. Popes had backed some of these campaigns, which helps explain why Spanish and Portuguese sources describe voyages as a fight against 'Moors' and 'Saracens'.",
+          "ref": {
+            "title": "Reconquista",
+            "url": "https://www.britannica.com/event/Reconquista"
+          }
+        },
+        {
+          "text": "Portugal began its overseas expansion by capturing the Moroccan port of Ceuta in 1415. Prince Henry, who fought there, later used the funds of the Order of Christ to pay for voyages down the West African coast that sought gold, enslaved people and new colonies such as Madeira.",
+          "ref": {
+            "title": "Henry the Navigator",
+            "url": "https://www.britannica.com/biography/Henry-the-Navigator"
+          }
+        }
+      ],
+      "outsideEvidence": [
+        {
+          "text": "Lateen sail: this triangular sail, spread through the Mediterranean by Arab sailors, let ships tack into the wind, and combined with square sails it produced ocean-going ships, which supports the argument that borrowed technology made the voyages possible.",
+          "ref": {
+            "title": "Lateen sail",
+            "url": "https://www.britannica.com/technology/lateen-sail"
+          }
+        },
+        {
+          "text": "Mariner's astrolabe: Portuguese navigators perfected this instrument for finding a ship's latitude from the height of the sun or a star, which helped captains know their position on long voyages far from the coast.",
+          "ref": {
+            "title": "Mariner's astrolabe",
+            "url": "https://en.wikipedia.org/wiki/Mariner%27s_astrolabe"
+          }
+        },
+        {
+          "text": "Bartolomeu Dias, 1488: sent by King John II, Dias led the first European expedition around the Cape of Good Hope and opened a sea route to Asia, which shows decades of royal sponsorship paying off before da Gama reached India.",
+          "ref": {
+            "title": "Bartolomeu Dias",
+            "url": "https://www.britannica.com/biography/Bartolomeu-Dias"
+          }
+        },
+        {
+          "text": "Treaty of Tordesillas, 1494: Spain and Portugal moved the pope's dividing line to 370 leagues west of the Cape Verde Islands, which shows rivalry between states shaping exploration; the new line later let Portugal claim Brazil.",
+          "ref": {
+            "title": "Treaty of Tordesillas",
+            "url": "https://www.britannica.com/event/Treaty-of-Tordesillas"
+          }
+        },
+        {
+          "text": "Prester John: Europeans told stories of a Christian king living among pagans and Muslims, and in 1487 Portugal sent the envoys Pêro da Covilhã and Afonso de Paiva overland both to learn about a sea route to India and to ask about him, which shows religious and commercial goals pursued together.",
+          "ref": {
+            "title": "Prester John",
+            "url": "https://en.wikipedia.org/wiki/Prester_John"
+          }
+        },
+        {
+          "text": "Dutch East India Company, 1602: the Dutch state gave this company a trade monopoly from the Cape of Good Hope to the Strait of Magellan and the right to make treaties, build forts and keep armed forces, which shows profit and state power driving voyages in the 1600s.",
+          "ref": {
+            "title": "Dutch East India Company",
+            "url": "https://www.britannica.com/topic/Dutch-East-India-Company"
+          }
+        }
+      ],
+      "complexity": [
+        "Show that the motives were tied together: Albuquerque gives a religious and a commercial reason in the same speech, and Zurara lists both profit and the faith among Henry's reasons, so a strong essay can argue that religion often justified voyages that profit kept going.",
+        "Explain change over time: crusading language fills the Portuguese and Spanish sources of the 1400s, while in 1584 Hakluyt gives trade, the navy and weakening Spain as much weight as religion, and the Dutch and English companies of the 1600s were founded for trade, so the relative importance of the causes shifted across the period.",
+        "Use point of view across groups: European sources written for kings and popes stress God's service, while the Zamorin treats the Portuguese as merchants and Zainuddin says they came for pepper, so sources from Asia qualify the religious explanation."
+      ]
+    }
+  },
+  {
+    "id": "empire-building",
+    "topics": [
+      "4.4"
+    ],
+    "prompt": "Evaluate the extent to which European states relied on violence rather than negotiation and alliance to build maritime empires in the period c. 1450–1750.",
+    "groups": [
+      {
+        "key": "force",
+        "label": "Force: conquest, forts, bombardment and massacre"
+      },
+      {
+        "key": "negotiation",
+        "label": "Negotiation: alliances, treaties and local rulers setting terms"
+      }
+    ],
+    "pool": [
+      {
+        "doc": "palacios-rubios-1513-requerimiento",
+        "group": "force",
+        "sourcing": "The Requerimiento was a legal text drafted for the Spanish crown to be read before conquest, and it ends by blaming the victims for any deaths, so its offer of peace was a legal formality. It is strong evidence that the crown planned for war and enslavement and weak evidence of how Indigenous peoples responded."
+      },
+      {
+        "doc": "diaz-1568-cholula",
+        "group": "force",
+        "sourcing": "Díaz was a soldier in Cortés's army writing about fifty years later, partly to defend the record of the ordinary conquerors, so he justifies the massacre as a needed 'example'. The passage is still useful because it shows Spanish violence carried out together with Tlaxcalan allies, who joined the fighting and plunder."
+      },
+      {
+        "doc": "mayr-1505-kilwa",
+        "group": "force",
+        "sourcing": "Mayr was a German clerk with Almeida's fleet who saw these events, and he reports the seizure of envoys, the plunder and the new fort without apology. That makes his account strong evidence that the Portuguese used force to build forts on the East African coast, even after the sheikh offered to pay tribute."
+      },
+      {
+        "doc": "malay-annals-1612-cannon-malacca",
+        "group": "force",
+        "sourcing": "The Malay Annals is the court chronicle of the Malacca sultans, compiled about a century after the Portuguese attacks, so it remembers them through the defeated court's eyes and runs separate attacks together. Its picture of terror at cannon fire is strong evidence that firepower from the sea gave the Portuguese their edge."
+      },
+      {
+        "doc": "zainuddin-1583-franks-oppression",
+        "group": "force",
+        "sourcing": "Zainuddin, a Muslim scholar of Malabar, wrote to rouse Muslims against the Portuguese and explains their arrival as God's punishment, so he stresses cruelty and forced conversion. His account is valuable as the victims' view of seized ships and profaned mosques, and it is better evidence of what Muslim merchants suffered than of Portuguese policy as a whole."
+      },
+      {
+        "doc": "dieppe-relation-1617-dutch-banda",
+        "group": "force",
+        "sourcing": "This anonymous account describes wrongs done by the Dutch to English traders, and its authors' purpose and sympathies are not known, so it gives no Dutch side. It shows Europeans using force against each other to control the spice trade, and it also shows the governor of Bantam forbidding fighting in his harbour, a limit set by a local ruler."
+      },
+      {
+        "doc": "diaz-1568-tlaxcala-alliance",
+        "group": "negotiation",
+        "sourcing": "Díaz reconstructs the Tlaxcalan general's speech from memory decades later, so the words are his version. It shows the Tlaxcalans choosing alliance to escape Mexica raids, which supports the importance of local partners, while Cortés's threat to destroy their town shows the alliance also rested on force."
+      },
+      {
+        "doc": "gama-journal-1498-calicut-terms",
+        "group": "negotiation",
+        "sourcing": "A member of da Gama's crew records that Calicut's officials laughed at the Portuguese gifts and made them follow local custom. Because a Portuguese writer admits this embarrassment, the passage is strong evidence that Indian rulers and merchants set the terms of the first contact."
+      },
+      {
+        "doc": "sidi-ali-reis-1557-gujarat-portuguese",
+        "group": "negotiation",
+        "sourcing": "Sidi Ali Reis was an Ottoman admiral stranded in Gujarat after a sea battle with the Portuguese, so he is hostile to them and keen to show Gujarat's loyalty to the Ottoman sultan. He still shows the Portuguese gaining harbours by aiding a rebel noble and Gujarat's ministers refusing a Portuguese demand, which supports the role of alliance and local politics."
+      },
+      {
+        "doc": "jahangir-1617-letter-james-i",
+        "group": "negotiation",
+        "sourcing": "Jahangir writes as a far greater ruler granting favours to a distant king, and the surviving English version is a copy in Roe's hand, so the friendly tone is diplomatic. It is strong evidence that the English gained trading rights in India by royal permission and gifts."
+      },
+      {
+        "doc": "roe-1616-letter-quiet-trade",
+        "group": "negotiation",
+        "sourcing": "Roe was writing advice to the East India Company, whose trade he was sent to protect, so he argues for what would serve the Company's profits. His claim that forts and land wars ruined the Portuguese and Dutch is an opinion, but it shows an English official choosing trade over force in Mughal India."
+      },
+      {
+        "doc": "powhatan-1609-speech-smith",
+        "group": "negotiation",
+        "sourcing": "Powhatan's words come through John Smith's Generall Historie of 1624, written fifteen years later to promote the colony and Smith's own role, so the speech may be shaped by Smith. It still records a Native ruler setting the terms of trade and warning that force would leave the English hungry."
+      }
+    ],
+    "notes": {
+      "thesis": [
+        "Europeans relied mainly on violence where they held a military edge, at sea and on lightly defended coasts and islands: Portuguese cannon terrified Malacca, Almeida's fleet plundered Kilwa and built a fort, and the Requerimiento made war and enslavement part of Spanish law in the Americas.",
+        "Europeans relied on negotiation and alliance more than on violence, because powerful local rulers controlled access to trade and land: Calicut's officials set the terms of da Gama's visit, Jahangir granted the English trade on his own terms, and in Mexico the Tlaxcalan alliance made the conquest possible.",
+        "The balance between force and negotiation depended on local power and changed over time: Iberian conquerors of the 1500s used force widely, but by the 1600s English agents such as Roe judged forts and land wars too costly against strong Asian states, while violence continued where Europeans faced weaker states or one another, as the Dutch attacks on English ships show."
+      ],
+      "contextualization": [
+        {
+          "text": "Before the Portuguese arrived in 1498, Muslim merchants dominated trade across the Indian Ocean: Gujaratis carried spices from the Moluccas and silk from China, and Calicut was the centre of pepper exports to the Red Sea. Europeans entered a rich trading system that already had its own rulers and customs.",
+          "ref": {
+            "title": "Indian Ocean trade",
+            "url": "https://en.wikipedia.org/wiki/Indian_Ocean_trade"
+          }
+        },
+        {
+          "text": "The Reconquista, in which Christian kingdoms took Iberia from Muslim rulers, ended at Granada in 1492. It gave Spain and Portugal a long tradition of war for land and faith, and popes had backed some of its campaigns.",
+          "ref": {
+            "title": "Reconquista",
+            "url": "https://www.britannica.com/event/Reconquista"
+          }
+        },
+        {
+          "text": "In India, Europeans met the Mughal dynasty, which ruled most of northern India from the early 1500s to the mid-1700s. Small European trading companies could not hope to conquer such a land empire in this period.",
+          "ref": {
+            "title": "Mughal dynasty",
+            "url": "https://www.britannica.com/topic/Mughal-dynasty"
+          }
+        }
+      ],
+      "outsideEvidence": [
+        {
+          "text": "Cartaz system: from 1502 the Portuguese required merchant ships in the Indian Ocean to carry their pass and pay duties at posts such as Goa, Malacca and Hormuz, and ships without one risked seizure or sinking, which shows naval force used to tax a trade run mostly by Asian merchants.",
+          "ref": {
+            "title": "Cartaz",
+            "url": "https://en.wikipedia.org/wiki/Cartaz"
+          }
+        },
+        {
+          "text": "Battle of Diu, 1509: Francisco de Almeida burned and pillaged ports and defeated the combined Arab and Egyptian fleet off Diu, which shows naval force at the centre of Portuguese expansion.",
+          "ref": {
+            "title": "Francisco de Almeida",
+            "url": "https://www.britannica.com/biography/Francisco-de-Almeida"
+          }
+        },
+        {
+          "text": "Portuguese conquest of Goa, 1510: Afonso de Albuquerque took Goa from the Adil Shahi sultanate on the advice of Timoja, said to be an admiral of the Vijayanagar fleet, and with help from Goa's Hindu population, which shows conquest itself depending on local allies.",
+          "ref": {
+            "title": "Portuguese conquest of Goa",
+            "url": "https://www.britannica.com/topic/Portuguese-conquest-of-Goa"
+          }
+        },
+        {
+          "text": "Cajamarca, 1532: Francisco Pizarro, with about 180 men, ambushed and captured the Inca ruler Atahuallpa, took a ransom of gold and silver and executed him in 1533, which shows violence toppling an empire already weakened by civil war.",
+          "ref": {
+            "title": "Atahuallpa",
+            "url": "https://www.britannica.com/biography/Atahuallpa"
+          }
+        },
+        {
+          "text": "Malinche (Doña Marina): one of a group of enslaved women given to the Spaniards by the Tabascans in 1519, she became Cortés's interpreter in Maya and Nahuatl, and his success often depended directly on her, which shows conquest relying on Indigenous go-betweens.",
+          "ref": {
+            "title": "Marina",
+            "url": "https://www.britannica.com/biography/Marina-Mexican-Native-American-princess"
+          }
+        },
+        {
+          "text": "The Dutch at Dejima: after the Shimabara Rebellion of 1637–38 the Tokugawa shogunate expelled the Portuguese and confined the Dutch to Dejima, a walled island in Nagasaki harbour guarded at night, which shows Europeans keeping their trade only by accepting an Asian state's terms.",
+          "ref": {
+            "title": "Sakoku",
+            "url": "https://www.britannica.com/topic/sakoku"
+          }
+        }
+      ],
+      "complexity": [
+        "Corroborate across groups: force and alliance often worked together, since the Cholula massacre was carried out with Tlaxcalan allies and the Portuguese gained Gujarat's harbours by backing a rebel noble, so several documents support both lines of argument.",
+        "Compare regions: in the Americas small Spanish forces with Indigenous allies overthrew large empires, while in Asia Europeans used force mainly at sea and had to bargain with land empires such as the Mughals or accept limits such as Dejima.",
+        "Weigh point of view: European writers such as Díaz and Mayr present violence as normal or necessary, while the Malay Annals and Zainuddin describe it from the victims' side, so an essay that sources both qualifies any single answer about how much Europeans relied on force."
+      ]
+    }
+  },
+  {
+    "id": "columbian-exchange",
+    "topics": [
+      "4.3",
+      "4.8"
+    ],
+    "prompt": "Evaluate the extent to which the Columbian Exchange changed societies in the Americas, Africa and Europe in the period 1492–1750.",
+    "groups": [
+      {
+        "key": "disease",
+        "label": "Disease and population collapse"
+      },
+      {
+        "key": "food-animals",
+        "label": "New crops and animals"
+      },
+      {
+        "key": "labor-economy",
+        "label": "Labour, plantations and new economies"
+      }
+    ],
+    "pool": [
+      {
+        "doc": "xahila-1559-plague",
+        "group": "disease",
+        "sourcing": "This part of the Kaqchikel annals was written by a family member who lived through the epidemic and addresses later generations as 'my children', so it records the loss as family and community memory. It is strong evidence that disease killed rulers and elders and left the kingdom poor, though it does not name the disease or say where it came from."
+      },
+      {
+        "doc": "chilam-balam-tizimin-1600-katuns",
+        "group": "disease",
+        "sourcing": "This Maya community record lists events by katun in a few words, so it gives order and dates more than explanation. By setting 'the general death' and smallpox beside the arrival of foreigners, baptism and Spanish officials, it shows Maya scribes remembering disease as part of the whole change brought by colonial rule."
+      },
+      {
+        "doc": "diaz-del-castillo-1568-smallpox",
+        "group": "disease",
+        "sourcing": "Díaz, a soldier with Cortés, traces the epidemic to an African servant of Narváez and blames Indigenous remedies, which turns attention away from the Spaniards. His account still shows smallpox killing many lords and letting Cortés choose their successors, evidence that disease changed political power in Mexico."
+      },
+      {
+        "doc": "winthrop-1633-smallpox",
+        "group": "disease",
+        "sourcing": "Winthrop kept this journal as governor of a Puritan colony that looked for God's hand in events, so he takes care to note Native people praising 'the Englishmen's God'. His record of Native leaders and nearly whole villages dying and of trade stopping is strong evidence that disease changed Native societies in New England."
+      },
+      {
+        "doc": "garcilaso-1609-cattle",
+        "group": "food-animals",
+        "sourcing": "Garcilaso, son of a conquistador and an Inca noblewoman, wrote in Spain decades later from memories of his childhood in Cuzco. His account of crowds of Indians amazed by plough oxen and of cattle prices collapsing is vivid evidence of change in the Andes, though it reflects what one boy saw in one city."
+      },
+      {
+        "doc": "acosta-1590-livestock-hides",
+        "group": "food-animals",
+        "sourcing": "Acosta was a Jesuit who lived in Peru and Mexico and wrote a natural history for European readers, so he sorts and counts animals with a scholar's eye. His figures for hides unloaded at Seville from the 1587 fleet show European animals changing American land and sending wealth back to Europe."
+      },
+      {
+        "doc": "pigafetta-lopes-1591-maize-kongo",
+        "group": "food-animals",
+        "sourcing": "Pigafetta, an Italian writer, set down what the Portuguese merchant Duarte Lopes told him about Kongo, so the report is secondhand and comes from a European trader. Its note that people in Kongo called maize 'Portugal grain' and fed it to pigs shows an American crop had reached Africa by the 1580s but was not yet valued there."
+      },
+      {
+        "doc": "james-i-1604-tobacco",
+        "group": "food-animals",
+        "sourcing": "King James wrote this attack to turn his subjects against tobacco, so he exaggerates its harm and insults Native Americans. His complaint that gentlemen spent hundreds of pounds a year on it is strong evidence that an American plant had already changed English habits by 1604."
+      },
+      {
+        "doc": "ligon-1657-barbados-plantation",
+        "group": "labor-economy",
+        "sourcing": "Ligon helped manage a Barbados sugar plantation and wrote for English readers interested in the island, so he describes enslaved people as property to be looked after. His list of enslaved Africans, European cattle and horses, and American crops such as cassava on one estate shows how the exchange built a new plantation economy."
+      },
+      {
+        "doc": "gandavo-1576-settlers-slaves",
+        "group": "labor-economy",
+        "sourcing": "Gândavo wrote his history of Brazil to encourage Portuguese people to settle there, so he makes colonial life sound easy. That purpose makes him reliable on what settlers wanted, enslaved Indigenous workers for sugar mills and farms, and unreliable on how hard the work was."
+      },
+      {
+        "doc": "philips-1582-hawkins-slave-raid",
+        "group": "labor-economy",
+        "sourcing": "Philips was a sailor on Hawkins's slaving voyage who wrote his account after returning to England in 1582, and he presents the raid as ordinary business. His account shows an African king's war supplying captives for sale in the Spanish Caribbean, linking African warfare to labour demand in the Americas."
+      },
+      {
+        "doc": "hawks-1572-mines-labor",
+        "group": "labor-economy",
+        "sourcing": "Hawks was an English merchant writing at the request of the English lawyer Richard Hakluyt the elder, so he describes a rival empire for English readers. His report that mines declined once Indigenous slaves were freed and few Indians were left shows population loss and royal law reshaping the labour system."
+      }
+    ],
+    "notes": {
+      "thesis": [
+        "Disease changed societies in the Americas more than any other part of the exchange, because epidemics killed rulers and most of the population and opened the way to conquest: the Kaqchikel annals, Díaz and Winthrop all describe leaders and whole villages dying, from Guatemala to New England.",
+        "Before 1750 the exchange changed the Americas far more than Africa or Europe: European livestock and crops remade American land and work, while in Kongo maize was still fed to pigs in the 1580s, and in Europe new habits such as tobacco spread quickly but staple crops such as the potato took hold in most of Europe only in the 1700s.",
+        "The most far-reaching change was a new Atlantic labour system linking all three continents: population collapse and new cash crops pushed colonists to enslave Indigenous people and then Africans, as Hawks, Gândavo, Philips and Ligon show, so African wars and European markets were tied to American plantations."
+      ],
+      "contextualization": [
+        {
+          "text": "Before 1492, Native Americans had never been exposed to the infectious diseases long common in Eurasia and Africa, such as smallpox, measles and influenza, because the two hemispheres had been separated for thousands of years. When Columbus's voyages reconnected them, these diseases spread as epidemics among Native American populations.",
+          "ref": {
+            "title": "Columbian Exchange",
+            "url": "https://www.britannica.com/event/Columbian-exchange"
+          }
+        },
+        {
+          "text": "By the 1480s Portuguese ships were carrying enslaved Africans to sugar plantations on Atlantic islands such as Madeira, and Spanish conquerors took enslaved Africans to the Caribbean after 1502. In the 1600s demand rose sharply with the growth of sugar plantations in the Caribbean and tobacco in the Chesapeake.",
+          "ref": {
+            "title": "Transatlantic slave trade",
+            "url": "https://www.britannica.com/topic/transatlantic-slave-trade"
+          }
+        }
+      ],
+      "outsideEvidence": [
+        {
+          "text": "Potato in Europe: brought from the Andes by the Spanish in the late 1500s, it became a major crop in Ireland by the end of the 1600s and in continental Europe by the end of the 1700s, which shows Europe changed too, but mostly late in the period.",
+          "ref": {
+            "title": "Potato",
+            "url": "https://www.britannica.com/plant/potato"
+          }
+        },
+        {
+          "text": "Cassava in Africa: this root crop from Brazil reached Africa in the 1500s, helped rulers in Angola and Kongo build states, and could be left in the ground so that farmers could flee slave raiders, which shows American crops changing African societies.",
+          "ref": {
+            "title": "Columbian Exchange",
+            "url": "https://www.britannica.com/event/Columbian-exchange"
+          }
+        },
+        {
+          "text": "Horses on the Great Plains: the Pueblo Revolt of 1680 put thousands of Spanish horses in Native hands, many were traded north, and by the 1730s the Comanche were fully mounted, which shows Old World animals transforming Native societies beyond Spanish control.",
+          "ref": {
+            "title": "Plains Indians",
+            "url": "https://en.wikipedia.org/wiki/Plains_Indians"
+          }
+        },
+        {
+          "text": "Malaria and yellow fever: these diseases crossed the Atlantic from Africa to the Americas, which shows the disease side of the exchange tied Africa to the Americas as well as Europe.",
+          "ref": {
+            "title": "Columbian Exchange",
+            "url": "https://www.britannica.com/event/Columbian-exchange"
+          }
+        },
+        {
+          "text": "Encomienda: Spanish grants of the tribute and labour of Indigenous people, defined in law in 1503, lost their value as the Indigenous population collapsed and were gradually replaced by large landed estates (haciendas), which links disease directly to changes in labour.",
+          "ref": {
+            "title": "Encomienda",
+            "url": "https://www.britannica.com/topic/encomienda"
+          }
+        }
+      ],
+      "complexity": [
+        "Compare the three regions: the Americas lost most of their people and gained new animals, Africa lost people to the slave trade but gained crops such as maize and cassava, and Europe gained new goods such as hides and tobacco, so the exchange changed all three in very different ways.",
+        "Show change over time: early sources show slow acceptance, with maize fed to pigs in Kongo in the 1580s and the potato a major crop in continental Europe only by the end of the 1700s, so a claim about the extent of change should separate the 1500s from the 1700s.",
+        "Qualify with point of view: Puritan governors read epidemics as God's favour and Díaz blames Indigenous remedies, while Bartolomé de las Casas blamed Spanish violence and forced labour for the collapse, so a careful essay weighs disease against conquest."
+      ]
+    }
+  },
+  {
+    "id": "americas-social-hierarchy",
+    "topics": [
+      "4.7",
+      "4.8"
+    ],
+    "prompt": "Evaluate the extent to which social hierarchies in the Spanish and Portuguese Americas changed in the period 1500–1750.",
+    "groups": [
+      {
+        "key": "race-caste",
+        "label": "Race and caste categories"
+      },
+      {
+        "key": "mobility",
+        "label": "Moving up or down the hierarchy"
+      },
+      {
+        "key": "coerced-labor",
+        "label": "Coerced labour systems"
+      }
+    ],
+    "pool": [
+      {
+        "doc": "garcilaso-1609-caste-names",
+        "group": "race-caste",
+        "sourcing": "Garcilaso was himself a mestizo, son of a conquistador and an Inca noblewoman, writing in Spain, and he defends the word 'mestizo' with pride. That makes him strong evidence that new mixed categories were invented after the conquest and that each group gave them different meanings."
+      },
+      {
+        "doc": "gage-1648-creoles",
+        "group": "race-caste",
+        "sourcing": "Gage, an English former friar who turned Protestant, wrote for English readers hostile to Spain, so he plays up quarrels inside Spanish society. His account of creoles kept from high office and insulted as 'half Indians' describes a real divide between American-born and Spanish-born Spaniards, though he may exaggerate its bitterness."
+      },
+      {
+        "doc": "juan-ulloa-1748-quito-classes",
+        "group": "race-caste",
+        "sourcing": "Juan and Ulloa were Spanish naval officers sent by the king, so they describe colonial society as visitors from Spain. Their remark that light-skinned mestizos were counted as Spaniards within two or three generations is strong evidence that by 1748 racial categories could shift with appearance."
+      },
+      {
+        "doc": "vazquez-de-espinosa-1628-cuzco-population",
+        "group": "race-caste",
+        "sourcing": "Vázquez de Espinosa, a Spanish friar who travelled through Spanish America, lists Cuzco's people in order from knights and encomenderos down to enslaved Africans, so he shows the hierarchy as a Spaniard saw it. His praise of mestizo soldiers in the king's service hints that mixed-race men could win some standing."
+      },
+      {
+        "doc": "nakuk-pech-1562-hidalgos",
+        "group": "mobility",
+        "sourcing": "Nakuk Pech was a Maya chief writing the history of his own town, and he stresses his loyalty, his baptism and the titles his family received. That emphasis makes the account strong evidence that some Indigenous nobles kept their rank under Spanish rule by cooperating as tribute collectors and hidalgos."
+      },
+      {
+        "doc": "philip-ii-1565-conqueror-son",
+        "group": "mobility",
+        "sourcing": "This royal decree answers a petition from the poor son of a conquistador, so it shows what the crown chose to reward: service in the conquest. It is good evidence that conquerors' families could fall into poverty and that their status depended on royal favour, though it describes a single case."
+      },
+      {
+        "doc": "vazquez-de-espinosa-1628-free-colored-militia",
+        "group": "mobility",
+        "sourcing": "Vázquez de Espinosa describes the defences of Cartagena and Lima and praises the free colored companies as 'as good as Spaniards'. It shows free men of African descent gaining a recognised place in royal service, though their separate companies kept them marked as a distinct group."
+      },
+      {
+        "doc": "gandavo-1576-settlers-slaves",
+        "group": "mobility",
+        "sourcing": "Gândavo wrote to persuade Portuguese people to settle in Brazil, so he makes it sound easy for a poor man to rise. His claim that owning a few slaves let a settler live 'in a respectable way' shows that in Portuguese Brazil a European's standing rose through owning enslaved people."
+      },
+      {
+        "doc": "las-casas-1552-encomienda",
+        "group": "coerced-labor",
+        "sourcing": "Las Casas, a Dominican friar and former encomienda holder, wrote to persuade the crown to stop Spanish abuses, so he describes the system at its worst. His account is strong evidence of how the first encomiendas worked on Hispaniola and less reliable for numbers."
+      },
+      {
+        "doc": "charles-v-1542-new-laws",
+        "group": "coerced-labor",
+        "sourcing": "The New Laws are royal legislation, so they show what the crown wanted: an end to Indian slavery and to encomiendas passing to heirs. Settlers' opposition weakened them, which makes the law strong evidence of attempted change from the top and weak evidence of what happened in practice."
+      },
+      {
+        "doc": "xahila-1559-gold-tribute",
+        "group": "coerced-labor",
+        "sourcing": "A Kaqchikel noble who lived through these years writes for his descendants about Alvarado's demands for gold-washing labour and his naming of rulers at will, then praises President Cerrato for freeing slaves and ending forced labour. The account shows both the coerced labour imposed on Maya people and the real change a royal official could bring."
+      },
+      {
+        "doc": "gandavo-1576-indian-slave-trade",
+        "group": "coerced-labor",
+        "sourcing": "Gândavo writes as a promoter of Brazil and credits the Jesuits with ending 'disorder' in the slave trade, so he may overstate the reform. His account shows both continuity, since captives taken in a 'just war' stayed slaves, and change, since inspections freed people enslaved illegally."
+      }
+    ],
+    "notes": {
+      "thesis": [
+        "Social hierarchies changed in form more than in their basic order: new categories such as creole, mestizo and mulatto appeared, yet people of Spanish descent stayed at the top while Indigenous and African people did the coerced labour, as Garcilaso, Vázquez de Espinosa and Gage show.",
+        "Hierarchies changed significantly, because mixing and royal service opened new routes to status: Maya nobles became hidalgos, free men of African descent served in royal militia companies, and by 1748 light-skinned mestizos in Quito were counted as Spaniards.",
+        "Coerced labour shows only limited change: the New Laws and officials such as Cerrato ended some Indigenous slavery and encomienda abuses, but new labour drafts and the growing enslavement of Africans kept the people at the bottom working for others throughout the period."
+      ],
+      "contextualization": [
+        {
+          "text": "In Castile and Portugal, 'purity of blood' statutes from 1449 onward kept people of Jewish or Muslim descent out of many institutions. In Spain's American colonies the idea came to mean racial purity, and proofs of it were required in many cases, including for office.",
+          "ref": {
+            "title": "Limpieza de sangre",
+            "url": "https://en.wikipedia.org/wiki/Limpieza_de_sangre"
+          }
+        },
+        {
+          "text": "Spain ruled its American lands through viceroyalties. The Viceroyalty of Peru, created in 1543, was long its most valuable possession because of the silver of Potosí, and mine operators and merchants lived richly in Lima on the forced labour of Indians.",
+          "ref": {
+            "title": "Viceroyalty of Peru",
+            "url": "https://www.britannica.com/place/Viceroyalty-of-Peru"
+          }
+        },
+        {
+          "text": "Epidemics cut Native American populations by 50 to 95 percent by 1650, and by more than 99 percent on most Caribbean islands by 1600, so colonists ruled far fewer Indigenous people and turned increasingly to enslaved Africans.",
+          "ref": {
+            "title": "Columbian Exchange",
+            "url": "https://www.britannica.com/event/Columbian-exchange"
+          }
+        }
+      ],
+      "outsideEvidence": [
+        {
+          "text": "Mita: Viceroy Francisco de Toledo expanded the old Inca labour draft to supply the Potosí silver mines, with the first draftees arriving in 1573, which shows an Andean institution kept but turned to Spanish purposes.",
+          "ref": {
+            "title": "Mit'a",
+            "url": "https://en.wikipedia.org/wiki/Mit%27a"
+          }
+        },
+        {
+          "text": "Repartimiento: under this crown-licensed system colonists drafted a share of a district's Indigenous people for periods of forced labour; the crown reformed it in 1601 and 1609, but forced drafts went on, which shows law changing faster than practice.",
+          "ref": {
+            "title": "Repartimiento",
+            "url": "https://www.britannica.com/topic/repartimiento"
+          }
+        },
+        {
+          "text": "Hacienda: as the Indigenous population fell and farming replaced mining, the encomienda was gradually replaced by the hacienda system of large landed estates, so elite power came to rest on owning land.",
+          "ref": {
+            "title": "Encomienda",
+            "url": "https://www.britannica.com/topic/encomienda"
+          }
+        },
+        {
+          "text": "African slavery in Brazil: Brazil imported more enslaved Africans than any other country, beginning in the mid-1500s, while the enslavement of Indigenous people continued into the 1600s and 1700s, which shows the Portuguese hierarchy resting on both.",
+          "ref": {
+            "title": "Slavery in Brazil",
+            "url": "https://en.wikipedia.org/wiki/Slavery_in_Brazil"
+          }
+        },
+        {
+          "text": "Valladolid debate, 1550–51: the Spanish king halted further conquest while scholars debated whether the conquest and the treatment of Indigenous people were just, which shows the crown questioning the place of Indigenous people in colonial society.",
+          "ref": {
+            "title": "Valladolid debate",
+            "url": "https://en.wikipedia.org/wiki/Valladolid_debate"
+          }
+        }
+      ],
+      "complexity": [
+        "Compare Spanish and Portuguese America: in Brazil owning slaves made a settler respectable and Jesuit inspections only partly limited Indigenous slavery, while Spanish America developed detailed mixed-race categories and royal offices, so both kept Europeans on top in different ways.",
+        "Show change over time: sources from the 1500s describe conquerors dividing Indigenous people among themselves as labourers, while the 1748 account of Quito shows categories that could shift with skin colour, so the hierarchy grew more complex and somewhat more fluid by the end of the period.",
+        "Weigh law against practice: royal decrees such as the New Laws and Philip II's cédula show what the crown intended, while observers such as Gage and Las Casas show abuses continuing, so an essay can qualify claims of change by asking whose view each source gives."
+      ]
+    }
+  },
+  {
+    "id": "slave-trade-africa",
+    "topics": [
+      "4.4",
+      "4.5"
+    ],
+    "prompt": "Evaluate the effects of the Atlantic slave trade on African states and societies in the period c. 1450–1750.",
+    "groups": [
+      {
+        "key": "harm",
+        "label": "Harm: violence, depopulation and broken states"
+      },
+      {
+        "key": "power",
+        "label": "Power: African rulers and elites who controlled the trade"
+      },
+      {
+        "key": "change",
+        "label": "Change: guns, law and social structure"
+      }
+    ],
+    "pool": [
+      {
+        "doc": "pigafetta-lopes-1591-kongo-famine",
+        "group": "harm",
+        "sourcing": "Pigafetta set down the account of Duarte Lopes, a Portuguese merchant who lived in Kongo, so the report gives a trader's view of the Jaga invasion and the famine that followed. It shows starving people selling their own relatives to Portuguese merchants from São Tomé, evidence that war and the trade together harmed Kongo."
+      },
+      {
+        "doc": "battell-1625-imbangala-captives",
+        "group": "harm",
+        "sourcing": "Battell was an English sailor held by the Portuguese who lived among the Imbangala, and his account was printed by Samuel Purchas years later. He took part in loading slaves himself and reports the cheap captives and the destruction of the Benguela state plainly, which makes it strong evidence of harm to African states."
+      },
+      {
+        "doc": "barbot-1732-kidnapping-famine",
+        "group": "harm",
+        "sourcing": "Barbot was an agent of the French Royal African Company writing for European readers, and his remark 'so inhuman are the Blacks to one another' shifts blame onto Africans. Even so, his description of children kidnapped from fields, famine victims selling themselves and captives starved on the march is evidence of the trade's harm to ordinary people."
+      },
+      {
+        "doc": "bluett-1734-ayuba-capture",
+        "group": "harm",
+        "sourcing": "Bluett, an English lawyer, wrote down Ayuba's story for English readers, so the words pass through him, but the events come from an African who was enslaved. Ayuba had just sold two slaves of his own when raiders seized him, which shows raiding endangering even traders and elites."
+      },
+      {
+        "doc": "cadamosto-1455-budomel",
+        "group": "power",
+        "sourcing": "Cadamosto was a Venetian merchant sailing for Prince Henry who wanted to sell horses, so he judges Budomel as a business partner. His account shows a Wolof ruler buying on credit and setting where payment in slaves would be made, evidence that African rulers controlled the terms from the start."
+      },
+      {
+        "doc": "leo-africanus-1526-bornu",
+        "group": "power",
+        "sourcing": "Leo Africanus, a Muslim scholar and diplomat from Fez, describes Bornu's trade of horses for slaves with merchants from across the Sahara. It shows that slave raiding already made some African kings rich before the Atlantic trade grew, so it is evidence of continuity and cannot by itself show an Atlantic effect."
+      },
+      {
+        "doc": "phillips-1694-whydah-king",
+        "group": "power",
+        "sourcing": "Phillips was an English slave-ship captain who complains that he had to pay more for the king's poorer slaves, and a captain had no reason to invent being pushed around by an African king. His journal is strong evidence that Whydah's king taxed European ships, set terms and profited."
+      },
+      {
+        "doc": "barbot-1732-kings-and-merchants",
+        "group": "power",
+        "sourcing": "Barbot made slaving voyages for a French company in 1678–82, and his account was printed in English in 1732, about fifty years later; he describes Africans as the sellers and says little about European pressure. His report that kings, rich men and leading merchants ran the trade and carried European goods far inland on credit is useful evidence of elite control, read with his point of view in mind."
+      },
+      {
+        "doc": "bosman-1704-firearms",
+        "group": "change",
+        "sourcing": "Bosman was the Dutch West India Company's chief merchant at Elmina, and he admits selling guns that could be turned on the Dutch because rival Europeans would sell them anyway. Because he admits a trade he thought dangerous to the Dutch, the passage is strong evidence that firearms became a chief import of the Gold Coast."
+      },
+      {
+        "doc": "snelgrave-1734-war-captives",
+        "group": "change",
+        "sourcing": "Snelgrave was a slave-ship captain who wrote to defend the trade, so his claim that Africans once killed surplus captives and now sold them is self-serving. The passage is best used as evidence of how slavers justified the trade, and only as weak evidence of how warfare changed."
+      },
+      {
+        "doc": "moore-1738-punishments-slavery",
+        "group": "change",
+        "sourcing": "Moore worked on the Gambia for the Royal African Company, which bought slaves there, so he had no reason to make the trade look worse than it was. His report that even trifling crimes came to be punished by sale into slavery is strong evidence that the trade changed African law."
+      },
+      {
+        "doc": "battell-1625-musket-gaga",
+        "group": "change",
+        "sourcing": "Battell writes about his own life among the Imbangala, where his musket made him valuable to their war leader. It shows firearms changing warfare and African merchants coming to war camps to buy captives, though it is one man's experience around 1600."
+      }
+    ],
+    "notes": {
+      "thesis": [
+        "The Atlantic slave trade mainly harmed African states and societies, because raids, wars and famine sales destroyed communities and states: people in Kongo sold relatives during famine, Imbangala war bands destroyed the Benguela state, and even a trader like Ayuba could be seized.",
+        "The trade's effects depended on a society's position in it: coastal and military states such as Whydah and Dahomey grew rich by controlling supply and taxing Europeans, while their neighbours and ordinary people were raided, so the trade strengthened some states as it weakened others.",
+        "The trade changed African institutions as well as population: guns became a chief import on the Gold Coast, law along the Gambia turned crimes into reasons for sale, and wars were increasingly fought to take captives."
+      ],
+      "contextualization": [
+        {
+          "text": "Long before 1450, enslaved Africans were carried across the Sahara to North Africa, and Berber traders exchanged horses from Morocco for slaves from the Jolof kingdom. The Atlantic trade added new buyers to an older system.",
+          "ref": {
+            "title": "Trans-Saharan slave trade",
+            "url": "https://en.wikipedia.org/wiki/Trans-Saharan_slave_trade"
+          }
+        },
+        {
+          "text": "The Portuguese built Elmina, the first European stone fort on the Gold Coast, in 1482 on a site leased from local states. In the 1600s Dutch, English and other traders turned these coastal ties toward exporting slaves, and by the mid-1700s about 40 European forts stood on the coast.",
+          "ref": {
+            "title": "Ghana",
+            "url": "https://www.britannica.com/place/Ghana/Contact-with-Europe-and-its-effects"
+          }
+        },
+        {
+          "text": "Between 10 and 12 million enslaved Africans were carried across the Atlantic from the 1500s to the 1800s. Probably no more than a few hundred thousand were taken before 1600; demand rose sharply with Caribbean sugar in the 1600s, and nearly three-fifths of the trade took place in the 1700s.",
+          "ref": {
+            "title": "Transatlantic slave trade",
+            "url": "https://www.britannica.com/topic/transatlantic-slave-trade"
+          }
+        }
+      ],
+      "outsideEvidence": [
+        {
+          "text": "Afonso I of Kongo: in 1526 he wrote to the king of Portugal protesting that traders, helped by some Kongo nobles, were kidnapping free people, even sons of nobles and members of his own family, which shows the trade weakening royal authority.",
+          "ref": {
+            "title": "Afonso I of Kongo",
+            "url": "https://en.wikipedia.org/wiki/Afonso_I_of_Kongo"
+          }
+        },
+        {
+          "text": "Dahomey: King Agaja, eager to buy European arms, conquered Allada in 1724 and Whydah in 1727, and the kingdom was organised for war to take captives, who were sold for weapons or set to work on royal plantations, which shows the trade building a powerful state.",
+          "ref": {
+            "title": "Dahomey",
+            "url": "https://www.britannica.com/place/Dahomey-historical-kingdom-Africa"
+          }
+        },
+        {
+          "text": "Asante: from the early 1700s the Asante supplied enslaved people to British and Dutch traders and received firearms, which they used to expand their territory, an example of the exchange of slaves for guns strengthening a state.",
+          "ref": {
+            "title": "Asante empire",
+            "url": "https://www.britannica.com/place/Asante-empire"
+          }
+        },
+        {
+          "text": "Njinga of Ndongo and Matamba: after Portuguese wars that burned villages and seized captives in Ndongo, she allied with Imbangala forces and later the Dutch, conquered Matamba in 1631–35 and fought the Portuguese until a peace treaty in 1656, which shows African rulers resisting and adapting.",
+          "ref": {
+            "title": "Nzinga of Ndongo and Matamba",
+            "url": "https://en.wikipedia.org/wiki/Nzinga_of_Ndongo_and_Matamba"
+          }
+        },
+        {
+          "text": "Cassava: this American crop reached Africa in the 1500s and could be left in the ground for months, so farmers targeted by raiders could flee and return, while it also helped rulers in Angola and Kongo build states.",
+          "ref": {
+            "title": "Columbian Exchange",
+            "url": "https://www.britannica.com/event/Columbian-exchange"
+          }
+        },
+        {
+          "text": "Loss of young adults: many captives were young men and women of childbearing age, while the old and dependent were left behind, which weakened families and local economies.",
+          "ref": {
+            "title": "Transatlantic slave trade",
+            "url": "https://www.britannica.com/topic/transatlantic-slave-trade"
+          }
+        }
+      ],
+      "complexity": [
+        "Show continuity with older trade: Cadamosto and Leo Africanus show rulers exchanging slaves for horses with traders from across the Sahara, so the Atlantic trade grew out of existing systems even as it greatly increased their scale.",
+        "Corroborate across groups: the rulers who gained most, such as Dahomey's kings, did so by making war on their neighbours, and Whydah itself was conquered by Dahomey in 1727, so harm and power were two sides of the same process.",
+        "Source the European writers: slavers such as Snelgrave and Barbot had reasons to blame Africans or defend the trade, while Ayuba's account comes from a victim through an English recorder, so weighing point of view shows why historians still debate how far Europeans and Africans each drove the trade."
+      ]
+    }
+  }
+]
