@@ -339,8 +339,8 @@
   {
     "id": "bosman-1704-firearms",
     "authorKey": "bosman",
-    "sourceLine": "Willem Bosman, chief merchant of the Dutch West India Company at Elmina on the Gold Coast, A New and Accurate Description of the Coast of Guinea, letter 11, 1704 (adapted)",
-    "year": 1704,
+    "sourceLine": "Willem Bosman, chief merchant of the Dutch West India Company at Elmina on the Gold Coast, A New and Accurate Description of the Coast of Guinea, letter 11, Dutch original 1703, English translation 1705 (adapted)",
+    "year": 1705,
     "kind": "text",
     "text": "The chief of these are Muskets or Carabins, in the management of which they are wonderful dextrous … you wonder how the Negroes come to be furnished with Fire-Arms, but you will have no Reason when you know we sell them incredible quantities, thereby obliging them with a Knife to cut our own Throats. But we are forced to it; for if we would not, they might be sufficiently stored with that Commodity by the English, Danes, and Brandenburghers … And since that and Gun-powder for some time hath been the chief vendible Merchandise here, we should have found but an indifferent Trade without our share in it.",
     "adapted": true,
@@ -604,7 +604,7 @@
   {
     "id": "columbus-1492-journal-prologue",
     "authorKey": "columbus",
-    "sourceLine": "Christopher Columbus, Genoese navigator sailing for Spain, prologue to the journal of his first voyage, addressed to Ferdinand and Isabella, 1492",
+    "sourceLine": "Christopher Columbus, Genoese navigator sailing for Spain, prologue to the journal of his first voyage (known from Bartolomé de las Casas's abstract), addressed to Ferdinand and Isabella, 1492",
     "year": 1492,
     "kind": "text",
     "text": "… and in the present month, in consequence of the information which I had given your Highnesses respecting the countries of India and of a Prince, called Great Can, which in our language signifies King of Kings, how, at many times he, and his predecessors had sent to Rome soliciting instructors who might teach him our holy faith, and the holy Father had never granted his request, whereby great numbers of people were lost, believing in idolatry and doctrines of perdition. Your Highnesses, as Catholic Christians, and princes who love and promote the holy Christian faith, and are enemies of the doctrine of Mahomet, and of all idolatry and heresy, determined to send me, Christopher Columbus, to the above-mentioned countries of India, to see the said princes, people, and territories, and to learn their disposition and the proper method of converting them to our holy faith; and furthermore directed that I should not proceed by land to the East, as is customary, but by a Westerly route, in which direction we have hitherto no certain evidence that any one has gone.",
@@ -1584,7 +1584,7 @@
   {
     "id": "juan-ulloa-1748-quito-classes",
     "authorKey": "juan-ulloa",
-    "sourceLine": "Jorge Juan and Antonio de Ulloa, Spanish naval officers sent by the king to South America 1735–1744, A Voyage to South America, on the inhabitants of Quito, 1748",
+    "sourceLine": "Jorge Juan and Antonio de Ulloa, Spanish naval officers sent by the king to South America 1735–1744, A Voyage to South America, on the inhabitants of Quito, first published 1748",
     "year": 1748,
     "kind": "text",
     "text": "This city is very populous, and has, among its inhabitants, some families of high rank and distinction; though their number is but small considering its extent, the poorer class bearing here too great a proportion. The former are the descendants either of the original conquerors, or of presidents, auditors, or other persons of character, who at different times came over from Spain invested with some lucrative post … The commonalty may be divided into four classes; Spaniards or Whites, Mestizos, Indians or Natives, and Negroes, with their progeny. … The name of Spaniard here has a different meaning from that of Chapitone or European, as properly signifying a person descended from a Spaniard without a mixture of blood. Many Mestizos, from the advantage of a fresh complexion, appear to be Spaniards more than those who are so in reality; and from only this fortuitous advantage are accounted as such. … at Quito the degrees of Mestizos are not carried so far back; for, even in the second or third generations, when they acquire the European colour, they are considered as Spaniards.",
@@ -1753,7 +1753,7 @@
   {
     "id": "las-casas-1542-hispaniola",
     "authorKey": "las-casas",
-    "sourceLine": "Bartolome de las Casas, Spanish Dominican friar and former colonist, A Short Account of the Destruction of the Indies, on Hispaniola, written 1542",
+    "sourceLine": "Bartolome de las Casas, Spanish Dominican friar and former colonist, A Short Account of the Destruction of the Indies, on Hispaniola, written 1542, published 1552",
     "year": 1542,
     "kind": "text",
     "text": "… they [the Indians] began to consider by what wayes and means they might expel the Spaniards out of their Countrey, and immediately took up Arms. But, good God, what Arms, do you imagin? Namely such, both Offensive and Defensive, as resemble Reeds wherewith Boys sport with one another, more than Manly Arms and Weapons. Which the Spaniards no sooner perceived, but they, mounted on generous Steeds, well weapon'd with Lances and Swords, begin to exercise their bloody Butcheries and Strategems, and overrunning their Cities and Towns, spar'd no Age, or Sex, nay not so much as Women with Child, but ripping up their Bellies, tore them alive in pieces. They laid Wagers among themselves, who should with a Sword at one blow cut, or divide a Man in two; … nay farther, which should sheath his Sword in the Bowels of a Man with the quickest dispatch and expedition. … and if at any time it hapned, (which was rarely) that the Indians irritated upon a just account destroy'd or took away the Life of any Spaniard, they promulgated and proclaim'd this Law among them, that One Hundred Indians should dye for every individual Spaniard that should be slain.",
@@ -3059,7 +3059,7 @@
   {
     "id": "zurara-1453-gil-eannes-bojador",
     "authorKey": "zurara",
-    "sourceLine": "Gomes Eanes de Zurara, royal chronicler of Portugal, Chronicle of the Discovery and Conquest of Guinea, on Prince Henry sending Gil Eannes past Cape Bojador (1434), 1453",
+    "sourceLine": "Gomes Eanes de Zurara, royal chronicler of Portugal, Chronicle of the Discovery and Conquest of Guinea, on Prince Henry urging Gil Eannes to sail past Cape Bojador (which Eannes passed in 1434), 1453",
     "year": 1453,
     "kind": "text",
     "text": "Now the Infant always received home again with great patience those whom he had sent out, as Captains of his ships, in search of that land, never upbraiding them with their failure, … \"You cannot find\", said the Infant, \"a peril so great that the hope of reward will not be greater, and in truth I wonder much at the notion you have all taken on so uncertain a matter--for even if these things that are reported had any authority, however small, I would not blame you, but you tell me only the opinions of four mariners, who come but from the Flanders trade or from some other ports that are very commonly sailed to, and know nothing of the needle or sailing-chart. … Go forth, then, and heed none of their words, but make your voyage straightway, inasmuch as with the grace of God you cannot but gain from this journey honour and profit.\"",

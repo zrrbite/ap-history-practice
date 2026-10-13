@@ -59,7 +59,7 @@
       {
         "doc": "lebna-dengel-1526-letter-manuel",
         "group": "religious",
-        "sourcing": "The Christian emperor of Ethiopia wrote to King Manuel around 1522 as one Christian ruler to another, looking for allies against the Muslims and pagans around his lands. It shows from the African side that the Christian alliance Portugal had long hoped to find was real, though Lebna Dengel had his own reasons for welcoming Portuguese settlers, such as gaining Christian allies in coastal ports held by Muslims."
+        "sourcing": "The Christian emperor of Ethiopia wrote to King Manuel around 1522 as one Christian ruler to another, proposing that they assist one another in lands he describes as full of Moors and pagans. It shows from the African side that the Christian ruler Portugal had long hoped to find was real, though he may have had his own reasons for welcoming Portuguese settlers on his coast, which the letter does not spell out."
       },
       {
         "doc": "ferdinand-isabella-1492-privileges-columbus",
@@ -197,7 +197,7 @@
       {
         "doc": "malay-annals-1612-cannon-malacca",
         "group": "force",
-        "sourcing": "The Malay Annals is the court chronicle of the Malacca sultans, compiled about a century after the Portuguese attacks, so it remembers them through the defeated court's eyes and runs separate attacks together. Its picture of terror at cannon fire is strong evidence that firepower from the sea gave the Portuguese their edge."
+        "sourcing": "The Malay Annals is the court chronicle of the Malacca sultans, compiled about a century after the Portuguese attacks, so it remembers them through the defeated court's eyes and runs separate attacks together. Its picture of terror at cannon fire shows how the court remembered Portuguese ship artillery, but Malacca had guns of its own, so it is weaker evidence of what decided the battle."
       },
       {
         "doc": "zainuddin-1583-franks-oppression",
@@ -222,7 +222,7 @@
       {
         "doc": "sidi-ali-reis-1557-gujarat-portuguese",
         "group": "negotiation",
-        "sourcing": "Sidi Ali Reis was an Ottoman admiral stranded in Gujarat after a sea battle with the Portuguese, so he is hostile to them and keen to show Gujarat's loyalty to the Ottoman sultan. He still shows the Portuguese gaining harbours by aiding a rebel noble and Gujarat's ministers refusing a Portuguese demand, which supports the role of alliance and local politics."
+        "sourcing": "Sidi Ali Reis was an Ottoman admiral stranded in Gujarat after a sea battle with the Portuguese, so he is hostile to them and keen to show Gujarat's loyalty to the Ottoman sultan. He still shows a rebel noble offering the Portuguese harbours in return for their aid and Gujarat's ministers refusing a Portuguese demand, which supports the role of alliance and local politics."
       },
       {
         "doc": "jahangir-1617-letter-james-i",
@@ -232,18 +232,18 @@
       {
         "doc": "roe-1616-letter-quiet-trade",
         "group": "negotiation",
-        "sourcing": "Roe was writing advice to the East India Company, whose trade he was sent to protect, so he argues for what would serve the Company's profits. His claim that forts and land wars ruined the Portuguese and Dutch is an opinion, but it shows an English official choosing trade over force in Mughal India."
+        "sourcing": "Roe was writing advice to the East India Company, whose trade he was sent to secure, so he argues for what would serve the Company's profits. His claim that forts and land wars ruined the Portuguese and Dutch is an opinion, but it shows an English official choosing trade over force in Mughal India."
       },
       {
         "doc": "powhatan-1609-speech-smith",
         "group": "negotiation",
-        "sourcing": "Powhatan's words come through John Smith's Generall Historie of 1624, written fifteen years later to promote the colony and Smith's own role, so the speech may be shaped by Smith. It still records a Native ruler setting the terms of trade and warning that force would leave the English hungry."
+        "sourcing": "Powhatan's words come through John Smith's Generall Historie of 1624, written fifteen years later in a book that promoted both the colony and Smith's own role, so the speech may be shaped by Smith. It still records a Native ruler setting the terms of trade and warning that force would leave the English hungry."
       }
     ],
     "notes": {
       "thesis": [
-        "Europeans relied mainly on violence where they held a military edge, at sea and on lightly defended coasts and islands: Portuguese cannon terrified Malacca, Almeida's fleet plundered Kilwa and built a fort, and the Requerimiento made war and enslavement part of Spanish law in the Americas.",
-        "Europeans relied on negotiation and alliance more than on violence, because powerful local rulers controlled access to trade and land: Calicut's officials set the terms of da Gama's visit, Jahangir granted the English trade on his own terms, and in Mexico the Tlaxcalan alliance made the conquest possible.",
+        "Europeans relied mainly on violence where they held a military edge, at sea and on lightly defended coasts and islands: Portuguese cannon terrified Malacca, Almeida's fleet plundered Kilwa and built a fort, and the Requerimiento set out a legal formula for war and enslavement in the Americas.",
+        "Europeans relied on negotiation and alliance more than on violence, because powerful local rulers controlled access to trade and land: Calicut's officials set the terms of da Gama's visit, Jahangir granted the English trade on his own terms, and in Mexico the Tlaxcalan alliance was essential to the conquest.",
         "The balance between force and negotiation depended on local power and changed over time: Iberian conquerors of the 1500s used force widely, but by the 1600s English agents such as Roe judged forts and land wars too costly against strong Asian states, while violence continued where Europeans faced weaker states or one another, as the Dutch attacks on English ships show."
       ],
       "contextualization": [
@@ -262,7 +262,7 @@
           }
         },
         {
-          "text": "In India, Europeans met the Mughal dynasty, which ruled most of northern India from the early 1500s to the mid-1700s. Small European trading companies could not hope to conquer such a land empire in this period.",
+          "text": "In India, Europeans met the Mughal dynasty, which ruled most of northern India from the early 1500s to the mid-1700s. European trading companies were far too weak to conquer such a land empire before the mid-1700s.",
           "ref": {
             "title": "Mughal dynasty",
             "url": "https://www.britannica.com/topic/Mughal-dynasty"
@@ -292,7 +292,7 @@
           }
         },
         {
-          "text": "Cajamarca, 1532: Francisco Pizarro, with about 180 men, ambushed and captured the Inca ruler Atahuallpa, took a ransom of gold and silver and executed him in 1533, which shows violence toppling an empire already weakened by civil war.",
+          "text": "Cajamarca, 1532: Francisco Pizarro, with fewer than 200 men, ambushed and captured the Inca ruler Atahuallpa, took a ransom of gold and silver and executed him in 1533, which shows violence toppling an empire already weakened by civil war.",
           "ref": {
             "title": "Atahuallpa",
             "url": "https://www.britannica.com/biography/Atahuallpa"
@@ -306,7 +306,7 @@
           }
         },
         {
-          "text": "The Dutch at Dejima: after the Shimabara Rebellion of 1637–38 the Tokugawa shogunate expelled the Portuguese and confined the Dutch to Dejima, a walled island in Nagasaki harbour guarded at night, which shows Europeans keeping their trade only by accepting an Asian state's terms.",
+          "text": "The Dutch at Dejima: after the Shimabara Rebellion of 1637–38 the Tokugawa shogunate expelled the Portuguese in 1639 and in 1641 confined the Dutch to Dejima, a fenced island in Nagasaki harbour guarded at night, which shows Europeans keeping their trade only by accepting an Asian state's terms.",
           "ref": {
             "title": "Sakoku",
             "url": "https://www.britannica.com/topic/sakoku"
@@ -314,7 +314,7 @@
         }
       ],
       "complexity": [
-        "Corroborate across groups: force and alliance often worked together, since the Cholula massacre was carried out with Tlaxcalan allies and the Portuguese gained Gujarat's harbours by backing a rebel noble, so several documents support both lines of argument.",
+        "Corroborate across groups: force and alliance often worked together, since the Cholula massacre was carried out with Tlaxcalan allies and a rebel noble in Gujarat offered the Portuguese his harbours in return for their help, so several documents support both lines of argument.",
         "Compare regions: in the Americas small Spanish forces with Indigenous allies overthrew large empires, while in Asia Europeans used force mainly at sea and had to bargain with land empires such as the Mughals or accept limits such as Dejima.",
         "Weigh point of view: European writers such as Díaz and Mayr present violence as normal or necessary, while the Malay Annals and Zainuddin describe it from the victims' side, so an essay that sources both qualifies any single answer about how much Europeans relied on force."
       ]
@@ -418,7 +418,7 @@
           }
         },
         {
-          "text": "By the 1480s Portuguese ships were carrying enslaved Africans to sugar plantations on Atlantic islands such as Madeira, and Spanish conquerors took enslaved Africans to the Caribbean after 1502. In the 1600s demand rose sharply with the growth of sugar plantations in the Caribbean and tobacco in the Chesapeake.",
+          "text": "By the late 1400s Portuguese ships were carrying enslaved Africans to sugar plantations on Atlantic islands such as Madeira, and Spanish conquerors took enslaved Africans to the Caribbean after 1502. In the 1600s demand rose sharply with the growth of sugar plantations in the Caribbean and tobacco in the Chesapeake.",
           "ref": {
             "title": "Transatlantic slave trade",
             "url": "https://www.britannica.com/topic/transatlantic-slave-trade"
@@ -434,7 +434,7 @@
           }
         },
         {
-          "text": "Cassava in Africa: this root crop from Brazil reached Africa in the 1500s, helped rulers in Angola and Kongo build states, and could be left in the ground so that farmers could flee slave raiders, which shows American crops changing African societies.",
+          "text": "Cassava in Africa: this root crop from Brazil reached Africa in the 1500s, became a staple food in Angola and Kongo, and could be left in the ground so that farmers could flee slave raiders, which shows American crops changing African societies.",
           "ref": {
             "title": "Columbian Exchange",
             "url": "https://www.britannica.com/event/Columbian-exchange"
@@ -574,7 +574,7 @@
           }
         },
         {
-          "text": "Epidemics cut Native American populations by 50 to 95 percent by 1650, and by more than 99 percent on most Caribbean islands by 1600, so colonists ruled far fewer Indigenous people and turned increasingly to enslaved Africans.",
+          "text": "Epidemics cut Native American populations by very large shares by 1650 (estimates range from about 50 to 95 percent, depending on the region) and almost wiped out the Indigenous peoples of most Caribbean islands by 1600, so colonists in the Caribbean and Brazil in particular turned increasingly to enslaved Africans.",
           "ref": {
             "title": "Columbian Exchange",
             "url": "https://www.britannica.com/event/Columbian-exchange"
@@ -655,7 +655,7 @@
       {
         "doc": "battell-1625-imbangala-captives",
         "group": "harm",
-        "sourcing": "Battell was an English sailor held by the Portuguese who lived among the Imbangala, and his account was printed by Samuel Purchas years later. He took part in loading slaves himself and reports the cheap captives and the destruction of the Benguela state plainly, which makes it strong evidence of harm to African states."
+        "sourcing": "Battell was an English sailor held by the Portuguese who lived among the Imbangala, and his account was printed by Samuel Purchas years later. He took part in loading slaves himself and reports the cheap captives and the defeat of the Benguelas and the death of their ruler plainly, which makes it strong evidence of harm to African states."
       },
       {
         "doc": "barbot-1732-kidnapping-famine",
@@ -710,7 +710,7 @@
     ],
     "notes": {
       "thesis": [
-        "The Atlantic slave trade mainly harmed African states and societies, because raids, wars and famine sales destroyed communities and states: people in Kongo sold relatives during famine, Imbangala war bands destroyed the Benguela state, and even a trader like Ayuba could be seized.",
+        "The Atlantic slave trade mainly harmed African states and societies, because raids, wars and famine sales destroyed communities and states: people in Kongo sold relatives during famine, Imbangala war bands defeated the Benguelas and killed their ruler, and even a trader like Ayuba could be seized.",
         "The trade's effects depended on a society's position in it: coastal and military states such as Whydah and Dahomey grew rich by controlling supply and taxing Europeans, while their neighbours and ordinary people were raided, so the trade strengthened some states as it weakened others.",
         "The trade changed African institutions as well as population: guns became a chief import on the Gold Coast, law along the Gambia turned crimes into reasons for sale, and wars were increasingly fought to take captives."
       ],
@@ -730,7 +730,7 @@
           }
         },
         {
-          "text": "Between 10 and 12 million enslaved Africans were carried across the Atlantic from the 1500s to the 1800s. Probably no more than a few hundred thousand were taken before 1600; demand rose sharply with Caribbean sugar in the 1600s, and nearly three-fifths of the trade took place in the 1700s.",
+          "text": "An estimated 10 to 12 million enslaved Africans were shipped across the Atlantic from the 1500s to the 1800s. Probably no more than a few hundred thousand were taken before 1600; demand rose sharply with Caribbean sugar in the 1600s, and roughly half of the trade took place in the 1700s.",
           "ref": {
             "title": "Transatlantic slave trade",
             "url": "https://www.britannica.com/topic/transatlantic-slave-trade"
@@ -746,7 +746,7 @@
           }
         },
         {
-          "text": "Dahomey: King Agaja, eager to buy European arms, conquered Allada in 1724 and Whydah in 1727, and the kingdom was organised for war to take captives, who were sold for weapons or set to work on royal plantations, which shows the trade building a powerful state.",
+          "text": "Dahomey: King Agaja, eager to buy European arms, conquered Allada in 1724 and Whydah in 1727, and the kingdom was organised for war to take captives, who were sold for weapons or set to work on royal plantations, which shows the trade building a powerful state. (Snelgrave's source line names Agaja only as the king he visited, so only the conquests and the war-making state count as outside evidence.)",
           "ref": {
             "title": "Dahomey",
             "url": "https://www.britannica.com/place/Dahomey-historical-kingdom-Africa"
@@ -767,7 +767,7 @@
           }
         },
         {
-          "text": "Cassava: this American crop reached Africa in the 1500s and could be left in the ground for months, so farmers targeted by raiders could flee and return, while it also helped rulers in Angola and Kongo build states.",
+          "text": "Cassava: this American crop reached Africa in the 1500s and could be left in the ground for months, so farmers targeted by raiders could flee and return, and it became a staple food in Angola and Kongo.",
           "ref": {
             "title": "Columbian Exchange",
             "url": "https://www.britannica.com/event/Columbian-exchange"
@@ -879,21 +879,21 @@
       ],
       "contextualization": [
         {
-          "text": "Silver was discovered at Potosí in the Andes in 1545, and within three decades the town had more than 150,000 people, making it the largest city in the Americas.",
+          "text": "Silver was discovered at Potosí in the Andes in 1545, and within about three decades the town had well over 100,000 people, making it one of the largest cities in the Americas.",
           "ref": {
             "title": "Potosí",
             "url": "https://www.britannica.com/place/Potosi-Bolivia"
           }
         },
         {
-          "text": "Ming China's single whip reform, extended across the empire in 1580, turned most land taxes, poll taxes and labour duties into one payment in silver, which raised China's imports of silver from Japan and Spanish America.",
+          "text": "Ming China's single whip reform, extended across the empire in the 1580s, turned most land taxes, poll taxes and labour duties into one payment in silver, which raised China's imports of silver from Japan and Spanish America.",
           "ref": {
             "title": "Single whip law",
             "url": "https://en.wikipedia.org/wiki/Single_whip_law"
           }
         },
         {
-          "text": "From 1565 Spanish galleons made one or two round trips a year between Acapulco and Manila, carrying American silver to Asia and Asian goods back, because silver was worth much more in Asia than in the Americas.",
+          "text": "From 1565 Spanish galleons usually sailed once a year in each direction between Acapulco and Manila, carrying American silver to Asia and Asian goods back, because silver was worth much more in Asia than in the Americas.",
           "ref": {
             "title": "Manila galleon",
             "url": "https://en.wikipedia.org/wiki/Manila_galleon"
@@ -939,7 +939,7 @@
       ],
       "complexity": [
         "Corroborate across groups: Morga in Manila and Philip III in Spain both complain that silver went to 'infidel' lands, while the Ming official and Chanchian show the Chinese side of the same flow, so writers with very different aims agree on the direction of the trade.",
-        "Qualify with a counter-argument: Mun and North defended sending silver abroad, and Montesquieu argued that more silver only raised prices, so an essay can argue that silver changed prices and trade routes more than it created lasting wealth for Spain.",
+        "Qualify with a counter-argument: Mun defended sending silver abroad, North treated silver as a commodity like any other, and Montesquieu argued that more silver only raised prices, so an essay can argue that silver changed prices and trade routes more than it created lasting wealth for Spain.",
         "Connect to a later period: China's demand for silver lasted into the 1800s, and when British merchants began selling Indian opium in China to pay for tea, silver started to flow out of China, a dispute that helped cause the Opium War of 1839–42."
       ]
     }
@@ -1087,7 +1087,7 @@
       ],
       "complexity": [
         "Explain similarity and difference: the Dutch and English both chartered companies with the power to build forts and make war, but the Dutch lawyer Grotius argued in 1609 that the seas were free to all traders, a useful claim against Spanish and Portuguese monopolies, while England's Navigation Acts closed English trade to the Dutch.",
-        "Corroborate across groups: Mun's rule that a kingdom must sell more than it buys (state policy) and Montesquieu's 'fundamental law' that only the mother country may trade with its colonies state the same logic more than a century apart, which shows how lasting mercantilist thinking was.",
+        "Corroborate across groups: Mun's rule that a kingdom must sell more than it buys (state policy) and Montesquieu's 'fundamental law' that only the mother country may trade with its colonies state the same logic about a century apart (Mun wrote c. 1630), which shows how lasting mercantilist thinking was.",
         "Connect to a later period: Adam Smith attacked mercantilism in The Wealth of Nations (1776), and British trade restrictions on the colonies became one of the causes of the American Revolution."
       ]
     }
@@ -1158,7 +1158,7 @@
       {
         "doc": "adams-1611-shipbuilder-to-ieyasu",
         "group": "interest",
-        "sourcing": "Adams, an English pilot shipwrecked in Japan, writes to his countrymen and may stress his own favour at court. Still, his account of building Ieyasu a European-style ship and teaching him geometry is good evidence that Japan's ruler valued useful European skills."
+        "sourcing": "Adams, an English pilot shipwrecked in Japan, writes to his countrymen and may stress his own favour at court. Still, his account of building Ieyasu a European-style ship and teaching him geometry is good evidence that Japan's ruler valued useful European skills, though the claim to have taught Ieyasu geometry rests on Adams's word alone."
       },
       {
         "doc": "xu-guangqi-1617-defends-jesuit-learning",
@@ -1303,7 +1303,7 @@
       {
         "doc": "easton-1675-metacom-grievances",
         "group": "negotiated",
-        "sourcing": "Easton, Rhode Island's deputy governor, met Metacom's council a week before the war while trying to settle the quarrel, and he records their grievances in detail. That makes the passage strong evidence that the Wampanoag stated their case before fighting, though their words reach us through an English writer."
+        "sourcing": "Easton, Rhode Island's deputy governor, met Metacom's council days before the war while trying to settle the quarrel, and he records their grievances in detail. That makes the passage strong evidence that the Wampanoag stated their case before fighting, though their words reach us through an English writer."
       },
       {
         "doc": "canassatego-1744-lancaster-treaty",
@@ -1339,7 +1339,7 @@
       ],
       "contextualization": [
         {
-          "text": "Smallpox, measles, influenza and other diseases from Eurasia and Africa swept through Native American populations, which fell by 50 to 95 percent by 1650, weakening every kind of resistance.",
+          "text": "Smallpox, measles, influenza and other diseases from Eurasia and Africa swept through Native American populations, which fell by an estimated 50 to 95 percent by 1650, depending on the region, weakening every kind of resistance.",
           "ref": {
             "title": "Columbian Exchange",
             "url": "https://www.britannica.com/event/Columbian-exchange"
@@ -1495,9 +1495,9 @@
     ],
     "notes": {
       "thesis": [
-        "Taxes and economic hardship were the most common cause of challenges to state power, because rulers paying for wars and courts demanded more than subjects could give: Shimabara farmers faced impossible rice taxes, Parisians rejected new tariffs, Parliament protested forced loans, and Shivaji's letter tied the jizya to ruined peasants.",
+        "Taxes and economic hardship were the most common cause of challenges to state power, because rulers paying for wars and courts demanded more than subjects could give: Shimabara farmers faced impossible rice taxes, Parisians rejected new tariffs, Parliament protested forced loans, and the letter attributed to Shivaji tied the jizya to ruined peasants.",
         "Religion was the cause that turned grievances into lasting movements, because it gave rebels a higher law to appeal to: German peasants cited the Gospel, Shimabara's rebels died for the 'Lord of Heaven', Guru Gobind Singh defied Aurangzeb, and Andean preachers promised the return of the huacas.",
-        "Many of the most serious challenges began when rulers centralized power at the expense of local elites with their own rights: the Dutch provinces, conquistadors like Aguirre, an Ottoman prince and Wampanoag sachems all resisted a distant authority, and economic or religious complaints gave them followers."
+        "Many of the most serious challenges began when rulers centralized power at the expense of local elites with their own rights: the Dutch provinces, conquistadors like Aguirre and Wampanoag sachems all resisted a distant authority, and an Ottoman succession struggle shows rivals for power gathering followers, and economic or religious complaints gave them followers."
       ],
       "contextualization": [
         {
@@ -1517,7 +1517,7 @@
       ],
       "outsideEvidence": [
         {
-          "text": "Li Zicheng's rebellion: a village leader who joined the rebels in 1630 after a great famine, Li took Beijing in 1644 and brought down the Ming dynasty, a case where economic disaster fed rebellion.",
+          "text": "Li Zicheng's rebellion: who joined the rebels in 1630 as famine spread in northern China, Li took Beijing in 1644 and brought down the Ming dynasty, a case where economic disaster fed rebellion.",
           "ref": {
             "title": "Li Zicheng",
             "url": "https://www.britannica.com/biography/Li-Zicheng"
