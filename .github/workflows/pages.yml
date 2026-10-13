@@ -25,6 +25,8 @@ jobs:
         with:
           node-version: 22
       - run: npm test
+      - name: Check the bank meets release minimums
+        run: node tools/validate.js --release
       - run: npm run build
       - name: Use the standalone page as the site
         run: mkdir -p _site && cp dist/local.html _site/index.html
