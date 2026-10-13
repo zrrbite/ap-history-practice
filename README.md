@@ -6,13 +6,16 @@ Random practice questions for AP World History: Modern, scoped to Unit 4 of the 
 - **Short drills.** Short-answer questions (parts a, b and c, with scoring guides) and multiple-choice sets (one source, 3–4 questions, each answer explained).
 - **Codes.** Every set has a code such as `dbq.silver-trade.k2x9q1` that reopens exactly that set, so you can come back to it or send it to a teacher.
 
+- **Check it.** Scoring notes that rely on outside knowledge link to a second reference, a Britannica article or, where Britannica lacks the point, Wikipedia, so students can check the guide against something besides their textbook.
+
 Nothing is graded by AI. Students check their own work against the guides.
 
 ## Try it
 
-The page is published as a claude.ai artifact: <https://claude.ai/artifact/8YMSYcGaX9ygMu27SfboDY>. It currently shows placeholder content while the document bank is being built.
+- On GitHub Pages: <https://zrrbite.github.io/ap-history-practice/>. Every push to `main` rebuilds and redeploys it (`.github/workflows/pages.yml`).
+- As a claude.ai artifact: <https://claude.ai/artifact/8YMSYcGaX9ygMu27SfboDY>.
 
-To run it locally, build it (see below) and open `dist/local.html` in a browser. That copy also prints cleanly.
+To run it locally, build it (see below) and open `dist/local.html` in a browser. That copy, like the GitHub Pages one, also prints cleanly.
 
 ## Where the documents come from
 
@@ -38,12 +41,17 @@ npm run build               # writes dist/index.html (to publish) and dist/local
 node tools/check-sources.js <file.json> [--mark] [--only id,id]   # check excerpts against their sources
 node tools/check-sources.js --text <url>                          # print a page's text, to copy excerpts from
 node tools/candidates.js merge | promote                          # research drafts -> candidates -> bank
+node tools/check-refs.js [file.json ...]                          # confirm every "Check it" link loads the article it names
+node tools/check-refs.js --title <url>                            # print the confirmed title for one link
 ```
+
+Britannica refuses scripted requests, so `check-refs.js` confirms a Britannica link through its Wayback Machine capture instead. `site.json` holds the artifact URL that "Copy link" uses inside claude.ai; on GitHub Pages and locally the page uses its own address.
 
 | Path | What it holds |
 |---|---|
 | `data/` | The question bank: `documents.json`, `dbqs.json`, `saqs.json`, `mcqs.json` |
 | `src/` | The page: pure modules (`sampler.js`, `code.js`, `timer.js`, `store.js`), the DOM code (`app.js`), template and styles |
-| `tools/` | Validation, build, source checking, candidate handling |
+| `tools/` | Validation, build, source and reference checking, candidate handling |
+| `.github/workflows/` | The GitHub Pages build and deploy |
 | `test/` | `node:test` suites |
 | `docs/superpowers/` | The design spec and implementation plan |
