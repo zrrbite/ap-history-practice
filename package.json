@@ -1,0 +1,11 @@
+{
+  "name": "amsco-unit4-practice",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "build": "node tools/build.js",
+    "validate": "node tools/validate.js"
+  }
+}
