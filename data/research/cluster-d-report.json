@@ -1,0 +1,242 @@
+[
+  {
+    "id": "hideyoshi-1587-expulsion-edict",
+    "sourceUrl": "https://archive.org/stream/historyofjapan02murd/historyofjapan02murd_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "hideyoshi-1591-letter-viceroy-indies",
+    "sourceUrl": "https://archive.org/stream/historyofjapan02murd/historyofjapan02murd_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "tokugawa-1640-sentence-macao-envoys",
+    "sourceUrl": "https://archive.org/stream/historyofjapan02murd/historyofjapan02murd_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "kangxi-1721-ban-on-preaching",
+    "sourceUrl": "https://sourcebooks.fordham.edu/Halsall/mod/1715chineserites.asp",
+    "status": "match"
+  },
+  {
+    "id": "kangxi-1692-edict-of-toleration",
+    "sourceUrl": "https://sourcebooks.fordham.edu/Halsall/mod/1715chineserites.asp",
+    "status": "match"
+  },
+  {
+    "id": "xavier-1551-satsuma-ban",
+    "sourceUrl": "https://sourcebooks.fordham.edu/Halsall/mod/1551xavier3.asp",
+    "status": "match"
+  },
+  {
+    "id": "xavier-1551-yamaguchi-licence",
+    "sourceUrl": "https://sourcebooks.fordham.edu/Halsall/mod/1551xavier3.asp",
+    "status": "match"
+  },
+  {
+    "id": "xavier-1552-japanese-curiosity",
+    "sourceUrl": "https://sourcebooks.fordham.edu/Halsall/mod/1552xavier4.asp",
+    "status": "match"
+  },
+  {
+    "id": "hamel-1668-korea-detains-strangers",
+    "sourceUrl": "https://archive.org/stream/coreawithoutwith00grif/coreawithoutwith00grif_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "coyett-1675-koxinga-claims-taiwan",
+    "sourceUrl": "https://archive.org/stream/cu31924023514403/cu31924023514403_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "kaempfer-1692-dejima",
+    "sourceUrl": "https://archive.org/stream/historyofjapanto02kaem/historyofjapanto02kaem_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "kaempfer-1691-shogun-asks-about-medicine",
+    "sourceUrl": "https://archive.org/stream/historyofjapanto03kaem/historyofjapanto03kaem_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "xu-guangqi-1617-defends-jesuit-learning",
+    "sourceUrl": "https://sourcebooks.fordham.edu/Halsall/mod/1617hsukuang.asp",
+    "status": "match"
+  },
+  {
+    "id": "xu-guangqi-1617-proposes-examination",
+    "sourceUrl": "https://sourcebooks.fordham.edu/Halsall/mod/1617hsukuang.asp",
+    "status": "match"
+  },
+  {
+    "id": "adams-1611-shipbuilder-to-ieyasu",
+    "sourceUrl": "https://sourcebooks.fordham.edu/Halsall/mod/1611adams-japan.asp",
+    "status": "match"
+  },
+  {
+    "id": "du-halde-1735-kangxi-and-jesuit-science",
+    "sourceUrl": "https://sourcebooks.fordham.edu/Halsall/mod/1680halde1.asp",
+    "status": "match"
+  },
+  {
+    "id": "las-casas-1542-hatuey",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/20321/pg20321-images.html",
+    "status": "match"
+  },
+  {
+    "id": "pedro-pizarro-1571-siege-of-cuzco",
+    "sourceUrl": "https://archive.org/stream/relationofdiscov02pizauoft/relationofdiscov02pizauoft_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "cakchiquel-annals-revolt-against-alvarado",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/20775/pg20775-images.html",
+    "status": "match"
+  },
+  {
+    "id": "nahua-accounts-toxcatl-massacre",
+    "sourceUrl": "https://sourcebooks.fordham.edu/Halsall/mod/aztecs1.asp",
+    "status": "match"
+  },
+  {
+    "id": "gardiner-1660-miantonomo-speech",
+    "sourceUrl": "https://archive.org/stream/ahistorypequotw00dodggoog/ahistorypequotw00dodggoog_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "rowlandson-1682-captivity-narrative",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/851/pg851-images.html",
+    "status": "match"
+  },
+  {
+    "id": "easton-1675-metacom-grievances",
+    "sourceUrl": "https://archive.org/stream/narrativesindia01mathgoog/narrativesindia01mathgoog_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "powhatan-1609-speech-to-smith",
+    "sourceUrl": "https://archive.org/stream/travelsworksofca00smituoft/travelsworksofca00smituoft_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "kiotseaeton-1645-peace-speech",
+    "sourceUrl": "https://archive.org/stream/jesuitrelationsa0027jesu/jesuitrelationsa0027jesu_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "canassatego-1744-lancaster-treaty",
+    "sourceUrl": "https://archive.org/stream/treatyheldattown00unse/treatyheldattown00unse_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "otreouti-1684-reply-to-la-barre",
+    "sourceUrl": "https://archive.org/stream/newvoyagestonort01lahouoft/newvoyagestonort01lahouoft_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "molina-1575-taki-onqoy",
+    "sourceUrl": "https://archive.org/stream/narrativesofrite00moli/narrativesofrite00moli_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "garcilaso-1609-inca-memory",
+    "sourceUrl": "https://archive.org/stream/firstpartofroyal01vega/firstpartofroyal01vega_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "avila-1608-huarochiri-traditions",
+    "sourceUrl": "https://archive.org/stream/narrativesofrite00moli/narrativesofrite00moli_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "le-jeune-1634-montagnais-beliefs",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/51262/pg51262-images.html",
+    "status": "match"
+  },
+  {
+    "id": "brebeuf-1636-wendat-blend-beliefs",
+    "sourceUrl": "https://archive.org/stream/jesuitrelationsa10jesuuoft/jesuitrelationsa10jesuuoft_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "shimabara-rebels-1638-arrow-letter",
+    "sourceUrl": "https://archive.org/stream/historyofjapan02murd/historyofjapan02murd_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "koeckebacker-1638-shimabara-taxes",
+    "sourceUrl": "https://archive.org/stream/historyofjapan02murd/historyofjapan02murd_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "twelve-articles-1525-right-to-choose-pastors",
+    "sourceUrl": "https://archive.org/stream/translationsrepr02univiala/translationsrepr02univiala_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "twelve-articles-1525-serfdom-and-rents",
+    "sourceUrl": "https://archive.org/stream/translationsrepr02univiala/translationsrepr02univiala_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "petition-of-right-1628",
+    "sourceUrl": "https://en.wikisource.org/wiki/Petition_of_Right",
+    "status": "match"
+  },
+  {
+    "id": "grand-remonstrance-1641",
+    "sourceUrl": "https://www.constitution.org/eng/conpur043.htm",
+    "status": "match"
+  },
+  {
+    "id": "retz-1647-tariff-edict",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/3846/pg3846-images.html",
+    "status": "match"
+  },
+  {
+    "id": "retz-1648-barricades",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/3846/pg3846-images.html",
+    "status": "match"
+  },
+  {
+    "id": "shivaji-1679-letter-against-jizya",
+    "sourceUrl": "https://archive.org/stream/cu31924024056750/cu31924024056750_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "manucci-1700-jizya-and-begam-sahib",
+    "sourceUrl": "https://archive.org/stream/storiadomogororm03manuuoft/storiadomogororm03manuuoft_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "guru-gobind-singh-1705-zafarnama",
+    "sourceUrl": "https://archive.org/stream/thesikhreligioni05macauoft/thesikhreligioni05macauoft_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "busbecq-1556-false-mustafa-revolt",
+    "sourceUrl": "https://archive.org/stream/lifelettbusbecq01forsuoft/lifelettbusbecq01forsuoft_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "aguirre-1561-letter-to-philip-ii",
+    "sourceUrl": "https://sourcebooks.fordham.edu/Halsall/mod/1561aguirre.asp",
+    "status": "match"
+  },
+  {
+    "id": "dutch-act-of-abjuration-1581",
+    "sourceUrl": "https://sourcebooks.fordham.edu/Halsall/mod/1581dutch.asp",
+    "status": "match"
+  },
+  {
+    "id": "koxinga-1660-letter-to-dutch-governor",
+    "sourceUrl": "https://archive.org/stream/cu31924023514403/cu31924023514403_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "jamaica-maroon-treaty-1739",
+    "sourceUrl": "https://archive.org/stream/historymaroonsf01dallgoog/historymaroonsf01dallgoog_djvu.txt",
+    "status": "match"
+  }
+]

@@ -1,0 +1,979 @@
+{
+  "cluster": "c",
+  "documents": [
+    {
+      "id": "zurara-1453-lagos-captives",
+      "authorKey": "zurara",
+      "sourceLine": "Gomes Eanes de Zurara, royal chronicler of Portugal writing for Prince Henry, Chronicle of the Discovery and Conquest of Guinea, on the division of African captives at Lagos in 1444, written 1453",
+      "year": 1453,
+      "kind": "text",
+      "text": "But what heart could be so hard as not to be pierced with piteous feeling to see that company? For some kept their heads low and their faces bathed in tears, looking one upon another; others stood groaning very dolorously, looking up to the height of heaven, fixing their eyes upon it, crying out loudly, as if asking help of the Father of Nature; others struck their faces with the palms of their hands, throwing themselves at full length upon the ground; others made their lamentations in the manner of a dirge, after the custom of their country. And though we could not understand the words of their language, the sound of it right well accorded with the measure of their sadness. … and then was it needful to part fathers from sons, husbands from wives, brothers from brothers. No respect was shewn either to friends or relations, but each fell where his lot took him.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by Charles Raymond Beazley and Edgar Prestage, The Chronicle of the Discovery and Conquest of Guinea, vol. 1 (Hakluyt Society), 1896",
+      "topics": [
+        "4.4",
+        "4.2"
+      ],
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/35738/pg35738-images.html",
+      "verified": false
+    },
+    {
+      "id": "cadamosto-1455-horses-for-slaves",
+      "authorKey": "cadamosto",
+      "sourceLine": "Alvise Cadamosto, Venetian merchant sailing for Prince Henry of Portugal, account of his voyage to the Senegal River and the Jolof kingdom, 1455",
+      "year": 1455,
+      "kind": "text",
+      "text": "The Arabs of this coast have many Barbary horses, which they carry to the country of the Negroes, which they barter with the great men for slaves, receiving from ten to eighteen men for each horse, according to their goodness. … The king has no settled revenue; but the lords of the country court his favour, by making him yearly presents of horses, which being scarce, are in high estimation, together with horse furniture, cows, and goats, pulse, millet, and other things. He likewise increases his wealth by means of robbery, and by reducing his own subjects, and those of neighbouring provinces to slavery, employing a part of these slaves to cultivate the lands which are assigned to him, and selling the rest to the Arabs and Azanhaji traders, who bring horses and other things for sale; as likewise to the Christians, since they have established a trade in these parts.",
+      "adapted": false,
+      "original": null,
+      "translation": "English version in Robert Kerr, A General History and Collection of Voyages and Travels, vol. 2, 1824 (from Astley's translation and Ramusio's Italian text)",
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/10803/pg10803-images.html",
+      "verified": false
+    },
+    {
+      "id": "cadamosto-1455-budomel",
+      "authorKey": "cadamosto",
+      "sourceLine": "Alvise Cadamosto, Venetian merchant sailing for Prince Henry of Portugal, account of his dealings with Budomel, a Wolof ruler near Cape Verde, 1455",
+      "year": 1455,
+      "kind": "text",
+      "text": "As some Portuguese, who had dealt with Budomel, represented him as a very just person, who paid for any goods he might receive, and might therefore be confided in, I stopped at his country, that I might endeavour to dispose of some Spanish horses I had on board, which are in great request among the Negroes; besides which, I had some cloth, Moorish wrought silks, and other commodities for sale. … Not long afterwards Budomel came himself to the beach, attended by about fifteen horsemen and an hundred and fifty foot, … After some discourse, I delivered to him seven horses, with their furniture; and every other article for which he expressed an inclination, all of which had cost me 300 ducats, trusting to his honour for payment, which was to be in slaves, and which he promised to deliver at his own residence, which was twenty-five miles distant from the shore, whither he invited me to accompany him.",
+      "adapted": false,
+      "original": null,
+      "translation": "English version in Robert Kerr, A General History and Collection of Voyages and Travels, vol. 2, 1824 (from Astley's translation and Ramusio's Italian text)",
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/10803/pg10803-images.html",
+      "verified": false
+    },
+    {
+      "id": "leo-africanus-1526-bornu",
+      "authorKey": "leo-africanus",
+      "sourceLine": "Leo Africanus (al-Hasan al-Wazzan), Muslim scholar and diplomat from Fez who travelled in West Africa, The History and Description of Africa, book 7, on the kingdom of Bornu, written 1526 (adapted)",
+      "year": 1526,
+      "kind": "text",
+      "text": "Whereupon the king of Borno sent for the merchants of Barbary, and willed them to bring him great store of horses; for in this country they use to exchange horses for slaves … Sometimes he bringeth not home slaves enough to satisfy the merchants: and otherwhiles they are constrained to await there a whole year together; for the king maketh invasions but every year once. … And yet the king seemeth to be marvellous rich; for his spurs, his bridles, platters, dishes, pots, and other vessels wherein his meat and drink are brought to the table, are all of pure gold: yea, and the chains of his dogs and hounds are of gold also. Howbeit this king is extremely covetous, for he had much rather pay his debts in slaves than in gold.",
+      "adapted": true,
+      "original": "Whereupon the king of Borno sent for the merchants of Barbary, and willed them to bring him great store of horses : for in this countrey they vse to exchange horses for slaues … Sometimes he bringeth not home slaues enough to satisfie the merchants: and otherwhiles they are constrained to awaite there a whole yeere togither ; for the king maketh inuasions but euery yeere once, … And yet the king seemeth to be marueilous rich ; for his spurres, his bridles, platters, dishes, pots, and other vessels wherein his meate and drinke are brought to the table, are all of pure golde : yea, and the chaines of his dogs and hounds are of golde also. Howbeit this king is extreamely couetous, for he had much rather pay his debts in slaues than in gold.",
+      "translation": "Translated by John Pory, 1600; edited by Robert Brown, The History and Description of Africa, vol. 3 (Hakluyt Society), 1896",
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://archive.org/stream/historyanddescr01porygoog/historyanddescr01porygoog_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "pigafetta-lopes-1591-kongo-famine",
+      "authorKey": "pigafetta-lopes",
+      "sourceLine": "Filippo Pigafetta, Italian writer, recording the account of Duarte Lopes, a Portuguese merchant who lived in Kongo, A Report of the Kingdom of Congo, on the Jaga invasion of 1568, 1591 (adapted)",
+      "year": 1591,
+      "kind": "text",
+      "text": "In this persecution every one in the kingdom suffered, the king, the people, the Portuguese, and their priests, each according to his degree; so that the poor people wandering about the country died from lack of food and all other necessaries. … Thus, forced by necessity, the father sold his son, and the brother his brother, … Those who were sold to satisfy the hunger of others were bought by Portuguese merchants, who came from the Island … In this manner great numbers of slaves, natives of Congo, are found in the Island of St. Thomas, and in Portugal.",
+      "adapted": true,
+      "original": "In this perfecution every one in the kingdom fuffered, the king, the people, the Portuguefe, and their priefts, each according to his degree ; fo that the poor people wandering about the country died from lack of food and all other neceflaries. … Thus, forced by neceflity, the father fold his fon, and the brother his brother, … Thofe who were fold to fatiffy the hunger of others were bought by Portuguefe merchants, who came from the Ifland … In this manner great numbers of flaves, natives of Congo, are found in the Ifland of St. Thomas, and in Portugal,",
+      "translation": "Translated by Margarite Hutchinson, A Report of the Kingdom of Congo, and of the Surrounding Countries, 1881",
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://archive.org/stream/reportofkingdomo00lope/reportofkingdomo00lope_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "battell-1625-imbangala-captives",
+      "authorKey": "battell",
+      "sourceLine": "Andrew Battell, English sailor held by the Portuguese in Angola who lived among Imbangala (Jaga) warriors around 1600, account printed by Samuel Purchas, 1625",
+      "year": 1625,
+      "kind": "text",
+      "text": "He [the Imbangala war leader] asked wherefore we came. We told him that we came to trade upon the coast. Then he bade us welcome, and called us on shore with our commodities. We laded our ship with slaves in seven days, and bought them so cheap that many did not cost one real, which were worth in the city [of Loanda] twelve milreis. … These Benguelas presently broke, and turned their backs, and a very great number of them were slain, and were taken captives, man, woman and child. The prince, Hombiangymbe, was slain, which was ruler of this country, and more than one hundred of his chief lords, and their heads presented and thrown at the feet of the great Gaga. … They settled themselves in this country and took the spoil of it.",
+      "adapted": false,
+      "original": null,
+      "translation": null,
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/41282/pg41282-images.html",
+      "verified": false
+    },
+    {
+      "id": "battell-1625-musket-gaga",
+      "authorKey": "battell",
+      "sourceLine": "Andrew Battell, English sailor held by the Portuguese in Angola who lived among Imbangala (Jaga) warriors around 1600, account printed by Samuel Purchas, 1625",
+      "year": 1625,
+      "kind": "text",
+      "text": "I was so highly esteemed with the great Gaga, because I killed many negroes with my musket, that I had anything that I desired of him. He would also, when they went out to the wars, give charge to his men over me. By this means I have been often carried away in their arms, and saved my life. Here we were within three days’ journey of Massangano, before mentioned, where the Portugals have a fort: and I sought means, and got to the Portugals again with merchant negroes that came to the camp to buy slaves.",
+      "adapted": false,
+      "original": null,
+      "translation": null,
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/41282/pg41282-images.html",
+      "verified": false
+    },
+    {
+      "id": "barbot-1732-kings-and-merchants",
+      "authorKey": "barbot",
+      "sourceLine": "John (Jean) Barbot, French Huguenot agent of the French Royal African Company who made slaving voyages to West Africa in 1678–82, A Description of the Coasts of North and South Guinea, published 1732",
+      "year": 1732,
+      "kind": "text",
+      "text": "Those sold by the Blacks are for the most part prisoners of war, taken either in fight, or pursuit, or in the incursions they make into their enemies territories; others stolen away by their own countrymen; and some there are, who will sell their own children, kindred, or neighbours. … The kings are so absolute, that upon any slight pretense of offences committed by their subjects, they order them to be sold for slaves, without regard to rank, or possession. … The trade of slaves is in a more peculiar manner the business of kings, rich men, and prime merchants, exclusive of the inferior sort of Blacks. … If there happens to be no stock of slaves at Fida, the factor must trust the Blacks with his goods, to the value of a hundred and fifty, or two hundred slaves; which goods they carry up into the inland, to buy slaves, at all the markets, for above two hundred leagues up the country.",
+      "adapted": false,
+      "original": null,
+      "translation": "English version prepared by Barbot, printed in A. and J. Churchill, A Collection of Voyages and Travels, vol. 5, 1732",
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://web.viu.ca/davies/H320/description.slavetrade.1680s.htm",
+      "verified": false
+    },
+    {
+      "id": "barbot-1732-kidnapping-famine",
+      "authorKey": "barbot",
+      "sourceLine": "John (Jean) Barbot, French Huguenot agent of the French Royal African Company who made slaving voyages to West Africa in 1678–82, A Description of the Coasts of North and South Guinea, published 1732",
+      "year": 1732,
+      "kind": "text",
+      "text": "Abundance of little Blacks of both sexes are also stolen away by their neighbours, when found abroad on the roads, or in the woods; or else in the Cougans, or corn-fields, at the time of the year, when their parents keep them there all day, to scare away the devouring small birds, that come to feed on the millet, in swarms. … In times of dearth and famine, abundance of those people will sell themselves, for a maintenance, and to prevent starving. … To conclude, some slaves are also brought to these Blacks, from very remote inland countries, by way of trade, and sold for things of very inconsiderable value; but these slaves are generally poor and weak, by reason of the barbarous usage they have had in traveling so far, being continually beaten, and almost famish'd; so inhuman are the Blacks to one another.",
+      "adapted": false,
+      "original": null,
+      "translation": "English version prepared by Barbot, printed in A. and J. Churchill, A Collection of Voyages and Travels, vol. 5, 1732",
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://web.viu.ca/davies/H320/description.slavetrade.1680s.htm",
+      "verified": false
+    },
+    {
+      "id": "phillips-1694-whydah-king",
+      "authorKey": "phillips",
+      "sourceLine": "Thomas Phillips, English captain of the Royal African Company slave ship Hannibal, journal of his voyage to Whydah, 1694, first printed 1732 (adapted)",
+      "year": 1694,
+      "kind": "text",
+      "text": "Next day we paid our customs to the king and cappasheirs [his chief men], as will appear hereafter; then the bell was ordered to go about to give notice to all people to bring their slaves to the trunk [slave prison] to sell us … When we were at the trunk, the king’s slaves, if he had any, were the first offer’d to sale, which the cappasheirs would be very urgent with us to buy, and would in a manner force us to it ere they would shew us any other, saying they were the Reys Cosa [the king's property], and we must not refuse them, tho’ as I observ’d they were generally the worst slaves in the trunk, and we paid more for them than any others, which we could not remedy.",
+      "adapted": true,
+      "original": "next day we paid our cuftoms to the king and cappafheirs, as will appear hereafter ; then the bell was ordered to go about to give notice to all people to bring their flaves to the trunk to fell us … When we were at the trunk, the king’s flaves, if he had any, were the firft offer’d to fale, which the cappafheirs would be very urgent with us to buy, and would in a manner force us to it ere they would fhew us any other, faying they were the Reys Co fa, and we muft not refufe them, tho’ as I obferv’d they were generally the worft flaves in the trunk, and we paid more for them than any others, which we could not remedy,",
+      "translation": null,
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://archive.org/stream/b30455042_0006/b30455042_0006_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "bosman-1704-firearms",
+      "authorKey": "bosman",
+      "sourceLine": "Willem Bosman, chief merchant of the Dutch West India Company at Elmina on the Gold Coast, A New and Accurate Description of the Coast of Guinea, letter 10, 1704 (adapted)",
+      "year": 1704,
+      "kind": "text",
+      "text": "The chief of these are Muskets or Carabins, in the management of which they are wonderful dextrous … you wonder how the Negroes come to be furnished with Fire-Arms, but you will have no Reason when you know we sell them incredible quantities, thereby obliging them with a Knife to cut our own Throats. But we are forced to it; for if we would not, they might be sufficiently stored with that Commodity [from other Europeans] … And since that and Gun-powder for some time hath been the chief vendible Merchandise here, we should have found but an indifferent Trade.",
+      "adapted": true,
+      "original": "The chief of thefe are Mufquets or Carabins, in the management of which they are wonderful dextrous, … you wonder how the Negroes come to be furnifhed with Fire-Arms, but you will have no Reafon when you know we fell them incredible quantities, thereby obliging them with a Knife to cut our own Throats. But we are forced to it; for if we would not, they might be fufficiently ftored with that Commodity … And fince that and Gun-powder for fometime hath been the chief vendible Merchandife here, we fhould have found but an indifferent Trade",
+      "translation": "English translation (anonymous), A New and Accurate Description of the Coast of Guinea, 1705",
+      "topics": [
+        "4.4",
+        "4.5",
+        "4.1"
+      ],
+      "sourceUrl": "https://archive.org/stream/b30519032/b30519032_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "snelgrave-1734-war-captives",
+      "authorKey": "snelgrave",
+      "sourceLine": "William Snelgrave, English slave-ship captain who traded at Whydah and visited the camp of King Agaja of Dahomey in 1727, A New Account of Some Parts of Guinea and the Slave-Trade, 1734 (adapted)",
+      "year": 1734,
+      "kind": "text",
+      "text": "It has been the Custom among the Negroes, time out of Mind, and is so to this day, for them to make Slaves of all the Captives they take in War. Now, before they had an Opportunity of selling them to the white People, they were often obliged to kill great Multitudes, when they had taken more than they could well employ in their own Plantations, for fear they should rebel, and endanger their Masters' Safety. … First, it is evident, that abundance of Captives, taken in War, would be inhumanly destroyed, was there not an Opportunity of disposing of them to the Europeans.",
+      "adapted": true,
+      "original": "It has been the Cuſtom among the Negroes, time out of Mind, and is ſo to this day, for them to make Slaves of all the Captives they take in War. Now, before they had an Opportunity of ſelling them to the white People, they were often obliged to kill great Multitudes, when they had taken more than they could well employ in their own Plantations, for fear they ſhould rebel, and endanger their Maſters Safety. … Firſt, It is evident, that abundance of Captives, taken in War, would be inhumanly deſtroyed, was there not an Opportunity of diſpoſing of them to the Europeans.",
+      "translation": null,
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://archive.org/stream/bim_eighteenth-century_a-new-account-of-some-pa_snelgrave-william_1734/bim_eighteenth-century_a-new-account-of-some-pa_snelgrave-william_1734_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "bluett-1734-ayuba-capture",
+      "authorKey": "bluett",
+      "sourceLine": "Thomas Bluett, English lawyer, recording the account of Ayuba Suleiman Diallo (Job ben Solomon), a Muslim Fulbe scholar and trader from Bundu enslaved in Maryland, Some Memoirs of the Life of Job, 1734",
+      "year": 1734,
+      "kind": "text",
+      "text": "In February, 1730. JOB's Father hearing of an English Ship at Gambia River, sent him, with two Servants to attend him, to sell two Negroes and to buy Paper, and some other Necessaries; but desired him not to venture over the River, because the Country of the Mandingoes, who are Enemies to the People of Futa, lies on the other side. … he crossed the River Gambia, and disposed of his Negroes for some Cows. … It happened that a Company of the Mandingoes, who live upon Plunder, passing by at that Time, and observing him unarmed, rush'd in, to the Number of seven or eight at once, at a back Door, and pinioned JOB, before he could get to his Arms, together with his Interpreter, who is a Slave in Maryland still.",
+      "adapted": false,
+      "original": null,
+      "translation": null,
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://docsouth.unc.edu/neh/bluett/bluett.html",
+      "verified": false
+    },
+    {
+      "id": "moore-1738-punishments-slavery",
+      "authorKey": "moore",
+      "sourceLine": "Francis Moore, English clerk and factor for the Royal African Company on the Gambia River, 1730–35, Travels into the Inland Parts of Africa, 1738 (adapted)",
+      "year": 1738,
+      "kind": "text",
+      "text": "Besides the Slaves which the Merchants bring down, there are many bought along the River. These are either taken in War as the former are, or else Men condemned for Crimes, or else People stolen, which is very frequent. … Since this Slave-Trade has been us'd, all Punishments are chang'd into Slavery; there being an Advantage on such Condemnations, they strain for Crimes very hard, in order to get the Benefit of selling the Criminal. Not only Murder, Theft and Adultery, are punish'd by selling the Criminal for a Slave, but every trifling Crime is punish'd in the same manner.",
+      "adapted": true,
+      "original": "Besides the Slaves which the Merchants bring down, there are many bought along the River. Thefe are either taken in War as the former are, or elfe Men condemned for Crimes, or elfe People ftolen, which is very frequent. … Since this Slave-Trade has been us'd, all Punifhments are chang'd into Slavery j there being an Advantage on fuch Condemnations, they ftrain for Crimes very hard, in order to get the Benefit of felling the Criminal. Not only Murder, Theft and Adultery, are punifh*d by felling the Criminal for a Slave, but every trifling Crime is punilh'd in the fame manner.",
+      "translation": null,
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://archive.org/stream/travelsintoinlan00moor/travelsintoinlan00moor_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "acosta-1590-potosi-mine-labour",
+      "authorKey": "acosta",
+      "sourceLine": "José de Acosta, Spanish Jesuit who lived in Peru 1572–86 and visited Potosí, The Natural and Moral History of the Indies, book 4, 1590 (adapted)",
+      "year": 1590,
+      "kind": "text",
+      "text": "They labour in these mines in continual darkness and obscurity, without knowledge of day or night. And forasmuch as those places are never visited with the Sun, there is not only a continual darkness, but also an extreme cold, with so gross an air contrary to the disposition of man, so as such as newly enter are sick as they at sea. … The metal is commonly hard, and therefore they break it with hammers, splitting and hewing it by force as if they were flints. … He that goes before carries a candle tied to his thumb, for, as it is said, they have no light from heaven, and so go they up the ladder holding it with both their hands; to mount so great a height which commonly is above a hundred and fifty estados [man-heights], a fearful thing and which breeds an amazement to think upon it, so great is the desire of silver, that for the gain thereof men endure any pains.",
+      "adapted": true,
+      "original": "They labour in these mines in continuall darknes and obscuritie, without knowledge of day or night. And forasmuch as those places are never visited with the Sunne, there is not onely a continual darkness, but also an extreme colde, with so grosse an aire contrary to the disposition of man, so as such as newly enter are sicke as they at sea. … The mettall is commonly hard, and therefore they breake it with hammers, splitting and hewing it by force as if they were flintes. … He that goes before carries a candle tied to his thumb, for, as it is said, they have no light from heaven, and so go they vp the ladder holding it with both their handes ; to mount so great a height which commonly is above a hundred and fiftie estados, a fearful thing and which breeds an amazement to thinke vpon it, so great is the desire of silver, that for the gaine thereof men indure any paines.",
+      "translation": "Translated by Edward Grimston, 1604; edited by Clements R. Markham, The Natural and Moral History of the Indies, vol. 1 (Hakluyt Society), 1880",
+      "topics": [
+        "4.3",
+        "4.5"
+      ],
+      "sourceUrl": "https://archive.org/stream/naturalmoralhist01acos/naturalmoralhist01acos_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "acosta-1590-mercury-amalgamation",
+      "authorKey": "acosta",
+      "sourceLine": "José de Acosta, Spanish Jesuit who lived in Peru 1572–86 and visited Potosí, The Natural and Moral History of the Indies, book 4, on refining silver with mercury, 1590 (adapted)",
+      "year": 1590,
+      "kind": "text",
+      "text": "[Pedro Fernández de Velasco,] who offered to refine silver at Potosi with mercury; and having made trial thereof in the year of our redemption, one thousand five hundred seventy and one, performed it with credit; then began they to refine silver at Potosi with quicksilver, which they transported from Huancavilca, which was a goodly help for the mines; for by the means of quicksilver they drew an infinite quantity of metal from these mines, whereof before they made no account, the which they called scrapings. … The Catholic King draws from his quicksilver mines, without any charge or hazard, almost four hundred thousand pieces, the which are fourteen reals a piece, or little less, besides the rights that rise in Potosi, where it is employed, the which is a great riches. … for if there remained any fume or vapor, which should encounter them that unstopped the pots, they were in danger of death, or to be benumbed of their limbs, or at the least to lose their teeth.",
+      "adapted": true,
+      "original": "who offred to refine silver at Potosi with mercury ; and having made triall thereof in the yeare of our redemption, one thousand five hundred seaventy and one, perfourmed it with credite ; then beganne they to refine silver at Potosi with quicksilver, which they transported from Huancavilca, which was a goodly helpe for the mines ; for by the meanes of quickesilver they drew an infinite quantity of mettall from these mines, whereof before they made no accompt, the which they called scrapings. … The Catholike King drawes from his quickesilver mines, without any charge or hazard, almost foure hundred thousand peeces, the which are fourteene rialls a peece, or little less, besides the rights that rise in Potosi, where it is employed, the which is a great riches. … for if there remained any fume or vapor, which should incounter them that vnstopt the pottes, they were in danger of death, or to be benummed of their limbes, or at the least to loose their teeth.",
+      "translation": "Translated by Edward Grimston, 1604; edited by Clements R. Markham, The Natural and Moral History of the Indies, vol. 1 (Hakluyt Society), 1880",
+      "topics": [
+        "4.1",
+        "4.3",
+        "4.5"
+      ],
+      "sourceUrl": "https://archive.org/stream/naturalmoralhist01acos/naturalmoralhist01acos_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "acosta-1590-silver-fleets",
+      "authorKey": "acosta",
+      "sourceLine": "José de Acosta, Spanish Jesuit who lived in Peru 1572–86, The Natural and Moral History of the Indies, book 4, on the treasure fleet he sailed home with in 1587, 1590 (adapted)",
+      "year": 1590,
+      "kind": "text",
+      "text": "In that fleet where I came in the year one thousand five hundred eighty seven, there were eleven millions transported in the two fleets of Peru and Mexico, whereof two thirds were in that of Peru, and almost the one half for the King. I thought good to set this down particularly, to show the power which his heavenly Majesty hath given to the Kings of Spain, heaping so many Crowns and Kingdoms upon them, who (by the especial favour of heaven) have joined the East with the West Indies, environing the whole world with their Power.",
+      "adapted": true,
+      "original": "In that fleete where I came in the yeare one thousand five hundred eighty seaven, there were eleven millions transported in the two fleets of Peru and Mexico, whereof two thirds were in that of Peru, and almost the one halfe for the King. I thought good to set this downe particularly, to shew the power which his heavenly Maiestie hath given to the Kings of Spaine, heaping so many Crowns and Kingdomes vpon them, who (by the especiall favour of heaven) have ioyned the East with the West Indies, invironing the whole worlde with their Power.",
+      "translation": "Translated by Edward Grimston, 1604; edited by Clements R. Markham, The Natural and Moral History of the Indies, vol. 1 (Hakluyt Society), 1880",
+      "topics": [
+        "4.3",
+        "4.5"
+      ],
+      "sourceUrl": "https://archive.org/stream/naturalmoralhist01acos/naturalmoralhist01acos_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "cieza-de-leon-1553-potosi",
+      "authorKey": "cieza-de-leon",
+      "sourceLine": "Pedro de Cieza de León, Spanish soldier and chronicler who saw Potosí in 1549, Chronicle of Peru, part 1, 1553",
+      "year": 1553,
+      "kind": "text",
+      "text": "This wealth became so famous, that Indians came from all parts to extract silver from the hill. The climate is cold, and there are no inhabited places in the vicinity. When the Spaniards had taken possession, they began to extract the silver, and he who had a mine gave each Indian who entered it a marc, or, if he was very rich, two marcs every week. So many people came to work the mines, that the place appeared like a great city. … The Indians, who were so ingenious, found that in some parts the silver could not be extracted with the aid of bellows, as was the case at Potosi. They, therefore, made certain moulds of clay, in the shape of a flower-pot in Spain, with many airholes in all parts. Charcoal was put into these moulds, with the metal on the top, and they were then placed on the part of the hill where the wind blew strongest, and thus the metal was extracted, which was then purified and refined with small bellows.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by Clements R. Markham, The Travels of Pedro de Cieza de León, A.D. 1532–50 (Hakluyt Society), 1864",
+      "topics": [
+        "4.3",
+        "4.5"
+      ],
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/48770/pg48770-images.html",
+      "verified": false
+    },
+    {
+      "id": "vazquez-de-espinosa-1629-potosi-mita",
+      "authorKey": "vazquez-de-espinosa",
+      "sourceLine": "Antonio Vázquez de Espinosa, Spanish Carmelite friar who travelled through Peru in the 1610s, Compendium and Description of the West Indies, c. 1629",
+      "year": 1629,
+      "kind": "text",
+      "text": "These Indians are sent out every year under a captain whom they choose in each village or tribe, for him to take them and oversee them for the year each has to serve; every year they have a new election, for as some go out, others come in. This works out very badly, with great losses and gaps in the quotas of Indians, the villages being depopulated; and this gives rise to great extortions and abuses on the part of the inspectors toward the poor Indians, ruining them and thus depriving the caciques and chief Indians of their property and carrying them off in chains because they do not fill out the mita assignment, which they cannot do, for the reasons given and for others which I do not bring forward. … These 13,300 [mita workers] are divided up every 4 months into 3 mitas, each consisting of 4,433 Indians, to work in the mines on the range and in the 120 smelters in the Potosi and Tarapaya areas.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by Charles Upson Clark, Compendium and Description of the West Indies (Smithsonian Miscellaneous Collections, vol. 102), 1942",
+      "topics": [
+        "4.3",
+        "4.5"
+      ],
+      "sourceUrl": "https://archive.org/stream/smithsonianmisce1021942smit/smithsonianmisce1021942smit_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "garcilaso-de-la-vega-1609-mercury-ban",
+      "authorKey": "garcilaso-de-la-vega",
+      "sourceLine": "Garcilaso de la Vega, \"El Inca\", son of a Spanish conquistador and an Inca noblewoman, raised in Cuzco, Royal Commentaries of the Incas, book 8, 1609",
+      "year": 1609,
+      "kind": "text",
+      "text": "They could not turn it [quicksilver] to any purpose, while they saw that it was injurious to the lives of those who worked to procure it, for it caused them to tremble, and lose their feeling. For this reason, being Kings who cared much for the welfare of their people, in accordance with their title of Lovers of the Poor, they prohibited its being extracted, by a law. The Indians, therefore, abominated it to such an extent that they even let its name drop from memory and from their language. Thus they have no name for mercury, except those that have been adopted since the Spaniards discovered it in 1567.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by Clements R. Markham, First Part of the Royal Commentaries of the Yncas, vol. 2 (Hakluyt Society), 1871",
+      "topics": [
+        "4.1",
+        "4.3"
+      ],
+      "sourceUrl": "https://archive.org/stream/firstpartofroyal02vega/firstpartofroyal02vega_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "grau-y-monfalcon-1637-mines-decline",
+      "authorKey": "grau-y-monfalcon",
+      "sourceLine": "Juan Grau y Monfalcón, procurator-general (official representative) of Manila at the Spanish court, Informatory Memorial to the King, on the decline of the Indies trade, 1637",
+      "year": 1637,
+      "kind": "text",
+      "text": "So great was the abundance of these metals in the Indias, that one could say the same as of Jerusalem in the time of Solomon, that they were regarded as the stones of the street. Accordingly, articles were paid for at so exorbitant prices, as is apparent from the histories of their conquests. That region has failed, for the ores that yielded three hundred pesos per quintal by smelting, now yield eight or six by quicksilver, which costs more than smelting; and [such ores] are worked as good ones. … Potosi, which is the heart of the Indias, is threatening to give out; for it alone yielded for forty years an amount that it cannot now yield, although aided by the opening of many mines … The cost of mining is greater, the mines are poorer, and, consequently, the gains less, and less the amount obtained.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by James A. Robertson, in E. H. Blair and J. A. Robertson, eds., The Philippine Islands, 1493–1898, vol. 27, 1905",
+      "topics": [
+        "4.3",
+        "4.5"
+      ],
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/26004/pg26004-images.html",
+      "verified": false
+    },
+    {
+      "id": "ming-official-chincheo-1605-letter-luzon",
+      "authorKey": "ming-official-chincheo",
+      "sourceLine": "The inspector-general of Chincheo (Zhangzhou/Quanzhou, Fujian), a Ming Chinese official, letter to Pedro de Acuña, Spanish governor of the Philippines, after the 1603 massacre of Chinese in Manila, 1605",
+      "year": 1605,
+      "kind": "text",
+      "text": "We said that the land of Luzon was a wretched land of little importance, of old inhabited only by devils and snakes; and that, as a result of the immigration there a few years ago of so many Sangleys [Chinese merchants] to trade with the Castilians, the country has been enriched to the extent to which the said Sangleys have labored therein. They have built the walls, and made houses and gardens, and other things of great advantage to the Castilians. … If the Castilians show justice to the Chinese, send back the Sangleys who have survived the war, and pay the money due for the goods taken from the Sangleys, there will be amity between this kingdom and that, and merchant vessels will sail there every year.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by Henry B. Lathrop, in E. H. Blair and J. A. Robertson, eds., The Philippine Islands, 1493–1898, vol. 13, 1904",
+      "topics": [
+        "4.5",
+        "4.4"
+      ],
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/15184/pg15184-images.html",
+      "verified": false
+    },
+    {
+      "id": "chanchian-1603-letter-silver-mountain",
+      "authorKey": "chanchian",
+      "sourceLine": "Chanchian, Ming military official of Fujian sent as envoy of the emperor, letter to Pedro de Acuña, Spanish governor of the Philippines, about a rumoured \"mountain\" of gold and silver near Manila, 1603",
+      "year": 1603,
+      "kind": "text",
+      "text": "Because Tio Heng, who is considered a reputable man, has gone to the king of China [the Wanli emperor] and told him that from this kingdom there could each year be taken for the king of China a hundred thousand taes of gold and three hundred thousand taes of silver at his expense, so that his vassals should not pay tribute or be molested, the king has sent a eunuch who is called Cochay to take charge of those who have said that there was gold. … The king gave permission that this should be done, and the eunuch named Cochay, with these mandarins, is accompanying Tio Heng to Luzon to reach the mine of gold and see whether there is or is not such a mine, when they will go back to the king and inform him. … I am quite certain that Tio Heng is lying.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated from Chinese into Spanish by a Dominican friar in Manila; English translation by Robert W. Haight, in E. H. Blair and J. A. Robertson, eds., The Philippine Islands, 1493–1898, vol. 12, 1904",
+      "topics": [
+        "4.5",
+        "4.4"
+      ],
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/15022/pg15022-images.html",
+      "verified": false
+    },
+    {
+      "id": "morga-1609-chinese-trade-silver",
+      "authorKey": "morga",
+      "sourceLine": "Antonio de Morga, Spanish judge of the royal Audiencia and lieutenant-governor in Manila (1595–1603), Events in the Philippine Islands (Sucesos de las Islas Filipinas), 1609",
+      "year": 1609,
+      "kind": "text",
+      "text": "The purchase price is paid in silver and reals, for the Sangleys [Chinese merchants] do not want gold, or any other articles, and will not take other things to China. … This trade and commerce is so great and profitable, and easy to control—for it only lasts three months in the year, from the time of the arrival of the ships with their merchandise, until those vessels that go to Nueva España take that merchandise—that the Spaniards do not apply themselves to, or engage in, any other industry. … That trade has been very hurtful and prejudicial in this respect, as well as for the occupations and farm industries in which the natives used to engage. Now the latter are abandoning and forgetting those labors. Besides, there is the great harm and loss resulting from the immense amount of silver that passes annually by this way [of the trade], into the possession of infidels, which can never, by any way, return into the possession of the Spaniards.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by Alfonso de Salvio, Norman F. Hall and James A. Robertson, in E. H. Blair and J. A. Robertson, eds., History of the Philippine Islands by Antonio de Morga, 1907",
+      "topics": [
+        "4.3",
+        "4.5"
+      ],
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/7001/pg7001-images.html",
+      "verified": false
+    },
+    {
+      "id": "grau-y-monfalcon-1637-silver-to-china",
+      "authorKey": "grau-y-monfalcon",
+      "sourceLine": "Juan Grau y Monfalcón, procurator-general (official representative) of Manila at the Spanish court, Informatory Memorial to the King, setting out the Seville merchants' case against the Manila trade, 1637",
+      "year": 1637,
+      "kind": "text",
+      "text": "This commerce of the Indias with the Filipinas is to the prejudice of España for two causes or reasons, from which result great disadvantages. The first, because the silver is withdrawn and conveyed to the islands, whence it passes into the possession of the enemies of religion and of this crown, Moors and pagans; and finally remains in China—which, according to what we understand, is the general center for the silver of Europe and Asia. … The second cause is that, in addition to the aforesaid losses (which are obvious) from the withdrawal of silver, no less are the damages that are experienced on what is sent in return for it to Nueva España, and passes to Perú—namely, a great quantity of the merchandise of China in textiles of gold, silk, and cotton, and other articles. [These are sold] at so low prices that, when the merchandise of these kingdoms arrives (which is worth more, as it is of better quality), it is not sold and has no outlet.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by James A. Robertson, in E. H. Blair and J. A. Robertson, eds., The Philippine Islands, 1493–1898, vol. 27, 1905",
+      "topics": [
+        "4.3",
+        "4.5"
+      ],
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/26004/pg26004-images.html",
+      "verified": false
+    },
+    {
+      "id": "davenant-1697-silver-to-the-east",
+      "authorKey": "davenant",
+      "sourceLine": "Charles Davenant, English economist and government revenue official, An Essay on the East-India Trade, 1697",
+      "year": 1697,
+      "kind": "text",
+      "text": "For Europe draws from thence nothing of solid use; materials to supply luxury, and only perishable commodities, and sends thither gold and silver, which is there buried and never returns. … I have good grounds to think, that the silver and gold brought from America, the gold dust brought from Africa, and the silver produced from the European mines, in the 200 years last past, has not amounted to less, in the whole, than 800 millions. … There is no appearance of this immense sum in any country of Europe. … The English and Dutch, which together are not 1/10th part of Europe, enjoy this traffic almost without any rivalship; and if it be a burthen, it lies not upon the one, but on the other 9 parts, so that if the East-India trade carry out the gold and silver from this side of the world, it is truly and properly, at the cost and expence of France, Germany, Spain, and the northern kingdoms, who have little or no opportunities of trading thither.",
+      "adapted": false,
+      "original": null,
+      "translation": null,
+      "topics": [
+        "4.3",
+        "4.5"
+      ],
+      "sourceUrl": "https://avalon.law.yale.edu/17th_century/eastindi.asp",
+      "verified": false
+    },
+    {
+      "id": "mun-1664-exporting-money",
+      "authorKey": "mun",
+      "sourceLine": "Thomas Mun, London merchant and director of the English East India Company, England's Treasure by Forraign Trade, chapter 4, written c. 1630, published 1664",
+      "year": 1664,
+      "kind": "text",
+      "text": "This Position [that exporting money in trade increases our treasure] is so contrary to the common opinion, that it will require many and strong arguments to prove it before it can be accepted of the Multitude, who bitterly exclaim when they see any monies carried out of the Realm; affirming thereupon that we have absolutely lost so much Treasure, and that this is an act directly against the long continued laws made and confirmed by the wisdom of this Kingdom in the High Court of Parliament, and that many places, nay Spain it self which is the Fountain of Mony, forbids the exportation thereof, some cases only excepted. … for all men do consent that plenty of mony in a Kingdom doth make the native commodities dearer, which as it is to the profit of some private men in their revenues, so is it directly against the benefit of the Publique in the quantity of the trade; for as plenty of mony makes wares dearer, so dear wares decline their use and consumption.",
+      "adapted": false,
+      "original": null,
+      "translation": null,
+      "topics": [
+        "4.5"
+      ],
+      "sourceUrl": "https://en.wikisource.org/wiki/England%27s_treasure_by_forraign_trade/Chapter_4",
+      "verified": false
+    },
+    {
+      "id": "montesquieu-1748-riches-of-spain",
+      "authorKey": "montesquieu",
+      "sourceLine": "Montesquieu (Charles de Secondat), French magistrate and political philosopher, The Spirit of Laws, book 21, chapter 22, \"Of the Riches which Spain drew from America\", 1748",
+      "year": 1748,
+      "kind": "text",
+      "text": "Gold and silver are either a fictitious or a representative wealth. The representative signs of wealth are extremely durable, and, in their own nature, but little subject to decay. But the more they are multiplied, the more they lose their value, because the fewer are the things which they represent. … The Spaniards, after the conquest of Mexico and Peru, abandoned their natural riches, in pursuit of a representative wealth which daily degraded itself. … However, it was not long before the specie of Europe was doubled; this appeared from the price of commodities, which everywhere was doubled. … The king of Spain, who receives great sums from his custom-house at Cadiz, is in this respect only a rich individual in a state extremely poor.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by Thomas Nugent, 1750, as revised by J. V. Prichard, The Spirit of Laws, 1900",
+      "topics": [
+        "4.3",
+        "4.5"
+      ],
+      "sourceUrl": "https://www.constitution.org/2-Authors/cm/sol_21.htm",
+      "verified": false
+    },
+    {
+      "id": "dudley-north-1691-against-bullionism",
+      "authorKey": "dudley-north",
+      "sourceLine": "Sir Dudley North, London merchant who traded for years in the Ottoman Empire, later a commissioner of the Treasury, Discourses upon Trade, 1691",
+      "year": 1691,
+      "kind": "text",
+      "text": "No Man is richer for having his Estate all in Money, Plate, etc. lying by him, but on the contrary, he is for that reason the poorer. That man is richest, whose Estate is in a growing condition, either in Land at Farm, Money at Interest, or Goods in Trade. … Silver and Gold, like other commodities, have their ebbings and flowings: Upon the arrival of Quantities from Spain, the Mint commonly gives the best price; that is, coyned Silver, for uncoyned Silver, weight for weight. … That Laws to hamper Trade whether Forreign, or Domestick, relating to Money, or other Merchandizes, are not Ingredients to make a People Rich, and abounding in Money, and Stock.",
+      "adapted": false,
+      "original": null,
+      "translation": null,
+      "topics": [
+        "4.5"
+      ],
+      "sourceUrl": "https://avalon.law.yale.edu/17th_century/tradenor.asp",
+      "verified": false
+    },
+    {
+      "id": "philip-iii-1604-decree-manila-trade",
+      "authorKey": "philip-iii",
+      "sourceLine": "King Philip III of Spain, royal decree regulating trade between the Philippines and New Spain (the Manila galleon), 31 December 1604",
+      "year": 1604,
+      "kind": "text",
+      "text": "The king my lord and father (may he rest in peace!) by various decrees prohibited trade and commerce of the Western Indias with the Philipinas Islands and China generally, to obviate the loss that resulted therefrom to these kingdoms and to their trade and commerce. … [I am informed] that the quantity allowed has been and is being greatly exceeded in the amount taken each year, with the knowledge and permission of my viceroys, audiencias, and governors—goods to the extent of more than two millions of ducats being registered and openly sent, besides what is secretly shipped. All this money finally makes it [sic] way into infidel kingdoms, whereby their power is increased; and from this have resulted great losses to our exchequer and to the commerce of these kingdoms with the Western Indias. … I have decided that for the present the trade and commerce of the said Philipinas Islands with Nueva España should be maintained according to the ordinances.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by Robert W. Haight, in E. H. Blair and J. A. Robertson, eds., The Philippine Islands, 1493–1898, vol. 13, 1904",
+      "topics": [
+        "4.5"
+      ],
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/15184/pg15184-images.html",
+      "verified": false
+    },
+    {
+      "id": "english-parliament-1651-navigation-act",
+      "authorKey": "english-parliament",
+      "sourceLine": "Parliament of the English Commonwealth, An Act for increase of Shipping and Encouragement of the Navigation of this Nation (the Navigation Act), 9 October 1651",
+      "year": 1651,
+      "kind": "text",
+      "text": "For the increase of the shipping and the encouragement of the navigation of this nation, … be it enacted by this present Parliament, and the authority thereof, that from and after the first day of December, one thousand six hundred fifty and one, and from thence forwards, no goods or commodities whatsoever of the growth, production or manufacture of Asia, Africa or America, or of any part thereof; … shall be imported or brought into this Commonwealth of England, or into Ireland, or any other lands, islands, plantations, or territories to this Commonwealth belonging, or in their possession, in any other ship or ships, vessel or vessels whatsoever, but only in such as do truly and without fraud belong only to the people of this Commonwealth, or the plantations thereof, as the proprietors or right owners thereof; and whereof the master and mariners are also for the most part of them of the people of this Commonwealth, under the penalty of the forfeiture and loss of all the goods that shall be imported contrary to this act.",
+      "adapted": false,
+      "original": null,
+      "translation": null,
+      "topics": [
+        "4.5"
+      ],
+      "sourceUrl": "https://en.wikisource.org/wiki/Navigation_Act_(1651)",
+      "verified": false
+    },
+    {
+      "id": "english-parliament-1660-navigation-act",
+      "authorKey": "english-parliament",
+      "sourceLine": "Parliament of England under Charles II, An Act for the Encouraging and Increasing of Shipping and Navigation (Navigation Act), 1660",
+      "year": 1660,
+      "kind": "text",
+      "text": "Be it enacted by the King’s most excellent majesty, … That from and after the first day of December one thousand six hundred and sixty, and from thenceforward, no goods or commodities whatsoever shall be imported into or exported out of any lands, islands, plantations or territories to his Majesty belonging or in his possession, … in Asia, Africa, or America, in any other ship or ships, vessel or vessels whatsoever, but in such ships or vessels as do truly and without fraud belong only to the people of England or Ireland, … and all governors of the said lands, islands, plantations or territories, and every of them, are hereby strictly required and commanded, … shall before their entrance into their government take a solemn oath, to do their utmost, that every the aforementioned clauses, and all the matters and things therein contained, shall be punctually and bona fide observed according to the true intent and meaning thereof.",
+      "adapted": false,
+      "original": null,
+      "translation": null,
+      "topics": [
+        "4.5"
+      ],
+      "sourceUrl": "https://en.wikisource.org/wiki/An_act_for_the_encouraging_and_increasing_of_shipping_and_navigation",
+      "verified": false
+    },
+    {
+      "id": "mun-1664-balance-of-trade",
+      "authorKey": "mun",
+      "sourceLine": "Thomas Mun, London merchant and director of the English East India Company, England's Treasure by Forraign Trade, chapter 2, \"The general rule whereby the Kingdom is enriched\", written c. 1630, published 1664",
+      "year": 1664,
+      "kind": "text",
+      "text": "Although a Kingdom may be enriched by gifts received, or by purchase taken from some other Nations, yet these are things uncertain and of small consideration when they happen. … The ordinary means therefore to encrease our wealth and treasure is by Forraign Trade, wherein wee must ever observe this rule; to sell more to strangers yearly than wee consume of theirs in value. For suppose that when this Kingdom is pletifully served with the Cloth, Lead, Tinn, Iron, Fish and other native commodities, we doe yearly export the overplus to forraign Countries to the value of twenty two hundred thousand pounds; by which means we are enabled beyond the Seas to buy and bring in forraign wares for our use and Consumption, to the value of twenty hundred thousand pounds; … we may rest assured that the Kingdom shall be enriched yearly two hundred thousand pounds, which must be brought to us in so much Treasure; because that part of our stock which is not returned to us in wares must necessarily be brought home in treasure.",
+      "adapted": false,
+      "original": null,
+      "translation": null,
+      "topics": [
+        "4.5"
+      ],
+      "sourceUrl": "https://en.wikisource.org/wiki/England%27s_treasure_by_forraign_trade/Chapter_2",
+      "verified": false
+    },
+    {
+      "id": "charles-ii-1670-hudsons-bay-charter",
+      "authorKey": "charles-ii",
+      "sourceLine": "King Charles II of England, royal charter incorporating the Hudson's Bay Company, 2 May 1670 (adapted)",
+      "year": 1670,
+      "kind": "text",
+      "text": "[We] do give, grant and confirm unto the said Governor and Company and their successors the sole Trade and Commerce of all those Seas, Straits, Bays, Rivers, Lakes, Creeks and Sounds in whatsoever Latitude they shall be that lie within the entrance of the Straits commonly called Hudson's Straits … We do give and grant unto the said Governor and Company and their Successors free Liberty and Licence in case they conceive it necessary to send either Ships of War, Men or Ammunition unto any their Plantations, Forts, Factories or Places of Trade aforesaid for the security and defence of the same, and to choose Commanders and Officers over them and to give them power and authority by Commission under their Common Seal or otherwise to continue or make peace or War with any Prince or People whatsoever that are not Christians, in any places where the said Company shall have any Plantations, Forts or Factories or adjacent thereunto as shall be most for the advantage and benefit of the said Governor and Company and of their Trade.",
+      "adapted": true,
+      "original": "Doe give grant and confirme unto the said Governor and Company and theire successors the sole Trade and Commerce of all those Seas Streightes Bayes Rivers Lakes Creekes and Soundes in whatsoever Latitude they shall bee that lie within the entrance of the Streightes commonly called Hudsons Streightes … Wee doe give and grant unto the said Governor and Company and theire Successors free Liberty and Lycence in case they conceive it necessary to send either Shippes of War Men or Amunicion unto any theire Plantacions Fortes Factoryes or Places of Trade aforesaid for the security and defence of the same and to choose Commanders and Officers over them and to give them power and authority by Commission under theire Common Seale or otherwise to continue or make peace or Warre with any Prince or People whatsoever that are not Christians in any places where the said Company shall have any Plantacions Fortes or Factoryes or adjacent thereunto as shall bee most for the advantage and benefitt of the said Governor and Company and of theire Trade",
+      "translation": null,
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://en.wikisource.org/wiki/Charter_of_Hudson%27s_Bay",
+      "verified": false
+    },
+    {
+      "id": "states-general-netherlands-1621-west-india-company-charter",
+      "authorKey": "states-general-netherlands",
+      "sourceLine": "States General of the United Netherlands, Charter of the Dutch West India Company, 3 June 1621",
+      "year": 1621,
+      "kind": "text",
+      "text": "And we find by experience, that without the common help, assistance, and interposition of a General Company, the people designed from hence for those parts cannot be profitably protected and mantained in their great risque from pirates, extortion and otherwise, which will happen in so very long a voyage. … That, moreover, the aforesaid Company may, in our name and authority, … make contracts, engagements and alliances with the princes and natives of the countries comprehended therein, and also build any forts and fortifications there, to appoint and discharge Governors, people for war, and officers of justice, and other public officers, for the preservation of the places, keeping good order, police and justice, and in like manner for the promoting of trade.",
+      "adapted": false,
+      "original": null,
+      "translation": "English translation as printed in Francis Newton Thorpe, ed., The Federal and State Constitutions, Colonial Charters, and Other Organic Laws (US Government Printing Office), 1909",
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://avalon.law.yale.edu/17th_century/westind.asp",
+      "verified": false
+    },
+    {
+      "id": "davenant-1697-forts-and-garrisons",
+      "authorKey": "davenant",
+      "sourceLine": "Charles Davenant, English economist and government revenue official, An Essay on the East-India Trade, written in defence of the East India Company, 1697",
+      "year": 1697,
+      "kind": "text",
+      "text": "Their business in India cannot be managed without frequent gifts and presents to the rajas and governors, according to the practice in all the eastern countries. … Forts and castles, with good garrisons, are there indispensably necessary for the preservation of the pepper-trade, and indeed needful upon many other accounts, … besides, they are a safety to our people from any insults of the natives, and a refuge upon any disorder, revolution, or other emergency in the Mogul's state and empire. … The Hollanders, at this time, are very powerful in India; they have many good forts and castles well provided, and large colonies of men; and they can, upon any occasion, call together there 40 strong frigates.",
+      "adapted": false,
+      "original": null,
+      "translation": null,
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://avalon.law.yale.edu/17th_century/eastindi.asp",
+      "verified": false
+    },
+    {
+      "id": "davenant-1697-plantations",
+      "authorKey": "davenant",
+      "sourceLine": "Charles Davenant, English economist and government revenue official, An Essay on the East-India Trade, 1697",
+      "year": 1697,
+      "kind": "text",
+      "text": "There is no trade so advantageous, especially to an island, as that of buying goods in one country, to sell them in another; and it is the original and chief article of the great wealth in Holland. There is gain by the freight; it occasions consumption of our home product; it breeds seamen, increases shipping, and improves navigation. … Our plantations (if we take care to preserve them from foreign insults and invasions) as they increase in people, will consume more of our home manufactures than we have hands to make: they produce commodities indispensably necessary to this part of the world, and not to be produced elsewhere, and, with industry and conduct, may be made an inexhastible mine of treasure to their mother kingdom.",
+      "adapted": false,
+      "original": null,
+      "translation": null,
+      "topics": [
+        "4.5"
+      ],
+      "sourceUrl": "https://avalon.law.yale.edu/17th_century/eastindi.asp",
+      "verified": false
+    },
+    {
+      "id": "montesquieu-1748-colonial-monopoly",
+      "authorKey": "montesquieu",
+      "sourceLine": "Montesquieu (Charles de Secondat), French magistrate and political philosopher, The Spirit of Laws, book 21, chapter 21, on European colonies, 1748",
+      "year": 1748,
+      "kind": "text",
+      "text": "The colonies they have formed are under a kind of dependence, of which there are but very few instances in all the colonies of the ancients; whether we consider them as holdings of the state itself, or of some trading company established in the state. The design of these colonies is to trade on more advantageous conditions than could otherwise be done with the neighbouring people, with whom all advantages are reciprocal. … Thus it is still a fundamental law of Europe that all commerce with a foreign colony shall be regarded as a mere monopoly, punishable by the laws of the country. … The disadvantage of a colony that loses the liberty of commerce is visibly compensated by the protection of the mother country, who defends it by her arms, or supports it by her laws.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by Thomas Nugent, 1750, as revised by J. V. Prichard, The Spirit of Laws, 1900",
+      "topics": [
+        "4.5"
+      ],
+      "sourceUrl": "https://www.constitution.org/2-Authors/cm/sol_21.htm",
+      "verified": false
+    },
+    {
+      "id": "grotius-1609-freedom-of-the-seas",
+      "authorKey": "grotius",
+      "sourceLine": "Hugo Grotius, Dutch jurist writing at the request of the Dutch East India Company (VOC), Mare Liberum (The Freedom of the Seas), 1609",
+      "year": 1609,
+      "kind": "text",
+      "text": "My intention is to demonstrate briefly and clearly that the Dutch—that is to say, the subjects of the United Netherlands—have the right to sail to the East Indies, as they are now doing, and to engage in trade with the people there. I shall base my argument on the following most specific and unimpeachable axiom of the Law of Nations, called a primary rule or first principle, the spirit of which is self-evident and immutable, to wit: Every nation is free to travel to every other nation, and to trade with it. … Wherefore since both law and equity demand that trade with the East Indies be as free to us as to any one else, it follows that we are to maintain at all hazards that freedom which is ours by nature, either by coming to a peace agreement with the Spaniards, or by concluding a treaty, or by continuing the war.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by Ralph Van Deman Magoffin, The Freedom of the Seas, 1916",
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/75962/pg75962-images.html",
+      "verified": false
+    },
+    {
+      "id": "john-blande-1661-remonstrance-virginia",
+      "authorKey": "john-blande",
+      "sourceLine": "John Blande, London merchant, printed petition to King Charles II on behalf of the planters of Virginia and Maryland against the Navigation Act, c. 1661",
+      "year": 1661,
+      "kind": "text",
+      "text": "Most humbly representing unto Your Majesty the inevitable destruction of those Colonies, if so be that the late Act for increase of Trade and Shipping [the Navigation Act] be not as to them dispensed with: for it will not only ruinate the Inhabitants and Planters, but make desolate the largest, fertilest, and most glorious Plantations under Your Majesty's Dominion. … [The Act's promoters intended:] First, That for whatever goods they carried out of England to those Plantations, the Inhabitants should pay to them what prices and rates they pleased to require, else they should have nothing at all of them to supply their necessities. Secondly, To force the Planters to deliver them such Tobaccoes, which by the labour and sweat of their brows they had made, at the rates they themselves trading thither would have it, whereby they got that oftentimes of the poor Planters for a halfpenny, which they made us pay for here in England by Retale three or four shillings.",
+      "adapted": false,
+      "original": null,
+      "translation": null,
+      "topics": [
+        "4.5"
+      ],
+      "sourceUrl": "https://distantreader.org/stacks/earlyprint/txt/A28354.txt",
+      "verified": false
+    },
+    {
+      "id": "berkeley-1671-answers-navigation-act",
+      "authorKey": "berkeley",
+      "sourceLine": "Sir William Berkeley, royal governor of Virginia, answers to the Lords Commissioners for Foreign Plantations, 1671 (adapted)",
+      "year": 1671,
+      "kind": "text",
+      "text": "What obstructions do you find to the improvement of the trade and navigation of the plantations within your government? Answer. Mighty and destructive, by that severe act of parliament, which excludes us the having any [commerce] with any nation in Europe but our own, so that we cannot add to our plantation any commodity that grows out of it. … for it is not lawful for us to carry a pipe stave, or a barrel of corn to any place in Europe out of the king's dominions. If this were for his majesty's service or the good of his subjects, we should not repine, whatever our sufferings are for it; but on my soul, it is the contrary for both. And this is the cause why no small or great vessels are built here; for we are most obedient to all laws, whilst the New England men break through, and men trade to any place that their interest lead them.",
+      "adapted": true,
+      "original": "What obstructions do you find to the improvement of the trade and navigation of ^ the plantations within your government ? Answer. Mighty and destructive, by that severe act of parliament, which excludes us the having any … mei'ce with any nation in Europe but our own, so that we cannot add to our plantation any commodity that grows out of it. … for it is not lawfull for us to carry a pipe stave, or a barrel of corn to any place in Europe out of the king's dominions. If this were for his majesty's service or the good of his subjects, we should not repine, whatever our sufferings are for it; but on my soul, it is the contrary for both. And this is the cause why no small or great vessells are built here ; for we are most obedient to all laws, whilst the New England men break through, and men trade to any place that their interest lead them,",
+      "translation": null,
+      "topics": [
+        "4.5"
+      ],
+      "sourceUrl": "https://archive.org/stream/statutesatlargeb02virg/statutesatlargeb02virg_djvu.txt",
+      "verified": false
+    }
+  ],
+  "poolHints": [
+    {
+      "dbq": "slave-trade-africa",
+      "doc": "zurara-1453-lagos-captives",
+      "group": "harm",
+      "why": "An eyewitness describes African captives wept over and families torn apart at the first large sale of enslaved Africans in Portugal."
+    },
+    {
+      "dbq": "slave-trade-africa",
+      "doc": "cadamosto-1455-horses-for-slaves",
+      "group": "change",
+      "why": "Shows warhorses from North Africa bought with slaves and a Jolof king who enslaved his own subjects and neighbours to sell to Arab and then Portuguese traders."
+    },
+    {
+      "dbq": "slave-trade-africa",
+      "doc": "cadamosto-1455-budomel",
+      "group": "power",
+      "why": "Shows an African ruler setting the terms of trade, buying European horses on credit and paying in slaves at his own residence."
+    },
+    {
+      "dbq": "slave-trade-africa",
+      "doc": "leo-africanus-1526-bornu",
+      "group": "power",
+      "why": "A North African traveller shows the king of Bornu raiding neighbours every year for captives to pay for horses, growing rich in gold; useful for comparing the older trans-Saharan trade."
+    },
+    {
+      "dbq": "slave-trade-africa",
+      "doc": "pigafetta-lopes-1591-kongo-famine",
+      "group": "harm",
+      "why": "Shows invasion and famine in Kongo driving people to sell their own relatives, nobles among them, to Portuguese slave merchants from São Tomé."
+    },
+    {
+      "dbq": "slave-trade-africa",
+      "doc": "battell-1625-imbangala-captives",
+      "group": "harm",
+      "why": "Shows Imbangala war bands destroying the Benguela state and selling captives to Portuguese traders so cheaply that many cost less than one real."
+    },
+    {
+      "dbq": "slave-trade-africa",
+      "doc": "battell-1625-musket-gaga",
+      "group": "change",
+      "why": "Shows firearms making a lone European valuable to an African war leader, and African merchants coming to war camps to buy captives."
+    },
+    {
+      "dbq": "slave-trade-africa",
+      "doc": "barbot-1732-kings-and-merchants",
+      "group": "power",
+      "why": "Shows the trade controlled by African kings, rich men and leading merchants, who sold war captives and subjects and ran inland supply networks on European credit."
+    },
+    {
+      "dbq": "slave-trade-africa",
+      "doc": "barbot-1732-kidnapping-famine",
+      "group": "harm",
+      "why": "Shows children kidnapped from fields, famine victims selling themselves, and captives beaten and starved on the long march to the coast."
+    },
+    {
+      "dbq": "slave-trade-africa",
+      "doc": "phillips-1694-whydah-king",
+      "group": "power",
+      "why": "Shows the king of Whydah taxing European ships and forcing captains to buy his own slaves first, at higher prices, before any others."
+    },
+    {
+      "dbq": "slave-trade-africa",
+      "doc": "bosman-1704-firearms",
+      "group": "change",
+      "why": "A Dutch company agent admits Europeans sold Gold Coast states \"incredible quantities\" of guns and gunpowder, the chief goods traded there."
+    },
+    {
+      "dbq": "slave-trade-africa",
+      "doc": "snelgrave-1734-war-captives",
+      "group": "change",
+      "why": "A slave captain claims African victors once killed surplus war captives and now sold them; his defence of the trade is a point of view to source."
+    },
+    {
+      "dbq": "slave-trade-africa",
+      "doc": "bluett-1734-ayuba-capture",
+      "group": "harm",
+      "why": "Ayuba's own story: a Fulbe merchant selling two slaves is himself seized by raiders and sold to an English captain, showing how raiding endangered everyone."
+    },
+    {
+      "dbq": "slave-trade-africa",
+      "doc": "moore-1738-punishments-slavery",
+      "group": "change",
+      "why": "Shows the trade changing law along the Gambia: punishments for even trifling crimes were turned into sale into slavery."
+    },
+    {
+      "dbq": "silver-trade",
+      "doc": "acosta-1590-potosi-mine-labour",
+      "group": "production",
+      "why": "Describes Indigenous miners at Potosí working in darkness and cold and climbing hundreds of feet of ladders with ore on their backs."
+    },
+    {
+      "dbq": "silver-trade",
+      "doc": "acosta-1590-mercury-amalgamation",
+      "group": "production",
+      "why": "Shows mercury amalgamation, introduced at Potosí in 1571, extracting silver from poor ore, earning the king a fortune and poisoning the workers."
+    },
+    {
+      "dbq": "silver-trade",
+      "doc": "acosta-1590-silver-fleets",
+      "group": "europe",
+      "why": "Shows the scale of American silver shipped to Spain, almost half of it the king's, and a Spaniard treating it as the basis of Spanish world power."
+    },
+    {
+      "dbq": "silver-trade",
+      "doc": "cieza-de-leon-1553-potosi",
+      "group": "production",
+      "why": "Shows Potosí in its first years, with Indigenous workers drawn by wages and Andean wind furnaces (huayras) smelting the ore before mercury was used."
+    },
+    {
+      "dbq": "silver-trade",
+      "doc": "vazquez-de-espinosa-1629-potosi-mita",
+      "group": "production",
+      "why": "Describes the mita drafting 13,300 Indigenous men a year to Potosí, depopulating villages and ruining chiefs who could not fill their quotas."
+    },
+    {
+      "dbq": "silver-trade",
+      "doc": "garcilaso-de-la-vega-1609-mercury-ban",
+      "group": "production",
+      "why": "A writer of Inca descent says the Inca kings banned mercury mining to protect their people, a contrast with its large-scale use under Spain after 1567."
+    },
+    {
+      "dbq": "silver-trade",
+      "doc": "grau-y-monfalcon-1637-mines-decline",
+      "group": "production",
+      "why": "Shows that by the 1630s Potosí ores were poorer, refining with mercury cost more than smelting, and silver output was falling."
+    },
+    {
+      "dbq": "silver-trade",
+      "doc": "ming-official-chincheo-1605-letter-luzon",
+      "group": "asia",
+      "why": "A Ming official says Chinese traders built up Spanish Manila and threatens to stop the merchant junks, showing the leverage China held over the silver trade."
+    },
+    {
+      "dbq": "silver-trade",
+      "doc": "chanchian-1603-letter-silver-mountain",
+      "group": "asia",
+      "why": "A Ming envoy explains that the emperor sent officials to Luzon after hearing it could yield 300,000 taels of silver a year, evidence of the Ming court's hunger for silver."
+    },
+    {
+      "dbq": "silver-trade",
+      "doc": "morga-1609-chinese-trade-silver",
+      "group": "asia",
+      "why": "Shows Chinese merchants at Manila taking only silver, and a Spanish official complaining that the silver never returns and that the trade has replaced farming and mining."
+    },
+    {
+      "dbq": "silver-trade",
+      "doc": "grau-y-monfalcon-1637-silver-to-china",
+      "group": "asia",
+      "why": "Shows Spanish officials believed American silver sent through Manila ended up in China, \"the general center for the silver of Europe and Asia\"."
+    },
+    {
+      "dbq": "mercantilism",
+      "doc": "grau-y-monfalcon-1637-silver-to-china",
+      "group": "colonies",
+      "why": "Shows Seville merchants complaining that the colonies' trade with Asia drained silver from Spain and undersold Spanish goods in American markets."
+    },
+    {
+      "dbq": "silver-trade",
+      "doc": "davenant-1697-silver-to-the-east",
+      "group": "asia",
+      "why": "Estimates the silver Europe took from America and says much of it vanished into the East Indies in exchange for Asian goods."
+    },
+    {
+      "dbq": "silver-trade",
+      "doc": "mun-1664-exporting-money",
+      "group": "europe",
+      "why": "Shows the English debate over sending silver abroad: the public and Spanish law treated it as lost treasure, while Mun warns that plentiful money raises prices."
+    },
+    {
+      "dbq": "mercantilism",
+      "doc": "mun-1664-exporting-money",
+      "group": "companies",
+      "why": "An East India Company director defends the company's export of silver against laws and popular opinion that treated it as a national loss."
+    },
+    {
+      "dbq": "silver-trade",
+      "doc": "montesquieu-1748-riches-of-spain",
+      "group": "europe",
+      "why": "Argues that American silver doubled prices across Europe and lost value as it multiplied, leaving the Spanish king rich but Spain poor."
+    },
+    {
+      "dbq": "silver-trade",
+      "doc": "dudley-north-1691-against-bullionism",
+      "group": "europe",
+      "why": "A merchant rejects bullionism: silver arriving from Spain is a commodity like any other, and hoarding money makes no one richer."
+    },
+    {
+      "dbq": "mercantilism",
+      "doc": "dudley-north-1691-against-bullionism",
+      "group": "state-policy",
+      "why": "A critic of mercantilist regulation argues that laws restricting trade in money or goods do not make a nation rich."
+    },
+    {
+      "dbq": "mercantilism",
+      "doc": "philip-iii-1604-decree-manila-trade",
+      "group": "state-policy",
+      "why": "Shows the Spanish crown capping the Manila galleon trade because silver was flowing to \"infidel kingdoms\", hurting the royal treasury and Spain's own trade with the Indies."
+    },
+    {
+      "dbq": "silver-trade",
+      "doc": "philip-iii-1604-decree-manila-trade",
+      "group": "europe",
+      "why": "Shows the Spanish crown worried that American silver shipped to Asia was weakening its treasury and Spain's own trade with the Indies."
+    },
+    {
+      "dbq": "mercantilism",
+      "doc": "english-parliament-1651-navigation-act",
+      "group": "state-policy",
+      "why": "Shows England using law to reserve imports from Asia, Africa and America for English ships and crews, aimed at the Dutch carrying trade."
+    },
+    {
+      "dbq": "mercantilism",
+      "doc": "english-parliament-1660-navigation-act",
+      "group": "colonies",
+      "why": "Shows all trade into and out of England's colonies restricted to English ships, with colonial governors sworn to enforce the rule."
+    },
+    {
+      "dbq": "mercantilism",
+      "doc": "mun-1664-balance-of-trade",
+      "group": "state-policy",
+      "why": "States the mercantilist rule that a kingdom grows rich by selling more abroad than it buys, with the balance paid to it in treasure."
+    },
+    {
+      "dbq": "mercantilism",
+      "doc": "charles-ii-1670-hudsons-bay-charter",
+      "group": "companies",
+      "why": "Shows the crown giving a joint-stock company sole trade over a huge territory and the right to send warships, build forts and make war or peace with non-Christian peoples."
+    },
+    {
+      "dbq": "mercantilism",
+      "doc": "states-general-netherlands-1621-west-india-company-charter",
+      "group": "companies",
+      "why": "Shows the Dutch state granting a joint-stock company a monopoly over Africa and the Americas with powers to make alliances, build forts, appoint governors and raise soldiers."
+    },
+    {
+      "dbq": "mercantilism",
+      "doc": "davenant-1697-forts-and-garrisons",
+      "group": "companies",
+      "why": "Shows the East India Company relying on gifts to Mughal officials, fortified garrisons and naval strength to hold its trade against the Dutch."
+    },
+    {
+      "dbq": "mercantilism",
+      "doc": "davenant-1697-plantations",
+      "group": "colonies",
+      "why": "States the mercantilist view that colonies exist to buy the mother country's manufactures and supply what it cannot grow, \"a mine of treasure to their mother kingdom\"."
+    },
+    {
+      "dbq": "mercantilism",
+      "doc": "montesquieu-1748-colonial-monopoly",
+      "group": "colonies",
+      "why": "Describes the European rule that only the mother country may trade with its colonies, justified as the price of its protection."
+    },
+    {
+      "dbq": "mercantilism",
+      "doc": "grotius-1609-freedom-of-the-seas",
+      "group": "companies",
+      "why": "A lawyer for the Dutch East India Company argues that trade is free to all and that the Dutch may defend it by war against Portuguese and Spanish monopoly claims."
+    },
+    {
+      "dbq": "mercantilism",
+      "doc": "john-blande-1661-remonstrance-virginia",
+      "group": "colonies",
+      "why": "A merchant protests that the Navigation Act let a few English traders dictate prices to Virginia and Maryland tobacco planters and would ruin the colonies."
+    },
+    {
+      "dbq": "mercantilism",
+      "doc": "berkeley-1671-answers-navigation-act",
+      "group": "colonies",
+      "why": "Virginia's own royal governor complains that the Navigation Act bars the colony from trading with any European nation but England and that New Englanders simply break it."
+    }
+  ],
+  "gaps": [
+    "Afonso I (Nzinga Mbemba) of Kongo, letters to Joao III (1526): no usable text. The English translations online are modern and copyrighted or CC BY-NC (World History Commons; eCampusOntario 'A Few Words that Changed the World'); no pre-1930 English translation was found. The Kongo voice is covered only indirectly, by Pigafetta/Lopes (1591).",
+    "African-authored sources are scarce: the only African voices are Ayuba Suleiman Diallo (as recorded by Thomas Bluett, 1734) and the North African Leo Africanus (1526). Rulers such as the kings of Whydah, Dahomey (Agaja), Jolof and Bornu appear only through European or North African observers.",
+    "Indigenous Andean voices on the mita (e.g. Guaman Poma, c. 1615) have no pre-1930 or openly licensed English translation; Garcilaso de la Vega (mestizo, son of an Inca noblewoman) is the only Andean-descended author used.",
+    "Chinese sources: the Ming Shi-lu translations (Geoff Wade, NUS 'Southeast Asia in the Ming Shi-lu') are open access but carry no open licence, so they were not used. The two Chinese voices (Chanchian 1603; the inspector-general of Chincheo 1605) survive only in Spanish translations rendered into English in Blair and Robertson.",
+    "No women's perspectives were found in usable texts for these three prompts.",
+    "VOC charter (1602): no pre-1930 or openly licensed English translation found; the Dutch company case uses the West India Company charter (1621, Avalon/Thorpe 1909) and Grotius (1609) instead.",
+    "English East India Company charter (1600), Royal African Company charter (1672), Molasses Act (1733), Misselden's Free Trade (1622) and Child's New Discourse of Trade (1693): no fetchable open transcription found on Wikisource, Avalon, Gutenberg or Fordham. EEBO-TCP/ECCO-TCP texts on quod.lib.umich.edu sit behind a Cloudflare browser check that tools/check-sources.js cannot pass, so they cannot be verified by script. Child's Brief Observations (1668, on Avalon and Wikisource) was read but is about interest rates, so it was not used.",
+    "Colbert's memoranda on trade: no pre-1930 English translation found online.",
+    "Not mined for lack of time, though fetched or located: Gonzalez de Mendoza (1588 translation; written before the Manila silver boom), Gemelli Careri on the Manila galleon (English 1704, Churchill vol. 4, OCR only), Bernier on silver flowing into India, Thomas Gage (Gutenberg 54425).",
+    "OCR caution: Bosman, Moore, Phillips, Snelgrave, Leo Africanus, Pigafetta/Lopes and Berkeley (Hening) exist online only as archive.org OCR, with long s read as 'f' and occasional misreadings. Excerpts avoid garbled lines; each is marked adapted, with the OCR page text in 'original'. A few modernisations correct long-s misreadings (e.g. Phillips and Bosman 'fell' to 'sell', Phillips 'Co fa' to 'Cosa'). These should be checked against the page images during verification.",
+    "Berkeley (1671): the word 'commerce' is split by a page break in the OCR ('com-' / 'mei'ce'); the text shows '[commerce]', and 'original' keeps the two page fragments either side of the omitted running head."
+  ]
+}

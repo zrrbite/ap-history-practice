@@ -1,0 +1,1143 @@
+{
+  "cluster": "d",
+  "documents": [
+    {
+      "id": "hideyoshi-1587-expulsion-edict",
+      "authorKey": "toyotomi-hideyoshi",
+      "sourceLine": "Toyotomi Hideyoshi, chief imperial regent and unifier of Japan, edict expelling Christian missionaries, posted at Hakata, 1587",
+      "year": 1587,
+      "kind": "text",
+      "text": "Having learned from our faithful councillors that foreign religieux [members of Catholic religious orders] have come into our estates, where they preach a law contrary to that of Japan, and that they had even had the audacity to destroy temples dedicated to our Kami and Hotoke: although this outrage merits the most extreme punishment, wishing nevertheless to show them mercy, we order them under pain of death to quit Japan within twenty days. During that space no harm or hurt will be done them. But at the expiration of that term, we order that if any of them be found in our States, they shall be seized and punished as the greatest criminals. As for the Portuguese merchants, we permit them to enter our ports there to continue their accustomed trade, and to remain in our estates provided our affairs need this. But we forbid them to bring any foreign religieux into the country, under the penalty of the confiscation of their ships and goods.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated in James Murdoch and Isoh Yamagata, A History of Japan, vol. 2, 1903 (from a European version of the edict)",
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://archive.org/stream/historyofjapan02murd/historyofjapan02murd_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "hideyoshi-1591-letter-viceroy-indies",
+      "authorKey": "toyotomi-hideyoshi",
+      "sourceLine": "Toyotomi Hideyoshi, ruler of Japan, letter to the Portuguese Viceroy of the Indies at Goa, 1591",
+      "year": 1591,
+      "kind": "text",
+      "text": "With respect to what regards religion, Japan is the realm of the Kami, that is to say of Shin, which is the origin of all things. … The ‘Fathers of the Company,’ as they are called, have come to these islands to teach another religion here; but as that of the Kami is too surely founded to be abolished, this new ‘law’ can only serve to introduce into Japan a diversity of cults prejudicial to the welfare of the State. It is for this reason that by Imperial Edict I have forbidden these foreign Doctors to continue to preach their doctrine. I have even ordered them to quit Japan, and I am resolved no longer to allow any one to come here to spread new opinions. I nevertheless desire that trade between You and Us should always be on the same footing (as before). I shall have care that the ways are free by sea and by land; I have freed them from all pirates and brigands. The Portuguese will be able to traffic with my subjects in all security.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated in James Murdoch and Isoh Yamagata, A History of Japan, vol. 2, 1903 (from a European version of the letter)",
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://archive.org/stream/historyofjapan02murd/historyofjapan02murd_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "tokugawa-1640-sentence-macao-envoys",
+      "authorKey": "tokugawa-shogunate",
+      "sourceLine": "Commissioners of the Tokugawa shogunate, sentence read at Nagasaki to the envoys sent from Portuguese Macao to ask for the reopening of trade, 1640",
+      "year": 1640,
+      "kind": "text",
+      "text": "The crimes committed by these men during a long series of years in promulgating the Christian faith contrary to the decrees of the Shogun are very numerous, and exceedingly serious; last year [1639] the Shogun has, under the gravest penalties, forbidden any one to sail from Macao to Japan, and he has decreed that in case any vessel disregard this prohibition, the said vessel shall be burned, and all her crew and passengers put to death without exception. … It is decreed that the vessel shall be burned, and that the chiefs of the embassy with all their suite shall be put to death, in order that the bruit of this example may reach Macao and even the country of Europe … If by any chance whatsoever — from stress of weather or from any other cause — any Portuguese vessel put into a Japanese harbour, no matter where, all on board of her shall be put to death to the last man.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated in James Murdoch and Isoh Yamagata, A History of Japan, vol. 2, 1903",
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://archive.org/stream/historyofjapan02murd/historyofjapan02murd_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "kangxi-1721-ban-on-preaching",
+      "authorKey": "kangxi-emperor",
+      "sourceLine": "The Kangxi emperor of the Qing dynasty, comment on the papal decree that forbade Chinese Christians to honour Confucius and their ancestors, 1721",
+      "year": 1721,
+      "kind": "text",
+      "text": "Reading this proclamation, I have concluded that the Westerners are petty indeed. It is impossible to reason with them because they do not understand larger issues as we understand them in China. There is not a single Westerner versed in Chinese works, and their remarks are often incredible and ridiculous. To judge from this proclamation, their religion is no different from other small, bigoted sects of Buddhism or Taoism. I have never seen a document which contains so much nonsense. From now on, Westerners should not be allowed to preach in China, to avoid further trouble.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by Dan J. Li, China in Transition, 1517–1911, 1969 (Internet Modern History Sourcebook)",
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://sourcebooks.fordham.edu/Halsall/mod/1715chineserites.asp",
+      "verified": false
+    },
+    {
+      "id": "kangxi-1692-edict-of-toleration",
+      "authorKey": "kangxi-emperor",
+      "sourceLine": "The Kangxi emperor of the Qing dynasty, edict of toleration for Christianity, 1692",
+      "year": 1692,
+      "kind": "text",
+      "text": "The Europeans are very quiet; they do not excite any disturbances in the provinces, they do no harm to anyone, they commit no crimes, and their doctrine has nothing in common with that of the false sects in the empire, nor has it any tendency to excite sedition … We decide therefore that all temples dedicated to the Lord of heaven, in whatever place they may be found, ought to be preserved, and that it may be permitted to all who wish to worship this God to enter these temples, offer him incense, and perform the ceremonies practised according to ancient custom by the Christians. Therefore let no one henceforth offer them any opposition.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated in Stephen Neill, A History of Christian Missions, 1964 (Internet Modern History Sourcebook)",
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://sourcebooks.fordham.edu/Halsall/mod/1715chineserites.asp",
+      "verified": false
+    },
+    {
+      "id": "xavier-1551-satsuma-ban",
+      "authorKey": "francis-xavier",
+      "sourceLine": "Francis Xavier, Jesuit missionary, letter from Japan to the Jesuits at Goa, 1551, describing events in Satsuma in 1549–50",
+      "year": 1551,
+      "kind": "text",
+      "text": "But the bonzes admonished the prince [the lord of Satsuma] (who is very powerful, the lord of several towns), that if he allowed his people to embrace the Christian religion, his whole dominion would be destroyed, and the ancestral gods of the country, which they call pagodas, would come to be despised by the natives. For the law of God was contrary to the law of Japan, and it would therefore result that any who embraced that law would repudiate the holy founders of the ancient law of their forefathers, which could not be done without great ruin to the town and realm. Let him look, therefore, with reverence on those most holy men who had been the legislators of Japan, and, considering that the law of God was opposed and hostile to the law of his fathers, let him issue an edict forbidding, under penalty of death, that any one in future should become a Christian. The prince was moved by this discourse of the bonzes, and issued the edict as they had requested.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated in Henry James Coleridge, The Life and Letters of St. Francis Xavier, 1872 (2nd ed. 1890), as modernised in the Internet Modern History Sourcebook",
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://sourcebooks.fordham.edu/Halsall/mod/1551xavier3.asp",
+      "verified": false
+    },
+    {
+      "id": "xavier-1551-yamaguchi-licence",
+      "authorKey": "francis-xavier",
+      "sourceLine": "Francis Xavier, Jesuit missionary, letter from Japan to the Jesuits at Goa, 1551, describing his reception by the lord of Yamaguchi",
+      "year": 1551,
+      "kind": "text",
+      "text": "The king [the lord of Yamaguchi] was very much delighted both with the letters and with the presents, and that he might reward us, he offered us a great amount of gold and silver. These gifts we sent back, and then asked him that, if he desired to make some acceptable present to the strangers who had come to his city, he would give us leave to announce the law of God to his people, saying that nothing could possibly be more pleasing to us than such a gift. This he granted us with the greatest goodwill. He accordingly affixed edicts in the most crowded places of the city, declaring that it was pleasing to him that the law of heaven should be announced in his dominions; and that it was lawful for any, who desired, to embrace it. At the same time, he assigned an empty monastery for us to inhabit.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated in Henry James Coleridge, The Life and Letters of St. Francis Xavier, 1872 (2nd ed. 1890), as modernised in the Internet Modern History Sourcebook",
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://sourcebooks.fordham.edu/Halsall/mod/1551xavier3.asp",
+      "verified": false
+    },
+    {
+      "id": "xavier-1552-japanese-curiosity",
+      "authorKey": "francis-xavier",
+      "sourceLine": "Francis Xavier, Jesuit missionary, letter to the Society of Jesus in Europe after two years in Japan, 1552",
+      "year": 1552,
+      "kind": "text",
+      "text": "The Japanese are led by reason in everything more than any other people, and in general they are all so insatiable of information and so importunate in their questions that there is no end either to their arguments with us, or to their talking over our answers among themselves. They did not know that the world is round, they knew nothing of the course of the sun and stars, so that when they asked us and we explained to them these and other like things, such as the causes of comets, of the lightning and of rain, they listened to us most eagerly, and appeared delighted to hear us, regarding us with profound respect as extremely learned persons. This idea of our great knowledge opened the way to us for sowing the seed of religion in their minds.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated in Henry James Coleridge, The Life and Letters of St. Francis Xavier, 1872 (2nd ed. 1890), as modernised in the Internet Modern History Sourcebook",
+      "topics": [
+        "4.5",
+        "4.1"
+      ],
+      "sourceUrl": "https://sourcebooks.fordham.edu/Halsall/mod/1552xavier4.asp",
+      "verified": false
+    },
+    {
+      "id": "hamel-1668-korea-detains-strangers",
+      "authorKey": "hendrick-hamel",
+      "sourceLine": "Hendrick Hamel, Dutch East India Company bookkeeper shipwrecked on Korea in 1653 and held there until 1666, narrative of his captivity, 1668",
+      "year": 1668,
+      "kind": "text",
+      "text": "He [Jan Weltevree, a Dutch sailor held in Korea since 1627] added that during his long residence in Corea he had often asked leave of the king to go over to Japan, without ever obtaining any other answer than that he must never expect it, unless he had wings and could fly thither — that the custom of the country was to detain strangers that came thither, but that they wanted for nothing, being provided with diet and clothes as long as they lived. … [The Korean king] told us it was not the custom of Corea to suffer strangers to depart the kingdom—that we must resolve to end our days in his dominions, and he would provide us with all necessaries.",
+      "adapted": false,
+      "original": null,
+      "translation": "English translation from Churchill’s Collection of Voyages, 1732, as edited by William Elliot Griffis, Corea, Without and Within, 1885",
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://archive.org/stream/coreawithoutwith00grif/coreawithoutwith00grif_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "coyett-1675-koxinga-claims-taiwan",
+      "authorKey": "frederick-coyett",
+      "sourceLine": "Frederick Coyett, last Dutch governor of Taiwan, and associates, 't Verwaerloosde Formosa (Neglected Formosa), 1675, reporting Koxinga's reply to Dutch envoys in 1661 (adapted)",
+      "year": 1675,
+      "kind": "text",
+      "text": "To these requests Koxinga, without concerning himself much about the envoys' credentials, immediately replied that the friendship which the Company held towards him was of the same nature as that held towards other Indian Potentates and Princes: namely, that from their side, it lasted just so long as there was any advantage to be gained by it; for if they saw it to be to their advantage, no such friendship was observed, but they would not scruple in the least to throw a net over any one's head when it suited them to do so. … Hitherto this island had always belonged to China, and the Dutch had doubtless been permitted to live there, seeing that the Chinese did not require it for themselves; but requiring it now, it was only fair that Dutch strangers, who came from far regions, should give way to the masters of the island.",
+      "adapted": true,
+      "original": "To these requests Koxinga, without concerning himself much about the envoys' credentials, immediately replied that the friendship which the Company held towards him was of the same nature as that held towards other Indian Potentates and Princes : namely, that from their side, it lasted just so long as there was any advantage to be gained by it ; for if they saw it to be to their advantage, no such friendship was observed, but they would not scruple in the least to throw a net over any one's head when it suited them to do so. … Hitherto this island had always belonged to Chi;ia, and the Dutch had doubtless been permitted to live there, seeing that the Chinese did not require it for themselves ; but requiring it now, it was only fair that Dutch strangers, who came from far regions, should give way to the masters of the island.",
+      "translation": "Translated by William Campbell, Formosa under the Dutch, 1903",
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://archive.org/stream/cu31924023514403/cu31924023514403_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "kaempfer-1692-dejima",
+      "authorKey": "engelbert-kaempfer",
+      "sourceLine": "Engelbert Kaempfer, German physician to the Dutch East India Company post at Nagasaki in 1690–92, The History of Japan (written in the 1690s, published in English 1727)",
+      "year": 1692,
+      "kind": "text",
+      "text": "So great was the covetousness of the Dutch, and so great the alluring power of the Japanese gold, that rather than to quit the prospect of a trade, indeed most advantageous, they willingly underwent an almost perpetual imprisonment, for such in fact is our stay at Desima, and chose to suffer many hardships in a foreign and heathen country, to be remiss in performing divine service on Sundays and solemn festivals, to leave off praying and singing of psalms in publick, entirely to avoid the sign of the cross, the calling upon Christ in presence of the natives, and all the outward marks of Christianity … Some few paces off the Island, in the water, are thirteen very high posts standing at proper distances, with small wooden tables at the top, upon which is written, in large Japanese characters, an order from the Governors, strictly and under severe penalties forbidding all boats or vessels, to come within the said rails, and to approach the Island.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by J. G. Scheuchzer, The History of Japan, 1727 (reprinted Glasgow, 1906)",
+      "topics": [
+        "4.4",
+        "4.5"
+      ],
+      "sourceUrl": "https://archive.org/stream/historyofjapanto02kaem/historyofjapanto02kaem_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "kaempfer-1691-shogun-asks-about-medicine",
+      "authorKey": "engelbert-kaempfer",
+      "sourceLine": "Engelbert Kaempfer, German physician with the Dutch embassy to the shogun Tokugawa Tsunayoshi at Edo, The History of Japan (written in the 1690s, published in English 1727)",
+      "year": 1691,
+      "kind": "text",
+      "text": "As for my own particular the following questions were put to me: What external and internal distempers I thought the most dangerous, and most difficult to cure? How I proceeded in the cure of cancrous humors and imposthumations of the inner parts? Whether our European Physicians did not search after some Medicine to render people immortal, as the Chinese Physicians had done for many hundred years? Whether we had made any considerable progress in this search, and which was the last remedy conducive to long life, that had been found out in Europe? … Then ’twas ask’d, whether it could be had at Batavia? and having return’d in answer, that it was to be had there, the Emperor [the shogun] desir’d, that it should be sent over by the next ships.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by J. G. Scheuchzer, The History of Japan, 1727 (reprinted Glasgow, 1906)",
+      "topics": [
+        "4.5",
+        "4.1"
+      ],
+      "sourceUrl": "https://archive.org/stream/historyofjapanto03kaem/historyofjapanto03kaem_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "xu-guangqi-1617-defends-jesuit-learning",
+      "authorKey": "xu-guangqi",
+      "sourceLine": "Xu Guangqi, Ming scholar-official, mathematician and Christian convert, memorial to the Wanli emperor defending the Jesuits accused by the Board of Rites, 1617",
+      "year": 1617,
+      "kind": "text",
+      "text": "Knowing full well that the arts and sciences of the foreigners are in a high degree correct, your majesty's humble servant earnestly begs of his sacred Intelligence, the illustrious honor of issuing a manifesto in their behalf, so as to render his own felicity eternal, and give great tranquility to ten thousand generations. … As your servant for years past has been thus accustomed to engage in discussions and investigations with these courtiers, he has become well acquainted with them, and knows that they are not only in deportment and in heart wholly free from aught which can excite suspicion, but that they are indeed worthies and sages; that their doctrines are most correct; their regimen most strict; their learning most extensive; their knowledge most refined; their hearts most true; their views most steady; and that among the people of their own nations, there is not one in a thousand so accomplished, or one in ten thousand so talented as these men.",
+      "adapted": false,
+      "original": null,
+      "translation": "English translation from The Chinese Repository, 1850, as modernised in the Internet Modern History Sourcebook",
+      "topics": [
+        "4.5",
+        "4.1"
+      ],
+      "sourceUrl": "https://sourcebooks.fordham.edu/Halsall/mod/1617hsukuang.asp",
+      "verified": false
+    },
+    {
+      "id": "xu-guangqi-1617-proposes-examination",
+      "authorKey": "xu-guangqi",
+      "sourceLine": "Xu Guangqi, Ming scholar-official and Christian convert, memorial to the Wanli emperor proposing how the Jesuits should be examined, 1617",
+      "year": 1617,
+      "kind": "text",
+      "text": "1st. Let all the courtiers, whose names have been included in the memorials, be called to the capital; and let a selection be made of your majesty's ministers both in and out of the capital; let all these jointly translate the standard works that have been brought from the West; let subjects be taken up in detail—what is said on serving Heaven and loving man, what relates to natural and moral philosophy, to the systems of civil government, to astronomy, to mathematics, to physic and medicine, to agriculture and irrigation, to political economy, &c.; and let a distinct treatise be prepared on each of these; and then let his majesty command the ministers of his own palace, in general assembly, to decide whether they are correct or erroneous. And if indeed they be subversive of the cardinal virtues and opposed to the classics, involving wicked doctrines and sinister means, then let the said courtiers be immediately dismissed and expelled; and your majesty's servant will willingly abide the punishment appointed for those who aid and abet the deceivers of his majesty.",
+      "adapted": false,
+      "original": null,
+      "translation": "English translation from The Chinese Repository, 1850, as modernised in the Internet Modern History Sourcebook",
+      "topics": [
+        "4.5",
+        "4.4"
+      ],
+      "sourceUrl": "https://sourcebooks.fordham.edu/Halsall/mod/1617hsukuang.asp",
+      "verified": false
+    },
+    {
+      "id": "adams-1611-shipbuilder-to-ieyasu",
+      "authorKey": "william-adams",
+      "sourceLine": "William Adams, English pilot shipwrecked in Japan in 1600 who became an adviser to Tokugawa Ieyasu, letter to his countrymen, 1611",
+      "year": 1611,
+      "kind": "text",
+      "text": "So in process of four or five years the emperor [Tokugawa Ieyasu] called me, as divers times he had done before. So one time above the rest he would have me to make him a small ship. I answered that I was no carpenter and had no knowledge thereof. Well, do your endeavor, said he; if it be not good, it is no matter. Wherefore at his command I built him a ship of the burden of eighty tons or thereabout; which ship being made in all respects as our manner is, he coming aboard to see it, liked it very well; by which means I came in favor with him, so that I came often in his presence, who from time to time gave me presents, and at length a yearly stipend to live upon … Now being in such grace and favor by reason I learned him some points of geometry and understanding of the art of mathematics with other things, I pleased him so that what I said he would not contrary.",
+      "adapted": false,
+      "original": null,
+      "translation": null,
+      "topics": [
+        "4.5",
+        "4.1"
+      ],
+      "sourceUrl": "https://sourcebooks.fordham.edu/Halsall/mod/1611adams-japan.asp",
+      "verified": false
+    },
+    {
+      "id": "du-halde-1735-kangxi-and-jesuit-science",
+      "authorKey": "jean-baptiste-du-halde",
+      "sourceLine": "Jean-Baptiste du Halde, French Jesuit who compiled the reports of missionaries in China, Description of the Empire of China, 1735, on the Kangxi emperor (reigned 1661–1722)",
+      "year": 1735,
+      "kind": "text",
+      "text": "This nation, naturally proud, looked upon themselves as the most learned in the world, and they enjoyed this reputation without disturbance because they were acquainted with no other people more knowing than themselves; but they were undeceived by the ingenuity of the missionaries who appeared at court. The proof which they gave of their capacity served greatly to authorize their ministry and to gain esteem for the religion which they preached. The late emperor, Cang hi [Kangxi], whose chief delight was to acquire knowledge, was never weary of seeing or hearing them. On the other hand, the Jesuits, perceiving how necessary the protection of this great prince was to the progress of the Gospel, omitted nothing that might excite his curiosity and satisfy this natural relish for the sciences.",
+      "adapted": false,
+      "original": null,
+      "translation": "English translation as printed in Eva March Tappan, ed., The World’s Story, vol. 1, 1914 (Internet Modern History Sourcebook)",
+      "topics": [
+        "4.5",
+        "4.1"
+      ],
+      "sourceUrl": "https://sourcebooks.fordham.edu/Halsall/mod/1680halde1.asp",
+      "verified": false
+    },
+    {
+      "id": "las-casas-1542-hatuey",
+      "authorKey": "las-casas",
+      "sourceLine": "Bartolomé de las Casas, Dominican friar and critic of Spanish conquest, A Brief Account of the Destruction of the Indies (written 1542, published 1552), on the Taíno leader Hatuey in Cuba, 1511–12",
+      "year": 1542,
+      "kind": "text",
+      "text": "When the Spaniards first touched this Island, this Cacic [Hatuey], who was thoroughly acquainted with them, did avoid and shun them as much as in him lay, and defended himself by force of Arms, wherever he met with them, but at length being taken he was burnt alive, for flying from so unjust and cruel a Nation, and endeavuoring to secure his Life against them, who only thirsted after the blood of himself and his own People. … Now being bound to the post, in order of his Execution a certain Holy Monk of the Franciscan Order, discours'd with him concerning God and the Articles of our Faith … After that Hathney had been silently pensive sometime, he askt the Monk whether the Spaniards also were admitted into Heaven, and he answering that the Gates of Heaven were open to all that were Good and Godly, the Cacic replied without further consideration, that he would rather go to Hell then Heaven, for fear he should cohabit in the same Mansion with so Sanguinary and Bloody a Nation.",
+      "adapted": false,
+      "original": null,
+      "translation": "Anonymous English translation, Popery Truly Display'd in its Bloody Colours, London, 1689",
+      "topics": [
+        "4.4",
+        "4.6"
+      ],
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/20321/pg20321-images.html",
+      "verified": false
+    },
+    {
+      "id": "pedro-pizarro-1571-siege-of-cuzco",
+      "authorKey": "pedro-pizarro",
+      "sourceLine": "Pedro Pizarro, Spanish conquistador and cousin of Francisco Pizarro, Relation of the Discovery and Conquest of the Kingdoms of Peru, 1571, describing the Inca siege of Cuzco led by Manco Inca in 1536",
+      "year": 1571,
+      "kind": "text",
+      "text": "So numerous were the [Indian] troops who came here that they covered the fields, and by day it looked as if a black cloth had been spread over the ground for half a league around this city of Cuzco. At night there were so many fires that it looked like nothing other than a very serene sky full of stars. There was so much shouting and din of voices that all of us were astonished. … When they were all assembled, as I say, one morning they began to set fire to all parts of Cuzco, and, by means of this fire they were gaining many portions of the town, making palisades in the streets so that the Spaniards could not go out through them.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by Philip Ainsworth Means, Relation of the Discovery and Conquest of the Kingdoms of Peru, 1921",
+      "topics": [
+        "4.4",
+        "4.6"
+      ],
+      "sourceUrl": "https://archive.org/stream/relationofdiscov02pizauoft/relationofdiscov02pizauoft_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "cakchiquel-annals-revolt-against-alvarado",
+      "authorKey": "xahila",
+      "sourceLine": "Francisco Hernández Arana Xajilá, Kaqchikel Maya noble who lived through the Spanish conquest, The Annals of the Cakchiquels (written c. 1560s–1580s), on the Kaqchikel revolt of 1524",
+      "year": 1575,
+      "kind": "text",
+      "text": "Then Tunatiuh [Pedro de Alvarado] began to ask the chiefs for money. He wished that they should give him jars full of precious metals, and even their drinking cups and crowns. Not receiving anything, Tunatiuh became angry and said to the chiefs: “Why have you not given me the metal? If you do not bring me the precious metal in all your towns, choose then, for I shall burn you alive and hang you.” Thus did he speak to the chiefs. … But what the chiefs did [abandoning their capital, Iximche] was soon known to Tunatiuh. Ten days after we had left the city, war was begun by Tunatiuh. On the day 4 Camey began our destruction. Then began our misery. We scattered in the forests; all our towns were taken, O my children; we were slaughtered by Tunatiuh. The Castilians entered the city and they arrived as to a deserted spot. From that time the Castilians were hated by the Cakchiquels. They made trenches, they dug pitfalls, that the horses might be killed, and war was waged by their men.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by Daniel G. Brinton, The Annals of the Cakchiquels, 1885",
+      "topics": [
+        "4.4",
+        "4.6"
+      ],
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/20775/pg20775-images.html",
+      "verified": false
+    },
+    {
+      "id": "nahua-accounts-toxcatl-massacre",
+      "authorKey": "nahua-chroniclers",
+      "sourceLine": "Nahua (Aztec) accounts of the conquest of Mexico, recorded in Nahuatl in the decades after 1521, on the massacre at the festival of Toxcatl in 1520",
+      "year": 1560,
+      "kind": "text",
+      "text": "On the second day they began to sing again, but without warning they were all put to death. The dancers and singers were completely unarmed. They brought only their embroidered cloaks, their turquoises, their lip plugs, their necklaces, their clusters of heron feathers, their trinkets made of deer hooves. Those who played the drums, the old men, had brought their gourds of snuff and their timbrels. The Spaniards attacked the musicians first, slashing at their hands and faces until they had killed all of them. The singers—and even the spectators—were also killed. This slaughter in the Sacred Patio went on for three hours. … The Sun [Pedro de Alvarado] had treacherously murdered our people on the twentieth day after the captain left for the coast. We allowed the Captain to return to the city in peace. But on the following day we attacked him with all our might, and that was the beginning of the war.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by Lysander Kemp in Miguel León-Portilla, ed., The Broken Spears: The Aztec Account of the Conquest of Mexico, 1962 (Internet Modern History Sourcebook)",
+      "topics": [
+        "4.4",
+        "4.6"
+      ],
+      "sourceUrl": "https://sourcebooks.fordham.edu/Halsall/mod/aztecs1.asp",
+      "verified": false
+    },
+    {
+      "id": "gardiner-1660-miantonomo-speech",
+      "authorKey": "miantonomo",
+      "sourceLine": "Miantonomo, Narragansett sachem, speech to the Montaukett in 1642, as recorded by Lion Gardiner, commander of the English fort at Saybrook, Relation of the Pequot Warres (written 1660)",
+      "year": 1660,
+      "kind": "text",
+      "text": "[Miantonomo] gave them gifts, calling them brethren and friends, for so are we all Indians as the English are, and say brother to one another; so must we be one as they are, otherwise we shall be all gone shortly, for you know our fathers had plenty of deer and skins, our plains were full of deer, as also our woods, and of turkies, and our coves full of fish and fowl. But these English having gotten our land, they with scythes cut down the grass, and with axes felled the trees; their cows and horses eat the grass, and their hogs spoil our clam banks, and we shall all be starved; therefore it is best for you to do as we, for we are all the Sachems from east to west, both Mouquakues and Mowhauks joining with us, and we are all resolved to fall upon them all, at one appointed day.",
+      "adapted": false,
+      "original": null,
+      "translation": null,
+      "topics": [
+        "4.4",
+        "4.6"
+      ],
+      "sourceUrl": "https://archive.org/stream/ahistorypequotw00dodggoog/ahistorypequotw00dodggoog_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "rowlandson-1682-captivity-narrative",
+      "authorKey": "mary-rowlandson",
+      "sourceLine": "Mary Rowlandson, English colonist taken captive when Native forces attacked Lancaster, Massachusetts, in February 1676 during King Philip’s War, narrative of her captivity, 1682",
+      "year": 1682,
+      "kind": "text",
+      "text": "I cannot but remember how the Indians derided the slowness, and dullness of the English army, in its setting out. For after the desolations at Lancaster and Medfield, as I went along with them, they asked me when I thought the English army would come after them? I told them I could not tell. \"It may be they will come in May,\" said they. Thus did they scoff at us, as if the English would be a quarter of a year getting ready. … It was thought, if their corn were cut down, they would starve and die with hunger, and all their corn that could be found, was destroyed, and they driven from that little they had in store, into the woods in the midst of winter; and yet how to admiration did the Lord preserve them for His holy ends, and the destruction of many still amongst the English! strangely did the Lord provide for them; that I did not see (all the time I was among them) one man, woman, or child, die with hunger.",
+      "adapted": false,
+      "original": null,
+      "translation": null,
+      "topics": [
+        "4.4",
+        "4.6"
+      ],
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/851/pg851-images.html",
+      "verified": false
+    },
+    {
+      "id": "easton-1675-metacom-grievances",
+      "authorKey": "metacom",
+      "sourceLine": "Metacom (King Philip), Wampanoag sachem, and his council, grievances stated to Rhode Island officials in June 1675, as recorded by Deputy Governor John Easton, A Relacion of the Indyan Warre, 1675 (adapted)",
+      "year": 1675,
+      "kind": "text",
+      "text": "They said they had been the first in doing good to the English, and the English the first in doing wrong; said when the English first came their king's father was as a great man and the English as a little child; he constrained other Indians from wronging the English and gave them corn and showed them how to plant and was free to do them any good and had let them have a 100 times more land than now the king had for his own people … now their kings were forewarned not for to part with land for nothing in comparison to the value thereof; now whom the English had owned for king or queen they would disinherit, and make another king that would give or sell them their land, that now they had no hopes left to keep any land … we endeavored that however they should lay down their arms, for the English were too strong for them; they said then the English should do to them as they did when they were too strong for the English.",
+      "adapted": true,
+      "original": "Hhay saied thay had bine the first in doing good to the English, and the English the first in doing rong, saied when the English first Came their kings father was as a great man and the English as a Utell Child, he Constraened other indians from rouging the English and gave them Coren and shewed them how to plant and was free to dq them ani good and had let them have a 100 times more land, then now the king had for his own peopell, … now ther kings wear forewarned not for to part with land for nothing in Gumpareson to the valew therofj now home* the English had owned for king or queen thay^ wold disinheret, and make a nother king that wold give or seell them there land, that now thay had no hopes left to kepe ani land. … we indevered that however thay should lay doune ther arems for the English wear to strong for them, thay saied then the English should do to them as thay did when thay wear to strong for the english.",
+      "translation": null,
+      "topics": [
+        "4.4",
+        "4.6"
+      ],
+      "sourceUrl": "https://archive.org/stream/narrativesindia01mathgoog/narrativesindia01mathgoog_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "powhatan-1609-speech-to-smith",
+      "authorKey": "powhatan",
+      "sourceLine": "Powhatan (Wahunsenacah), paramount chief of the Powhatan peoples of Virginia, speech to John Smith in 1609, as recorded in The Proceedings of the English Colonie in Virginia, 1612 (adapted)",
+      "year": 1612,
+      "kind": "text",
+      "text": "What will it avail you to take that perforce, you may quietly have with love, or to destroy them that provide you food? What can you get by war, when we can hide our provision and fly to the woods, whereby you must famish, by wronging us your friends? And why are you thus jealous of our loves, seeing us unarmed, and both do, and are willing still to feed you with that you cannot get but by our labours? Think you I am so simple not to know it is better to eat good meat, lie well, and sleep quietly with my women and children, laugh and be merry with you, have copper, hatchets, or what I want, being your friend; than be forced to fly from all, to lie cold in the woods, feed upon acorns, roots and such trash, and be so hunted by you that I can neither rest, eat nor sleep.",
+      "adapted": true,
+      "original": "What will it availe you to take that perforce, you may quietly haue with loue, or to destroy them that provide you food ? What can you get by war, when we can hide our provision and flie to the woodes, whereby you must famish, by wronging vs your friends ? And whie are you thus iealous of our loues, seeing vs vnarmed, and both doe, and are willing still to feed you with that you cannot get but by our labours ? Think you I am so simple not to knowe it is better to eate good meate, lie well, and sleepe quietly with my women and children, laugh and be merrie with you, haue copper, hatchets, or what I want, being your friend ; then bee forced to flie from al, to lie cold in the woods, feed vpon acorns roots and such trash, and be so hunted by you that I can neither rest eat nor sleepe",
+      "translation": "Recorded in English by the Jamestown colonists, The Proceedings of the English Colonie in Virginia, 1612 (ed. Edward Arber, 1910)",
+      "topics": [
+        "4.4",
+        "4.6"
+      ],
+      "sourceUrl": "https://archive.org/stream/travelsworksofca00smituoft/travelsworksofca00smituoft_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "kiotseaeton-1645-peace-speech",
+      "authorKey": "kiotseaeton",
+      "sourceLine": "Kiotseaeton, Mohawk (Haudenosaunee) speaker, peace speech to the governor of New France at Three Rivers, 1645, as recorded by the Jesuit Barthélemy Vimont in the Relation of 1644–45 (adapted)",
+      "year": 1645,
+      "kind": "text",
+      "text": "Kiotsaeton, who was high in stature, rose and looked at the Sun, then cast his eyes over the whole Company; he took a collar of porcelain beads in his hand and commenced to harangue in a loud voice. “Onontio, lend me ear. I am the mouth for the whole of my country; thou listenest to all the Iroquois, in hearing my words. There is no evil in my heart; I have only good songs in my mouth. We have a multitude of war songs in our country; we have cast them all on the ground; we have no longer anything but songs of rejoicing.” … The tenth was given to bind us all very closely together. He took hold of a Frenchman, placed his arm within his, and with his other arm he clasped that of an Alguonquin. Having thus joined himself to them, “Here,” he said, “is the knot that binds us inseparably; nothing can part us.”",
+      "adapted": true,
+      "original": "Kiotsaeton who was high in stature, rose and looked at the Sun, then cast his eyes over the whole Company; he took a collar of porcelain beads in his hand and commenced to harangue ina loud voice. ‘* Onon+ tio, lend me ear. Iam the mouth for the whole of my country; thou listenest to all the Iroquois, in hearing my words. There is no evil in my heart; I have only good songsin my mouth. We havea multitude of war songs in our country; we have cast them all on the ground; we have no longer anything but songs of rejoicing. … The tenth was given to bind us all very closely together. He took hold of a Frenchman, placed his arm within his, and with his other arm he clasped that of an Alguonquin. Having thus joined himself to them, ‘‘ Here,” he said, ‘‘ is the knot that binds us inseparably; nothing can part us.",
+      "translation": "Translated in Reuben Gold Thwaites, ed., The Jesuit Relations and Allied Documents, vol. 27, 1898",
+      "topics": [
+        "4.4",
+        "4.6"
+      ],
+      "sourceUrl": "https://archive.org/stream/jesuitrelationsa0027jesu/jesuitrelationsa0027jesu_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "canassatego-1744-lancaster-treaty",
+      "authorKey": "canassatego",
+      "sourceLine": "Canassatego, Onondaga speaker for the Six Nations (Haudenosaunee), reply to the governor of Maryland at the Treaty of Lancaster, 1744, from the treaty minutes printed by Benjamin Franklin (adapted)",
+      "year": 1744,
+      "kind": "text",
+      "text": "When you mentioned the Affair of the Land Yesterday, you went back to old Times, and told us, you had been in Possession of the Province of Maryland above One Hundred Years; but what is One Hundred Years in Comparison of the Length of Time since our Claim began? since we came out of this Ground? For we must tell you, that long before One Hundred Years our Ancestors came out of this very Ground, and their Children have remained here ever since. You came out of the Ground in a Country that lies beyond the Seas, there you may have a just Claim, but here you must allow us to be your elder Brethren, and the Lands to belong to us long before you knew any thing of them. … During all this Time the New-comers, the Dutch, acknowledged our Right to the Lands, and solicited us, from Time to Time, to grant them Parts of our Country, and to enter into League and Covenant with us, and to become one People with us.",
+      "adapted": true,
+      "original": "WHEN you mentioned the Affair of the Land Yefterday, you went back ‘to old Times, and told us, you had been ‘in Poffeffion of the Province a Maryland above One Hundred Years; but what is One Hundred Years in ‘Comparifon of the Length of Time fince our Claim began? fince we came out of this Ground? -For we muft tell you, that long before One Hundred Years our Anceftors came out of this very Ground, and their Children have yemained here ever ‘fince. You came out of the’Ground in a Country that lies beyond the Seas, there you may have a juft Claim, but here you muft allow us to be your elder Brethren, and the Lands to belong to us long before you knew any thing of them. … During all this Time the New-comers, the Dutch, acknowledged our Right to the Lands, and follicited us, from Time to Time, to grant them Parts of our Country, and to enter into League and Covenant with us, and to become one People ‘with us.",
+      "translation": "Interpreted by Conrad Weiser; English minutes printed by Benjamin Franklin, Philadelphia, 1744",
+      "topics": [
+        "4.4",
+        "4.6"
+      ],
+      "sourceUrl": "https://archive.org/stream/treatyheldattown00unse/treatyheldattown00unse_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "otreouti-1684-reply-to-la-barre",
+      "authorKey": "otreouti",
+      "sourceLine": "Otreouti (called 'Grangula'), Onondaga speaker, reply to Joseph-Antoine de La Barre, governor of New France, at La Famine in 1684, as recorded by the French officer the Baron de Lahontan, New Voyages to North-America, 1703 (adapted)",
+      "year": 1703,
+      "kind": "text",
+      "text": "Do you hear, Onnontio, our Women had took up their Clubs; and the Children and the old Men, had visited your Camp with their Bows and Arrows, if our Warlike Men had not stop'd and disarm'd 'em, when Akouessan your Ambassador appear'd before my Village. But I have done, I'll talk no more of that. … You must know, Onnontio, we have robb'd no French-Men but those who supply'd the Illinese and the Oumamis (our Enemies) with Fusees, with Powder, and with Ball: These indeed we took care of, because such Arms might have cost us our life. … We are born Freemen, and have no dependance either upon the Onnontio [governor of New France] or the Corlar [governor of New York]. We have a power to go where we please, to conduct who we will to the places we resort to, and to buy and sell where we think fit. If your Allies are your Slaves or Children, you may e'en treat 'em as such, and rob 'em of the liberty of entertaining any other Nation but your own.",
+      "adapted": true,
+      "original": "Do you hear, Onnontio^ our Women * had took up their Clubbs ; and the Children and the old ' Men, had vifited your Camp with their Bows and Arrows, * if our Warlike Men had not ftop'd and difarm'd 'em, when ^ Akoueffan your Ambaffadour appear'd before my Village. * But I have done, I '11 talk no more of that. … You muft know, Onnontio^ we have robb'd no French-Men^ *but thofe who fupply'd the Illinefe and the Oumamis (our * Enemies) with Fufees, with Powder, and with Ball : Thefe * indeed we took care of, becaufe fuch Arms might have coft * us our life. … We ' are born Freemen, and have no dependance either upon the … Onnontto or the t Corlar} We have a power to … go where we pleafe, to condudl who we will … to the places we refort to, and to buy and fell … where we think fit. If your Allies are your ' Slaves or Children, you may e'en treat 'em as fuch, and rob ' 'em of the liberty of entertaining any other Nation but your ' own.",
+      "translation": "English translation, New Voyages to North-America, London, 1703 (reprinted, ed. Reuben Gold Thwaites, 1905)",
+      "topics": [
+        "4.4",
+        "4.6"
+      ],
+      "sourceUrl": "https://archive.org/stream/newvoyagestonort01lahouoft/newvoyagestonort01lahouoft_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "molina-1575-taki-onqoy",
+      "authorKey": "cristobal-de-molina",
+      "sourceLine": "Cristóbal de Molina, Spanish priest in Cuzco who preached in Quechua, An Account of the Fables and Rites of the Yncas, c. 1575, describing the Taki Onqoy movement of the 1560s",
+      "year": 1575,
+      "kind": "text",
+      "text": "Many preachers went forth from among the Indians, who preached as well in the desert places as in the villages, declaring the resurrection of the huacas, and saying that they now wandered in the air, thirsty and dying of hunger, because the Indians no longer sacrificed nor poured out chicha to them. … The huacas, it was announced, were enraged with all those who had been baptized, and it was declared that they would all be killed unless they returned to the old belief and renounced the Christain faith. … Those who would return to the love of the huacas and live, were to fast for some days, not eating salt nor aji, nor coloured maize, nor any Spanish thing, nor entering churches, nor obeying the call of the priests, nor using their christian names. Henceforth the times of the Yncas would be restored, and the huacas would not enter into stones or fountains to speak, but would be incorporated in men whom they would cause to speak.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by Clements R. Markham, Narratives of the Rites and Laws of the Yncas, 1873",
+      "topics": [
+        "4.6",
+        "4.8"
+      ],
+      "sourceUrl": "https://archive.org/stream/narrativesofrite00moli/narrativesofrite00moli_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "garcilaso-1609-inca-memory",
+      "authorKey": "garcilaso-de-la-vega",
+      "sourceLine": "Garcilaso de la Vega, called \"El Inca,\" son of a Spanish conquistador and an Inca noblewoman, Royal Commentaries of the Incas, 1609",
+      "year": 1609,
+      "kind": "text",
+      "text": "My mother resided in Cuzco, her native town, and almost every week some of the few male and female relations, who escaped the cruelty and tyranny of Atahualpa … came to visit her. On the occasion of these visits their usual conversation was on the subject of the origin of the Yncas, of their majesty, of the grandeur of their empire, of their greatness, of their mode of government in peace and war, and of the laws which they ordained for the good of their subjects. In short, they omitted nothing relating to the flourishing period of their history in the course of these conversations. From their past greatness and prosperity, they went on to the present state of affairs; they mourned for their dead kings, their lost rule, their fallen state. Such and the like discourses were held by the Yncas and Pallas when they visited my mother, and, at the memory of their lost happiness, they always concluded their conversations with tears and mourning, saying “We are turned from rulers into vassals.”",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by Clements R. Markham, First Part of the Royal Commentaries of the Yncas, 1869",
+      "topics": [
+        "4.6",
+        "4.8"
+      ],
+      "sourceUrl": "https://archive.org/stream/firstpartofroyal01vega/firstpartofroyal01vega_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "avila-1608-huarochiri-traditions",
+      "authorKey": "francisco-de-avila",
+      "sourceLine": "Francisco de Ávila, priest of San Damián and campaigner against Andean religion, report on the gods and rites of the Indians of Huarochirí, Peru, 1608",
+      "year": 1608,
+      "kind": "text",
+      "text": "The above traditions are so rooted in the hearts of the people of this province at the present time that they preserve them most inviolably; and thus they hold the condors to be sacred, and never kill one, believing that he who kills one will die himself. I know that there was a condor in the ravine of San Damian, near the bridge, which was unable to fly from extreme old age; but there was not an Indian who would touch it, and it lived there for thirteen or fourteen years. … They also have a great horror of the small fox; and they do to the lion all that was ordained in the blessing of Coniraya, bringing out the skin on great occasions, while he who owns it kills a llama. I have often seen this done in my own parish in Huarochiri, on occasion of the drinking bouts called Huantachinaca.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by Clements R. Markham, Narratives of the Rites and Laws of the Yncas, 1873",
+      "topics": [
+        "4.6",
+        "4.8"
+      ],
+      "sourceUrl": "https://archive.org/stream/narrativesofrite00moli/narrativesofrite00moli_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "le-jeune-1634-montagnais-beliefs",
+      "authorKey": "paul-le-jeune",
+      "sourceLine": "Paul Le Jeune, Jesuit missionary who wintered with the Montagnais (Innu) of Quebec, Relation of 1634, recording their answers to his questions",
+      "year": 1634,
+      "kind": "text",
+      "text": "[Le Jeune asked:] \"What do these souls do when they arrive at their dwelling place?\" \"During the daytime, they are seated with their two elbows upon their two knees, and their heads between their two hands, the usual position of sick Savages; during the night, they go and come, they work, they go to the chase.\" \"Oh, but they cannot see at all during the night,\" I rejoined. \"Thou art an ignoramus, thou hast no sense,\" they answered; \"souls are not like us, they do not see at all during the day, and see very clearly at night; their day is in the darkness of the night, and their night in the light of the day.\" … And when they see that I make sport of their dreams, they are astonished and ask me, \"What does thou believe then, if thou dost not believe in thy dream?\" \"I believe in him who has made all things, and who can do all things.\" \"Thou hast no sense, how canst thou believe in him, if thou hast not seen him?\"",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated in Reuben Gold Thwaites, ed., The Jesuit Relations and Allied Documents, vol. 6, 1897",
+      "topics": [
+        "4.6",
+        "4.8"
+      ],
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/51262/pg51262-images.html",
+      "verified": false
+    },
+    {
+      "id": "brebeuf-1636-wendat-blend-beliefs",
+      "authorKey": "jean-de-brebeuf",
+      "sourceLine": "Jean de Brébeuf, Jesuit missionary among the Wendat (Huron) near Georgian Bay, Huron Relation of 1636, printed in the Jesuit Relations",
+      "year": 1636,
+      "kind": "text",
+      "text": "Generally speaking they praise and approve the Christian Religion, and blame their wicked customs; but when will they leave them off entirely? … Some say to us: \"Do you think … you are going to succeed in overturning the Country?\" Thus do they style the change from their Pagan and Barbarous life to one that is civilized and Christian. … [One Wendat man] was willingly present at all our Assemblies, listening to our instructions; he was the first to make the sign of the Cross … but afterwards he tried to blend our creed with their superstitions and nonsense, and said that he wished to go with his Ancestors. … We went to see him, and he again sought our good offices—threatening that, if we did not satisfy him by singing in our way, he would overturn everything in our Cabin after his death, and even carry it away.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated in Reuben Gold Thwaites, ed., The Jesuit Relations and Allied Documents, vol. 10, 1897",
+      "topics": [
+        "4.6",
+        "4.8"
+      ],
+      "sourceUrl": "https://archive.org/stream/jesuitrelationsa10jesuuoft/jesuitrelationsa10jesuuoft_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "shimabara-rebels-1638-arrow-letter",
+      "authorKey": "shimabara-rebels",
+      "sourceLine": "Christian peasant rebels besieged in Hara Castle during the Shimabara Rebellion, letter shot by arrow into the besiegers’ lines and addressed to the attendants of the shogun’s commissioner, February 1638",
+      "year": 1638,
+      "kind": "text",
+      "text": "For the sake of our people we have now resorted to this castle. You will, no doubt, think that for the sake of conquering countries and acquiring houses we have done this; but such is by no means the case. It is simply because the Christian sect is not tolerated as a distinct sect, as you know. … Because they [the faithful] will not change their religion, they incur various kinds of severe punishments, being inhumanly subjected to shame and extreme suffering, till at last, for their devotion to the Lord of Heaven, they are tortured to death. … Should we continue to live as hitherto, and the above laws not be repealed, we must incur all sorts of punishments hard to be endured; we must, our bodies being weak and sensitive, sin against the infinite Lord of Heaven; and from solicitude for our brief lives incur the loss of what we highly esteem. These things fill us with grief beyond our capacity. Hence we are in our present condition. It is not the result of a corrupt doctrine.",
+      "adapted": false,
+      "original": null,
+      "translation": "English translation as printed in James Murdoch and Isoh Yamagata, A History of Japan, vol. 2, 1903",
+      "topics": [
+        "4.6"
+      ],
+      "sourceUrl": "https://archive.org/stream/historyofjapan02murd/historyofjapan02murd_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "koeckebacker-1638-shimabara-taxes",
+      "authorKey": "nicolaes-koeckebacker",
+      "sourceLine": "Nicolaes Koeckebacker, head of the Dutch East India Company post at Hirado, letter to Governor-General Antonio van Diemen on the Shimabara Rebellion, 1638",
+      "year": 1638,
+      "kind": "text",
+      "text": "On the 17th December, 1637, we received intelligence that the peasants in the county of Arima had revolted, taken up arms, set fire to all the habitations of the nobility and citizens, murdered some of the nobles … The newly-arrived lord, not content herewith, imposed moreover upon them and upon the other farmers more taxes, and forced them to raise such a quantity of rice as was impossible for them to do. Those who could not pay the fixed taxes were dressed, by his order, in a rough straw coat (mino) made of a kind of grass with long and broad leaves and called mino by the Japanese, such as is used by boatmen and other peasantry as a rain-coat. These mantles were tied round the neck and body, the hands being tightly bound behind their backs with ropes, after which the straw-coats were set on fire. … the people resolved not to bear any longer the vexations, and to die one single death instead of the many slow deaths to which they were subjected.",
+      "adapted": false,
+      "original": null,
+      "translation": "English translation as printed in James Murdoch and Isoh Yamagata, A History of Japan, vol. 2, 1903",
+      "topics": [
+        "4.6"
+      ],
+      "sourceUrl": "https://archive.org/stream/historyofjapan02murd/historyofjapan02murd_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "twelve-articles-1525-right-to-choose-pastors",
+      "authorKey": "swabian-peasants",
+      "sourceLine": "The Twelve Articles of the peasants of Swabia, manifesto of the German Peasants’ War, 1525",
+      "year": 1525,
+      "kind": "text",
+      "text": "In the second place, it is clear that the peasants demand that this Gospel be taught them as a guide in life, and they ought not to be called disobedient or disorderly. … First, it is our humble petition and desire, as also our will and resolution, that in the future we should have power and authority so that each community should choose and appoint a pastor, and that we should have the right to depose him should he conduct himself improperly. The pastor thus chosen should teach us the Gospel pure and simple, without any addition, doctrine or ordinance of man. … We will that for the future our church provost, whomsoever the community may appoint, shall gather and receive this tithe. From this he shall give to the pastor, elected by the whole community, a decent and sufficient maintenance for him",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated in Translations and Reprints from the Original Sources of European History, vol. 2, University of Pennsylvania, 1897",
+      "topics": [
+        "4.6"
+      ],
+      "sourceUrl": "https://archive.org/stream/translationsrepr02univiala/translationsrepr02univiala_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "twelve-articles-1525-serfdom-and-rents",
+      "authorKey": "swabian-peasants",
+      "sourceLine": "The Twelve Articles of the peasants of Swabia, manifesto of the German Peasants’ War, 1525",
+      "year": 1525,
+      "kind": "text",
+      "text": "It has been the custom hitherto for men to hold us as their own property, which is pitiable enough, considering that Christ has delivered and redeemed us all, without exception, by the shedding of his precious blood, the lowly as well as the great. Accordingly, it is consistent with Scripture that we should be free and wish to be so. … We, therefore, take it for granted that you will release us from serfdom, as true Christians, unless it should be shown us from the Gospel that we are serfs. … In the eighth place, we are greatly burdened by holdings which cannot support the rent exacted from them. The peasants suffer loss in this way and are ruined; and we ask that the lords may appoint persons of honor to inspect these holdings, and fix a rent in accordance with justice, so that the peasant shall not work for nothing, since the laborer is worthy of his hire.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated in Translations and Reprints from the Original Sources of European History, vol. 2, University of Pennsylvania, 1897",
+      "topics": [
+        "4.6"
+      ],
+      "sourceUrl": "https://archive.org/stream/translationsrepr02univiala/translationsrepr02univiala_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "petition-of-right-1628",
+      "authorKey": "english-parliament",
+      "sourceLine": "The English Parliament (Lords and Commons), the Petition of Right presented to King Charles I, 1628",
+      "year": 1628,
+      "kind": "text",
+      "text": "Your subjects have inherited this freedom, that they should not be compelled to contribute to any tax, tallage, aid, or other like charge not set by common consent, in parliament. … Yet nevertheless of late divers commissions directed to sundry commissioners in several counties, with instructions, have issued; by means whereof your people have been in divers places assembled, and required to lend certain sums of money unto your Majesty, and many of them, upon their refusal so to do, have had an oath administered unto them not warrantable by the laws or statutes of this realm, and have been constrained to become bound and make appearance and give utterance before your Privy Council and in other places, and others of them have been therfore imprisoned, confined, and sundry other ways molested and disquieted. … They do therefore humbly pray your most excellent Majesty, that no man hereafter be compelled to make or yield any gift, loan, benevolence, tax, or such like charge, without common consent by act of parliament.",
+      "adapted": false,
+      "original": null,
+      "translation": null,
+      "topics": [
+        "4.6"
+      ],
+      "sourceUrl": "https://en.wikisource.org/wiki/Petition_of_Right",
+      "verified": false
+    },
+    {
+      "id": "grand-remonstrance-1641",
+      "authorKey": "english-parliament",
+      "sourceLine": "The House of Commons of England, the Grand Remonstrance presented to King Charles I, December 1641",
+      "year": 1641,
+      "kind": "text",
+      "text": "The root of all this mischief we find to be a malignant and pernicious design of subverting the fundamental laws and principles of government, upon which the religion and justice of this kingdom are firmly established. The actors and promoters hereof have been: 1. The Jesuited Papists, who hate the laws, as the obstacles of that change and subversion of religion which they so much long for. 2. The Bishops, and the corrupt part of the Clergy, who cherish formality and superstition as the natural effects and more probable supports of their own ecclesiastical tyranny and usurpation. … And although all this was taken upon pretence of guarding the seas, yet a new unheard-of tax of ship-money was devised, and upon the same pretence, by both which there was charged upon the subject near £700,000 some years, and yet the merchants have been left so naked to the violence of the Turkish pirates, that many great ships of value and thousands of His Majesty's subjects have been taken by them, and do still remain in miserable slavery.",
+      "adapted": false,
+      "original": null,
+      "translation": null,
+      "topics": [
+        "4.6"
+      ],
+      "sourceUrl": "https://www.constitution.org/eng/conpur043.htm",
+      "verified": false
+    },
+    {
+      "id": "retz-1647-tariff-edict",
+      "authorKey": "cardinal-de-retz",
+      "sourceLine": "Jean-François Paul de Gondi, Cardinal de Retz, coadjutor archbishop of Paris and a leader of the Fronde, Memoirs (written c. 1675), on the tax quarrels of 1647",
+      "year": 1647,
+      "kind": "text",
+      "text": "Emeri, Superintendent of the Finances, and in my opinion the most corrupt man of the age, multiplied edicts as fast as he could find names to call them by. … In August, 1647, there was a mighty clamour against the tariff edict imposing a general tax upon all provisions that came into Paris, which the people were resolved to bear no longer. But the gentlemen of the Council being determined to support it, the Queen consulted the members deputed from Parliament, when Cardinal Mazarin, a mere ignoramus in these affairs, said he wondered that so considerable a body as they were should mind such trifles,—an expression truly worthy of Mazarin. However, the Council at length imagining the Parliament would do it, thought fit to suppress the tariff themselves by a declaration, in order to save the King’s credit. … The people mutinied, went in crowds to the Palace, and used very abusive language to the President de Thore, Emeri’s son.",
+      "adapted": false,
+      "original": null,
+      "translation": "Anonymous English translation of 1723, as reprinted in Memoirs of the Cardinal de Retz, 1896 (Project Gutenberg edition)",
+      "topics": [
+        "4.6"
+      ],
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/3846/pg3846-images.html",
+      "verified": false
+    },
+    {
+      "id": "retz-1648-barricades",
+      "authorKey": "cardinal-de-retz",
+      "sourceLine": "Jean-François Paul de Gondi, Cardinal de Retz, coadjutor archbishop of Paris and a leader of the Fronde, Memoirs (written c. 1675), on the Day of the Barricades, August 1648",
+      "year": 1648,
+      "kind": "text",
+      "text": "On the 26th of August, 1648, the worthy Broussel, councillor of the Grand Chamber, and Rene Potier, Sieur de Blancmenil, President of the Inquests, were both arrested by the Queen’s officers. … The news of this occurrence ran like wild-fire through the whole city. Men and women were immediately up in arms, and mothers even put daggers into the hands of their children. In less than two hours there were erected above two hundred barricades, adorned with all the standards and colours that the League had left entire. All the cry was, “God bless the King!” sometimes, “God bless the Coadjutor!” and the echo was, “No Mazarin!” … The Court minions of the two last centuries knew not what they did when they reduced that effectual regard which kings ought to have for their subjects into mere style and form; for there are, as you see, certain conjunctures in which, by a necessary consequence, subjects make a mere form also of the real obedience which they owe to their sovereigns.",
+      "adapted": false,
+      "original": null,
+      "translation": "Anonymous English translation of 1723, as reprinted in Memoirs of the Cardinal de Retz, 1896 (Project Gutenberg edition)",
+      "topics": [
+        "4.6"
+      ],
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/3846/pg3846-images.html",
+      "verified": false
+    },
+    {
+      "id": "shivaji-1679-letter-against-jizya",
+      "authorKey": "shivaji",
+      "sourceLine": "Shivaji, Maratha ruler, letter to the Mughal emperor Aurangzeb protesting the jizya tax on non-Muslims, 1679 (drafted in Persian by his secretary Nila Prabhu; some historians attribute the letter to Rana Raj Singh of Mewar)",
+      "year": 1679,
+      "kind": "text",
+      "text": "It has recently come to my ears that, on the ground of the war with me having exhausted your wealth and emptied your treasury, your Majesty has ordered that money under the name of jaziya should be collected from the Hindus and the imperial needs supplied with it. … Your peasants are down-trodden; the yield of every village has declined—in the place of one lakh [of Rupees] only one thousand, and in the place of a thousand only ten are collected, and that too with difficulty. When Poverty and Beggary have made their homes in the palaces of the Emperor and the Princes, the condition of the grandees and officers can be easily imagined. … How can the royal spirit permit you to add the hardship of the jaziya to this grievous state of things? … If it be a mosque, the call to prayer is chanted in remembrance of Him. If it be a temple, the bell is rung in yearning for Him only.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by Jadunath Sarkar, Shivaji and His Times, 2nd ed., 1920",
+      "topics": [
+        "4.6"
+      ],
+      "sourceUrl": "https://archive.org/stream/cu31924024056750/cu31924024056750_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "manucci-1700-jizya-and-begam-sahib",
+      "authorKey": "niccolao-manucci",
+      "sourceLine": "Niccolao Manucci, Venetian who lived in India from 1653 and served Mughal princes as gunner and physician, Storia do Mogor (written c. 1700), on the poll tax of 1679",
+      "year": 1700,
+      "kind": "text",
+      "text": "It was during the years 1678 and 1679 that Aurangzeb decided to impose a new tribute upon all the Hindus. … But all was in vain, and the king stood firm, still more so because it was his purpose to spread the Mahomedan religion among those people (the Hindus). He was of the opinion that he had found in this tax an excellent means of succeeding in converting them … Begam Sahib, eldest sister of the king, a very generous princess, wanted to make a fresh appeal. With this intent she paid her brother a visit, and entreated most humbly that he would not go farther with this affair … ‘Just think, sire,’ said she, ‘that the lands of Hindustan are like a vast ocean; your majesty and all the other members of our royal family are like ships navigating its waters and ploughing through its waves. Where is there any sovereign prince who would desire to load with imposts the sea on which he sails? Who has ever seen the physician pay the patient?’",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by William Irvine, Storia do Mogor, vol. 3, 1907",
+      "topics": [
+        "4.6"
+      ],
+      "sourceUrl": "https://archive.org/stream/storiadomogororm03manuuoft/storiadomogororm03manuuoft_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "guru-gobind-singh-1705-zafarnama",
+      "authorKey": "guru-gobind-singh",
+      "sourceLine": "Guru Gobind Singh, tenth Guru of the Sikhs, Zafarnama (Letter of Victory) to the Mughal emperor Aurangzeb, 1705",
+      "year": 1705,
+      "kind": "text",
+      "text": "I have no faith in thine oath to which thou tookest the one God as witness. I have not a particle of confidence in thee. Thy treasurer and thy ministers are all false. He who putteth faith in thine oath on the Quran is thereby a ruined man. The insolent crow cannot touch him who hath fallen under the shadow of the huma. He who taketh the protection of a powerful tiger cannot be approached by a goat, a buffalo, or a deer. Had I even secretly sworn on the volume of my choice faith to accept thy religion, I should not have had to withdraw my infantry and cavalry from Anandpur. … When an affair passeth beyond the region of diplomacy, it is lawful to have recourse to the sword. … What though my four sons were killed, I remain behind like a coiled snake. What bravery is it to quench a few sparks of life? Thou art merely exciting a raging fire the more. … Thou art monarch of the world, but far from thee is religion.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by Max Arthur Macauliffe, The Sikh Religion, vol. 5, 1909",
+      "topics": [
+        "4.6"
+      ],
+      "sourceUrl": "https://archive.org/stream/thesikhreligioni05macauoft/thesikhreligioni05macauoft_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "busbecq-1556-false-mustafa-revolt",
+      "authorKey": "ogier-ghiselin-de-busbecq",
+      "sourceLine": "Ogier Ghiselin de Busbecq, Habsburg ambassador at the court of Sultan Suleiman, letter from Constantinople, 1556, on the rising of a man claiming to be the executed Prince Mustafa",
+      "year": 1556,
+      "kind": "text",
+      "text": "At first he [the pretender] used this language privately, but afterwards he harangued in a similar strain the inhabitants of the places he visited; the men who were supposed to have been the companions of his flight supported his assertions by similar narratives; while persons of considerable position, who had been suborned by Bajazet [Suleiman’s son Bayezid], made statements to the same effect. … The Sultan, rightly surmising that one or other of his two sons was privy to the conspiracy, considered it a most serious matter, and sent despatches severely reprimanding the Sanjak-beys for their remissness in allowing the insurrection to assume such formidable proportions, instead of nipping it in the bud; moreover, he threatened to punish them severely if they failed to send him the impostor in chains at the very earliest date possible, and with him all the other ringleaders in this monstrous treason. … The rank and file of the Janissaries, excited by the idea of a revolution with Mustapha at its head, were well inclined towards the insurgents, and eager for the rising to become general.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by Charles Thornton Forster and F. H. Blackburne Daniell, The Life and Letters of Ogier Ghiselin de Busbecq, 1881",
+      "topics": [
+        "4.6"
+      ],
+      "sourceUrl": "https://archive.org/stream/lifelettbusbecq01forsuoft/lifelettbusbecq01forsuoft_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "aguirre-1561-letter-to-philip-ii",
+      "authorKey": "lope-de-aguirre",
+      "sourceLine": "Lope de Aguirre, Basque conquistador who led a rebellion during an expedition down the Amazon, letter to King Philip II of Spain, 1561",
+      "year": 1561,
+      "kind": "text",
+      "text": "I demand of you, King, that you do justice and right by the good vassals you have in this land, even though I and my companions (whose names I will give later), unable to suffer further the cruelties of your judges, viceroy, and governors, have resolved to obey you no longer. Denaturalizing ourselves from our land, Spain, we make the most cruel war against you that our power can sustain and endure. Believe, King and lord, we have done this because we can no longer tolerate the great oppression and unjust punishments of your ministers who, to make places for their sons and dependents have usurped and robbed our fame, life, and honor. … Look here, King of Spain! Do not be cruel and ungrateful to your vassals, because while your father and you stayed in Spain without the slightest bother, your vassals, at the price of their blood and fortune, have given you all the kingdoms and holding you have in these parts.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by Thomas H. Holloway, 1994 (Internet Modern History Sourcebook)",
+      "topics": [
+        "4.6"
+      ],
+      "sourceUrl": "https://sourcebooks.fordham.edu/Halsall/mod/1561aguirre.asp",
+      "verified": false
+    },
+    {
+      "id": "dutch-act-of-abjuration-1581",
+      "authorKey": "states-general-netherlands",
+      "sourceLine": "The States General of the United Provinces of the Netherlands, Act of Abjuration renouncing allegiance to King Philip II of Spain, 1581",
+      "year": 1581,
+      "kind": "text",
+      "text": "As it is apparent to all that a prince is constituted by God to be ruler of a people, to defend them from oppression and violence as the shepherd his sheep; and whereas God did not create the people slaves to their prince, to obey his commands, whether right or wrong, but rather the prince for the sake of the subjects (without which he could be no prince), to govern them according to equity, to love and support them as a father his children or a shepherd his flock, and even at the hazard of life to defend and preserve them. … And when he does not behave thus, but, on the contrary, oppresses them, seeking opportunities to infringe their ancient customs and privileges, exacting from them slavish compliance, then he is no longer a prince, but a tyrant, and the subjects are to consider him in no other view. And particularly when this is done deliberately, unauthorized by the states, they may not only disallow his authority, but legally proceed to the choice of another prince for their defense.",
+      "adapted": false,
+      "original": null,
+      "translation": "English translation in Oliver J. Thatcher, ed., The Library of Original Sources, vol. 5, 1907 (Internet Modern History Sourcebook)",
+      "topics": [
+        "4.6"
+      ],
+      "sourceUrl": "https://sourcebooks.fordham.edu/Halsall/mod/1581dutch.asp",
+      "verified": false
+    },
+    {
+      "id": "koxinga-1660-letter-to-dutch-governor",
+      "authorKey": "koxinga",
+      "sourceLine": "Zheng Chenggong (Koxinga), Ming loyalist commander fighting the Qing dynasty, letter to the Dutch governor of Taiwan, 1660",
+      "year": 1660,
+      "kind": "text",
+      "text": "Certainly, I have now for many years waged war for the recovery of my own territories [from the Tartars], and have been so fully occupied in this way, that there was no opportunity for taking hostile action against such a small grass-producing country as Formosa. Moreover, when engaged in preparations for war, and arrangements have been quite concluded, my practice is to spread a report that I intend to make an exploit eastwards, while my own secret resolution will lead me towards the west. … This year the Tartars came down to these southern regions with a great army, to finish up the war in one battle; but as it happened, we on the tenth day of our fifth moon attacked them so furiously, that over a hundred of their officers, besides numerous soldiers, were killed, and many taken prisoners; while the remainder had to fly precipitately for safer quarters, without daring to show themselves again.",
+      "adapted": false,
+      "original": null,
+      "translation": "Translated by William Campbell, Formosa under the Dutch, 1903 (from the Dutch version of the Chinese letter)",
+      "topics": [
+        "4.6"
+      ],
+      "sourceUrl": "https://archive.org/stream/cu31924023514403/cu31924023514403_djvu.txt",
+      "verified": false
+    },
+    {
+      "id": "jamaica-maroon-treaty-1739",
+      "authorKey": "jamaica-maroon-treaty",
+      "sourceLine": "Articles of Pacification between the British governor of Jamaica and the Maroons of Trelawny Town led by Captain Cudjoe, 1739, as printed in R. C. Dallas, The History of the Maroons, 1803 (adapted)",
+      "year": 1739,
+      "kind": "text",
+      "text": "Whereas Captain Cudjoe, Captain Accompong, Captain Johnny, Captain Cuffee, Captain Quaco, and several other negroes, their dependants and adherents, have been in a state of war and hostility, for several years past, against our sovereign Lord the King, and the inhabitants of this island; … First, That all hostilities shall cease on both sides for ever. Second, That the said Captain Cudjoe, the rest of his captains, adherents, and men, shall be for ever hereafter in a perfect state of freedom and liberty, … Third, That they shall enjoy and possess, for themselves and posterity for ever, all the lands situate and lying between Trelawny Town and the Cockpits, to the amount of fifteen hundred acres, bearing north-west from the said Trelawny [Town]. … Ninth, That if any negroes shall hereafter run away from their masters or owners, and fall into Captain Cudjoe’s hands, they shall immediately be sent back to the chief magistrate of the next parish where they are taken.",
+      "adapted": true,
+      "original": "Whereas Captain Cudjoe, Captain Aqompong^ Cap-* tain Johnny, Captain Cu^ee, Captain Quaco, and feveral other negroes, their dependants and adherents, , have been in a ftate of war and hoftility, for feveral years paft, againft our fovereign Lord the King, and the inhabitants of this ifland ; … Firft, That all hoftilities ihall oeafe on both fides for ever. Second, That the faid Captain Cudjoe,^ the reft of his captains, adherents, and men, ihall be for ever hereafter in a perfeA ftate of freedom and liberty, … Thirds That they ihall enjoy and poffeifi, for themfelves and pofterity for ever^ all the lands fituate and lying between Trelawny Town and the Cockpits, to the amount of fifteen hundred aeres, bearing north-weft from the faid Trelawny … Ninth, That if any negroes ihall hereafter run away frpm their mailers or owners^ and fall into Captain Cudjoe*s hands^ … they (hall immediately be fent back to the chief magiftrate of the next pariih where they are taken",
+      "translation": null,
+      "topics": [
+        "4.6"
+      ],
+      "sourceUrl": "https://archive.org/stream/historymaroonsf01dallgoog/historymaroonsf01dallgoog_djvu.txt",
+      "verified": false
+    }
+  ],
+  "poolHints": [
+    {
+      "dbq": "east-asia-responses",
+      "doc": "hideyoshi-1587-expulsion-edict",
+      "group": "restriction",
+      "why": "Orders foreign missionaries out of Japan within twenty days for preaching against Japanese law and destroying temples, while still welcoming Portuguese merchants."
+    },
+    {
+      "dbq": "east-asia-responses",
+      "doc": "hideyoshi-1591-letter-viceroy-indies",
+      "group": "controlled-contact",
+      "why": "Bans the Jesuits as a threat to the order of a land of the kami but promises that Portuguese trade will continue safely on the same footing."
+    },
+    {
+      "dbq": "east-asia-responses",
+      "doc": "tokugawa-1640-sentence-macao-envoys",
+      "group": "restriction",
+      "why": "Condemns the Portuguese envoys to death because the shogun had banned all sailing from Macao on account of the Christian religion."
+    },
+    {
+      "dbq": "east-asia-responses",
+      "doc": "kangxi-1721-ban-on-preaching",
+      "group": "restriction",
+      "why": "Angered by the Pope’s ruling against Chinese rites, the emperor declares that Westerners may no longer preach in China."
+    },
+    {
+      "dbq": "east-asia-responses",
+      "doc": "kangxi-1692-edict-of-toleration",
+      "group": "controlled-contact",
+      "why": "Allows Christian worship because the Europeans cause no disorder, making toleration depend on their usefulness and good behaviour in the emperor’s eyes."
+    },
+    {
+      "dbq": "east-asia-responses",
+      "doc": "xavier-1551-satsuma-ban",
+      "group": "restriction",
+      "why": "Buddhist monks persuade a Japanese lord that Christianity will ruin his realm, and he forbids conversion on pain of death."
+    },
+    {
+      "dbq": "east-asia-responses",
+      "doc": "xavier-1551-yamaguchi-licence",
+      "group": "controlled-contact",
+      "why": "A Japanese lord accepts gifts from Portuguese India and grants the missionaries a public licence to preach, so the mission exists only by his permission."
+    },
+    {
+      "dbq": "east-asia-responses",
+      "doc": "xavier-1552-japanese-curiosity",
+      "group": "interest",
+      "why": "Japanese listeners were eager to hear about the round earth, comets and the stars, and respected the Jesuits as learned men."
+    },
+    {
+      "dbq": "east-asia-responses",
+      "doc": "hamel-1668-korea-detains-strangers",
+      "group": "restriction",
+      "why": "The Korean court kept shipwrecked Europeans for life rather than let them leave, even refusing to send them on to the Dutch in Japan."
+    },
+    {
+      "dbq": "east-asia-responses",
+      "doc": "coyett-1675-koxinga-claims-taiwan",
+      "group": "restriction",
+      "why": "Koxinga, a Ming loyalist commander, tells the Dutch that Taiwan has always belonged to China and that the foreigners must give way and leave."
+    },
+    {
+      "dbq": "east-asia-responses",
+      "doc": "kaempfer-1692-dejima",
+      "group": "controlled-contact",
+      "why": "The Dutch kept their trade only by living on the walled island of Dejima under guard and hiding every outward sign of Christianity."
+    },
+    {
+      "dbq": "east-asia-responses",
+      "doc": "kaempfer-1691-shogun-asks-about-medicine",
+      "group": "interest",
+      "why": "At the yearly Dutch audience in Edo the shogun’s court questioned the Dutch physician about European medicine and ordered a remedy sent from Batavia."
+    },
+    {
+      "dbq": "east-asia-responses",
+      "doc": "xu-guangqi-1617-defends-jesuit-learning",
+      "group": "interest",
+      "why": "A leading Chinese official praises the Jesuits’ arts and sciences as highly correct and their learning as most extensive."
+    },
+    {
+      "dbq": "east-asia-responses",
+      "doc": "xu-guangqi-1617-proposes-examination",
+      "group": "controlled-contact",
+      "why": "Proposes that the Jesuits’ books be translated and judged by the emperor’s ministers, with expulsion if they are found to oppose the Confucian classics."
+    },
+    {
+      "dbq": "east-asia-responses",
+      "doc": "adams-1611-shipbuilder-to-ieyasu",
+      "group": "interest",
+      "why": "Ieyasu had the Englishman build him a European-style ship and teach him geometry and mathematics, rewarding him with a stipend."
+    },
+    {
+      "dbq": "east-asia-responses",
+      "doc": "du-halde-1735-kangxi-and-jesuit-science",
+      "group": "interest",
+      "why": "The Kangxi emperor, whose chief delight was acquiring knowledge, never tired of the Jesuits, who fed his curiosity about European science to win his protection."
+    },
+    {
+      "dbq": "indigenous-resistance",
+      "doc": "las-casas-1542-hatuey",
+      "group": "armed",
+      "why": "Hatuey fought the Spaniards with arms wherever he met them and, even at the stake, refused a heaven shared with them."
+    },
+    {
+      "dbq": "challenges-to-state-power",
+      "doc": "las-casas-1542-hatuey",
+      "group": "local-power",
+      "why": "A Taíno chief resisted the Spanish conquest of Cuba by force of arms until he was captured and burned."
+    },
+    {
+      "dbq": "indigenous-resistance",
+      "doc": "pedro-pizarro-1571-siege-of-cuzco",
+      "group": "armed",
+      "why": "Manco Inca’s huge army besieged the Spaniards in Cuzco and burned most of the city around them."
+    },
+    {
+      "dbq": "challenges-to-state-power",
+      "doc": "pedro-pizarro-1571-siege-of-cuzco",
+      "group": "local-power",
+      "why": "The Inca ruler the Spaniards had installed rose against them and laid siege to the old imperial capital."
+    },
+    {
+      "dbq": "indigenous-resistance",
+      "doc": "cakchiquel-annals-revolt-against-alvarado",
+      "group": "armed",
+      "why": "A Maya author records how his people abandoned their capital and fought the Castilians with trenches and pitfalls for horses."
+    },
+    {
+      "dbq": "challenges-to-state-power",
+      "doc": "cakchiquel-annals-revolt-against-alvarado",
+      "group": "taxes-economy",
+      "why": "Alvarado’s threats to burn the chiefs alive unless they handed over gold drove the Kaqchikel into revolt."
+    },
+    {
+      "dbq": "indigenous-resistance",
+      "doc": "nahua-accounts-toxcatl-massacre",
+      "group": "armed",
+      "why": "After the Spaniards killed unarmed dancers at a festival, the Mexica attacked them with all their might and began the war."
+    },
+    {
+      "dbq": "indigenous-resistance",
+      "doc": "gardiner-1660-miantonomo-speech",
+      "group": "armed",
+      "why": "Miantonomo urges all the sachems from east to west to unite as one people and fall upon the English on an appointed day."
+    },
+    {
+      "dbq": "indigenous-resistance",
+      "doc": "rowlandson-1682-captivity-narrative",
+      "group": "armed",
+      "why": "A captive Englishwoman admits that the warriors mocked the slow English army and survived every attempt to starve them out."
+    },
+    {
+      "dbq": "indigenous-resistance",
+      "doc": "easton-1675-metacom-grievances",
+      "group": "negotiated",
+      "why": "Before the war Metacom’s council laid out its grievances to colonial officials who were trying to settle the quarrel without fighting."
+    },
+    {
+      "dbq": "challenges-to-state-power",
+      "doc": "easton-1675-metacom-grievances",
+      "group": "local-power",
+      "why": "Wampanoag leaders explain that the English were taking their land and choosing puppet sachems, which pushed them toward war."
+    },
+    {
+      "dbq": "indigenous-resistance",
+      "doc": "powhatan-1609-speech-to-smith",
+      "group": "negotiated",
+      "why": "Powhatan warns that his people can hide their food and flee to the woods, and argues that friendship and trade serve both sides better than war."
+    },
+    {
+      "dbq": "indigenous-resistance",
+      "doc": "kiotseaeton-1645-peace-speech",
+      "group": "negotiated",
+      "why": "A Mohawk orator uses wampum collars and Haudenosaunee diplomatic ritual to make peace with the French and their Algonquin allies."
+    },
+    {
+      "dbq": "indigenous-resistance",
+      "doc": "canassatego-1744-lancaster-treaty",
+      "group": "negotiated",
+      "why": "At a treaty council the Six Nations’ speaker defends their claim to the land by ancestry and by earlier agreements with the Dutch."
+    },
+    {
+      "dbq": "indigenous-resistance",
+      "doc": "otreouti-1684-reply-to-la-barre",
+      "group": "negotiated",
+      "why": "The Onondaga speaker tells the French governor that the Five Nations are free people who will trade with whomever they choose."
+    },
+    {
+      "dbq": "indigenous-resistance",
+      "doc": "molina-1575-taki-onqoy",
+      "group": "cultural",
+      "why": "Andean preachers told their people to renounce baptism, Spanish things and Christian names and return to the huacas, the old sacred powers."
+    },
+    {
+      "dbq": "challenges-to-state-power",
+      "doc": "molina-1575-taki-onqoy",
+      "group": "religion",
+      "why": "A religious movement spread across Peru predicting that the huacas would defeat God and the Spaniards and restore the time of the Incas."
+    },
+    {
+      "dbq": "indigenous-resistance",
+      "doc": "garcilaso-1609-inca-memory",
+      "group": "cultural",
+      "why": "Inca survivors kept the memory of their kings, laws and empire alive in family gatherings, which a mestizo author later wrote down."
+    },
+    {
+      "dbq": "indigenous-resistance",
+      "doc": "avila-1608-huarochiri-traditions",
+      "group": "cultural",
+      "why": "A priest sent to root out Andean religion admits that his parishioners still kept their old traditions and rituals most inviolably."
+    },
+    {
+      "dbq": "indigenous-resistance",
+      "doc": "le-jeune-1634-montagnais-beliefs",
+      "group": "cultural",
+      "why": "Montagnais hunters defended their own beliefs about souls and dreams and told the missionary he had no sense."
+    },
+    {
+      "dbq": "indigenous-resistance",
+      "doc": "brebeuf-1636-wendat-blend-beliefs",
+      "group": "cultural",
+      "why": "Wendat listeners praised Christian teaching yet kept their customs, and one man blended the new creed with his own beliefs and chose to join his ancestors."
+    },
+    {
+      "dbq": "challenges-to-state-power",
+      "doc": "shimabara-rebels-1638-arrow-letter",
+      "group": "religion",
+      "why": "The rebels insist they rose not for land but because the shogun’s bans forced Christians to recant or be tortured to death."
+    },
+    {
+      "dbq": "challenges-to-state-power",
+      "doc": "koeckebacker-1638-shimabara-taxes",
+      "group": "taxes-economy",
+      "why": "A Dutch witness blames the revolt on a lord who demanded impossible rice taxes and tortured farmers who could not pay."
+    },
+    {
+      "dbq": "challenges-to-state-power",
+      "doc": "twelve-articles-1525-right-to-choose-pastors",
+      "group": "religion",
+      "why": "Inspired by the Reformation, the peasants demand that each community choose its own pastor to preach the pure Gospel."
+    },
+    {
+      "dbq": "challenges-to-state-power",
+      "doc": "twelve-articles-1525-serfdom-and-rents",
+      "group": "taxes-economy",
+      "why": "The peasants demand an end to serfdom and fair rents on holdings that cannot support what the lords exact."
+    },
+    {
+      "dbq": "challenges-to-state-power",
+      "doc": "petition-of-right-1628",
+      "group": "taxes-economy",
+      "why": "Parliament protests that Charles I forced loans and taxes without its consent and jailed those who refused to pay."
+    },
+    {
+      "dbq": "challenges-to-state-power",
+      "doc": "grand-remonstrance-1641",
+      "group": "religion",
+      "why": "The Commons blame the crisis on “Jesuited Papists” and bishops plotting to change religion, alongside illegal taxes such as ship-money."
+    },
+    {
+      "dbq": "challenges-to-state-power",
+      "doc": "retz-1647-tariff-edict",
+      "group": "taxes-economy",
+      "why": "A Fronde leader traces the revolt to a finance minister who multiplied tax edicts until Parisians refused to bear them."
+    },
+    {
+      "dbq": "challenges-to-state-power",
+      "doc": "retz-1648-barricades",
+      "group": "local-power",
+      "why": "When the queen arrested leading judges of the Paris Parlement, the city rose behind two hundred barricades against Cardinal Mazarin."
+    },
+    {
+      "dbq": "challenges-to-state-power",
+      "doc": "shivaji-1679-letter-against-jizya",
+      "group": "taxes-economy",
+      "why": "Shivaji argues that the jizya adds a new burden to an empire whose peasants are ruined and whose revenues have collapsed."
+    },
+    {
+      "dbq": "challenges-to-state-power",
+      "doc": "manucci-1700-jizya-and-begam-sahib",
+      "group": "religion",
+      "why": "Aurangzeb imposed the poll tax partly to push Hindus to convert, over the objections of his nobles and his own sister."
+    },
+    {
+      "dbq": "challenges-to-state-power",
+      "doc": "guru-gobind-singh-1705-zafarnama",
+      "group": "religion",
+      "why": "The Sikh Guru defies Aurangzeb, accusing him of breaking his oaths and declaring that the sword is lawful when diplomacy fails."
+    },
+    {
+      "dbq": "challenges-to-state-power",
+      "doc": "busbecq-1556-false-mustafa-revolt",
+      "group": "local-power",
+      "why": "A pretender secretly backed by Prince Bayezid raised an army in the Balkans, and many Janissaries sympathised with the revolt against Suleiman."
+    },
+    {
+      "dbq": "challenges-to-state-power",
+      "doc": "aguirre-1561-letter-to-philip-ii",
+      "group": "local-power",
+      "why": "A conquistador renounces his loyalty and makes war on the king, complaining that royal officials robbed the men who had won the empire."
+    },
+    {
+      "dbq": "challenges-to-state-power",
+      "doc": "dutch-act-of-abjuration-1581",
+      "group": "local-power",
+      "why": "The Dutch provinces declare that a king who tramples their ancient privileges becomes a tyrant and may be replaced."
+    },
+    {
+      "dbq": "challenges-to-state-power",
+      "doc": "koxinga-1660-letter-to-dutch-governor",
+      "group": "local-power",
+      "why": "A Ming loyalist commander describes years of war against the Manchu Qing dynasty to recover his own territories."
+    },
+    {
+      "dbq": "challenges-to-state-power",
+      "doc": "jamaica-maroon-treaty-1739",
+      "group": "local-power",
+      "why": "After years of war, Jamaica’s government recognised the freedom and lands of Cudjoe’s Maroons in return for their help in returning runaways."
+    }
+  ],
+  "gaps": [
+    "Pueblo Revolt testimony (Pedro Naranjo, Josephe and others, 1681): the only English translation is C. W. Hackett, Revolt of the Pueblo Indians of New Mexico (1942); its copyright status could not be confirmed, and the pre-1930 works found (Hackett 1911, Twitchell 1911) only paraphrase the testimony. No Pueblo document included.",
+    "Tokugawa edicts of 1614, 1635 and 1639: no pre-1930 or openly licensed translation could be fetched. The familiar 1635 translation (David Lu, 1974) is linked from Fordham but hosted at WFU/Columbia and is in copyright; Satow’s 1614 translation (Transactions of the Asiatic Society of Japan, vol. 6, 1878) was not found as fetchable text. The shogunate is represented instead by the 1640 sentence on the Macao envoys, which restates the 1639 ban (Murdoch, 1903).",
+    "Hideyoshi’s 1587 edict and 1591 letter are used in Murdoch’s 1903 translations of European (Jesuit/French) versions, not of the Japanese originals; the Japanese text of the 1587 Bateren edict begins differently (“Japan is the land of the gods”).",
+    "Matteo Ricci via Trigault in Purchas his Pilgrimes (1625; Hakluyt Society reprint vol. 12, 1906): the archive.org OCR interleaves marginal notes with the text, and the 1953 Gallagher translation is in copyright. Not used.",
+    "Peter Mundy at Canton (1637; Hakluyt Society 1919): text located (archive.org travelsofpetermu31mund) but the relevant passages are fragmentary and full of footnote markers; not used.",
+    "Arai Hakuseki’s account of Giovanni Battista Sidotti (Seiyō Kibun, 1715) and Japanese anti-Christian writings: no usable public-domain translation located.",
+    "Stenka Razin (1670–71), Masaniello’s revolt in Naples (Giraffi, trans. Howell 1650), Martino Martini’s Bellum Tartaricum on Li Zicheng (1654) and Bouvet’s History of Cang-Hy (1699): the clean EEBO-TCP texts at quod.lib.umich.edu sit behind a Cloudflare challenge that the source checker cannot pass, and the archive.org scans of the 17th-century prints have very poor OCR. Not used.",
+    "Charles I’s speech on the scaffold (1649) and Nathaniel Bacon’s Declaration in the Name of the People (1676): no public-domain transcription found in a fetchable page (Wikisource’s “Last Words on the Scaffold” is Raleigh’s). Not used.",
+    "La Rochefoucauld’s Fronde memoirs on Fordham come from The World’s Greatest Books (1910), a condensed retelling rather than a translation, so they were rejected.",
+    "Women’s voices: only Mary Rowlandson (author) and Begam Sahib (Jahanara), whose speech is reported by Manucci. No usable texts by East Asian, Indigenous American or African women were found.",
+    "African voices: only the 1739 treaty with Cudjoe’s Maroons, a document drafted by the colonial government. Its only fetchable text is a badly OCR’d 1803 printing (Dallas), so it is adapted, with the OCR errors kept verbatim in \"original\".",
+    "Mesoamerican Indigenous-language sources: the Florentine Codex translation (Anderson and Dibble) is in copyright; the Nahua account is the León-Portilla/Kemp translation (1962) hosted on Fordham. Guaman Poma de Ayala’s appeal to Philip III (1615) has no public-domain English translation.",
+    "Korean voices: no Joseon court record in a usable translation; Korea’s policy appears only through Hendrick Hamel.",
+    "Modern translations hosted on the Fordham sourcebooks and used under rule 3: Kangxi 1692 (Neill, 1964), Kangxi 1721 (Dan J. Li, 1969), the Nahua account (Kemp, 1962) and Aguirre’s letter (Holloway, 1994, distributed with permission).",
+    "Several adapted documents were transcribed from poor OCR (Easton/Metacom, Powhatan, Kiotseaeton, Canassatego, Otreouti, the Maroon treaty). Each \"original\" holds the page text exactly as the scan reads, OCR errors included; the \"text\" gives the printed words with modern spelling. These should be checked against the page images before release.",
+    "The Jesuit Relations site at puffin.creighton.edu did not respond; the Thwaites volumes were used from archive.org and Project Gutenberg instead."
+  ]
+}
