@@ -28,10 +28,13 @@ export function shuffle(items, rng) {
 
 // Draws DBQ_SIZE pool entries: PER_GROUP from every group first, then any others, never the
 // same author twice. A failed attempt (author clashes) retries with the next shuffle.
+// The pool is sorted by document id first, so a share code depends on which documents are in
+// the pool, not on the order they are listed in the data.
 export function drawDbq(prompt, docsById, seed) {
   const rng = mulberry32(seed);
+  const pool = prompt.pool.slice().sort((a, b) => (a.doc < b.doc ? -1 : a.doc > b.doc ? 1 : 0));
   for (let attempt = 0; attempt < MAX_ATTEMPTS; attempt++) {
-    const chosen = tryDraw(prompt, docsById, shuffle(prompt.pool, rng));
+    const chosen = tryDraw(prompt, docsById, shuffle(pool, rng));
     if (chosen) return chosen.sort((x, y) => byYearThenId(docsById.get(x.doc), docsById.get(y.doc)));
   }
   throw new Error(`Cannot draw a balanced set of ${DBQ_SIZE} documents for "${prompt.id}"`);

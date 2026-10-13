@@ -49,6 +49,16 @@ test('drawDbq is balanced for 1,000 seeds', () => {
   for (let seed = 0; seed < 1000; seed++) assertBalanced(dbqs[0], docs, drawDbq(dbqs[0], docs, seed));
 });
 
+test('drawDbq draws the same documents however the pool is ordered', () => {
+  const { documents, dbqs } = makeData();
+  const docs = byId(documents);
+  const prompt = dbqs[0];
+  const reversed = { ...prompt, pool: prompt.pool.slice().reverse() };
+  for (const seed of [1, 2, 3, 42, 99999]) {
+    assert.deepEqual(drawDbq(reversed, docs, seed), drawDbq(prompt, docs, seed), `seed ${seed}`);
+  }
+});
+
 test('drawDbq varies between seeds', () => {
   const { documents, dbqs } = makeData();
   const docs = byId(documents);
