@@ -1,0 +1,207 @@
+[
+  {
+    "id": "smith-1776-pin-factory",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/3300/pg3300.txt",
+    "status": "match"
+  },
+  {
+    "id": "smith-1776-joint-stock",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/3300/pg3300.txt",
+    "status": "match"
+  },
+  {
+    "id": "smith-1776-discovery-america",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/3300/pg3300.txt",
+    "status": "match"
+  },
+  {
+    "id": "ricardo-1817-free-commerce",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/33310/pg33310.txt",
+    "status": "match"
+  },
+  {
+    "id": "engels-1845-before-machinery",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/17306/pg17306.txt",
+    "status": "match"
+  },
+  {
+    "id": "marx-1848-productive-forces",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/61/pg61.txt",
+    "status": "match"
+  },
+  {
+    "id": "mill-1869-subjection-of-women",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/27083/pg27083.txt",
+    "status": "match"
+  },
+  {
+    "id": "twain-1883-steamboat-railroad",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/245/pg245.txt",
+    "status": "match"
+  },
+  {
+    "id": "alexander-ii-1861-emancipation-manifesto",
+    "sourceUrl": "https://archive.spectator.co.uk/article/30th-march-1861/6/the-russian-emperors-serf-emancipation-manifesto",
+    "status": "match"
+  },
+  {
+    "id": "okuma-1908-fifty-years-new-japan",
+    "sourceUrl": "https://sourcebooks.fordham.edu/mod/1908okuma.asp",
+    "status": "match"
+  },
+  {
+    "id": "duff-gordon-1863-suez-forced-labour",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/17816/pg17816.txt",
+    "status": "match"
+  },
+  {
+    "id": "robinson-1898-lowell-turn-out",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/72757/pg72757.txt",
+    "status": "match"
+  },
+  {
+    "id": "bagehot-1873-lombard-street-capital",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/4359/pg4359.txt",
+    "status": "match"
+  },
+  {
+    "id": "meiji-1868-charter-oath",
+    "sourceUrl": "https://worldjpn.net/documents/texts/pw/18680314.O1E.html",
+    "status": "match"
+  },
+  {
+    "id": "cobden-1843-corn-laws-free-trade",
+    "sourceUrl": "https://victorianweb.org/victorian/history/cobden/speech15may1843.html",
+    "status": "match"
+  },
+  {
+    "id": "cromer-1908-egypt-debt",
+    "sourceUrl": "https://archive.org/stream/modernegypt01crom/modernegypt01crom_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "dutt-1904-india-poverty",
+    "sourceUrl": "https://archive.org/stream/indiainvictorian00duttuoft/indiainvictorian00duttuoft_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "carnegie-1889-wealth-change",
+    "sourceUrl": "https://www1.swarthmore.edu/SocSci/rbannis1/AIH19th/Carnegie.html",
+    "status": "match"
+  },
+  {
+    "id": "engels-1845-spinning-machinery",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/17306/pg17306.txt",
+    "status": "match"
+  },
+  {
+    "id": "macaulay-1848-mineral-wealth",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/1468/pg1468.txt",
+    "status": "match"
+  },
+  {
+    "id": "dickens-1842-lowell-mills",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/675/pg675.txt",
+    "status": "match"
+  },
+  {
+    "id": "dickens-1842-american-railroad",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/675/pg675.txt",
+    "status": "match"
+  },
+  {
+    "id": "list-1841-productive-power",
+    "sourceUrl": "https://archive.org/stream/nationalsystemp00listgoog/nationalsystemp00listgoog_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "dutt-1904-india-railways",
+    "sourceUrl": "https://archive.org/stream/indiainvictorian00duttuoft/indiainvictorian00duttuoft_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "okakura-1905-restoration-schools-army",
+    "sourceUrl": "https://archive.org/stream/awakeningofjapan00okakiala/awakeningofjapan00okakiala_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "okakura-1905-white-disaster",
+    "sourceUrl": "https://archive.org/stream/awakeningofjapan00okakiala/awakeningofjapan00okakiala_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "duff-gordon-1863-public-works-cost",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/17816/pg17816.txt",
+    "status": "match"
+  },
+  {
+    "id": "dyer-1910-edison-electric-light",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/820/pg820.txt",
+    "status": "match"
+  },
+  {
+    "id": "yamagata-1908-japanese-army",
+    "sourceUrl": "https://archive.org/stream/fiftyyearsofnewj01okumuoft/fiftyyearsofnewj01okumuoft_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "shibusawa-1908-banking-joint-stock",
+    "sourceUrl": "https://archive.org/stream/fiftyyearsofnewj01okumuoft/fiftyyearsofnewj01okumuoft_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "inouye-1908-railroads",
+    "sourceUrl": "https://archive.org/stream/fiftyyearsofnewj01okumuoft/fiftyyearsofnewj01okumuoft_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "den-1908-telegraph-japan",
+    "sourceUrl": "https://archive.org/stream/fiftyyearsofnew01okumuoft/fiftyyearsofnew01okumuoft_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "matsukata-1908-gold-standard",
+    "sourceUrl": "https://archive.org/stream/fiftyyearsofnew01okumuoft/fiftyyearsofnew01okumuoft_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "okuma-1908-summary-state-subsidy",
+    "sourceUrl": "https://archive.org/stream/fiftyyearsofnew01okumuoft/fiftyyearsofnew01okumuoft_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "suzuki-1908-model-factories",
+    "sourceUrl": "https://archive.org/stream/fiftyyearsofnew01okumuoft/fiftyyearsofnew01okumuoft_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "dutt-1902-raw-produce",
+    "sourceUrl": "https://archive.org/stream/economichistoryo01dutt/economichistoryo01dutt_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "yung-wing-1909-kiangnan-arsenal",
+    "sourceUrl": "https://gutenberg.org/cache/epub/54635/pg54635.txt",
+    "status": "match"
+  },
+  {
+    "id": "yung-wing-1909-mission-recalled",
+    "sourceUrl": "https://gutenberg.org/cache/epub/54635/pg54635.txt",
+    "status": "match"
+  },
+  {
+    "id": "midhat-1903-gulhane-edict",
+    "sourceUrl": "https://gutenberg.org/cache/epub/51243/pg51243.txt",
+    "status": "match"
+  },
+  {
+    "id": "midhat-1903-ottoman-bankruptcy",
+    "sourceUrl": "https://gutenberg.org/cache/epub/51243/pg51243.txt",
+    "status": "match"
+  },
+  {
+    "id": "kropotkin-1899-emancipation-from-above",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/73882/pg73882.txt",
+    "status": "match"
+  }
+]

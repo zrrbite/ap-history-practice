@@ -1,0 +1,1368 @@
+{
+ "cluster": "b",
+ "documents": [
+  {
+   "id": "smith-1776-pin-factory",
+   "authorKey": "smith",
+   "sourceLine": "Adam Smith, Scottish moral philosopher and political economist, The Wealth of Nations, Book I, Chapter 1, 1776",
+   "year": 1776,
+   "kind": "text",
+   "text": "To take an example, therefore, from a very trifling manufacture, but one in which the division of labour has been very often taken notice of, the trade of a pin-maker: a workman not educated to this business … could scarce, perhaps, with his utmost industry, make one pin in a day, and certainly could not make twenty. But in the way in which this business is now carried on, not only the whole work is a peculiar trade, but it is divided into a number of branches, of which the greater part are likewise peculiar trades. One man draws out the wire; another straights it; a third cuts it; a fourth points it; a fifth grinds it at the top for receiving the head; to make the head requires two or three distinct operations; to put it on is a peculiar business; to whiten the pins is another.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.3",
+    "5.7"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/3300/pg3300.txt",
+   "verified": false
+  },
+  {
+   "id": "smith-1776-joint-stock",
+   "authorKey": "smith",
+   "sourceLine": "Adam Smith, Scottish political economist, The Wealth of Nations, Book V, Chapter 1, on joint-stock companies, 1776",
+   "year": 1776,
+   "kind": "text",
+   "text": "The directors of such companies, however, being the managers rather of other people’s money than of their own, it cannot well be expected that they should watch over it with the same anxious vigilance with which the partners in a private copartnery frequently watch over their own. … Negligence and profusion, therefore, must always prevail, more or less, in the management of the affairs of such a company. It is upon this account, that joint-stock companies for foreign trade have seldom been able to maintain the competition against private adventurers. They have, accordingly, very seldom succeeded without an exclusive privilege; and frequently have not succeeded with one.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.7",
+    "5.3"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/3300/pg3300.txt",
+   "verified": false
+  },
+  {
+   "id": "smith-1776-discovery-america",
+   "authorKey": "smith",
+   "sourceLine": "Adam Smith, Scottish political economist, The Wealth of Nations, Book IV, Chapter 7, on the discovery of America and the Cape route, 1776",
+   "year": 1776,
+   "kind": "text",
+   "text": "The discovery of America, and that of a passage to the East Indies by the Cape of Good Hope, are the two greatest and most important events recorded in the history of mankind. … By uniting in some measure the most distant parts of the world, by enabling them to relieve one another’s wants, to increase one another’s enjoyments, and to encourage one another’s industry, their general tendency would seem to be beneficial. To the natives, however, both of the East and West Indies, all the commercial benefits which can have resulted from those events have been sunk and lost in the dreadful misfortunes which they have occasioned. … At the particular time when these discoveries were made, the superiority of force happened to be so great on the side of the Europeans, that they were enabled to commit with impunity every sort of injustice in those remote countries.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.7",
+    "5.3"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/3300/pg3300.txt",
+   "verified": false
+  },
+  {
+   "id": "ricardo-1817-free-commerce",
+   "authorKey": "ricardo",
+   "sourceLine": "David Ricardo, English economist and stockbroker, On the Principles of Political Economy and Taxation, Chapter 7 \"On Foreign Trade\", 1817",
+   "year": 1817,
+   "kind": "text",
+   "text": "Under a system of perfectly free commerce, each country naturally devotes its capital and labour to such employments as are most beneficial to each. This pursuit of individual advantage is admirably connected with the universal good of the whole. By stimulating industry, by rewarding ingenuity, and by using most efficaciously the peculiar powers bestowed by nature, it distributes labour most effectively and most economically: while, by increasing the general mass of productions, it diffuses general benefit, and binds together by one common tie of interest and intercourse, the universal society of nations throughout the civilized world. It is this principle which determines that wine shall be made in France and Portugal, that corn shall be grown in America and Poland, and that hardware and other goods shall be manufactured in England.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.7",
+    "5.3"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/33310/pg33310.txt",
+   "verified": false
+  },
+  {
+   "id": "engels-1845-before-machinery",
+   "authorKey": "engels",
+   "sourceLine": "Friedrich Engels, German socialist and manager in his father's Manchester cotton firm, The Condition of the Working-Class in England in 1844, 1845",
+   "year": 1845,
+   "kind": "text",
+   "text": "The history of the proletariat in England begins with the second half of the last century, with the invention of the steam-engine and of machinery for working cotton. These inventions gave rise, as is well known, to an industrial revolution, a revolution which altered the whole civil society. … Before the introduction of machinery, the spinning and weaving of raw materials was carried on in the working-man's home. Wife and daughter spun the yarn that the father wove or that they sold, if he did not work it up himself. These weaver families lived in the country in the neighbourhood of the towns, and could get on fairly well with their wages … So it was that the weaver was usually in a position to lay by something, and rent a little piece of land, that he cultivated in his leisure hours.",
+   "adapted": false,
+   "original": null,
+   "translation": "Translated by Florence Kelley Wischnewetzky, 1887 American edition (English edition 1892)",
+   "topics": [
+    "5.3",
+    "5.8",
+    "5.9"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/17306/pg17306.txt",
+   "verified": false
+  },
+  {
+   "id": "marx-1848-productive-forces",
+   "authorKey": "marx-engels",
+   "sourceLine": "Karl Marx and Friedrich Engels, German socialist writers, The Communist Manifesto, 1848",
+   "year": 1848,
+   "kind": "text",
+   "text": "The bourgeoisie, during its rule of scarce one hundred years, has created more massive and more colossal productive forces than have all preceding generations together. Subjection of Nature’s forces to man, machinery, application of chemistry to industry and agriculture, steam-navigation, railways, electric telegraphs, clearing of whole continents for cultivation, canalisation of rivers, whole populations conjured out of the ground—what earlier century had even a presentiment that such productive forces slumbered in the lap of social labour? We see then: the means of production and of exchange, on whose foundation the bourgeoisie built itself up, were generated in feudal society.",
+   "adapted": false,
+   "original": null,
+   "translation": "English translation by Samuel Moore, 1888, edited by Friedrich Engels",
+   "topics": [
+    "5.5",
+    "5.8"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/61/pg61.txt",
+   "verified": false
+  },
+  {
+   "id": "mill-1869-subjection-of-women",
+   "authorKey": "mill",
+   "sourceLine": "John Stuart Mill, English philosopher and member of Parliament, The Subjection of Women, Chapter 1, 1869",
+   "year": 1869,
+   "kind": "text",
+   "text": "The object of this Essay is to explain as clearly as I am able, the grounds of an opinion which I have held from the very earliest period when I had formed any opinions at all on social or political matters, and which, instead of being weakened or modified, has been constantly growing stronger by the progress of reflection and the experience of life: That the principle which regulates the existing social relations between the two sexes--the legal subordination of one sex to the other--is wrong in itself, and now one of the chief hindrances to human improvement; and that it ought to be replaced by a principle of perfect equality, admitting no power or privilege on the one side, nor disability on the other.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.10",
+    "5.1"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/27083/pg27083.txt",
+   "verified": false
+  },
+  {
+   "id": "twain-1883-steamboat-railroad",
+   "authorKey": "twain",
+   "sourceLine": "Mark Twain, American author and former Mississippi steamboat pilot, Life on the Mississippi, Chapter 22, 1883",
+   "year": 1883,
+   "kind": "text",
+   "text": "Mississippi steamboating may be called dead. It killed the old-fashioned keel-boating, by reducing the freight-trip to New Orleans to less than a week. The railroads have killed the steamboat passenger traffic by doing in two or three days what the steamboats consumed a week in doing; and the towing-fleets have killed the through-freight traffic by dragging six or seven steamer-loads of stuff down the river at a time, at an expense so trivial that steamboat competition was out of the question. Freight and passenger way-traffic remains to the steamers. This is in the hands … of two or three close corporations well fortified with capital.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.5",
+    "5.7"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/245/pg245.txt",
+   "verified": false
+  },
+  {
+   "id": "alexander-ii-1861-emancipation-manifesto",
+   "authorKey": "alexander-ii",
+   "sourceLine": "Alexander II, Emperor and Autocrat of all the Russias, Emancipation Manifesto, 3 March 1861 (as printed in The Spectator, 30 March 1861)",
+   "year": 1861,
+   "kind": "text",
+   "text": "The proprietors retaining their rights of property on all the land belonging to them, grant to the peasants for a fixed regulated rental the full enjoyment of their close (enclos) … In this state, which must be a transitory one, the peasants shall be designated as ‘temporarily bound’ (temporairement obliges). At the same time they are granted the right of purchasing their close (enclos), and, with the consent of the proprietors, they may acquire in full property the arable lands and other appurtenances which are allotted to them as a permanent holding (puissance). By the acquisition in full property of the quantity of land fixed the peasants are free from their obligations towards the proprietors for land thus purchased, and they enter definitively into the condition of free peasants.",
+   "adapted": false,
+   "original": null,
+   "translation": "Contemporary English translation printed in The Spectator, 30 March 1861",
+   "topics": [
+    "5.10",
+    "5.4",
+    "5.6"
+   ],
+   "sourceUrl": "https://archive.spectator.co.uk/article/30th-march-1861/6/the-russian-emperors-serf-emancipation-manifesto",
+   "verified": false
+  },
+  {
+   "id": "okuma-1908-fifty-years-new-japan",
+   "authorKey": "okuma",
+   "sourceLine": "Okuma Shigenobu, Japanese statesman and former finance minister of the Meiji government, from Fifty Years of New Japan, 1907-08",
+   "year": 1908,
+   "kind": "text",
+   "text": "Her general progress, during the short space of half a century, has been so sudden and swift that it presents a rare spectacle in the history of the world. This leap forward is the result of the stimulus which the country received on coming into contact with the civilization of Europe and America … We possess today a powerful army and navy, but it was after Western models that we laid their foundations by establishing a system of conscription in pursuance of the principle all our sons are soldiers, by promoting military education, and by encouraging the manufacture of arms and the art of shipbuilding. We have reorganized the systems of central and local administration, and effected reforms in the educational system of the empire.",
+   "adapted": false,
+   "original": null,
+   "translation": "English edition compiled by Marcus B. Huish, Fifty Years of New Japan, London, 1909",
+   "topics": [
+    "5.4",
+    "5.6"
+   ],
+   "sourceUrl": "https://sourcebooks.fordham.edu/mod/1908okuma.asp",
+   "verified": false
+  },
+  {
+   "id": "duff-gordon-1863-suez-forced-labour",
+   "authorKey": "duff-gordon",
+   "sourceLine": "Lucie Duff Gordon, English traveller living in Upper Egypt for her health, Letters from Egypt, written 1863 (published 1865)",
+   "year": 1863,
+   "kind": "text",
+   "text": "The other day four huge barges passed us towed by a steamer and crammed with hundreds of the poor souls torn from their homes to work at the Isthmus of Suez, or some palace of the Pasha's, for a nominal piastre a day, and find their own bread and water and cloak. … Everyone is cursing the French here. Forty thousand men always at work at the Suez Canal at starvation-point, does not endear them to the Arabs. There is great excitement as to what the new Pasha will do. If he ceases to give forced labour, the Canal, I suppose, must be given up.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.5",
+    "5.6",
+    "5.7"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/17816/pg17816.txt",
+   "verified": false
+  },
+  {
+   "id": "robinson-1898-lowell-turn-out",
+   "authorKey": "robinson",
+   "sourceLine": "Harriet Hanson Robinson, former Lowell mill worker who began in the mills as a child, Loom and Spindle, recalling the 1836 strike, 1898",
+   "year": 1898,
+   "kind": "text",
+   "text": "It was estimated that as many as twelve or fifteen hundred girls turned out, and walked in procession through the streets. They had neither flags nor music, but sang songs, a favorite (but rather inappropriate) one being a parody on “I won’t be a nun.” … When the day came on which the girls were to turn out, those in the upper rooms started first, and so many of them left that our mill was at once shut down. … It is hardly necessary to say that so far as results were concerned this strike did no good. The dissatisfaction of the operatives subsided, or burned itself out, and though the authorities did not accede to their demands, the majority returned to their work, and the corporation went on cutting down the wages.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.8",
+    "5.9"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/72757/pg72757.txt",
+   "verified": false
+  },
+  {
+   "id": "bagehot-1873-lombard-street-capital",
+   "authorKey": "bagehot",
+   "sourceLine": "Walter Bagehot, English banker's son and editor of The Economist, Lombard Street: A Description of the Money Market, Chapter 1, 1873",
+   "year": 1873,
+   "kind": "text",
+   "text": "We have entirely lost the idea that any undertaking likely to pay, and seen to be likely, can perish for want of money; yet no idea was more familiar to our ancestors, or is more common now in most countries. A citizen of London in Queen Elizabeth's time could not have imagined our state of mind. He would have thought that it was of no use inventing railways (if he could have understood what a railway meant), for you would not have been able to collect the capital with which to make them. … A place like Lombard Street, where in all but the rarest times money can be always obtained upon good security or upon decent prospects of probable gain, is a luxury which no country has ever enjoyed with even comparable equality before.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.7",
+    "5.3",
+    "5.5"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/4359/pg4359.txt",
+   "verified": false
+  },
+  {
+   "id": "meiji-1868-charter-oath",
+   "authorKey": "meiji-emperor",
+   "sourceLine": "Emperor Meiji (issued by the new Meiji government), The Charter Oath, 14 March 1868 (6 April 1868 by the Western calendar)",
+   "year": 1868,
+   "kind": "text",
+   "text": "1. Deliberative Assemblies shall be widely established and all matters shall be decided by public discussion 2. All people, high and low, shall unite their minds to conduct the affairs of the state. 3. All people, civil and military classes as well as commoners, shall be encouraged to achieve their respective wishes so as not to keep them frustrated. 4. Old, corrupt customs shall be abolished and everything shall be based on the just way of nature. 5. Knowledge shall be sought throughout the world so as to strengthen the foundations of imperial rule. In order to implement reforms unprecedented in our country, I, ahead of the people, pray to gods of heaven and earth and decree these national principles in order to establish the way of security for all.",
+   "adapted": false,
+   "original": null,
+   "translation": "Translated by Akihiko Tanaka, The World and Japan Database, University of Tokyo and GRIPS",
+   "topics": [
+    "5.4",
+    "5.6",
+    "5.2"
+   ],
+   "sourceUrl": "https://worldjpn.net/documents/texts/pw/18680314.O1E.html",
+   "verified": false
+  },
+  {
+   "id": "cobden-1843-corn-laws-free-trade",
+   "authorKey": "cobden",
+   "sourceLine": "Richard Cobden, Manchester calico manufacturer and leader of the Anti-Corn Law League, speech in the House of Commons, 15 May 1843",
+   "year": 1843,
+   "kind": "text",
+   "text": "In supporting the present Corn-law, you support a law which inflicts scarcity on the people. You do that, or you do nothing. … But what I have to say is this — we want no monopoly; and this I know, that the moment I go amongst the farmers, and say we are for free trade in coffee, in sugar, in manufactures, in everything, that the farmers, like honest and just men as they are, will at once exclaim, ‘That is right, that is fair!’ … But what we want is a free trade in everything.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.7",
+    "5.3"
+   ],
+   "sourceUrl": "https://victorianweb.org/victorian/history/cobden/speech15may1843.html",
+   "verified": false
+  },
+  {
+   "id": "cromer-1908-egypt-debt",
+   "authorKey": "cromer",
+   "sourceLine": "Evelyn Baring, Lord Cromer, British Commissioner of the Egyptian Public Debt in 1877 and later Consul-General in Egypt, Modern Egypt, 1908",
+   "year": 1908,
+   "kind": "text",
+   "text": "The origin of the Egyptian Question in its present phase was financial. … In 1876, the funded debt of Egypt, including the Daira loans, amounted to £68,110,000. In addition to this, there was a floating debt of about £26,000,000. Roughly speaking, it may be said that Ismail Pasha added, on an average, about £7,000,000 a year for thirteen years to the debt of Egypt. For all practical purposes it may be said that the whole of the borrowed money, except £16,000,000 spent on the Suez Canal, was squandered. … For some while prior to the general breakdown, it had been apparent that Ismail Pasha’s reckless administration of the finances of the country must, sooner or later, bring about a financial collapse.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.6",
+    "5.7",
+    "5.4"
+   ],
+   "sourceUrl": "https://archive.org/stream/modernegypt01crom/modernegypt01crom_djvu.txt",
+   "verified": false
+  },
+  {
+   "id": "dutt-1904-india-poverty",
+   "authorKey": "dutt",
+   "sourceLine": "Romesh Chunder Dutt, Indian civil servant and economic historian, preface to The Economic History of India in the Victorian Age, 1904",
+   "year": 1904,
+   "kind": "text",
+   "text": "Amidst signs of progress and prosperity from all parts of the Empire, India alone presented a scene of poverty and distress. … The most populous portion of the Empire had not shared its prosperity. Increasing wealth, prospering industries, and flourishing agriculture, had not followed the flag of England in her greatest dependency. … The economic gulf which separates India from other parts of the Empire has widened in the course of recent years. In Canada and other Colonies, the income per head of the population is £48 per year. In Great Britain it is £42. In India it is officially estimated at £2.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.10",
+    "5.7",
+    "5.4"
+   ],
+   "sourceUrl": "https://archive.org/stream/indiainvictorian00duttuoft/indiainvictorian00duttuoft_djvu.txt",
+   "verified": false
+  },
+  {
+   "id": "carnegie-1889-wealth-change",
+   "authorKey": "carnegie",
+   "sourceLine": "Andrew Carnegie, Scottish-born American steel manufacturer, \"Wealth\" (later called \"The Gospel of Wealth\"), North American Review, June 1889",
+   "year": 1889,
+   "kind": "text",
+   "text": "The conditions of human life have not only been changed, but revolutionized, within the past few hundred years. In former days there was little difference between the dwelling, dress, food, and environment of the chief and those of his retainers. … The contrast between the palace of the millionaire and the cottage of the laborer with us to-day measures the change which has come with civilization. This change, however, is not to be deplored, but welcomed as highly beneficial. … Much better this great irregularity than universal squalor. Without wealth there can be no Maecenas.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.9",
+    "5.10",
+    "5.7"
+   ],
+   "sourceUrl": "https://www1.swarthmore.edu/SocSci/rbannis1/AIH19th/Carnegie.html",
+   "verified": false
+  },
+  {
+   "id": "engels-1845-spinning-machinery",
+   "authorKey": "engels",
+   "sourceLine": "Friedrich Engels, German socialist and manager in his father's Manchester cotton firm, The Condition of the Working-Class in England in 1844, 1845",
+   "year": 1845,
+   "kind": "text",
+   "text": "And the factory system, the beginning of which was thus made, received a fresh extension in 1767, through the spinning throstle invented by Richard Arkwright, a barber, in Preston, in North Lancashire. … In the closing years of the last century, Dr. Cartwright, a country parson, had invented the power-loom, and about 1804 had so far perfected it, that it could successfully compete with the hand-weaver; and all this machinery was made doubly important by James Watt's steam-engine, invented in 1764, and used for supplying motive power for spinning since 1785.",
+   "adapted": false,
+   "original": null,
+   "translation": "Translated by Florence Kelley Wischnewetzky, 1887 American edition (English edition 1892)",
+   "topics": [
+    "5.3",
+    "5.5"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/17306/pg17306.txt",
+   "verified": false
+  },
+  {
+   "id": "macaulay-1848-mineral-wealth",
+   "authorKey": "macaulay",
+   "sourceLine": "Thomas Babington Macaulay, British historian and Whig politician, The History of England, Volume 1, Chapter 3, comparing 1685 with his own day, 1848",
+   "year": 1848,
+   "kind": "text",
+   "text": "The increase of vegetable and animal produce, though great, seems small when compared with the increase of our mineral wealth. In 1685 the tin of Cornwall, which had, more than two thousand years before, attracted the Tyrian sails beyond the pillars of Hercules, was still one of the most valuable subterranean productions of the island. … One mineral, perhaps more important than iron itself, remains to be mentioned. Coal, though very little used in any species of manufacture, was already the ordinary fuel in some districts which were fortunate enough to possess large beds, and in the capital, which could easily be supplied by water carriage … At present three millions and a half of tons are required yearly by the metropolis; and the whole annual produce cannot, on the most moderate computation, be estimated at less than thirty millions of tons.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.3"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/1468/pg1468.txt",
+   "verified": false
+  },
+  {
+   "id": "dickens-1842-lowell-mills",
+   "authorKey": "dickens",
+   "sourceLine": "Charles Dickens, English novelist visiting the United States, American Notes, chapter on Lowell and its factory system, 1842",
+   "year": 1842,
+   "kind": "text",
+   "text": "Firstly, there is a joint-stock piano in a great many of the boarding-houses. Secondly, nearly all these young ladies subscribe to circulating libraries. Thirdly, they have got up among themselves a periodical called THE LOWELL OFFERING, ‘A repository of original articles, written exclusively by females actively employed in the mills,’—which is duly printed, published, and sold … It is their station to work. And they do work. They labour in these mills, upon an average, twelve hours a day, which is unquestionably work, and pretty tight work too.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.9",
+    "5.3",
+    "5.8"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/675/pg675.txt",
+   "verified": false
+  },
+  {
+   "id": "dickens-1842-american-railroad",
+   "authorKey": "dickens",
+   "sourceLine": "Charles Dickens, English novelist visiting the United States, American Notes, chapter \"An American Railroad\", 1842",
+   "year": 1842,
+   "kind": "text",
+   "text": "There are no first and second class carriages as with us; but there is a gentleman’s car and a ladies’ car: the main distinction between which is that in the first, everybody smokes; and in the second, nobody does. As a black man never travels with a white one, there is also a negro car; which is a great, blundering, clumsy chest, such as Gulliver put to sea in, from the kingdom of Brobdingnag. There is a great deal of jolting, a great deal of noise, a great deal of wall, not much window, a locomotive engine, a shriek, and a bell. The cars are like shabby omnibuses, but larger: holding thirty, forty, fifty, people.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.5",
+    "5.10"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/675/pg675.txt",
+   "verified": false
+  },
+  {
+   "id": "list-1841-productive-power",
+   "authorKey": "list",
+   "sourceLine": "Friedrich List, German economist who campaigned for a German customs union and railways, The National System of Political Economy, 1841",
+   "year": 1841,
+   "kind": "text",
+   "text": "But why? Because power is for a country a faculty of employing new means of production, it is the productive power of the tree upon which wealth grows, because the tree which bears the fruit is of more value than the fruit itself. … and because weakness or the want of power leaves all that a nation values at the mercy of more powerful rivals — its wealth, its productive power itself, its civilization, its liberty, even its national independence. … The power of creating wealth is then vastly more important than wealth itself ; it secures not only the possession and the increase of property already acquired, but even the replacing of that which is lost.",
+   "adapted": false,
+   "original": null,
+   "translation": "Translated by G. A. Matile, Philadelphia: J. B. Lippincott, 1856",
+   "topics": [
+    "5.6",
+    "5.4",
+    "5.7"
+   ],
+   "sourceUrl": "https://archive.org/stream/nationalsystemp00listgoog/nationalsystemp00listgoog_djvu.txt",
+   "verified": false
+  },
+  {
+   "id": "dutt-1904-india-railways",
+   "authorKey": "dutt",
+   "sourceLine": "Romesh Chunder Dutt, Indian civil servant and economic historian, The Economic History of India in the Victorian Age, chapter on irrigation and railways, 1904",
+   "year": 1904,
+   "kind": "text",
+   "text": "British manufacturers, too, thought that railways would more quickly open up the interior of India to their commodities than canals ; and the administration both of the East India Company and of the Crown was subjected to a continuous Parliamentary pressure to extend and multiply railway lines in India, even at a loss to the revenues of the country. There was no counter pressure from the people of India, who had no votes and no representatives in the Executive Government ; and irrigation works were thus treated with comparative neglect, while railways were multiplied beyond the urgent needs or the resources of the country. … After much discussion the Directors of the East India Company consented to grant assistance in the shape of guaranteeing interest on the railway capital.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.5",
+    "5.7",
+    "5.6"
+   ],
+   "sourceUrl": "https://archive.org/stream/indiainvictorian00duttuoft/indiainvictorian00duttuoft_djvu.txt",
+   "verified": false
+  },
+  {
+   "id": "okakura-1905-restoration-schools-army",
+   "authorKey": "okakura",
+   "sourceLine": "Okakura Kakuzo, Japanese art scholar and writer, The Awakening of Japan, chapter \"Restoration - Reformation\", 1905",
+   "year": 1905,
+   "kind": "text",
+   "text": "Elementary education was made compulsory for all boys and girls above six years of age, and normal schools were established in each of the provinces to supply them with teachers. … There are also special schools for those desirous of entering the navy or army, agriculture, industrial science, commerce, or the arts and crafts … Our system of military service has proved more potent than any other factor in strengthening national loyalism. It has, in fact, transformed the commoner into a samurai. Conscription had obtained in Japan long before the rise of feudalism, and its practice was merely revived in 1870 on German and French lines.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.4",
+    "5.6",
+    "5.10"
+   ],
+   "sourceUrl": "https://archive.org/stream/awakeningofjapan00okakiala/awakeningofjapan00okakiala_djvu.txt",
+   "verified": false
+  },
+  {
+   "id": "okakura-1905-white-disaster",
+   "authorKey": "okakura",
+   "sourceLine": "Okakura Kakuzo, Japanese art scholar and writer, The Awakening of Japan, chapter \"The White Disaster\", 1905",
+   "year": 1905,
+   "kind": "text",
+   "text": "What chance has individualized Eastern trade against the sweeping batteries of organized commerce? Cheapness and competition, like the mitrailleuse, under whose cover they advance, now sweep away the crafts. The economic life of the Orient, founded on land and labor and deprived of a protective tariff through high-handed diplomatic action, succumbs to the army of the machine and capital. … In 1842 a Christian nation forces opium on China at the mouth of the cannon and extorts Hongkong. In 1860, on a slight pretext, the joint armies of France and England invade Peking and sack the Summer Palace.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.4",
+    "5.7",
+    "5.10"
+   ],
+   "sourceUrl": "https://archive.org/stream/awakeningofjapan00okakiala/awakeningofjapan00okakiala_djvu.txt",
+   "verified": false
+  },
+  {
+   "id": "duff-gordon-1863-public-works-cost",
+   "authorKey": "duff-gordon",
+   "sourceLine": "Lucie Duff Gordon, English traveller living in Upper Egypt for her health, Letters from Egypt, written 1863 (published 1865)",
+   "year": 1863,
+   "kind": "text",
+   "text": "I care less about opening up the trade with the Soudan and all the new railways, and I should like to see person and property safe, which no one's is here (Europeans, of course, excepted). … What is wanted here is hands to till the ground, and wages are very high; food, of course, gets dearer, and the forced labour inflicts more suffering than before, and the population will decrease yet faster. This appears to me to be a state of things in which it is no use to say that public works must be made at any cost. The wealth will perhaps be increased, if meanwhile the people are not exterminated. Then, every new Pasha builds a huge new palace while those of his predecessors fall to ruin.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.6",
+    "5.4",
+    "5.10"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/17816/pg17816.txt",
+   "verified": false
+  },
+  {
+   "id": "dyer-1910-edison-electric-light",
+   "authorKey": "dyer-martin",
+   "sourceLine": "Frank L. Dyer (Edison's patent attorney) and Thomas C. Martin, Edison: His Life and Inventions, on the Holborn Viaduct electric light station, 1910",
+   "year": 1910,
+   "kind": "text",
+   "text": "Outside of Menlo Park this was the first regular station for incandescent lighting in the world, as the Pearl Street station in New York did not go into operation until September of the same year. This historic plant was hurriedly thrown together on Crown land, and would doubtless have been the nucleus of a great system but for the passage of the English electric lighting act of 1882, which at once throttled the industry by its absurd restrictive provisions, and which, though greatly modified, has left England ever since in a condition of serious inferiority as to development in electric light and power.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.5",
+    "5.6"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/820/pg820.txt",
+   "verified": false
+  },
+  {
+   "id": "yamagata-1908-japanese-army",
+   "authorKey": "yamagata",
+   "sourceLine": "Field-Marshal Prince Aritomo Yamagata, architect of Japan's conscript army, chapter \"The Japanese Army\" in Fifty Years of New Japan, 1907-08",
+   "year": 1908,
+   "kind": "text",
+   "text": "they were appointed at once to reform the military administration. Following the French system, they organized Imperial Guards with the soldiers of Satsuma, Choshu, and Tosa in 1871, and instead of the troops raised from local clans, which they disbanded, they established garrisons in Tokyo, Sendai, Osaka, and Kumamoto with detached posts at every important place, and stationed there troops newly recruited from each clan. Thus military authority was centralized in the Government and the security of the restored monarchy was assured. … This was a great step forward in our military organization, but, as in every other reform, there were many obstacles to surmount.",
+   "adapted": false,
+   "original": null,
+   "translation": "English edition compiled by Marcus B. Huish, Fifty Years of New Japan, London, 1909",
+   "topics": [
+    "5.4",
+    "5.6"
+   ],
+   "sourceUrl": "https://archive.org/stream/fiftyyearsofnewj01okumuoft/fiftyyearsofnewj01okumuoft_djvu.txt",
+   "verified": false
+  },
+  {
+   "id": "shibusawa-1908-banking-joint-stock",
+   "authorKey": "shibusawa",
+   "sourceLine": "Baron Shibusawa Eiichi, Japanese official turned banker and founder of the First National Bank, chapter \"The Development of Banking in Japan\" in Fifty Years of New Japan, 1907-08",
+   "year": 1908,
+   "kind": "text",
+   "text": "Thus national finance and economy were both in a perilous condition, and it became a matter of the utmost importance to secure a solid income to fill the treasury vaults, and at the same time to increase the national wealth by encouraging production and trade. For the latter purpose financial houses had to be provided to facilitate the circulation of money, and this could only be accomplished by the establishment of joint-stock companies. But the Japanese had not been accustomed either to the combination of capital or the formation of corporations ; they had undertaken every enterprise individually, and the financial businesses which then existed were not in a prosperous condition.",
+   "adapted": false,
+   "original": null,
+   "translation": "English edition compiled by Marcus B. Huish, Fifty Years of New Japan, London, 1909",
+   "topics": [
+    "5.7",
+    "5.4",
+    "5.6"
+   ],
+   "sourceUrl": "https://archive.org/stream/fiftyyearsofnewj01okumuoft/fiftyyearsofnewj01okumuoft_djvu.txt",
+   "verified": false
+  },
+  {
+   "id": "inouye-1908-railroads",
+   "authorKey": "inouye",
+   "sourceLine": "Viscount Inoue (Inouye) Masaru, Meiji official who directed railway building, chapter \"Japanese Communications: Railroads\" in Fifty Years of New Japan, 1907-08",
+   "year": 1908,
+   "kind": "text",
+   "text": "Naturally there was a universal cry of opposition … and it is not to be wondered at, for the people were not yet able to appreciate its benefits. To be more precise, the people generally disliked the railway because of the heavier burden it would throw upon their shoulders by causing additional taxes, and the innkeepers and goods-carriers living along the line feared that it would deprive them of their occupation. Many even of the governmental officials stood on the side of opposition, some of them crying out, ‘To make a foreign loan is to sell the country.’ They did not understand what a loan was. Notwithstanding this outcry and opposition, the two statesmen held undauntedly to what they believed to be right.",
+   "adapted": false,
+   "original": null,
+   "translation": "English edition compiled by Marcus B. Huish, Fifty Years of New Japan, London, 1909",
+   "topics": [
+    "5.5",
+    "5.6",
+    "5.4"
+   ],
+   "sourceUrl": "https://archive.org/stream/fiftyyearsofnewj01okumuoft/fiftyyearsofnewj01okumuoft_djvu.txt",
+   "verified": false
+  },
+  {
+   "id": "den-1908-telegraph-japan",
+   "authorKey": "den",
+   "sourceLine": "Baron Kenjiro Den, Japanese communications official, chapter \"The Post, Telegraph, and Telephone\" in Fifty Years of New Japan, 1907-08",
+   "year": 1908,
+   "kind": "text",
+   "text": "In 1854 the United States envoy, Commodore Perry, made a present of a set of telegraphic apparati to the Shogun of that time, and this was the first importation of the wonderful instrument into Japan, but it was not put into use at once. … But the establishment of telegraphy as a central Government institution did not take place until after the Restoration, when it had a beginning at Yokohama in the construction of a wire connection between the Lighthouse Bureau and the Law Court House in 1869. Subsequently, under the superintendence of an English engineer named George Miles Gilbert, wires were put up to connect Tokyo with Yokohama, a distance of eighteen miles. … A typical story of the day was that of an old dame who, having heard of the wonders worked by ‘telegraphy,’ and having a much-loved son living a long distance away, made up a bundle of clothing, hung it on a telegraph wire, and revelled in a vision of her precious boy rejoicing over his dear mother’s present!",
+   "adapted": false,
+   "original": null,
+   "translation": "English edition compiled by Marcus B. Huish, Fifty Years of New Japan, London, 1909",
+   "topics": [
+    "5.5",
+    "5.4",
+    "5.6"
+   ],
+   "sourceUrl": "https://archive.org/stream/fiftyyearsofnew01okumuoft/fiftyyearsofnew01okumuoft_djvu.txt",
+   "verified": false
+  },
+  {
+   "id": "matsukata-1908-gold-standard",
+   "authorKey": "matsukata",
+   "sourceLine": "Marquis Masayoshi Matsukata, Meiji finance minister and prime minister, chapter \"Japan's Finance\" in Fifty Years of New Japan, 1907-08",
+   "year": 1908,
+   "kind": "text",
+   "text": "In the meantime, Western countries commenced to adopt gold monometallism. Our authorities knew very well that, to insure a healthy growth of finance, Japan must adopt, sooner or later, a monometallic gold standard, and this was impressed upon the minds of financiers so keenly that the Government determined to effect the reform as soon as possible. The desired opportunity came with the Peace Treaty of 1895, when China began to pay to our country an indemnity of 200,000,000 taels. Further negotiations between our Government and the Chinese authorities resulted in the payment of the indemnity, not in Chinese money, but in pounds sterling. This was important, since a large gold reserve was indispensable for the establishment of gold monometallism. So, in 1897, the silver standard was abolished and gold was made the standard currency.",
+   "adapted": false,
+   "original": null,
+   "translation": "English edition compiled by Marcus B. Huish, Fifty Years of New Japan, London, 1909",
+   "topics": [
+    "5.7",
+    "5.6",
+    "5.4"
+   ],
+   "sourceUrl": "https://archive.org/stream/fiftyyearsofnew01okumuoft/fiftyyearsofnew01okumuoft_djvu.txt",
+   "verified": false
+  },
+  {
+   "id": "okuma-1908-summary-state-subsidy",
+   "authorKey": "okuma",
+   "sourceLine": "Count Okuma Shigenobu, Meiji statesman, \"A Summary of the History of Japan\" in Fifty Years of New Japan, 1907-08",
+   "year": 1908,
+   "kind": "text",
+   "text": "The Government had already begun to work for the upbuilding of a commercial marine when 1874 saw the organization of a private steamship company, to which a State subsidy was granted. This was followed by the rise of another private company, which also received a subsidy. … With the founders’ enthusiasm and the generous timely encouragement of the Government, Japan’s commercial marine has rapidly increased, and promises to keep pace with the advance in her commerce and manufactures. Telegraphy and railroads were both started by the Government. … The telegraph lines in operation extend over 16,000 miles",
+   "adapted": false,
+   "original": null,
+   "translation": "English edition compiled by Marcus B. Huish, Fifty Years of New Japan, London, 1909",
+   "topics": [
+    "5.4",
+    "5.5",
+    "5.6"
+   ],
+   "sourceUrl": "https://archive.org/stream/fiftyyearsofnew01okumuoft/fiftyyearsofnew01okumuoft_djvu.txt",
+   "verified": false
+  },
+  {
+   "id": "suzuki-1908-model-factories",
+   "authorKey": "suzuki",
+   "sourceLine": "Junichiro Suzuki (revised by Bunji Mano and Seinen Tajima), Japanese industrial historians, \"A Resume of the History of Japanese Industries\" in Fifty Years of New Japan, 1907-08",
+   "year": 1908,
+   "kind": "text",
+   "text": "Especially was this the case in 1872, when intense activity was displayed in the introduction of foreign methods. Model factories for silk reeling, spinning, and cement and brick manufacture were [established], such as the Tomioka Silk Filature, the Shinmachi Waste Silk Spinning Mill, and others. … At Tameike, Akasaka, in Tokyo, a silk filature, a type manufactory, and a training school for female artisans were set up, in order to investigate and teach new industrial arts and processes. … Encouragement was given to producers of art objects and agricultural products to send to the Exhibition, which was held in 1873.",
+   "adapted": false,
+   "original": null,
+   "translation": "English edition compiled by Marcus B. Huish, Fifty Years of New Japan, London, 1909",
+   "topics": [
+    "5.4",
+    "5.6"
+   ],
+   "sourceUrl": "https://archive.org/stream/fiftyyearsofnew01okumuoft/fiftyyearsofnew01okumuoft_djvu.txt",
+   "verified": false
+  },
+  {
+   "id": "dutt-1902-raw-produce",
+   "authorKey": "dutt",
+   "sourceLine": "Romesh Chunder Dutt, Indian civil servant and economic historian, preface to The Economic History of British India (Volume 1), 1902",
+   "year": 1902,
+   "kind": "text",
+   "text": "Their [the East India Company’s] fixed policy, pursued during the last decades of the eighteenth century and the first decades of the nineteenth, was to make India subservient to the industries of Great Britain, and to make the Indian people grow raw produce only, in order to supply material for the looms and manufactories of Great Britain. … unwavering resolution and with fatal success; orders were sent out, to force Indian artisans to work in the Company’s factories; commercial residents were legally vested with extensive powers over villages and communities of Indian weavers; prohibitive tariffs excluded Indian silk and cotton goods from England; English goods were admitted into India free of duty or on payment of a nominal duty. … The invention of the power-loom in Europe completed the decline of the Indian industries.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.3",
+    "5.7",
+    "5.10"
+   ],
+   "sourceUrl": "https://archive.org/stream/economichistoryo01dutt/economichistoryo01dutt_djvu.txt",
+   "verified": false
+  },
+  {
+   "id": "yung-wing-1909-kiangnan-arsenal",
+   "authorKey": "yung-wing",
+   "sourceLine": "Yung Wing, Chinese graduate of Yale sent by Zeng Guofan to buy machinery in the United States, My Life in China and America, on the Kiangnan Arsenal, 1909",
+   "year": 1909,
+   "kind": "text",
+   "text": "He went through the arsenal with undisguised interest. I pointed out to him the machinery which I bought for him in America. He stood and watched its automatic movement with unabated delight, for this was the first time he had seen machinery, and how it worked. It was during this visit that I succeeded in persuading him to have a mechanical school annexed to the arsenal, in which Chinese youths might be taught the theory as well as the practice of mechanical engineering, and thus enable China in time to dispense with the employment of foreign mechanical engineers and machinists, and to be perfectly independent.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.4",
+    "5.6"
+   ],
+   "sourceUrl": "https://gutenberg.org/cache/epub/54635/pg54635.txt",
+   "verified": false
+  },
+  {
+   "id": "yung-wing-1909-mission-recalled",
+   "authorKey": "yung-wing",
+   "sourceLine": "Yung Wing, Chinese graduate of Yale and head of the Chinese Educational Mission, My Life in China and America, on the recall of the students, 1909",
+   "year": 1909,
+   "kind": "text",
+   "text": "Misrepresentations and falsehoods manufactured out of the whole cloth went forth to Peking in renewed budgets in every mail, till a censor from the ranks of the reactionary party came forward and took advantage of the strong anti-Chinese prejudices in America to memorialize the government to break up the Mission and have all the students recalled. The government before acceding to the memorial put the question to Viceroy Li Hung Chang first, who, instead of standing up for the students, yielded to the opposition of the reactionary party and gave his assent to have the students recalled. … Thus the fate of the educational mission was sealed, and all students, about one hundred in all, returned to China in 1881.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.4",
+    "5.6"
+   ],
+   "sourceUrl": "https://gutenberg.org/cache/epub/54635/pg54635.txt",
+   "verified": false
+  },
+  {
+   "id": "midhat-1903-gulhane-edict",
+   "authorKey": "ali-haydar-midhat",
+   "sourceLine": "Ali Haydar Midhat, son and biographer of the Ottoman reformer Midhat Pasha, The Life of Midhat Pasha, quoting the Gülhane Rescript of 3 November 1839, 1903",
+   "year": 1903,
+   "kind": "text",
+   "text": "on the 3rd November 1839 an Imperial Rescript, the famous Hatti Humayoun of Gulhané, proclaimed the following reforms for the whole empire:— I. A guarantee of life and honour to all Ottoman subjects, without distinction. II. A regulation of taxation so as to put an end to arbitrary exactions. III. The equality of all before the law. … “For the last five hundred years a succession of accidents and divers causes have brought it about that men have ceased to conform to the sacred code of laws and regulations that flow from it, and therefore the force and prosperity of former days have been converted into weakness and poverty—for a nation always loses all stability when it ceases to observe its laws.”",
+   "adapted": false,
+   "original": null,
+   "translation": "English version as printed in Ali Haydar Midhat, The Life of Midhat Pasha, London: John Murray, 1903 (translator of the quoted rescript not named)",
+   "topics": [
+    "5.4",
+    "5.6",
+    "5.2"
+   ],
+   "sourceUrl": "https://gutenberg.org/cache/epub/51243/pg51243.txt",
+   "verified": false
+  },
+  {
+   "id": "midhat-1903-ottoman-bankruptcy",
+   "authorKey": "ali-haydar-midhat",
+   "sourceLine": "Ali Haydar Midhat, son and biographer of the Ottoman reformer Midhat Pasha, The Life of Midhat Pasha, on the Ottoman debt crisis of 1875, 1903",
+   "year": 1903,
+   "kind": "text",
+   "text": "The finances of the country were fast getting beyond all remedy. Although it was only twenty years since the fatal secret of a national debt had been learnt in Turkey, bankruptcy was already staring the country in the face. … Three months after this warning the Turkish Treasury suspended payment on half the amount of the coupons of the public debt. The outcry caused by this measure throughout Europe, not only in strictly commercial and financial circles, but in every class of the community, was indescribable. Tempted by the high rate of interest, and confiding in the assurances of financiers interested in floating successive loans that “Turkey always has paid and therefore always would pay” the coupons of its debts, the petite bourgeoisie and the small investor had largely placed their savings in Turkish bonds.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.6",
+    "5.7"
+   ],
+   "sourceUrl": "https://gutenberg.org/cache/epub/51243/pg51243.txt",
+   "verified": false
+  },
+  {
+   "id": "kropotkin-1899-emancipation-from-above",
+   "authorKey": "kropotkin",
+   "sourceLine": "Peter Kropotkin, Russian prince and geographer who grew up under serfdom, Memoirs of a Revolutionist, on the road to emancipation, 1899 (1906 London edition)",
+   "year": 1899,
+   "kind": "text",
+   "text": "Several serf-owners were killed by their serfs, and the peasant uprisings became so serious that whole regiments, with artillery, were sent to quell them, whereas in former times small detachments of soldiers would have been sufficient to terrorize the peasants into obedience. … His intention was that the initiative of the reform should come from the nobility, the serf-owners themselves. But in no province of Russia could the nobility be induced to send a petition to the Tsar to that effect. In March 1856 he himself addressed the Moscow nobility on the necessity of such a step; but a stubborn silence was all their reply to his speech, so that Alexander II., growing quite angry, concluded with those memorable words of Hérzen: ‘It is better, gentlemen, that it should come from above than to wait till it comes from beneath.’",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.10",
+    "5.4",
+    "5.6"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/73882/pg73882.txt",
+   "verified": false
+  }
+ ],
+ "poolHints": [
+  {
+   "dbq": "industrial-revolution-causes",
+   "doc": "smith-1776-pin-factory",
+   "group": "labor-technology",
+   "why": "Shows the division of labour inside a workshop raising output per worker, the logic of the later factory."
+  },
+  {
+   "dbq": "industrial-revolution-causes",
+   "doc": "smith-1776-joint-stock",
+   "group": "capital-markets",
+   "why": "A sceptical contemporary view of joint-stock companies and their dependence on state privilege, showing how such capital pools worked and their weaknesses."
+  },
+  {
+   "dbq": "industrial-revolution-causes",
+   "doc": "smith-1776-discovery-america",
+   "group": "resources",
+   "why": "Links overseas expansion and colonial trade to European wealth while acknowledging the cost to colonised peoples."
+  },
+  {
+   "dbq": "industrial-revolution-causes",
+   "doc": "ricardo-1817-free-commerce",
+   "group": "resources",
+   "why": "Argues for a world division of labour in which England manufactures and others supply raw materials and food."
+  },
+  {
+   "dbq": "industrial-revolution-causes",
+   "doc": "engels-1845-before-machinery",
+   "group": "labor-technology",
+   "why": "Contrasts home spinning and weaving with the machine age and ties the rise of wage labour to steam power and cotton machinery."
+  },
+  {
+   "dbq": "industrial-revolution-causes",
+   "doc": "marx-1848-productive-forces",
+   "group": "labor-technology",
+   "why": "A hostile critic lists the machines and transport systems of industrial capitalism and the labour that powers them."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "alexander-ii-1861-emancipation-manifesto",
+   "group": "limits",
+   "why": "Shows the state ending serfdom from above while keeping peasants bound by rents and redemption payments, a limit on Russian reform."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "okuma-1908-fifty-years-new-japan",
+   "group": "defense",
+   "why": "A Meiji statesman ties conscription, arms manufacture and shipbuilding to Japan's modernisation along Western models."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "okuma-1908-fifty-years-new-japan",
+   "group": "economic-growth",
+   "why": "Credits state reorganisation of administration and education, and rising trade, for Japan's rapid growth."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "duff-gordon-1863-suez-forced-labour",
+   "group": "limits",
+   "why": "An eyewitness shows Egyptian peasants conscripted for the Suez Canal and royal works at starvation pay, a human cost and a source of resentment."
+  },
+  {
+   "dbq": "industrial-revolution-causes",
+   "doc": "robinson-1898-lowell-turn-out",
+   "group": "labor-technology",
+   "why": "A woman worker's own account of factory labour in the textile mills and of workers organising against wage cuts."
+  },
+  {
+   "dbq": "industrial-revolution-causes",
+   "doc": "bagehot-1873-lombard-street-capital",
+   "group": "capital-markets",
+   "why": "A leading financial writer explains how London's banking and money market let new enterprises such as railways raise capital."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "meiji-1868-charter-oath",
+   "group": "economic-growth",
+   "why": "Commits the new government to seek knowledge worldwide and abolish old customs, the policy base for state-led modernisation."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "meiji-1868-charter-oath",
+   "group": "defense",
+   "why": "Seeking world knowledge to strengthen imperial rule links reform to national security."
+  },
+  {
+   "dbq": "industrial-revolution-causes",
+   "doc": "cobden-1843-corn-laws-free-trade",
+   "group": "resources",
+   "why": "A manufacturers' leader argues that tariffs on imported grain raise food prices and that Britain should trade freely in food and raw materials such as sugar and coffee."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "cromer-1908-egypt-debt",
+   "group": "limits",
+   "why": "A British official who helped administer Egypt's debt shows how Ismail's borrowing for the Suez Canal and other projects ended in bankruptcy and foreign control. (Written from the British side.)"
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "dutt-1904-india-poverty",
+   "group": "limits",
+   "why": "An Indian economist shows that under colonial rule industry and agriculture did not prosper, a limit on development when policy was set by a foreign power."
+  },
+  {
+   "dbq": "industrial-revolution-causes",
+   "doc": "engels-1845-spinning-machinery",
+   "group": "labor-technology",
+   "why": "Lists the spinning and weaving inventions and the steam engine that created the factory system."
+  },
+  {
+   "dbq": "industrial-revolution-causes",
+   "doc": "macaulay-1848-mineral-wealth",
+   "group": "resources",
+   "why": "A contemporary historian measures how Britain's coal, iron and other mineral output grew between 1685 and the 1840s."
+  },
+  {
+   "dbq": "industrial-revolution-causes",
+   "doc": "dickens-1842-lowell-mills",
+   "group": "labor-technology",
+   "why": "An outside observer describes young women's wage labour in a New England textile mill, twelve hours a day, and how they spent their earnings."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "list-1841-productive-power",
+   "group": "economic-growth",
+   "why": "Argues that a state should build national productive power (manufactures) rather than rely on free trade."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "list-1841-productive-power",
+   "group": "defense",
+   "why": "Links national power and independence to productive capacity."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "dutt-1904-india-railways",
+   "group": "limits",
+   "why": "An Indian economist shows railway building in India driven by British manufacturers and guaranteed by Indian revenues, not by Indian needs."
+  },
+  {
+   "dbq": "industrial-revolution-causes",
+   "doc": "dutt-1904-india-railways",
+   "group": "capital-markets",
+   "why": "Shows how a government guarantee of interest drew private British capital into railway building."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "okakura-1905-restoration-schools-army",
+   "group": "defense",
+   "why": "A Japanese writer describes conscription revived on German and French lines and military schools as tools of the new state."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "okakura-1905-restoration-schools-army",
+   "group": "economic-growth",
+   "why": "Describes compulsory elementary education and technical, commercial and industrial schools set up by the Meiji state."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "okakura-1905-white-disaster",
+   "group": "limits",
+   "why": "An Asian writer argues that Asian economies lost tariff protection through forced treaties and were swept away by machine-made imports."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "okakura-1905-white-disaster",
+   "group": "defense",
+   "why": "Shows the threat of Western force that drove Asian states to build their own strength."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "duff-gordon-1863-public-works-cost",
+   "group": "limits",
+   "why": "An eyewitness argues that railways and canals built by forced labour in Egypt cost the peasantry dearly while rulers wasted money on palaces."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "yamagata-1908-japanese-army",
+   "group": "defense",
+   "why": "The man who built the Meiji army describes copying the French system and centralising military power in the new government."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "shibusawa-1908-banking-joint-stock",
+   "group": "economic-growth",
+   "why": "A leading banker explains why the Meiji government had to create banks and joint-stock companies to finance production and trade."
+  },
+  {
+   "dbq": "industrial-revolution-causes",
+   "doc": "shibusawa-1908-banking-joint-stock",
+   "group": "capital-markets",
+   "why": "By showing Japan before the Restoration lacking joint-stock companies and banks, it highlights why such capital-pooling institutions mattered for industrialisation."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "inouye-1908-railroads",
+   "group": "economic-growth",
+   "why": "A Meiji official describes the government building railways on a foreign loan despite public opposition."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "inouye-1908-railroads",
+   "group": "limits",
+   "why": "Shows resistance to state railway building: new taxes, loss of carriers' livelihoods, and fear that a foreign loan meant selling the country."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "den-1908-telegraph-japan",
+   "group": "economic-growth",
+   "why": "The Meiji government made telegraphy a central government institution after 1868, using a foreign engineer."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "matsukata-1908-gold-standard",
+   "group": "economic-growth",
+   "why": "The finance minister explains how the state moved Japan onto the gold standard to secure healthy finance and trade with the industrial powers."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "okuma-1908-summary-state-subsidy",
+   "group": "economic-growth",
+   "why": "Shows the Meiji state subsidising steamship lines and starting the telegraph and railways."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "suzuki-1908-model-factories",
+   "group": "economic-growth",
+   "why": "Lists government-founded model factories and a training school for women workers as the Meiji state's tools for spreading industry."
+  },
+  {
+   "dbq": "industrial-revolution-causes",
+   "doc": "dutt-1902-raw-produce",
+   "group": "resources",
+   "why": "An Indian historian argues that Britain's mills drew on India as a source of raw cotton and a market, while Indian weavers were pushed out by tariffs."
+  },
+  {
+   "dbq": "industrial-revolution-causes",
+   "doc": "dutt-1902-raw-produce",
+   "group": "labor-technology",
+   "why": "Shows the power-loom and tariff policy destroying Indian hand-weaving."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "dutt-1902-raw-produce",
+   "group": "limits",
+   "why": "Shows how colonial rule prevented Indian industrialisation, in contrast to states that could set their own tariffs."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "yung-wing-1909-kiangnan-arsenal",
+   "group": "defense",
+   "why": "A Chinese participant describes the viceroy's arsenal, the first Western machinery in it, and a school meant to end dependence on foreign engineers."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "yung-wing-1909-kiangnan-arsenal",
+   "group": "economic-growth",
+   "why": "Shows self-strengthening building machine industry and technical training."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "yung-wing-1909-mission-recalled",
+   "group": "limits",
+   "why": "A participant shows conservative officials ending the Qing programme of sending students abroad, a limit on self-strengthening."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "midhat-1903-gulhane-edict",
+   "group": "defense",
+   "why": "Ottoman rescript attributes the empire's weakness to decayed law and sets out reforms in taxation and equality to restore its strength."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "midhat-1903-gulhane-edict",
+   "group": "economic-growth",
+   "why": "Promises regulated taxation and secure property as the base for prosperity."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "midhat-1903-ottoman-bankruptcy",
+   "group": "limits",
+   "why": "Shows Ottoman reform financed by foreign loans ending in default in 1875."
+  },
+  {
+   "dbq": "state-led-industrialization",
+   "doc": "kropotkin-1899-emancipation-from-above",
+   "group": "limits",
+   "why": "Shows noble resistance and peasant unrest forcing the tsar to reform from above, so the state could not simply impose change."
+  }
+ ],
+ "drillHints": [
+  {
+   "topic": "5.7",
+   "doc": "smith-1776-pin-factory",
+   "why": "Classic statement of the economic idea that specialisation raises productivity."
+  },
+  {
+   "topic": "5.7",
+   "doc": "smith-1776-joint-stock",
+   "why": "Describes joint-stock companies and the debate over limited, pooled capital."
+  },
+  {
+   "topic": "5.7",
+   "doc": "smith-1776-discovery-america",
+   "why": "Shows the global trade system that made Europe's markets and raw-material supply, and its costs for non-Europeans."
+  },
+  {
+   "topic": "5.7",
+   "doc": "ricardo-1817-free-commerce",
+   "why": "Core statement of free trade and comparative advantage."
+  },
+  {
+   "topic": "5.3",
+   "doc": "engels-1845-before-machinery",
+   "why": "Links steam engine and cotton machinery to the birth of a wage-earning working class."
+  },
+  {
+   "topic": "5.9",
+   "doc": "engels-1845-before-machinery",
+   "why": "Describes how family work in the home gave way to factory labour."
+  },
+  {
+   "topic": "5.5",
+   "doc": "marx-1848-productive-forces",
+   "why": "Lists steam navigation, railways, telegraphs, chemistry and canals as the technologies of the age."
+  },
+  {
+   "topic": "5.10",
+   "doc": "mill-1869-subjection-of-women",
+   "why": "Shows both continuity (legal subordination of women remained) and the new argument for change in the Industrial Age."
+  },
+  {
+   "topic": "5.5",
+   "doc": "twain-1883-steamboat-railroad",
+   "why": "An eyewitness shows steamboats displacing keelboats and then railroads displacing steamboats."
+  },
+  {
+   "topic": "5.7",
+   "doc": "twain-1883-steamboat-railroad",
+   "why": "Shows consolidation of a trade into a few well-capitalised corporations."
+  },
+  {
+   "topic": "5.10",
+   "doc": "alexander-ii-1861-emancipation-manifesto",
+   "why": "Serfdom abolished, yet peasants remained 'temporarily bound' and had to buy their land: change and continuity together."
+  },
+  {
+   "topic": "5.4",
+   "doc": "okuma-1908-fifty-years-new-japan",
+   "why": "Meiji Japan's leader describes borrowing Western institutions to industrialise and build military strength."
+  },
+  {
+   "topic": "5.5",
+   "doc": "duff-gordon-1863-suez-forced-labour",
+   "why": "Shows the Suez Canal depending on forced peasant labour alongside steamers on the Nile."
+  },
+  {
+   "topic": "5.7",
+   "doc": "duff-gordon-1863-suez-forced-labour",
+   "why": "Illustrates mass movement of labour for a global-trade project at poverty wages."
+  },
+  {
+   "topic": "5.9",
+   "doc": "robinson-1898-lowell-turn-out",
+   "why": "Shows young women as factory wage-earners and their collective action."
+  },
+  {
+   "topic": "5.10",
+   "doc": "robinson-1898-lowell-turn-out",
+   "why": "Shows women's work changing from the home to the mill, but the strike failing."
+  },
+  {
+   "topic": "5.7",
+   "doc": "bagehot-1873-lombard-street-capital",
+   "why": "Describes how banking and credit financed railways and trade in Britain."
+  },
+  {
+   "topic": "5.5",
+   "doc": "bagehot-1873-lombard-street-capital",
+   "why": "Links railway building to the availability of pooled capital."
+  },
+  {
+   "topic": "5.4",
+   "doc": "meiji-1868-charter-oath",
+   "why": "Meiji government's founding programme of borrowing foreign knowledge."
+  },
+  {
+   "topic": "5.7",
+   "doc": "cobden-1843-corn-laws-free-trade",
+   "why": "Leading advocate of free trade and repeal of the Corn Laws."
+  },
+  {
+   "topic": "5.7",
+   "doc": "cromer-1908-egypt-debt",
+   "why": "Illustrates foreign loans and investment in Egypt and the debt crisis that followed."
+  },
+  {
+   "topic": "5.10",
+   "doc": "dutt-1904-india-poverty",
+   "why": "Shows continuity of poverty in colonial India despite Industrial Age wealth elsewhere."
+  },
+  {
+   "topic": "5.7",
+   "doc": "dutt-1904-india-poverty",
+   "why": "An Indian view of unequal global economic development."
+  },
+  {
+   "topic": "5.10",
+   "doc": "carnegie-1889-wealth-change",
+   "why": "A leading industrialist argues the Industrial Age changed social conditions and defends inequality as the price of progress."
+  },
+  {
+   "topic": "5.9",
+   "doc": "carnegie-1889-wealth-change",
+   "why": "Describes widening class contrasts in industrial society from an industrialist's view."
+  },
+  {
+   "topic": "5.5",
+   "doc": "engels-1845-spinning-machinery",
+   "why": "Names the key textile inventions and Watt's steam engine as the power source."
+  },
+  {
+   "topic": "5.3",
+   "doc": "macaulay-1848-mineral-wealth",
+   "why": "Shows Britain's mineral resources, especially coal, as a base of industrial growth."
+  },
+  {
+   "topic": "5.9",
+   "doc": "dickens-1842-lowell-mills",
+   "why": "Shows women as mill wage-earners with their own savings, libraries and magazine."
+  },
+  {
+   "topic": "5.10",
+   "doc": "dickens-1842-lowell-mills",
+   "why": "Shows a change in women's lives (wage work away from home) alongside long hours."
+  },
+  {
+   "topic": "5.5",
+   "doc": "dickens-1842-american-railroad",
+   "why": "An eyewitness describes early railway travel and its locomotive engines."
+  },
+  {
+   "topic": "5.10",
+   "doc": "dickens-1842-american-railroad",
+   "why": "The railway car shows new technology carrying old racial segregation."
+  },
+  {
+   "topic": "5.7",
+   "doc": "list-1841-productive-power",
+   "why": "Presents the protectionist case against free trade."
+  },
+  {
+   "topic": "5.5",
+   "doc": "dutt-1904-india-railways",
+   "why": "Railways in India built to open the interior to British goods."
+  },
+  {
+   "topic": "5.7",
+   "doc": "dutt-1904-india-railways",
+   "why": "Government-guaranteed interest as a way of attracting foreign investment."
+  },
+  {
+   "topic": "5.4",
+   "doc": "okakura-1905-restoration-schools-army",
+   "why": "Meiji state builds schools and a conscript army to modernise Japan."
+  },
+  {
+   "topic": "5.10",
+   "doc": "okakura-1905-restoration-schools-army",
+   "why": "Shows continuity: samurai traditions carried into the conscript army."
+  },
+  {
+   "topic": "5.7",
+   "doc": "okakura-1905-white-disaster",
+   "why": "Describes machine-made goods and unequal treaties reshaping Asian trade."
+  },
+  {
+   "topic": "5.10",
+   "doc": "okakura-1905-white-disaster",
+   "why": "Shows traditional crafts displaced by industrial competition."
+  },
+  {
+   "topic": "5.10",
+   "doc": "duff-gordon-1863-public-works-cost",
+   "why": "Shows continuity of forced peasant labour under Egypt's modernising rulers."
+  },
+  {
+   "topic": "5.5",
+   "doc": "dyer-1910-edison-electric-light",
+   "why": "Describes the first public incandescent electric lighting stations in London and New York."
+  },
+  {
+   "topic": "5.6",
+   "doc": "dyer-1910-edison-electric-light",
+   "why": "Shows government regulation (the 1882 Electric Lighting Act) slowing an industry."
+  },
+  {
+   "topic": "5.4",
+   "doc": "yamagata-1908-japanese-army",
+   "why": "Meiji leader describes building a modern army on European models."
+  },
+  {
+   "topic": "5.7",
+   "doc": "shibusawa-1908-banking-joint-stock",
+   "why": "Describes the creation of banking and joint-stock companies as the basis of an industrial economy."
+  },
+  {
+   "topic": "5.5",
+   "doc": "inouye-1908-railroads",
+   "why": "Meiji railway building and the opposition to it."
+  },
+  {
+   "topic": "5.6",
+   "doc": "inouye-1908-railroads",
+   "why": "Government borrowing abroad to build infrastructure."
+  },
+  {
+   "topic": "5.5",
+   "doc": "den-1908-telegraph-japan",
+   "why": "Describes the arrival of the telegraph in Japan and public reaction to it."
+  },
+  {
+   "topic": "5.4",
+   "doc": "den-1908-telegraph-japan",
+   "why": "Shows technology transfer to Japan through a foreign engineer and state ownership."
+  },
+  {
+   "topic": "5.7",
+   "doc": "matsukata-1908-gold-standard",
+   "why": "First-hand account of a country adopting the gold standard, using a war indemnity paid in pounds sterling."
+  },
+  {
+   "topic": "5.5",
+   "doc": "okuma-1908-summary-state-subsidy",
+   "why": "Describes state-started steamship, telegraph and railway services in Meiji Japan."
+  },
+  {
+   "topic": "5.4",
+   "doc": "okuma-1908-summary-state-subsidy",
+   "why": "Government subsidies as a tool of industrialisation."
+  },
+  {
+   "topic": "5.4",
+   "doc": "suzuki-1908-model-factories",
+   "why": "Meiji government sets up model silk, spinning, cement and brick factories in 1872."
+  },
+  {
+   "topic": "5.3",
+   "doc": "dutt-1902-raw-produce",
+   "why": "Links British industrial growth to colonial raw materials and tariff policy."
+  },
+  {
+   "topic": "5.7",
+   "doc": "dutt-1902-raw-produce",
+   "why": "Describes free-trade and tariff arrangements that favoured British manufacturers in India."
+  },
+  {
+   "topic": "5.10",
+   "doc": "dutt-1902-raw-produce",
+   "why": "Shows continuity of agrarian dependence as Indian handicraft industry declined."
+  },
+  {
+   "topic": "5.4",
+   "doc": "yung-wing-1909-kiangnan-arsenal",
+   "why": "Qing self-strengthening: Western machinery and a mechanical school at the Kiangnan Arsenal."
+  },
+  {
+   "topic": "5.5",
+   "doc": "yung-wing-1909-kiangnan-arsenal",
+   "why": "Introduction of machine tools into China."
+  },
+  {
+   "topic": "5.4",
+   "doc": "yung-wing-1909-mission-recalled",
+   "why": "Resistance within the Qing court to Western-style education."
+  },
+  {
+   "topic": "5.4",
+   "doc": "midhat-1903-gulhane-edict",
+   "why": "Ottoman Tanzimat reform charter of 1839."
+  },
+  {
+   "topic": "5.10",
+   "doc": "midhat-1903-gulhane-edict",
+   "why": "Reform aims to restore an old order, mixing change and continuity."
+  },
+  {
+   "topic": "5.7",
+   "doc": "midhat-1903-ottoman-bankruptcy",
+   "why": "European small investors' lending to the Ottoman state and its default."
+  },
+  {
+   "topic": "5.10",
+   "doc": "kropotkin-1899-emancipation-from-above",
+   "why": "Serfdom's end in Russia: emancipation granted from above under pressure."
+  }
+ ],
+ "gaps": [
+  "Ottoman Tanzimat (Gulhane Edict 1839, Reform Edict 1856): only PDFs (script cannot read), Wikipedia and a 403/failed mirror turned up; no readable HTML primary text found within the caps.",
+  "Muhammad Ali's Egypt: Bowring's 1840 report and Clot Bey exist only as Google Books/HathiTrust scans (not readable with --text); Cromer's Modern Egypt has Muhammad Ali only in OCR-damaged passages. Egypt is covered by Duff Gordon (Ismail's era, British eyewitness) and Cromer (debt), not by an Egyptian voice or Muhammad Ali's own decrees.",
+  "Qing self-strengthening (Feng Guifen, Zeng Guofan, Li Hongzhang, Zeng Jize): texts found only as PDFs or in copyrighted anthologies (Teng and Fairbank); no usable Qing voice except Okakura's comment on the 1842 and 1860 wars (Japanese).",
+  "Russia: Witte's 1899 memorandum was only on alphahistory.com (HTTP 403) and in a 1954 journal article; Russia is covered by Alexander II's 1861 manifesto only.",
+  "Meiji: Fukuzawa, Iwakura mission reports and the 'rich country, strong army' texts have no public-domain English text; Meiji is covered by the Charter Oath and the 1907-08 Fifty Years of New Japan chapters (Okuma, Yamagata, Inouye, Den, Matsukata, Shibusawa, Suzuki), plus Okakura (1905).",
+  "Latin America (Bolivar, Sarmiento, Bello), Haiti (1801 constitution, 1804 declaration), Rammohan Roy, Dadabhai Naoroji (archive.org guess returned 404), Lin Zexu, Golden Law (Brazil): not reached within the read and search caps. Indian voice is Romesh Dutt only.",
+  "Not found as usable excerpts: Arthur Young, Andrew Ure, Edward Baines, Crystal Palace reports, Stephenson/Rainhill, Morse, Lesseps, Bessemer, Smiles (Self-Help copy on Gutenberg is a different edition without the passages sought), Faraday (candle lecture not on point).",
+  "Women's and workers' own voices: only Harriet Robinson (Lowell, written 1898) found; the Lowell Offering itself was not reached.",
+  "Round 2: Witte's Memoirs (1921), Hertslet/Ubicini texts of the 1856 Hatt-i Humayun and any readable Muhammad Ali factory account (Lane, Bowring) could not be reached as readable full text within the search cap; Egypt still has no native voice and Russia/Ottoman are covered via Kropotkin and Ali Haydar Midhat (son of Midhat Pasha) only."
+ ],
+ "rulings": [
+  {
+   "what": "Gutenberg and archive.org full-book text files are used as sourceUrl for several documents (whole-book .txt, not a chapter page).",
+   "why": "Gutenberg chapter pages were not reachable with the read tool; the validator confirms the excerpt appears in that file. A chapter or section name is in each sourceLine.",
+   "prompt": ""
+  },
+  {
+   "what": "Mill's Principles of Political Economy (Gutenberg 30107) was not used.",
+   "why": "That file is an abridgement with editor's bracketed interpolations, so wording cannot be guaranteed to be Mill's own.",
+   "prompt": "industrial-revolution-causes"
+  },
+  {
+   "what": "Some archive.org OCR texts (Fifty Years of New Japan, Dutt, Cromer, The Awakening of Japan) have scanning errors and marginal notes; excerpts were cut around them with the single mark for omissions. One OCR-garbled word in suzuki-1908-model-factories is replaced by [established] in square brackets.",
+   "why": "Keeps every word the author's, avoids copying scan errors, and the validator matches the remaining text exactly.",
+   "prompt": "state-led-industrialization"
+  },
+  {
+   "what": "The Charter Oath is a modern (Akihiko Tanaka) English translation of an 1868 text; the Spectator's 1861 translation of the Emancipation Manifesto is contemporary but its page is OCR text with French glosses.",
+   "why": "No older public-domain English version found; both are real translations of period documents.",
+   "prompt": "state-led-industrialization"
+  },
+  {
+   "what": "shibusawa-1908-banking-joint-stock is a Japanese comparison and is hinted to capital-markets of the Industrial Revolution causes prompt only as a contrast case.",
+   "why": "It shows why joint-stock companies and banks were needed; teacher may drop it if the pool should stay Britain-only.",
+   "prompt": "industrial-revolution-causes"
+  },
+  {
+   "what": "Cromer (1908) and Duff Gordon (1863) are British eyewitnesses, not Egyptians; Dutt, Okakura, Okuma and the Meiji officials are the non-European authors.",
+   "why": "Point of view is stated in each sourceLine.",
+   "prompt": "state-led-industrialization"
+  },
+  {
+   "what": "The Communist Manifesto translator is given as Samuel Moore (1888); the Gutenberg page does not state the translator.",
+   "why": "Gutenberg #61 is the standard Moore/Engels text but this could not be confirmed on the page.",
+   "prompt": ""
+  }
+ ]
+}

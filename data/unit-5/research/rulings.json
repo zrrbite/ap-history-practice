@@ -1,1 +1,87 @@
-[]
+[
+  {
+    "date": "2026-10-15",
+    "what": "AMSCO's Unit 5 topic list matches the spec's list in numbers and subjects; the only difference is the title of 5.5 ('Technology in the Industrial Age' vs 'Technology of the Industrial Age'). No remapping was needed.",
+    "why": "Checked against the Morton High School LibGuide syllabus that lists each Amsco topic title (see toc-check.json)."
+  },
+  {
+    "date": "2026-10-15",
+    "what": "Viscardo's Letter (three documents) is marked adapted: true. The text removes the OCR line-break marks ('¬') and the stray space before commas and semicolons; 'original' holds the exact page text.",
+    "why": "The archive.org OCR text would otherwise show '¬' and ' ;' to students. Only spelling-hyphenation and punctuation spacing changed, no words."
+  },
+  {
+    "date": "2026-10-15",
+    "what": "Kaiser Wilhelm I's 1881 Imperial Message (read by Bismarck, drafted by him) is attributed to authorKey 'wilhelm-i' and tagged 5.8 and 5.6.",
+    "why": "The text is the Emperor's proclamation; Bismarck's authorship is background. It is the only 5.6 (government's role) tag in this cluster."
+  },
+  {
+    "date": "2026-10-15",
+    "what": "Marx's Capital (1867) and Engels's Condition of the Working Class (1845) are used as primary sources of their authors' views and eyewitness accounts. Engels's text is cited from the 1892 English edition (Gutenberg), Marx's Capital from the marxists.org English text.",
+    "why": "The authors lived through the events; the controller may prefer to drop analytical passages from Capital."
+  },
+  {
+    "date": "2026-10-15",
+    "what": "Sarmiento's Facundo (1845) is tagged 'ideas' and 'fear-from-below' for the Latin America prompt, Dessalines's 1804 declaration is tagged 'fear-from-below', and Bolivar's Angostura passages are tagged for both 'ideas' and 'fear-from-below'.",
+    "why": "No more direct elite-fear text was reachable; the 'why' on each hint says exactly what the document shows.",
+    "prompt": "latin-american-independence"
+  },
+  {
+    "date": "2026-10-15",
+    "what": "Morelos's Medidas Politicas (1812) is attributed ('José María Morelos (attributed)').",
+    "why": "The page itself notes that historians read it differently (radical programme vs military measures)."
+  },
+  {
+    "date": "2026-10-15",
+    "what": "I left out point 13 of Morelos's Sentiments of the Nation.",
+    "why": "The page's English renders 'sin excepcion de cuerpos privilegiados' as 'with the exception of a few priviledged bodies', which reverses the Spanish. The other Sentiments points used (1, 5, 9, 15) match the Spanish beside them.",
+    "prompt": "latin-american-independence"
+  },
+  {
+    "date": "2026-10-15",
+    "what": "Betty Harris's testimony is cited through Lord Ashley's Hansard speech of 7 June 1842, not the Commission's own report.",
+    "why": "Hansard is a readable page that quotes her; the speech is itself a primary document of the reform campaign.",
+    "prompt": "reactions-industrial-economy"
+  },
+  {
+    "date": "2026-10-15",
+    "what": "Gutenberg and archive.org full-book text files are used as sourceUrl for several documents (whole-book .txt, not a chapter page).",
+    "why": "Gutenberg chapter pages were not reachable with the read tool; the validator confirms the excerpt appears in that file. A chapter or section name is in each sourceLine.",
+    "prompt": ""
+  },
+  {
+    "date": "2026-10-15",
+    "what": "Mill's Principles of Political Economy (Gutenberg 30107) was not used.",
+    "why": "That file is an abridgement with editor's bracketed interpolations, so wording cannot be guaranteed to be Mill's own.",
+    "prompt": "industrial-revolution-causes"
+  },
+  {
+    "date": "2026-10-15",
+    "what": "Some archive.org OCR texts (Fifty Years of New Japan, Dutt, Cromer, The Awakening of Japan) have scanning errors and marginal notes; excerpts were cut around them with the single mark for omissions. One OCR-garbled word in suzuki-1908-model-factories is replaced by [established] in square brackets.",
+    "why": "Keeps every word the author's, avoids copying scan errors, and the validator matches the remaining text exactly.",
+    "prompt": "state-led-industrialization"
+  },
+  {
+    "date": "2026-10-15",
+    "what": "The Charter Oath is a modern (Akihiko Tanaka) English translation of an 1868 text; the Spectator's 1861 translation of the Emancipation Manifesto is contemporary but its page is OCR text with French glosses.",
+    "why": "No older public-domain English version found; both are real translations of period documents.",
+    "prompt": "state-led-industrialization"
+  },
+  {
+    "date": "2026-10-15",
+    "what": "shibusawa-1908-banking-joint-stock is a Japanese comparison and is hinted to capital-markets of the Industrial Revolution causes prompt only as a contrast case.",
+    "why": "It shows why joint-stock companies and banks were needed; teacher may drop it if the pool should stay Britain-only.",
+    "prompt": "industrial-revolution-causes"
+  },
+  {
+    "date": "2026-10-15",
+    "what": "Cromer (1908) and Duff Gordon (1863) are British eyewitnesses, not Egyptians; Dutt, Okakura, Okuma and the Meiji officials are the non-European authors.",
+    "why": "Point of view is stated in each sourceLine.",
+    "prompt": "state-led-industrialization"
+  },
+  {
+    "date": "2026-10-15",
+    "what": "The Communist Manifesto translator is given as Samuel Moore (1888); the Gutenberg page does not state the translator.",
+    "why": "Gutenberg #61 is the standard Moore/Engels text but this could not be confirmed on the page.",
+    "prompt": ""
+  }
+]
