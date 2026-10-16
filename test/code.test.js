@@ -86,3 +86,11 @@ test('shareBaseFor uses the configured artifact link inside the artifact frame',
 test('shareBaseFor offers no link for a page opened from disk', () => {
   assert.equal(shareBaseFor('https://claude.ai/artifact/abc', { protocol: 'file:', origin: 'null', pathname: '/x/local.html' }, false), null);
 });
+
+test("resolveCode's invalid-code message shows the unit's own sample code", () => {
+  const { bank, docs } = setup();
+  const withUnit = { ...bank, unit: { exampleCode: 'dbq.enlightenment-revolutions.k2x9q1' } };
+  assert.match(resolveCode(parseCode('nonsense'), withUnit, docs).message, /Codes look like dbq\.enlightenment-revolutions\.k2x9q1\./);
+  assert.match(resolveCode(parseCode('nonsense'), bank, docs).message, /Codes look like dbq\.silver-trade\.k2x9q1\./, "the fixture's unit 4");
+  assert.match(resolveCode(parseCode('nonsense'), { ...bank, unit: undefined }, docs).message, /Codes look like dbq\.example-prompt\.k2x9q1\./);
+});

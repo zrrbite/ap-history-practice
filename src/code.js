@@ -27,7 +27,8 @@ export function parseCode(text) {
 // Turns a parsed code into what the page shows. Never throws.
 export function resolveCode(parsed, bank, docsById) {
   if (!parsed) {
-    return { ok: false, message: 'That code isn’t valid. Codes look like dbq.silver-trade.k2x9q1.' };
+    const example = bank.unit?.exampleCode ?? 'dbq.example-prompt.k2x9q1';
+    return { ok: false, message: `That code isn’t valid. Codes look like ${example}.` };
   }
   if (parsed.kind === 'dbq') {
     const prompt = bank.dbqs.find((q) => q.id === parsed.id);

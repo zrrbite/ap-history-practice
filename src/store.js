@@ -30,3 +30,10 @@ export function safeStore(getStorage) {
 export function asStringArray(value) {
   return Array.isArray(value) ? value.filter((x) => typeof x === 'string') : [];
 }
+
+// The topics to start with: the saved choice limited to this unit's topics, or all of them when nothing
+// saved applies (a first visit, junk in storage, or a choice saved by another unit's page on the same site).
+export function selectTopics(saved, allTopics) {
+  const kept = allTopics.filter((topic) => saved.includes(topic));
+  return kept.length > 0 ? kept : [...allTopics];
+}

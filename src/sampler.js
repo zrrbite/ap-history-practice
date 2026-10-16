@@ -90,6 +90,8 @@ export function matchesFilter(item, topics) {
   return item.topics.some((t) => topics.includes(t));
 }
 
+const byTopicNumber = (a, b) => a.localeCompare(b, 'en', { numeric: true });
+
 export function topicsWithItems(items) {
-  return [...new Set(items.flatMap((item) => item.topics))].sort();
+  return [...new Set(items.flatMap((item) => item.topics))].sort(byTopicNumber);
 }

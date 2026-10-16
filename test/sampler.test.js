@@ -131,3 +131,10 @@ test('matchesFilter and topicsWithItems', () => {
   assert.equal(matchesFilter({ topics: ['4.3'] }, []), false);
   assert.deepEqual(topicsWithItems([{ topics: ['4.6', '4.3'] }, { topics: ['4.3'] }]), ['4.3', '4.6']);
 });
+
+test('topicsWithItems sorts topics numerically, so 5.10 follows 5.9 and not 5.1', () => {
+  assert.deepEqual(
+    topicsWithItems([{ topics: ['5.10', '5.2'] }, { topics: ['5.1', '5.9'] }]),
+    ['5.1', '5.2', '5.9', '5.10'],
+  );
+});

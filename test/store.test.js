@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { safeStore, asStringArray } from '../src/store.js';
+import { safeStore, asStringArray, selectTopics } from '../src/store.js';
 
 function memoryStorage() {
   const map = new Map();
@@ -39,4 +39,17 @@ test('asStringArray keeps only strings and rejects non-arrays', () => {
   assert.deepEqual(asStringArray('a'), []);
   assert.deepEqual(asStringArray({ 0: 'a' }), []);
   assert.deepEqual(asStringArray(null), []);
+});
+
+test('selectTopics keeps the saved topics this unit has, in the unit order', () => {
+  const all = ['5.1', '5.2', '5.10'];
+  assert.deepEqual(selectTopics(['5.10', '5.1'], all), ['5.1', '5.10']);
+});
+
+test("selectTopics starts with every topic when nothing saved applies: first visit, junk, or the other unit's choice", () => {
+  const all = ['5.1', '5.2', '5.10'];
+  assert.deepEqual(selectTopics([], all), all);
+  assert.notEqual(selectTopics([], all), all, 'a copy, so callers can change it');
+  assert.deepEqual(selectTopics(['4.3', '4.5'], all), all);
+  assert.deepEqual(selectTopics(['4.3', '5.2'], all), ['5.2']);
 });

@@ -3,19 +3,8 @@
 import { drawDbq, pickRandom, pushRecent, matchesFilter, topicsWithItems } from './sampler.js';
 import { formatCode, parseCode, resolveCode, shareBaseFor } from './code.js';
 import { timerState, formatClock } from './timer.js';
-import { safeStore, asStringArray } from './store.js';
+import { safeStore, asStringArray, selectTopics } from './store.js';
 
-const TOPIC_LABELS = {
-  '4.1': 'Technological innovations',
-  '4.2': 'Exploration: causes and events',
-  '4.3': 'Columbian Exchange',
-  '4.4': 'Maritime empires established',
-  '4.5': 'Maritime empires maintained',
-  '4.6': 'Challenges to state power',
-  '4.7': 'Changing social hierarchies',
-  '4.8': 'Continuity and change',
-};
-const ALL_TOPICS = Object.keys(TOPIC_LABELS);
 const RECENT_DBQS = 3;
 const RECENT_DRILLS = 10;
 const LETTERS = 'ABCD';
@@ -38,6 +27,8 @@ const RUBRIC = [
 ];
 
 const bank = JSON.parse(document.getElementById('bank').textContent);
+const TOPIC_LABELS = bank.unit.topics;
+const ALL_TOPICS = Object.keys(TOPIC_LABELS);
 const docsById = new Map(bank.documents.map((d) => [d.id, d]));
 const store = safeStore(() => window.localStorage);
 const $ = (id) => document.getElementById(id);
@@ -55,8 +46,7 @@ const state = {
 };
 
 function restoreTopics() {
-  const saved = asStringArray(store.get('topics', null)).filter((t) => ALL_TOPICS.includes(t));
-  return saved.length > 0 ? saved : [...ALL_TOPICS];
+  return selectTopics(asStringArray(store.get('topics', null)), ALL_TOPICS);
 }
 
 function restoreDrillKind() {
