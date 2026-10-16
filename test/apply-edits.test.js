@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { mkdtemp, readFile, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
-import { applyEdit, applyEdits } from '../tools/apply-edits.js';
+import { applyEdit, applyEdits, parseArgs } from '../tools/apply-edits.js';
 import { makeData } from './helpers/fixture.js';
 
 const bank = () => makeData();
@@ -44,4 +44,12 @@ test('applyEdits is all-or-nothing: one bad edit means no file is written', asyn
   assert.equal(JSON.parse(await readFile(path.join(dir, 'saqs.json'), 'utf8'))[0].parts[0].task, 'Identify ONE thing.');
   assert.deepEqual(await applyEdits(dir, [{ ...good, old: 'Identify ONE thing.', new: 'Describe ONE thing.' }], { dry: true }), { applied: 1, files: ['saqs'] });
   assert.equal(JSON.parse(await readFile(path.join(dir, 'saqs.json'), 'utf8'))[0].parts[0].task, 'Identify ONE thing.', 'dry run writes nothing');
+});
+
+test('parseArgs rejects unknown flags such as --dry-run, so a typo cannot cause a write', () => {
+  assert.throws(() => parseArgs(['--unit', 'unit-5', 'edits.json', '--dry-run']), /unknown option --dry-run/);
+  assert.throws(() => parseArgs(['--unit', 'unit-5', 'edits.json', '--drY']), /unknown option --drY/);
+  assert.deepEqual(parseArgs(['--unit', 'unit-5', 'edits.json', '--dry']), { unit: 'unit-5', file: 'edits.json', dry: true });
+  assert.deepEqual(parseArgs(['--unit', 'unit-5', 'edits.json']), { unit: 'unit-5', file: 'edits.json', dry: false });
+  assert.throws(() => parseArgs(['edits.json']), /usage: node tools\/apply-edits\.js/);
 });

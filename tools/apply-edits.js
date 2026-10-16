@@ -49,14 +49,23 @@ export async function applyEdits(dir, edits, { dry = false } = {}) {
   return { applied: edits.length, files };
 }
 
-async function main(argv) {
+const USAGE = 'usage: node tools/apply-edits.js --unit <unit id> <edits.json> [--dry]';
+
+export function parseArgs(argv) {
   const { unit, args } = takeUnit(argv);
+  const unknown = args.find((a) => a.startsWith('--') && a !== '--dry');
+  if (unknown) throw new Error(`unknown option ${unknown}\n${USAGE}`);
   const files = args.filter((a) => !a.startsWith('--'));
-  if (unit === null || files.length !== 1) throw new Error('usage: node tools/apply-edits.js --unit <unit id> <edits.json> [--dry]');
+  if (unit === null || files.length !== 1) throw new Error(USAGE);
+  return { unit, file: files[0], dry: args.includes('--dry') };
+}
+
+async function main(argv) {
+  const { unit, file, dry } = parseArgs(argv);
   const [{ dir }] = await selectUnits(DATA_ROOT, unit);
-  const edits = JSON.parse(await readFile(inUnit(dir, files[0]), 'utf8'));
-  const result = await applyEdits(dir, edits, { dry: args.includes('--dry') });
-  console.log(`${args.includes('--dry') ? 'Would apply' : 'Applied'} ${result.applied} edits to ${result.files.join(', ') || 'nothing'}.`);
+  const edits = JSON.parse(await readFile(inUnit(dir, file), 'utf8'));
+  const result = await applyEdits(dir, edits, { dry });
+  console.log(`${dry ? 'Would apply' : 'Applied'} ${result.applied} edits to ${result.files.join(', ') || 'nothing'}.`);
 }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
