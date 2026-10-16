@@ -1,4 +1,4 @@
-# Tests, builds and publishes the practice page to GitHub Pages on every push to main.
+# Tests, builds and publishes the practice site (an index and one page per unit) to GitHub Pages on every push to main.
 # Needs Settings → Pages → Source: "GitHub Actions".
 name: Deploy to GitHub Pages
 
@@ -25,11 +25,18 @@ jobs:
         with:
           node-version: 22
       - run: npm test
-      - name: Check the bank meets release minimums
+      - name: Check every unit meets its release minimums
         run: node tools/validate.js --release
       - run: npm run build
-      - name: Use the standalone page as the site
-        run: mkdir -p _site && cp dist/local.html _site/index.html
+      - name: Assemble the site
+        run: |
+          mkdir -p _site
+          cp dist/index.html _site/index.html
+          for dir in dist/unit-*/; do
+            unit=$(basename "$dir")
+            mkdir -p "_site/$unit"
+            cp "$dir/local.html" "_site/$unit/index.html"
+          done
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
