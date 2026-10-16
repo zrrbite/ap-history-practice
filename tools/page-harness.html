@@ -1,0 +1,51 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>page harness</title>
+<pre id="result">running...</pre>
+<script>
+const CONFIG = __CONFIG__;
+const wait = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+const toBase64 = (value) => btoa(unescape(encodeURIComponent(JSON.stringify(value))));
+
+// A fresh copy of the page in a 400px-wide iframe, resolved once its scripts have run.
+function loadPage() {
+  return new Promise((resolve) => {
+    const frame = document.createElement('iframe');
+    frame.style.cssText = 'width:400px;height:900px;border:0';
+    frame.addEventListener('load', () => resolve(frame), { once: true });
+    frame.src = CONFIG.page;
+    document.body.append(frame);
+  });
+}
+
+const openIn = async (d, code) => {
+  d.getElementById('open-code').value = code;
+  d.getElementById('open-code-form').requestSubmit();
+  await wait(50);
+};
+
+// The rendered text of a page: its title plus all text under .page (hidden scoring guides included), whitespace collapsed.
+const renderedText = (d) => `${d.querySelector('title')?.textContent ?? ''}\n${d.querySelector('.page').textContent}`.replace(/\s+/g, ' ').trim();
+
+async function runChecks(frame, results) {
+  /*CHECKS*/
+}
+
+(async () => {
+  const texts = {};
+  const results = [];
+  try {
+    const capture = await loadPage();
+    await wait(100);
+    for (const code of CONFIG.codes) {
+      await openIn(capture.contentWindow.document, code);
+      texts[code] = renderedText(capture.contentWindow.document);
+    }
+    capture.remove();
+    if (CONFIG.checks) await runChecks(await loadPage(), results);
+  } catch (error) {
+    texts.error = error.stack;
+  }
+  document.getElementById('result').textContent = toBase64({ texts, results });
+})();
+</script>
