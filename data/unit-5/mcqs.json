@@ -567,5 +567,368 @@
         }
       }
     ]
+  },
+  {
+    "id": "gouges-declaration-rights-woman",
+    "topics": [
+      "5.1",
+      "5.2",
+      "5.9"
+    ],
+    "doc": "gouges-1791-rights-woman",
+    "questions": [
+      {
+        "stem": "Which development most directly prompted the argument in this passage?",
+        "options": [
+          "The meeting of the Estates General in 1789",
+          "The Declaration of the Rights of Man and of the Citizen, which was written in terms of male citizens",
+          "The Haitian slave uprising of 1791",
+          "The Civil Constitution of the Clergy in 1790"
+        ],
+        "answer": 1,
+        "explanation": "Gouges modelled her text point for point on the 1789 Declaration and protested that the Revolution had given women no share in its rights. The Estates General opened the Revolution but did not address women's rights in this way.",
+        "ref": {
+          "title": "Declaration of the Rights of Woman and of the Female Citizen",
+          "url": "https://en.wikipedia.org/wiki/Declaration_of_the_Rights_of_Woman_and_of_the_Female_Citizen"
+        }
+      },
+      {
+        "stem": "How does Gouges argue for women's rights in this passage?",
+        "options": [
+          "She relies on scripture alone to prove women's equality",
+          "She calls on women to take up arms against the National Assembly",
+          "She asks the king to protect women out of mercy",
+          "She uses Enlightenment appeals to reason and the Revolution's own language of rights"
+        ],
+        "answer": 3,
+        "explanation": "She urges women to 'oppose the force of reason' to claims of superiority and to unite 'beneath the standards of philosophy'. She does not call for an armed uprising, and she does not appeal to royal mercy.",
+        "ref": {
+          "title": "Declaration of the Rights of Woman and of the Female Citizen",
+          "url": "https://en.wikipedia.org/wiki/Declaration_of_the_Rights_of_Woman_and_of_the_Female_Citizen"
+        }
+      },
+      {
+        "stem": "What does Gouges mean by 'Having become free, he has become unjust to his companion'?",
+        "options": [
+          "Men who gained liberty in the Revolution denied equal rights to women",
+          "Colonial planters who gained political power refused to free their slaves",
+          "Church leaders who lost privileges took revenge on women",
+          "Nobles who lost status turned against the middle class"
+        ],
+        "answer": 0,
+        "explanation": "'Enslaved man' refers to men who had been subjects of absolute monarchy and gained liberty in 1789; the unjust treatment of 'his companion' refers to women. Gouges was also an abolitionist, but this sentence is about men and women.",
+        "ref": {
+          "title": "Olympe de Gouges",
+          "url": "https://en.wikipedia.org/wiki/Olympe_de_Gouges"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ure-factory-philanthropy",
+    "topics": [
+      "5.3",
+      "5.8",
+      "5.9"
+    ],
+    "doc": "ure-1835-philosophy-of-manufactures",
+    "questions": [
+      {
+        "stem": "Ure's purpose in contrasting the factory weaver with the non-factory weaver is most likely to",
+        "options": [
+          "warn readers about the dangers of power-driven machinery",
+          "argue that hand weaving should be protected by law",
+          "defend the factory system against critics who said it harmed workers",
+          "encourage workers to form trade unions"
+        ],
+        "answer": 2,
+        "explanation": "Ure wrote The Philosophy of Manufactures as a defense of the factory system, arguing that machines relieve workers of toil. He is not warning about machinery; his argument runs the other way.",
+        "ref": {
+          "title": "Andrew Ure",
+          "url": "https://en.wikipedia.org/wiki/Andrew_Ure"
+        }
+      },
+      {
+        "stem": "Which group would most likely have challenged Ure's picture of factory work?",
+        "options": [
+          "Reformers who gathered evidence of child labour and harsh conditions in mills and mines",
+          "Factory owners who wished to expand production",
+          "Scientists who promoted the use of steam power",
+          "Merchants who imported raw cotton for the mills"
+        ],
+        "answer": 0,
+        "explanation": "Reports on abuses in mines and textile mills stirred a public outcry and led to the first general factory laws in 1833 and 1844. Owners, steam enthusiasts and cotton merchants would have shared Ure's favourable view or had no reason to dispute it.",
+        "ref": {
+          "title": "Industrial Revolution",
+          "url": "https://en.wikipedia.org/wiki/Industrial_Revolution"
+        }
+      },
+      {
+        "stem": "Ure's comparison reflects which change in textile production?",
+        "options": [
+          "A fall in the demand for cotton cloth",
+          "A government ban on weaving in the home",
+          "The slow growth of overseas markets",
+          "The spread of power looms and the factory system, which moved weaving out of home workshops"
+        ],
+        "answer": 3,
+        "explanation": "Power looms, such as Cartwright's from 1785, and the factory system moved production to mills driven by water and steam power. Demand for cloth grew, so the first option is wrong.",
+        "ref": {
+          "title": "Industrial Revolution",
+          "url": "https://en.wikipedia.org/wiki/Industrial_Revolution"
+        }
+      }
+    ]
+  },
+  {
+    "id": "dutt-india-poverty",
+    "topics": [
+      "5.10",
+      "5.7",
+      "5.4"
+    ],
+    "doc": "dutt-1904-india-poverty",
+    "questions": [
+      {
+        "stem": "Which argument by Indian nationalist economists best explains the contrast Dutt describes?",
+        "options": [
+          "British rule had spread industrial prosperity evenly across the empire",
+          "British policies served British industry and trade while India suffered a loss of its own craft industries and remained poor",
+          "India had refused to adopt any modern technology",
+          "Indian rulers had blocked trade with Britain"
+        ],
+        "answer": 1,
+        "explanation": "Dutt's history is described as a classic nationalist account of the Indian economy, and India experienced deindustrialisation and the decline of craft industries under British rule. The first option is what Dutt denies.",
+        "ref": {
+          "title": "Economic history of India",
+          "url": "https://en.wikipedia.org/wiki/Economic_history_of_India"
+        }
+      },
+      {
+        "stem": "How does Dutt's position most likely shape his purpose?",
+        "options": [
+          "As a British official, he wants to defend colonial rule",
+          "As a merchant, he seeks lower tariffs on cotton",
+          "As an Indian civil servant and economic historian, he uses figures to challenge claims that empire brought prosperity to all",
+          "As a revolutionary, he calls for an armed uprising"
+        ],
+        "answer": 2,
+        "explanation": "Dutt served in the Indian civil service, wrote The Economic History of India and served as president of the Indian National Congress in 1899. His preface uses income per head to contrast India with Britain and the colonies.",
+        "ref": {
+          "title": "Romesh Chunder Dutt",
+          "url": "https://en.wikipedia.org/wiki/Romesh_Chunder_Dutt"
+        }
+      },
+      {
+        "stem": "Which evidence would a defender of British rule most likely use to answer Dutt?",
+        "options": [
+          "The railway network, built under British rule with the support of the government",
+          "The decline of Indian handicraft industries",
+          "The low income per head of the Indian population",
+          "The famines of the late 1800s"
+        ],
+        "answer": 0,
+        "explanation": "Defenders pointed to railways and other public works as benefits of British rule; the government supported the railways as valuable for military use and economic growth. The other three options are points critics such as Dutt made.",
+        "ref": {
+          "title": "Economic history of India",
+          "url": "https://en.wikipedia.org/wiki/Economic_history_of_India"
+        }
+      }
+    ]
+  },
+  {
+    "id": "dyer-holborn-electric-light",
+    "topics": [
+      "5.5",
+      "5.6"
+    ],
+    "doc": "dyer-1910-edison-electric-light",
+    "questions": [
+      {
+        "stem": "What does the passage show about the spread of electric lighting around 1882?",
+        "options": [
+          "Britain led the United States in building public power stations that year",
+          "Edison's company was building public electric stations in London and New York in the same year",
+          "Electric light was limited to a laboratory at Menlo Park",
+          "Electric power stations were first built in New York"
+        ],
+        "answer": 1,
+        "explanation": "The Holborn Viaduct station began running in January 1882 and Pearl Street in New York opened in September 1882. The passage says Holborn was the first regular station outside Menlo Park, so the last option is wrong.",
+        "ref": {
+          "title": "Holborn Viaduct power station",
+          "url": "https://en.wikipedia.org/wiki/Holborn_Viaduct_power_station"
+        }
+      },
+      {
+        "stem": "How do the authors view the English Electric Lighting Act of 1882?",
+        "options": [
+          "As a law that opened the industry to private suppliers without restriction",
+          "As a good model of how government should plan new technology",
+          "As a law that reduced the cost of generating power",
+          "As a restrictive law that held back British electric lighting"
+        ],
+        "answer": 3,
+        "explanation": "They say the act 'throttled the industry' and left England in 'serious inferiority'. The authors were Edison's patent attorney and a biographer, so they wrote as admirers of Edison's enterprise and critics of government limits.",
+        "ref": {
+          "title": "Electric Lighting Acts 1882 to 1909",
+          "url": "https://en.wikipedia.org/wiki/Electric_Lighting_Acts_1882_to_1909"
+        }
+      },
+      {
+        "stem": "Which fact would a historian use to qualify the authors' judgment of the 1882 Act?",
+        "options": [
+          "Electric lighting was invented before 1882",
+          "The act applied only to gas companies",
+          "The act was the first public measure to facilitate and regulate the electricity industry, letting local authorities, companies or persons obtain authority to supply electricity",
+          "The act banned the use of incandescent lamps in London"
+        ],
+        "answer": 2,
+        "explanation": "The 1882 act let the Board of Trade authorise supply without the expense of private bills, so it also enabled the industry, even if some provisions (such as the 21-year period before local authorities could buy out suppliers) were restrictive.",
+        "ref": {
+          "title": "Electric Lighting Acts 1882 to 1909",
+          "url": "https://en.wikipedia.org/wiki/Electric_Lighting_Acts_1882_to_1909"
+        }
+      }
+    ]
+  },
+  {
+    "id": "manifesto-appendage-machine",
+    "topics": [
+      "5.8",
+      "5.9"
+    ],
+    "doc": "marx-engels-1848-manifesto-bourgeoisie-proletariat",
+    "questions": [
+      {
+        "stem": "The passage most directly reflects which change brought by industrial capitalism?",
+        "options": [
+          "Factory production reduced traditional social ties to cash relations and treated workers as parts of machines",
+          "The revival of the guild system in industrial cities",
+          "The decline of manufacturing in Europe",
+          "The growth of government control of wages"
+        ],
+        "answer": 0,
+        "explanation": "Marx and Engels argue that the bourgeoisie left 'no other nexus between man and man than naked self-interest' and made the worker an 'appendage of the machine'. Nothing in the passage describes guilds or government wage control.",
+        "ref": {
+          "title": "The Communist Manifesto",
+          "url": "https://en.wikipedia.org/wiki/The_Communist_Manifesto"
+        }
+      },
+      {
+        "stem": "What do the authors suggest about the effect of machinery and division of labour on workers?",
+        "options": [
+          "It raised skill and craftsmanship",
+          "It freed workers from toil",
+          "It reduced the skill needed, making work monotonous while wages fell and toil grew",
+          "It increased the independence of workers"
+        ],
+        "answer": 2,
+        "explanation": "They say only the most simple and easily acquired knack is required, wages fall as repulsiveness of work increases, and the burden of toil increases with machinery. This is the reverse of the claim that machines liberate workers.",
+        "ref": {
+          "title": "The Communist Manifesto",
+          "url": "https://en.wikipedia.org/wiki/The_Communist_Manifesto"
+        }
+      },
+      {
+        "stem": "Which contemporary writer would most directly disagree with this view of machinery?",
+        "options": [
+          "Friedrich Engels, who studied conditions in Manchester",
+          "Andrew Ure, who argued that factory machinery relieved workers of toil",
+          "Chartist leaders who petitioned Parliament",
+          "Robert Owen, who criticized the factory system"
+        ],
+        "answer": 1,
+        "explanation": "Ure's Philosophy of Manufactures defended the factory system as a benefit to workers. Engels co-wrote the Manifesto, and Chartists and Owen also criticized industrial conditions.",
+        "ref": {
+          "title": "Andrew Ure",
+          "url": "https://en.wikipedia.org/wiki/Andrew_Ure"
+        }
+      },
+      {
+        "stem": "Which group commissioned the Manifesto?",
+        "options": [
+          "The First International",
+          "The Chartists",
+          "The Fabian Society",
+          "The Communist League"
+        ],
+        "answer": 3,
+        "explanation": "The pamphlet was commissioned by the Communist League and published in London in 1848. The First International was founded in 1864 and the Fabian Society in 1884.",
+        "ref": {
+          "title": "The Communist Manifesto",
+          "url": "https://en.wikipedia.org/wiki/The_Communist_Manifesto"
+        }
+      }
+    ]
+  },
+  {
+    "id": "lincoln-emancipation-proclamation",
+    "topics": [
+      "5.10",
+      "5.2"
+    ],
+    "doc": "lincoln-1863-emancipation-proclamation",
+    "questions": [
+      {
+        "stem": "What limitation is shown by the phrase 'within said designated States, and parts of States'?",
+        "options": [
+          "It applied to all enslaved people in the United States",
+          "It applied only to areas held by the Union army",
+          "It applied only to areas in rebellion on 1 January 1863, leaving slavery in place in loyal border states and exempted areas",
+          "It ended slavery permanently by changing the Constitution"
+        ],
+        "answer": 2,
+        "explanation": "The Proclamation covered the ten states still in rebellion and exempted some Union-controlled areas; slavery in Maryland, Missouri, Tennessee and West Virginia ended by other action. It did not itself change the Constitution.",
+        "ref": {
+          "title": "Emancipation Proclamation",
+          "url": "https://en.wikipedia.org/wiki/Emancipation_Proclamation"
+        }
+      },
+      {
+        "stem": "Why did Lincoln issue the Proclamation as a wartime order?",
+        "options": [
+          "As commander-in-chief in wartime he could act against the Confederacy, whereas he held that the federal government could not end slavery in the states in peacetime",
+          "Because Congress had commanded him to do so in 1862",
+          "Because the Supreme Court had ruled slavery unconstitutional",
+          "Because Britain demanded it before recognizing the Union"
+        ],
+        "answer": 0,
+        "explanation": "Lincoln issued it as Commander-in-Chief 'in time of actual armed rebellion' and accepted that the Constitution did not allow the federal government in peacetime to end slavery in the states. The other three options are not what happened.",
+        "ref": {
+          "title": "Emancipation Proclamation",
+          "url": "https://en.wikipedia.org/wiki/Emancipation_Proclamation"
+        }
+      },
+      {
+        "stem": "Which provision of the Proclamation most helped the Union war effort?",
+        "options": [
+          "It paid compensation to loyal slaveholders",
+          "It ended the Confederate government",
+          "It required Southern states to rewrite their constitutions",
+          "It allowed freed men to be received into the armed service of the United States"
+        ],
+        "answer": 3,
+        "explanation": "The Proclamation allowed former slaves to be received into the armed forces; this added soldiers to the Union. It did not provide compensation.",
+        "ref": {
+          "title": "Emancipation Proclamation",
+          "url": "https://en.wikipedia.org/wiki/Emancipation_Proclamation"
+        }
+      },
+      {
+        "stem": "What finally ended slavery throughout the United States?",
+        "options": [
+          "The Emancipation Proclamation itself",
+          "The Thirteenth Amendment, ratified in 1865",
+          "The Fourteenth Amendment, ratified in 1868",
+          "A Supreme Court ruling in 1863"
+        ],
+        "answer": 1,
+        "explanation": "The Proclamation did not make slavery illegal everywhere. Congress sent the Thirteenth Amendment to the states in January 1865 and it was ratified by December 1865.",
+        "ref": {
+          "title": "Emancipation Proclamation",
+          "url": "https://en.wikipedia.org/wiki/Emancipation_Proclamation"
+        }
+      }
+    ]
   }
 ]

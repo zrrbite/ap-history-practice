@@ -1,0 +1,404 @@
+[
+  {
+    "id": "meiji-charter-oath-1",
+    "topics": [
+      "5.4",
+      "5.6",
+      "5.2"
+    ],
+    "docs": [
+      "meiji-1868-charter-oath"
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE goal of the new Meiji government that is stated in the Charter Oath.",
+        "accept": [
+          "To set up deliberative assemblies so that matters would be decided by public discussion.",
+          "To unite all classes, high and low, in running the affairs of the state.",
+          "To seek knowledge throughout the world to strengthen the foundations of imperial rule.",
+          "Does not earn the point: 'to keep foreigners out of Japan', since the Oath calls for seeking knowledge from the whole world."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE reason Meiji leaders wanted to seek knowledge from other countries.",
+        "accept": [
+          "Western powers had forced Japan to open to trade (the Perry Expedition of 1853-54) and to sign unequal treaties, so leaders wanted Western technology and institutions in order to strengthen Japan and resist foreign domination.",
+          "The shogunate had been weakened by foreign pressure, and the new government pursued 'rich nation, strong army' (fukoku kyohei) by learning industry and military methods from abroad.",
+          "Britain's victory over China in the Opium War showed that a country without modern arms could lose control of its trade and territory.",
+          "Does not earn the point: saying only that Japan 'wanted to be modern' without naming the foreign pressure or the goal it served."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way the promises of the Charter Oath were limited in practice in the decades after 1868.",
+        "accept": [
+          "A parliament with real power was not set up until 1890, so the promise of assemblies went unfulfilled for more than twenty years.",
+          "A small group of oligarchs from Satsuma, Choshu, Tosa and Hizen kept political and military control, so 'public discussion' did not mean power for ordinary people.",
+          "The Oath still assumed classes would continue ('civil and military classes as well as commoners'), so it did not promise equality.",
+          "Does not earn the point: saying the Oath was 'ignored' completely, since the government did adopt a constitution and a Diet."
+        ]
+      }
+    ],
+    "refs": [
+      {
+        "title": "Charter Oath",
+        "url": "https://en.wikipedia.org/wiki/Charter_Oath"
+      },
+      {
+        "title": "Meiji Restoration",
+        "url": "https://en.wikipedia.org/wiki/Meiji_Restoration"
+      }
+    ]
+  },
+  {
+    "id": "chartist-petition-1",
+    "topics": [
+      "5.8",
+      "5.9",
+      "5.2"
+    ],
+    "docs": [
+      "chartist-1838-national-petition"
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE problem facing working people in industrial Britain that is described in the petition.",
+        "accept": [
+          "Heavy taxes and laws that made food dear.",
+          "Workers were starving and low paid ('labour no remuneration') while workhouses were crowded and factories were deserted.",
+          "Government served 'the few' and neglected 'the many'.",
+          "Does not earn the point: 'child labour', which the petition does not mention."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE reason working-class radicals in the 1830s demanded the right to vote.",
+        "accept": [
+          "The Reform Act of 1832 did not extend the vote beyond property owners, so working men felt betrayed and still had no voice in Parliament.",
+          "They believed that only elected representatives of the many would change laws on food prices, taxes and wages, as the petition argues.",
+          "Industrial towns and a growing working class had no say in laws that governed their lives.",
+          "Does not earn the point: saying the Chartists wanted the vote 'to become rich' with no link to law-making or representation."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way Parliament or later governments responded to the Chartist movement.",
+        "accept": [
+          "Parliament rejected the Chartist petitions of 1839, 1842 and 1848, so the movement did not win its demands at the time.",
+          "After the movement died out, Britain adopted all but one of the six points (for example the secret ballot and the end of property qualifications for MPs), showing a delayed, partial victory.",
+          "Authorities used arrests and legal restrictions against Chartist leaders and protests, for example after the 1839 Newport rising.",
+          "Does not earn the point: saying Parliament 'granted universal male suffrage' in the 1840s."
+        ]
+      }
+    ],
+    "refs": [
+      {
+        "title": "Chartism",
+        "url": "https://en.wikipedia.org/wiki/Chartism"
+      }
+    ]
+  },
+  {
+    "id": "kemble-railway-1",
+    "topics": [
+      "5.5",
+      "5.3",
+      "5.7"
+    ],
+    "docs": [
+      "kemble-1830-liverpool-manchester-railway"
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE feature of the new railway that impressed Fanny Kemble.",
+        "accept": [
+          "The speed: about ten miles an hour at the start and twenty-five miles an hour on the Chat Moss section.",
+          "The steam engine's power, which she calls a 'magical machine' with 'flying white breath' and an unvarying pace.",
+          "Engineers had carried the track across swampland ('the road does float').",
+          "Does not earn the point: 'it ran on electricity', since the engine was steam driven."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE reason a railway was built between Liverpool and Manchester.",
+        "accept": [
+          "Raw cotton arrived through the port of Liverpool and had to reach the textile mills inland, and finished cloth had to return for export, so the railway cut the cost of moving goods.",
+          "Merchants believed the existing canals and river navigations charged excessive prices and were slow, so they supported a competing form of transport.",
+          "Industrial growth in Lancashire created demand for cheap and dependable transport of raw materials, goods and passengers.",
+          "Does not earn the point: 'to carry passengers for pleasure', which was not the main commercial motive."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way railways affected industrializing economies in the 1800s.",
+        "accept": [
+          "Railways lowered transport costs and widened markets, so factories could sell goods over a larger area.",
+          "They increased demand for coal, iron and engineering, which stimulated other industries.",
+          "They moved raw materials and workers faster, which helped cities and factory districts grow.",
+          "Does not earn the point: saying railways 'made people richer' without a mechanism."
+        ]
+      }
+    ],
+    "refs": [
+      {
+        "title": "Liverpool and Manchester Railway",
+        "url": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway"
+      },
+      {
+        "title": "Industrial Revolution",
+        "url": "https://en.wikipedia.org/wiki/Industrial_Revolution"
+      }
+    ]
+  },
+  {
+    "id": "rights-of-man-1",
+    "topics": [
+      "5.1",
+      "5.2"
+    ],
+    "docs": [
+      "national-assembly-1789-rights-man-citizen"
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE Enlightenment idea expressed in the Declaration of the Rights of Man and of the Citizen.",
+        "accept": [
+          "Natural rights: men are born free and equal in rights, and these rights are liberty, property, security and resistance to oppression.",
+          "Popular sovereignty: sovereignty resides in the nation, not in the king.",
+          "Equality before the law and law as the expression of the general will.",
+          "Does not earn the point: 'the divine right of kings', which the document rejects."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain how ONE Enlightenment thinker influenced the ideas in this document.",
+        "accept": [
+          "Rousseau's social contract and idea of the general will lie behind the statement that law is the expression of the general will.",
+          "Montesquieu's separation of powers influenced the revolutionaries' view of limited government.",
+          "Locke's natural-rights thinking (life, liberty and property) shaped the list of natural and imprescriptible rights.",
+          "Does not earn the point: naming a thinker with no link to an idea in the document."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way the rights proclaimed in the Declaration were limited in practice in revolutionary France.",
+        "accept": [
+          "Women were excluded: citizens were treated as male, and Olympe de Gouges answered with a Declaration of the Rights of Woman in 1791.",
+          "The Assembly separated 'active' from 'passive' citizens by property requirements, so many men could not vote.",
+          "Slavery continued in French colonies despite the language of equality and liberty.",
+          "Does not earn the point: saying the Declaration was 'ignored' by everyone, since it became a model for later movements."
+        ]
+      }
+    ],
+    "refs": [
+      {
+        "title": "Declaration of the Rights of Man and of the Citizen",
+        "url": "https://en.wikipedia.org/wiki/Declaration_of_the_Rights_of_Man_and_of_the_Citizen"
+      }
+    ]
+  },
+  {
+    "id": "egypt-debt-cromer-1",
+    "topics": [
+      "5.4",
+      "5.6",
+      "5.7"
+    ],
+    "docs": [
+      "cromer-1908-egypt-debt"
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE cause of Egypt's financial crisis according to Cromer.",
+        "accept": [
+          "Ismail Pasha borrowed heavily, adding about seven million pounds a year to the debt for thirteen years.",
+          "Most of the borrowed money was squandered through reckless administration of the finances.",
+          "About sixteen million pounds went to the Suez Canal.",
+          "Does not earn the point: 'European invasion', since Cromer places the origin in borrowing and spending."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE way European powers responded to Egypt's debt in the late 1870s.",
+        "accept": [
+          "They set up the Caisse de la Dette (1876) to collect revenue and pay Egypt's European creditors.",
+          "Britain and France established joint Anglo-French control over much of Egypt's finances.",
+          "Britain and France pressed the Ottoman sultan to depose Ismail in 1879.",
+          "Does not earn the point: saying Europe 'cancelled the debt' or 'gave Egypt a loan with no conditions'."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain how ONE aspect of Cromer's position or purpose could affect the reliability of this account.",
+        "accept": [
+          "Cromer served on the 1878 commission that took control of Egyptian finances and later ruled Egypt as British Consul-General, so blaming Ismail's recklessness helped justify European control.",
+          "He wrote in 1908 as a British imperial official defending British involvement, so he may underplay the role of European lenders and bankers in the debt.",
+          "He was an outsider who saw Egypt through the interests of its European creditors, not of Egyptians.",
+          "Does not earn the point: 'he is biased' with no link to his role."
+        ]
+      }
+    ],
+    "refs": [
+      {
+        "title": "Isma'il Pasha of Egypt",
+        "url": "https://en.wikipedia.org/wiki/Isma%27il_Pasha"
+      }
+    ]
+  },
+  {
+    "id": "abolition-wilberforce-1833-compare-1",
+    "topics": [
+      "5.10",
+      "5.1",
+      "5.6"
+    ],
+    "docs": [
+      "wilberforce-1789-speech-slave-trade",
+      "parliament-1833-slavery-abolition-act"
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE argument Wilberforce uses against the slave trade in his 1789 speech.",
+        "accept": [
+          "It is morally wrong, and the whole of Parliament shares the guilt for letting it continue.",
+          "Captives suffer terrible conditions on the voyage: chained, diseased and forced to 'dance' under the lash.",
+          "Does not earn the point: an economic argument that the trade was unprofitable, which this passage does not make."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE difference between what Wilberforce attacks in 1789 and what the Act of 1833 does.",
+        "accept": [
+          "Wilberforce attacked the slave trade (the transport of captives), while the 1833 Act ended slavery itself in most of the British Empire; Parliament had banned the trade in 1807.",
+          "Wilberforce appealed to conscience and moral guilt, while the Act is a legal measure that sets out compensation and the terms of freedom.",
+          "Does not earn the point: saying the 1833 Act abolished the slave trade, since that happened in 1807."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way the 1833 Act shows that the interests of slaveholders still shaped British abolition.",
+        "accept": [
+          "Parliament granted twenty million pounds in compensation to the owners, but nothing to the enslaved people.",
+          "Freed people over six became 'apprentices' who owed services to their former owners, with apprenticeships ending in 1838 and 1840.",
+          "The Act's wording treats owners as having a 'Right' to services, showing that property rights stayed protected.",
+          "Does not earn the point: saying the Act freed everyone immediately."
+        ]
+      }
+    ],
+    "refs": [
+      {
+        "title": "Slavery Abolition Act 1833",
+        "url": "https://en.wikipedia.org/wiki/Slavery_Abolition_Act_1833"
+      },
+      {
+        "title": "William Wilberforce",
+        "url": "https://en.wikipedia.org/wiki/William_Wilberforce"
+      }
+    ]
+  },
+  {
+    "id": "railways-gandhi-marx-compare-1",
+    "topics": [
+      "5.5",
+      "5.4",
+      "5.10"
+    ],
+    "docs": [
+      "marx-1853-future-results-railways",
+      "gandhi-1909-hind-swaraj-railways"
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE effect of railways in India that Gandhi describes.",
+        "accept": [
+          "Railways helped the English hold India.",
+          "Railways spread bubonic plague by letting people move.",
+          "Railways increased the frequency of famines because grain was sold and sent to the dearest markets.",
+          "Does not earn the point: 'railways made India richer', which is Marx's expectation, not Gandhi's."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE difference between Marx's and Gandhi's views of railways in India.",
+        "accept": [
+          "Marx expected railways to bring machinery and modern industry to India, while Gandhi saw railways as harming India and strengthening British control.",
+          "Marx saw railways, even though built for British interests, as leading to future change, while Gandhi's concern was social and moral damage (disease, famine, bad men acting faster).",
+          "Does not earn the point: saying Marx 'supported British rule', since he describes it as pursuing British self-interest."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE historical development that could account for the change in views between 1853 and 1909.",
+        "accept": [
+          "By 1909 India had a large railway network (from about 1,300 km in 1860 to over 25,000 km in 1880), mostly British owned and run for British commercial and military use, but India had not industrialized in the way Marx predicted.",
+          "Britain's rule had been accompanied by deindustrialization of Indian crafts and by poverty and famine, so Indian critics judged railways by their results.",
+          "Gandhi wrote as an Indian critic seeking self-rule (swaraj) and rejecting modern Western civilization, which gave him a different purpose from Marx, a European writing for a New York newspaper.",
+          "Does not earn the point: 'time passed' or 'Gandhi disliked technology' with no link to events in India."
+        ]
+      }
+    ],
+    "refs": [
+      {
+        "title": "Economic history of India",
+        "url": "https://en.wikipedia.org/wiki/Economic_history_of_India"
+      },
+      {
+        "title": "Hind Swaraj or Indian Home Rule",
+        "url": "https://en.wikipedia.org/wiki/Hind_Swaraj"
+      }
+    ]
+  },
+  {
+    "id": "industrial-continuity-change-1",
+    "topics": [
+      "5.10",
+      "5.3",
+      "5.9"
+    ],
+    "docs": [],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE way the Industrial Revolution changed how goods were produced in Britain.",
+        "accept": [
+          "Production moved from hand methods in homes and workshops to machines (such as the spinning jenny, water frame and power loom).",
+          "Steam and water power drove machines in factories, creating the factory system.",
+          "Does not earn the point: 'goods were made for the first time', since craft production existed before."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE continuity in the lives of working people during industrialization.",
+        "accept": [
+          "Child labour, long hours and harsh working conditions had existed before industrialization and continued, although they became more visible in factories and mines.",
+          "Most working people remained poor and had little political power for decades after industrialization began.",
+          "Does not earn the point: saying conditions were good before factories and became bad after."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way industrialization changed social structure in the 1800s.",
+        "accept": [
+          "An industrial middle class of factory owners and businessmen gained influence over the landed nobility and gentry.",
+          "Factories drew workers from the countryside to growing cities, creating a large urban working class.",
+          "Reports of abuses, especially in mines and textile mills, led to laws such as the Factory Acts of 1833 and 1844 limiting child labour.",
+          "Does not earn the point: 'cities got bigger' with no social effect."
+        ]
+      }
+    ],
+    "refs": [
+      {
+        "title": "Industrial Revolution",
+        "url": "https://en.wikipedia.org/wiki/Industrial_Revolution"
+      }
+    ]
+  }
+]

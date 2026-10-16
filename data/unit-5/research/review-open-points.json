@@ -1,0 +1,32 @@
+[
+  {
+    "item": "enlightenment-revolutions",
+    "file": "dbqs",
+    "point": "The Britannica \"French Revolution\" snapshot holds only the lead, so the three-estates, bread-price and Tennis Court claims rest on the Wikipedia article and standard content."
+  },
+  {
+    "item": "(any citing Seven Years War)",
+    "file": "*",
+    "point": "The Seven Years War article says nothing of the Stamp Act or British debt, yet is cited beside a claim about them. Is the claim right, and is the ref fair?"
+  },
+  {
+    "item": "(any citing Haitian Revolution)",
+    "file": "*",
+    "point": "The Haitian Revolution article does not mention the Louisiana sale or Haitian help to Bolivar, yet is cited beside those claims."
+  },
+  {
+    "item": "riis-tenements",
+    "file": "mcqs",
+    "point": "The Tenement article does not mention the 1901 Tenement House Act, yet is cited beside it."
+  },
+  {
+    "item": "carnegie-wealth-change",
+    "file": "mcqs",
+    "point": "The Social Darwinism article does not name Carnegie, yet is cited beside a claim about him."
+  },
+  {
+    "item": "engels-textile-machinery",
+    "file": "mcqs",
+    "point": "Question 2 option D (a ban on Indian textile imports) is arguable; check that exactly one option is defensible."
+  }
+]

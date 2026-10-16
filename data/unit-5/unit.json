@@ -21,9 +21,9 @@
   },
   "minimums": {
     "documents": 60,
-    "dbqs": 6,
-    "saqs": 12,
-    "mcqs": 9
+    "dbqs": 10,
+    "saqs": 18,
+    "mcqs": 13
   },
   "shareBase": "https://claude.ai/artifact/AmNv52SuJvfeyJQrzLivoV",
   "exampleCode": "dbq.enlightenment-revolutions.k2x9q1"

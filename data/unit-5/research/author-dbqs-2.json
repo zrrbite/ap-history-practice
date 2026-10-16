@@ -1,0 +1,643 @@
+[
+  {
+    "id": "technology-global-economy",
+    "topics": [
+      "5.5"
+    ],
+    "prompt": "Evaluate the extent to which new technologies of production, transportation and communication changed the global economy in the period c. 1750–1900.",
+    "groups": [
+      {
+        "key": "speed-and-scale",
+        "label": "Steam, machines and rails: more goods, faster"
+      },
+      {
+        "key": "global-integration",
+        "label": "Cables, canals and steamships: one world market"
+      },
+      {
+        "key": "unequal-effects",
+        "label": "Who gained and who lost: dependence and deindustrialization"
+      }
+    ],
+    "pool": [
+      {
+        "doc": "kemble-1830-liverpool-manchester-railway",
+        "group": "speed-and-scale",
+        "sourcing": "Fanny Kemble, an English actress, wrote this letter about a trial trip on the new Liverpool and Manchester Railway in 1830, and she was a passenger who was amazed rather than an economist. It shows the speed (ten, then twenty-five miles an hour) that contemporaries first met, but one traveller's wonder says little about the railway's effect on trade or output."
+      },
+      {
+        "doc": "twain-1883-steamboat-railroad",
+        "group": "speed-and-scale",
+        "sourcing": "Mark Twain, an American author and former Mississippi steamboat pilot, looked back in 1883 on how newer transport had replaced older. He shows railroads cutting a week-long journey to two or three days and steamboats killing keel-boating, so he is a good witness to speed and to technologies displacing each other, but he writes about one American river and with some regret as a former pilot."
+      },
+      {
+        "doc": "nasmyth-1883-self-acting-machine-tools",
+        "group": "speed-and-scale",
+        "sourcing": "James Nasmyth was a Manchester machine-tool maker who recalled the 1830s in his 1883 autobiography, so he speaks as an employer and seller of machines. He shows machines valued for accuracy and regularity and as a way to be rid of unreliable hand labour, which is good evidence for the scale of mechanization but also for how factory owners saw workers."
+      },
+      {
+        "doc": "yung-1909-joint-stock-steamship-proposal",
+        "group": "speed-and-scale",
+        "sourcing": "Yung Wing, a Chinese educator and reformer, recalled in a memoir of 1909 his proposals to the Qing government of 1868, so he writes decades later and in praise of his own idea. He wanted steam to replace junks and scows in carrying rice, which shows that the new technology reached China and was meant to change an old transport system, though his claims of benefit are the claims of the proposer."
+      },
+      {
+        "doc": "buchanan-1858-atlantic-cable-reply",
+        "group": "global-integration",
+        "sourcing": "President James Buchanan answered Queen Victoria over the first transatlantic telegraph cable in August 1858, in a ceremonial exchange between heads of state. His hope that it would bind nations and spread law and civilization shows the high expectations placed on communication technology, but it is a political message of congratulation and does not measure any change in trade."
+      },
+      {
+        "doc": "jevons-1865-coal-question-world-supplies",
+        "group": "global-integration",
+        "sourcing": "W. Stanley Jevons, an English economist, described in The Coal Question (1865) how Britain drew grain, timber, wool and precious metals from distant regions and how commerce was making a web of exchange. He writes from the viewpoint of the industrial core, with 'our' granaries and farms, so he is strong evidence of integration but not of how the supplying regions fared."
+      },
+      {
+        "doc": "babbage-1832-cotton-india-lancashire",
+        "group": "global-integration",
+        "sourcing": "Charles Babbage, an English mathematician and observer of British factories, wrote in 1832 that Indian cotton went by British ships to Lancashire and came back as cloth sold at a price lower than the one at which local makers could produce it. He sees this as a benefit of machinery to distant kingdoms, so his account shows the global flow of goods and the pull on India, while his approving view must be set against Indian voices."
+      },
+      {
+        "doc": "den-1908-telegraph-japan",
+        "group": "global-integration",
+        "sourcing": "Baron Kenjiro Den, a Japanese communications official, wrote this chapter for Fifty Years of New Japan (1907-08) as a state servant telling a story of progress. It shows the telegraph arriving in Japan with Commodore Perry's gift in 1854 and spreading after the Restoration under an English engineer, so it is useful for how a non-Western state took up imported communication technology, though it is an official's celebration."
+      },
+      {
+        "doc": "naoroji-1871-benefits-detriments-material",
+        "group": "unequal-effects",
+        "sourcing": "Dadabhai Naoroji, an Indian economist and later a member of the British Parliament, set out credit and debit accounts of British rule in 1871, as an Indian critic arguing about the cost of empire. He lists railways and telegraphs on the credit side but also exports without compensation and loss of manufacturing industry, so he shows both the gains of the technology and who paid for it, from the viewpoint of a colonial subject."
+      },
+      {
+        "doc": "weeks-1903-congo-public-works-morel",
+        "group": "unequal-effects",
+        "sourcing": "J. H. Weeks, a British Baptist missionary on the Upper Congo, wrote this letter in 1903 to E. D. Morel, who quoted it in Red Rubber (1906) for his reform campaign, so the passage was chosen to make a case. It claims that the Congo railway paid large dividends to shareholders while the people paid taxes and kept roads clear for nothing, which is eyewitness evidence of who gained from the railway."
+      },
+      {
+        "doc": "gandhi-1909-hind-swaraj-railways",
+        "group": "unequal-effects",
+        "sourcing": "M. K. Gandhi, an Indian lawyer and political thinker, wrote Hind Swaraj in 1909 as an argument against modern civilization and British rule, and the railways chapter is polemic. He claims that railways strengthened the British hold on India and increased plague and famine, which gives a non-European, critical view of the effects, though the claims are sweeping and meant to persuade."
+      },
+      {
+        "doc": "dutt-1904-india-poverty",
+        "group": "unequal-effects",
+        "sourcing": "Romesh Chunder Dutt, an Indian civil servant and economic historian, wrote this preface in December 1903 to an economic history of India under Victorian rule, and he argues from official figures. He contrasts income per head of £2 in India with £42 in Great Britain, which shows that the empire's gains from industry did not reach India, though he writes as a critic of British policy."
+      }
+    ],
+    "notes": {
+      "thesis": [
+        "To a great extent: steam power, factories, railways and steamships raised output and cut the time of transport (a railway at twenty-five miles an hour, a canal that shortened the route from Europe to the Indian Ocean), while the telegraph and cables joined distant markets, so by 1900 grain, cotton, timber and rubber were produced for a world market that had not existed in 1750.",
+        "To a limited extent: the technologies changed how much and how fast, but who controlled capital, coal and colonies decided who benefited, so they made the global economy more unequal rather than creating a common prosperity, as seen in India's loss of manufacturing and the Congo railway's dividends.",
+        "The change was real but dependent on older conditions: Britain's coal, capital and empire made the new machines pay, and states such as Japan and China adopted steam and the telegraph through government and joint-stock enterprise, so technology alone did not change the economy; it changed it where politics and money allowed."
+      ],
+      "contextualization": [
+        {
+          "text": "The Industrial Revolution began in Great Britain around 1760 and spread to continental Europe and the United States by about 1840, moving from hand production to machines, the factory system and the use of steam power.",
+          "ref": {
+            "title": "Industrial Revolution",
+            "url": "https://en.wikipedia.org/wiki/Industrial_Revolution"
+          }
+        },
+        {
+          "text": "Before 1750, mercantilism was the dominant economic thought of Europe's states, which used colonies, trading monopolies and tariffs to build national wealth, so world trade was shaped by state control and empire before new technology expanded it.",
+          "ref": {
+            "title": "Mercantilism",
+            "url": "https://en.wikipedia.org/wiki/Mercantilism"
+          }
+        },
+        {
+          "text": "A second wave of industrialization from about 1870 added mass-produced steel and electricity to the earlier steam and iron technology and made large new industries and communications possible.",
+          "ref": {
+            "title": "Second Industrial Revolution",
+            "url": "https://en.wikipedia.org/wiki/Second_Industrial_Revolution"
+          }
+        }
+      ],
+      "outsideEvidence": [
+        {
+          "text": "The Suez Canal, built by Ferdinand de Lesseps's company from 1859, opened on 17 November 1869 and gave ships a direct route between Europe and the Indian Ocean through the Mediterranean and Red seas, avoiding the voyage round Africa.",
+          "ref": {
+            "title": "Suez Canal",
+            "url": "https://en.wikipedia.org/wiki/Suez_Canal"
+          }
+        },
+        {
+          "text": "The first transcontinental railroad in the United States, built between 1863 and 1869 and completed at Promontory Summit, Utah, on 10 May 1869, joined the eastern rail network to the Pacific coast.",
+          "ref": {
+            "title": "First transcontinental railroad",
+            "url": "https://en.wikipedia.org/wiki/First_transcontinental_railroad"
+          }
+        },
+        {
+          "text": "Henry Bessemer patented his process in 1856, the first inexpensive industrial method of mass-producing steel from pig iron, which made steel for rails, ships and machines far cheaper.",
+          "ref": {
+            "title": "Bessemer process",
+            "url": "https://en.wikipedia.org/wiki/Bessemer_process"
+          }
+        },
+        {
+          "text": "Eli Whitney's cotton gin of 1793 made short-staple cotton much easier to clean and caused a huge growth in cotton production in the American South (from 750,000 bales in 1830 to 2.85 million in 1850), which supplied British mills and tied the region more tightly to slave labour.",
+          "ref": {
+            "title": "Cotton gin",
+            "url": "https://en.wikipedia.org/wiki/Cotton_gin"
+          }
+        },
+        {
+          "text": "Samuel Morse's electric telegraph sent its first long-distance message, 'What hath God wrought', from Washington to Baltimore on 24 May 1844, and telegraph lines then spread quickly across continents.",
+          "ref": {
+            "title": "Electrical telegraph",
+            "url": "https://en.wikipedia.org/wiki/Electrical_telegraph"
+          }
+        },
+        {
+          "text": "The Amazon rubber boom (1879-1912), driven by rising world demand for rubber, built up cities such as Manaus and Belém and relied on forced labour, including slave raids on Indigenous peoples.",
+          "ref": {
+            "title": "Amazon rubber cycle",
+            "url": "https://en.wikipedia.org/wiki/Amazon_rubber_cycle"
+          }
+        }
+      ],
+      "complexity": [
+        "Explain similarity and difference: the same technologies, the railway and the telegraph, were adopted by Japan and China through state and joint-stock effort (Den, Yung Wing) but imposed in India and the Congo by colonial rulers (Naoroji, Weeks, Gandhi), so the effect depended on who controlled them.",
+        "Corroborate across groups: Babbage describes Indian cotton going to Lancashire and returning as cheaper cloth as a benefit of machinery, and Naoroji and Dutt describe the same flow as lost manufacturing and a widening income gap, so one pattern of integration looks like progress from the core and impoverishment from the periphery.",
+        "Qualify with a counter-argument: Twain shows new technology replacing older transport inside a single country, and Jevons shows the whole system resting on British coal and imports, so the global change was not only caused by invention; it also depended on fuel, capital and political power."
+      ]
+    }
+  },
+  {
+    "id": "economic-ideas-institutions",
+    "topics": [
+      "5.7"
+    ],
+    "prompt": "Evaluate the extent to which new economic ideas and institutions shaped industrial economies in the period c. 1750–1900.",
+    "groups": [
+      {
+        "key": "free-market-ideas",
+        "label": "Laissez-faire and free trade: let the market work"
+      },
+      {
+        "key": "companies-and-banks",
+        "label": "Companies, banks and gold: new ways to gather capital"
+      },
+      {
+        "key": "critics",
+        "label": "Critics and responses: Romantic, colonial and working-class objections"
+      }
+    ],
+    "pool": [
+      {
+        "doc": "bastiat-1845-candlemakers-petition",
+        "group": "free-market-ideas",
+        "sourcing": "Frederic Bastiat, a French free-trade economist, wrote this satire of protectionism in 1845 as a joke petition from candle makers asking that windows be shut to keep out the sun's competition. It shows the free-trade argument that protection harms consumers, but it is an advocate's exaggeration and shows the idea, not whether any economy changed."
+      },
+      {
+        "doc": "sumner-1883-laissez-faire-mind-your-business",
+        "group": "free-market-ideas",
+        "sourcing": "William Graham Sumner, an American sociologist and Yale professor, wrote in 1883 to argue that society should be 'let alone' and that laissez faire means 'mind your own business'. He shows how strong the doctrine was in the late-century United States, but he is an academic advocate and the passage cannot show how far policy followed it."
+      },
+      {
+        "doc": "mill-1848-benefits-of-commerce",
+        "group": "free-market-ideas",
+        "sourcing": "John Stuart Mill, an English philosopher and economist, set out in Principles of Political Economy (1848) the benefits of a larger market: more division of labor, more machinery and invention, and goodwill between nations. He is a liberal writing for the argument for trade, so the passage shows what free-trade ideas promised, including his hope that commerce would make war obsolete, which is a claim and not a result."
+      },
+      {
+        "doc": "carnegie-1889-wealth-change",
+        "group": "free-market-ideas",
+        "sourcing": "Andrew Carnegie, a Scottish-born American steel manufacturer, defended in this 1889 essay the great inequality that industrial society had produced, calling it better than universal squalor. As one of the winners of the system he is a self-interested witness, but he shows how supporters of the market economy justified its results."
+      },
+      {
+        "doc": "bagehot-1873-lombard-street-limited-liability",
+        "group": "companies-and-banks",
+        "sourcing": "Walter Bagehot, an English banker and editor of The Economist, wrote Lombard Street (1873) as an insider describing the London money market. He notes that limited liability in banks had long been a monopoly of the Bank of England and that the law allowed it only by charter or statute, so he is good evidence for how a new legal form was introduced, though he writes only about England."
+      },
+      {
+        "doc": "shibusawa-1908-first-national-bank-shareholders",
+        "group": "companies-and-banks",
+        "sourcing": "Baron Shibusawa Eiichi, a Japanese official turned banker and founder of the First National Bank, wrote this chapter for Fifty Years of New Japan (1907-08) from his own experience. He shows that the first joint-stock companies in Japan were banks and that the government had to persuade or almost order the Mitsui and Ono houses to form the bank, so he is evidence that a Western institution was adopted with state push, though he is telling his own success."
+      },
+      {
+        "doc": "bryan-1896-cross-of-gold",
+        "group": "companies-and-banks",
+        "sourcing": "William Jennings Bryan, a Nebraska congressman and Democratic presidential candidate, gave the 'Cross of Gold' speech to his party's convention in July 1896 to win votes for farmers and labor. He attacks the gold standard as a harm to the farming country, which shows that the monetary institution was contested and who felt hurt by it, but it is campaign rhetoric."
+      },
+      {
+        "doc": "carlyle-1843-mammon-gospel-cash-payment",
+        "group": "critics",
+        "sourcing": "Thomas Carlyle, a Scottish essayist and Romantic social critic, wrote Past and Present (1843) to attack the idea that cash payment is the only bond between people, using the rich mill owner who says he hired his workers fairly. He shows a moral and Romantic critique of the market economy at the time of the 1840s distress, but he offers a protest and not a program."
+      },
+      {
+        "doc": "ruskin-1860-unto-this-last-no-wealth-but-life",
+        "group": "critics",
+        "sourcing": "John Ruskin, an English art critic and social thinker, wrote Unto This Last (1860) against political economists who treat man as a 'covetous machine'. His claim that 'there is no wealth but life' gives a moral critique of the market economy from outside economics, so it shows what critics rejected, not how an economy worked."
+      },
+      {
+        "doc": "george-1879-progress-and-poverty-disappointment",
+        "group": "critics",
+        "sourcing": "Henry George, an American journalist and economist, wrote Progress and Poverty (1879) to explain why poverty went on despite invention and progress. This passage lists the signs of disappointment, idle labor and distress among working classes, which shows a reformer's reading of an industrial economy in depression, though it states the problem and does not prove its cause."
+      },
+      {
+        "doc": "gandhi-1909-hind-swaraj-machinery-manchester",
+        "group": "critics",
+        "sourcing": "M. K. Gandhi, an Indian lawyer and political thinker, wrote Hind Swaraj in 1909 and in the chapter on machinery blamed Manchester for the disappearance of Indian handicraft. He gives a colonial subject's critique of industrial capitalism, so he shows the cost to India, but it is a polemic written to argue for a different civilization."
+      },
+      {
+        "doc": "rochdale-1844-pioneers-objects",
+        "group": "critics",
+        "sourcing": "The Rochdale Equitable Pioneers' Society, a co-operative society of Lancashire working men, stated its objects in 1844 (printed in Holyoake's History of the Rochdale Pioneers). It raised capital in one-pound shares to open a store and to employ members who lacked work, which shows working people responding to the market economy by using its own tools, though the text is a plan and not a record of results."
+      }
+    ],
+    "notes": {
+      "thesis": [
+        "To a great extent: free-trade and laissez-faire ideas, together with joint-stock companies, limited liability and banks, let investors gather far more capital and let goods and money move across borders, and they shaped industrial economies in Britain, Germany, Japan and the United States.",
+        "To a moderate extent: ideas and institutions mattered, but states often made them work or bent them, as when the Japanese government pressed the Mitsui and Ono houses to found a bank or when farmers fought the gold standard, so the economies were shaped as much by politics and interests as by the ideas of free markets.",
+        "The ideas and institutions also shaped industrial economies by provoking their critics: moral, Romantic, colonial and working-class objections led to co-operatives, reform movements and later laws, so the market economy of 1900 differed from the laissez-faire model because of what it called forth."
+      ],
+      "contextualization": [
+        {
+          "text": "Mercantilism was the dominant economic thought in Europe from the 15th to the 18th centuries, using colonies, monopolies and tariffs to build national wealth, and the new ideas of free trade and laissez-faire were a response to it.",
+          "ref": {
+            "title": "Mercantilism",
+            "url": "https://en.wikipedia.org/wiki/Mercantilism"
+          }
+        },
+        {
+          "text": "Adam Smith's The Wealth of Nations (1776) criticized mercantilist policy, described the 'invisible hand' of individuals in a free market, and gave later thinkers the base for classical economics and for the economic policies of the 19th century.",
+          "ref": {
+            "title": "The Wealth of Nations",
+            "url": "https://en.wikipedia.org/wiki/The_Wealth_of_Nations"
+          }
+        },
+        {
+          "text": "Joint-stock companies had a long history before the period: in 1602 the Dutch East India Company issued shares that could be traded on the Amsterdam Stock Exchange, a way to attract capital that later industrial companies used.",
+          "ref": {
+            "title": "Joint-stock company",
+            "url": "https://en.wikipedia.org/wiki/Joint-stock_company"
+          }
+        }
+      ],
+      "outsideEvidence": [
+        {
+          "text": "The Corn Laws, which kept grain prices high with tariffs and import restrictions between 1815 and 1846, were repealed in 1846 under Prime Minister Sir Robert Peel, after pressure from urban groups and the first years of the Great Famine in Ireland, a victory for free-trade ideas in Britain.",
+          "ref": {
+            "title": "Corn Laws",
+            "url": "https://en.wikipedia.org/wiki/Corn_Laws"
+          }
+        },
+        {
+          "text": "The Zollverein, a German customs union led by Prussia, formally started on 1 January 1834 and by 1866 included most German states, removing many internal customs barriers and building an economic base for later unification.",
+          "ref": {
+            "title": "Zollverein",
+            "url": "https://en.wikipedia.org/wiki/Zollverein"
+          }
+        },
+        {
+          "text": "The international classical gold standard began in 1873 after the German Empire replaced its silver coins with the gold mark (law of 4 December 1871), and other countries then tied their currencies to gold.",
+          "ref": {
+            "title": "Gold standard",
+            "url": "https://en.wikipedia.org/wiki/Gold_standard"
+          }
+        },
+        {
+          "text": "The Sherman Antitrust Act of 1890 was the United States law against unfair monopolies and restraints of trade, a state response to the power of the trusts that had grown up in a market economy.",
+          "ref": {
+            "title": "Sherman Antitrust Act",
+            "url": "https://en.wikipedia.org/wiki/Sherman_Antitrust_Act"
+          }
+        },
+        {
+          "text": "Pope Leo XIII's encyclical Rerum novarum (15 May 1891) described the plight of the urban poor, condemned laissez-faire capitalism, supported private property and called for trade unions and collective bargaining, a religious critique of the market economy.",
+          "ref": {
+            "title": "Rerum novarum",
+            "url": "https://en.wikipedia.org/wiki/Rerum_novarum"
+          }
+        }
+      ],
+      "complexity": [
+        "Explain similarity and difference: Bagehot in England and Shibusawa in Japan both describe the joint-stock bank as a new institution, but in England it grew through law and private profit while in Japan the government had to push wealthy families to form it, so the same institution rested on different political conditions.",
+        "Corroborate across groups: Carlyle (1843), Ruskin (1860) and George (1879) object in different decades that the market ignored human life and left poverty beside progress, which supports the point that the critics were responding to real effects that the defenders such as Carnegie and Sumner accepted as the price of progress.",
+        "Qualify with a counter-argument: Mill and Bastiat argue for free trade as if it were the rule, but Bryan's attack on gold and the Rochdale co-operators' use of shares show people bending the market's institutions to their own needs, so the new ideas did not simply shape economies; economies also reshaped how the ideas were used."
+      ]
+    }
+  },
+  {
+    "id": "nationalism-identity",
+    "topics": [
+      "5.2"
+    ],
+    "prompt": "Evaluate the extent to which nationalism changed political identities in the period c. 1750–1900.",
+    "groups": [
+      {
+        "key": "unification",
+        "label": "Many states, one nation: Italy, Germany and Japan"
+      },
+      {
+        "key": "independence",
+        "label": "Breaking away from empires: Latin America, the Philippines and Ireland"
+      },
+      {
+        "key": "limits",
+        "label": "Who the nation left out, and nationalism used by states"
+      }
+    ],
+    "pool": [
+      {
+        "doc": "mazzini-1858-duties-of-man-country",
+        "group": "unification",
+        "sourcing": "Giuseppe Mazzini, an Italian republican nationalist and founder of Young Italy, wrote The Duties of Man (1858) to persuade readers that God had divided humanity into nations and that people owed duties to their country. He shows the idea of the nation at its most ideal, from a leader of the movement, so it is strong evidence of the ideology but not of what ordinary Italians felt."
+      },
+      {
+        "doc": "garibaldi-1859-proclamation-italians",
+        "group": "unification",
+        "sourcing": "Giuseppe Garibaldi, an Italian nationalist general, issued this manifesto in Genoa in November 1859 to his companions in arms in Central Italy. It speaks of a great nation, a people ready to die for liberty and hatred of foreign domination, which shows how the cause was rallied by a military leader, but it is a call to arms meant to inspire and not a description of Italian opinion."
+      },
+      {
+        "doc": "fichte-1808-addresses-german-nation",
+        "group": "unification",
+        "sourcing": "Johann Gottlieb Fichte, a German philosopher, delivered his Addresses to the German Nation in Berlin in 1808 under French occupation. He argues that those who speak the same language are joined by nature and form a natural state, which shows a cultural idea of the German nation before unification, but it is a philosopher's answer to defeat and not a political program."
+      },
+      {
+        "doc": "meiji-1868-charter-oath",
+        "group": "unification",
+        "sourcing": "The Charter Oath was issued in the name of Emperor Meiji by the new government in March 1868. It calls on all people, high and low, to unite their minds in conducting the affairs of the state and to seek knowledge throughout the world, which shows a government building a national identity from a divided class society, but it is an official statement of intent and not proof that people took it up."
+      },
+      {
+        "doc": "rizal-1889-philippines-century-hence",
+        "group": "independence",
+        "sourcing": "Jose Rizal, a Filipino reformer and writer, published this essay in La Solidaridad in Madrid in 1889-1890 to argue to a Spanish audience that the Philippines needed more liberty. He warns that the islands will either stay under Spain with more law and liberty or declare independence in blood, so he shows nationalism in the Philippines at a reformist stage, and his readers were Spaniards he hoped to persuade."
+      },
+      {
+        "doc": "mitchel-1861-davis-free-sovereign-ireland",
+        "group": "independence",
+        "sourcing": "John Mitchel, an Irish nationalist journalist of the Young Ireland movement, wrote about Thomas Davis in The Last Conquest of Ireland (1861), looking back on the 1840s. He shows an Irish nationalism of a free, sovereign state with a common love of the land and an end to religious feuds, but he is a partisan describing his hero, and his language about an 'inferior race' shows the prejudice that could go with it."
+      },
+      {
+        "doc": "tucuman-1816-declaration-independence",
+        "group": "independence",
+        "sourcing": "The Congress of the United Provinces of South America, meeting at Tucumán, issued this declaration in 1816 (an English text adapted from Miller's Memoirs) to the world and to its own people. It breaks the ties to the king of Spain in the name of the people and complains of being denied education, which shows creole leaders taking on a national identity, though they speak as an elite assembly."
+      },
+      {
+        "doc": "herzl-1896-jewish-state-one-people",
+        "group": "limits",
+        "sourcing": "Theodor Herzl, a Viennese Jewish journalist and founder of political Zionism, wrote The Jewish State in 1896 after finding that Jews were still treated as strangers where they had lived for centuries. He shows how nations in Europe could exclude a minority and how that exclusion produced a new nationalism, though he is an advocate for a Jewish state, not a neutral observer."
+      },
+      {
+        "doc": "seneca-falls-1848-declaration-sentiments",
+        "group": "limits",
+        "sourcing": "Elizabeth Cady Stanton and the Seneca Falls convention issued the Declaration of Sentiments in 1848, copying the American Declaration of Independence to claim that women too have rights. It shows women left out of citizenship (civilly dead, no property, shut out of colleges), which is evidence that a political community's ideals did not include them, though it states the aims of one convention of reformers."
+      },
+      {
+        "doc": "douglass-1852-fourth-of-july",
+        "group": "limits",
+        "sourcing": "Frederick Douglass, a formerly enslaved abolitionist and orator, spoke at Rochester in 1852 to a white audience on what the Fourth of July meant to the slave. He calls the nation's liberty a sham for the enslaved, which shows how a national celebration left out Black Americans, though it is a speech built to shame and persuade his hearers."
+      },
+      {
+        "doc": "mill-1861-nationalities-absorbed",
+        "group": "limits",
+        "sourcing": "John Stuart Mill, a British philosopher and member of Parliament, wrote Considerations on Representative Government (1861) and in the chapter on nationality argued that smaller peoples such as Bretons, Basques and Scottish Highlanders gain from absorption into a larger, more civilized nation. He shows a liberal view in which the large nation was the norm and minorities should merge, which helps with the limits of nationalism but reflects his own assumptions."
+      },
+      {
+        "doc": "meiji-1890-rescript-on-education",
+        "group": "limits",
+        "sourcing": "Emperor Meiji's Imperial Rescript on Education of 30 October 1890 was a state document for schools. It tells subjects to be loyal and filial, obey the laws and offer themselves courageously to the State in an emergency, which shows a government using national identity to produce loyal citizens, though it states what the state wanted and not what pupils believed."
+      }
+    ],
+    "notes": {
+      "thesis": [
+        "To a great extent: nationalism redrew political identities, turning the loyalty of subjects to a dynasty or a locality into loyalty to a nation, and it built the new states of Italy and Germany, the independent Greece and Latin American republics, and a centralized Japan, by 1900.",
+        "To a moderate extent: nationalism changed identities mainly for the leaders and educated groups who wrote the manifestos, while peasants, women, enslaved people and minorities often found the nation closed to them, so the new political identity was real but narrower than the movements claimed.",
+        "Nationalism changed identities as much through states as through peoples: governments such as Meiji Japan used schools and oaths to create a national identity from above, while colonized peoples such as Filipinos and Irish turned the same idea against their rulers, so it served both order and rebellion."
+      ],
+      "contextualization": [
+        {
+          "text": "The French Revolution (1789-1799) began when the Third Estate reconstituted itself as a National Assembly, and its principle of popular sovereignty made 'the nation' rather than the king the source of political authority.",
+          "ref": {
+            "title": "French Revolution",
+            "url": "https://en.wikipedia.org/wiki/French_Revolution"
+          }
+        },
+        {
+          "text": "The Congress of Vienna (1814-1815) tried to settle Europe after Napoleon's defeat by resizing the great powers and restoring a conservative order led by Metternich, and many later nationalist movements opposed this settlement.",
+          "ref": {
+            "title": "Congress of Vienna",
+            "url": "https://en.wikipedia.org/wiki/Congress_of_Vienna"
+          }
+        },
+        {
+          "text": "Nationalism is the idea that the nation should be congruent with the state, and scholars usually place its beginning in the late 18th or early 19th century with the American Declaration of Independence or the French Revolution.",
+          "ref": {
+            "title": "Nationalism",
+            "url": "https://en.wikipedia.org/wiki/Nationalism"
+          }
+        }
+      ],
+      "outsideEvidence": [
+        {
+          "text": "German unification was completed when the German Empire was proclaimed on 18 January 1871, led by the Kingdom of Prussia under Minister President Otto von Bismarck, after the war with France of 1870-71.",
+          "ref": {
+            "title": "Unification of Germany",
+            "url": "https://en.wikipedia.org/wiki/Unification_of_Germany"
+          }
+        },
+        {
+          "text": "Italian unification (the Risorgimento) was led by King Victor Emmanuel II of Sardinia and his statesman Cavour as well as Garibaldi; the Kingdom of Italy was proclaimed in 1861 and Rome became its capital in 1871.",
+          "ref": {
+            "title": "Unification of Italy",
+            "url": "https://en.wikipedia.org/wiki/Italian_unification"
+          }
+        },
+        {
+          "text": "The Greek War of Independence began in 1821 against Ottoman rule; the Russian, British and French fleets destroyed the Ottoman-Egyptian fleet at Navarino in 1827, which turned the war in the Greeks' favour.",
+          "ref": {
+            "title": "Greek War of Independence",
+            "url": "https://en.wikipedia.org/wiki/Greek_War_of_Independence"
+          }
+        },
+        {
+          "text": "The Revolutions of 1848 were a wave of uprisings across Europe led by shifting coalitions of workers and reformers with liberal and national aims; most were quickly suppressed.",
+          "ref": {
+            "title": "Revolutions of 1848",
+            "url": "https://en.wikipedia.org/wiki/Revolutions_of_1848"
+          }
+        },
+        {
+          "text": "The Indian National Congress was founded on 28 December 1885, with 72 delegates at its first session, mostly lawyers, and in its early years it advocated reforms within the British Empire.",
+          "ref": {
+            "title": "Indian National Congress",
+            "url": "https://en.wikipedia.org/wiki/Indian_National_Congress"
+          }
+        },
+        {
+          "text": "The Zollverein, a customs union of German states which started on 1 January 1834 under Prussian leadership, removed internal tariffs and helped to knit the German states together before political unification.",
+          "ref": {
+            "title": "Zollverein",
+            "url": "https://en.wikipedia.org/wiki/Zollverein"
+          }
+        }
+      ],
+      "complexity": [
+        "Explain similarity and difference: Mazzini, Garibaldi and Fichte all define the nation by a shared people and hostility to foreign domination, but the Italian and German movements built new states by joining many small ones while Tucumán, Rizal and Mitchel sought to leave an existing empire, so the same idea unified in one place and divided in another.",
+        "Corroborate across groups: Tucumán (1816) and Seneca Falls (1848) both copy the language of the American Declaration of Independence, and Douglass shows the limit, since the rights of 'the people' were claimed by some groups and denied to others, so the ideal of the nation and its practice must be read together.",
+        "Qualify with a counter-argument: Mill's view that small nationalities should merge and the 1890 Rescript on Education show nationalism being managed by states for their own aims, so the new identity was not always the people's own creation; and Herzl shows that exclusion by nations could itself create a new nationalism."
+      ]
+    }
+  },
+  {
+    "id": "labor-continuity-change",
+    "topics": [
+      "5.10"
+    ],
+    "prompt": "Evaluate the extent to which labor systems changed in the period c. 1750–1900.",
+    "groups": [
+      {
+        "key": "wage-labor",
+        "label": "Factory and mill work: the new wage system"
+      },
+      {
+        "key": "persisting-coercion",
+        "label": "Slavery, serfdom and debt: coercion that persisted"
+      },
+      {
+        "key": "abolition-and-reform",
+        "label": "Abolition, emancipation and laws for workers"
+      }
+    ],
+    "pool": [
+      {
+        "doc": "ure-1835-philosophy-of-manufactures",
+        "group": "wage-labor",
+        "sourcing": "Andrew Ure, a Scottish professor and defender of the factory system, wrote The Philosophy of Manufactures (1835) to praise machines and the new factory work. He argues that the factory weaver earns good steady wages and a healthy workshop while the hand weaver is poor, which shows the case for wage labor from an employers' friend, so it must be tested against the workers' own accounts."
+      },
+      {
+        "doc": "robinson-1898-lowell-turn-out",
+        "group": "wage-labor",
+        "sourcing": "Harriet Hanson Robinson, a former Lowell mill worker who began in the mills as a child, recalled the 1836 strike in her book Loom and Spindle (1898), so she writes sixty years later. She shows that young women in the mills could organize a turn-out of over a thousand, but also that it did no good and the corporation went on cutting wages, so she is evidence for both the power and the limits of wage workers."
+      },
+      {
+        "doc": "bentley-1832-sadler-committee",
+        "group": "wage-labor",
+        "sourcing": "Elizabeth Bentley, a 23-year-old from Leeds who began work in a flax mill at age six, gave this testimony to the Sadler Committee of the House of Commons in 1832. It describes a working day from five in the morning to nine at night and strapping of children, which makes it strong evidence of conditions in the new system, though the committee was gathering evidence for factory reform and chose witnesses to support it."
+      },
+      {
+        "doc": "prince-1831-history-slaves-want-freedom",
+        "group": "persisting-coercion",
+        "sourcing": "Mary Prince, a formerly enslaved woman from Bermuda who had worked in the West Indies, told her History in 1831 for readers in England, in a period of antislavery campaigning. She says slaves want freedom and proper wages like English servants, which shows slavery persisting in the British colonies and how the enslaved saw wage work, but the narrative was related to and shaped for an abolitionist audience."
+      },
+      {
+        "doc": "jacobs-1861-incidents-wages-stolen",
+        "group": "persisting-coercion",
+        "sourcing": "Harriet Jacobs, writing as Linda Brent, was a formerly enslaved woman who escaped to the North and published Incidents in the Life of a Slave Girl in 1861 to move readers against slavery. She says the enslaved had their wages stolen and that she was subject to slave laws even in New York, which shows how coercion reached into the free North, though it is an abolitionist's testimony."
+      },
+      {
+        "doc": "washington-1901-mortgaged-crops",
+        "group": "persisting-coercion",
+        "sourcing": "Booker T. Washington, a formerly enslaved Black educator in Alabama, described the rural South of the 1880s in Up from Slavery (1901). He found the crops mortgaged and most Black farmers in debt, with children put to work in the cotton rows, which shows how debt held workers after slavery ended, though he wrote years later and as a leader who favored self-help."
+      },
+      {
+        "doc": "mississippi-1865-black-code-labor-contracts",
+        "group": "persisting-coercion",
+        "sourcing": "The Legislature of Mississippi passed this Black Code in November 1865 (as reproduced by Teaching American History), the year slavery was ending, in a legislature of former slaveholders. It requires labor contracts and makes any freedman who quits forfeit his wages and be arrested and returned to his employer, which shows coercion continuing after formal abolition, in the words of the law itself."
+      },
+      {
+        "doc": "wallace-1877-russia-emancipation-redemption",
+        "group": "persisting-coercion",
+        "sourcing": "Donald Mackenzie Wallace, a British journalist who lived in Russia before and after emancipation, described the redemption payments in Russia (revised edition 1905; first published 1877). He explains that the peasants had to repay the state's advance with 6 per cent interest for forty-nine years and some communes were not consulted, which shows freedom bound to long debt, though he is a foreign observer."
+      },
+      {
+        "doc": "wilberforce-1789-speech-slave-trade",
+        "group": "abolition-and-reform",
+        "sourcing": "William Wilberforce, a member of the House of Commons and leader of the abolition cause, spoke on the slave trade on 12 May 1789 to persuade Parliament, taking shame on himself and the whole body. His description of chained captives and the lash gave the case for ending the trade, and it shows an abolition campaigner's method, though it comes from the start of the campaign and the trade lasted past it."
+      },
+      {
+        "doc": "parliament-1833-slavery-abolition-act",
+        "group": "abolition-and-reform",
+        "sourcing": "The Parliament of the United Kingdom passed the Slavery Abolition Act on 28 August 1833. It frees the enslaved in the colonies but keeps an apprenticeship that gives the former owners their services and grants twenty million pounds in compensation to the owners, so the law is evidence of both a great change and of how far it was limited by property interests."
+      },
+      {
+        "doc": "alexander-ii-1861-emancipation-manifesto",
+        "group": "abolition-and-reform",
+        "sourcing": "Tsar Alexander II issued the Emancipation Manifesto on 3 March 1861 (as printed in The Spectator). It leaves the land with the landowners, makes peasants 'temporarily bound' and gives them the right to buy their land, which shows a government freeing serfs on terms that protected the nobility, in a text from the autocrat himself."
+      },
+      {
+        "doc": "lincoln-1863-emancipation-proclamation",
+        "group": "abolition-and-reform",
+        "sourcing": "Abraham Lincoln, President of the United States, issued the Emancipation Proclamation on 1 January 1863 during the Civil War. It declares persons held as slaves in designated areas free and urges them to work for reasonable wages, which shows the move from slavery toward wage labor, though it was a war measure applying only to designated places."
+      }
+    ],
+    "notes": {
+      "thesis": [
+        "To a great extent: between 1750 and 1900 the dominant labor systems changed from slavery, serfdom and household or craft work to wage labor, as the British abolished the slave trade in 1807 and slavery in 1833, the United States and Brazil ended slavery, Russia freed its serfs in 1861, and factories and cities put millions to work for wages.",
+        "To a limited extent: coercion changed its form more than it disappeared, since the Mississippi Black Code, debt and crop mortgages, Russian redemption payments and indentured labour kept workers tied to employers, so abolition was often followed by new forms of unfree labor.",
+        "The change was driven by campaigns and reform from below as well as from above: abolitionists, strikers and factory reformers pushed governments, while owners and states protected property by compensation and apprenticeship, so continuity and change shaped each other."
+      ],
+      "contextualization": [
+        {
+          "text": "The Atlantic slave trade carried enslaved Africans to the Americas from the 16th century to well into the 19th century and supplied the plantation labor of the Americas that earlier economies depended on.",
+          "ref": {
+            "title": "Atlantic slave trade",
+            "url": "https://en.wikipedia.org/wiki/Atlantic_slave_trade"
+          }
+        },
+        {
+          "text": "The Industrial Revolution, which began in Great Britain around 1760, moved production from hand methods to machines and the mechanised factory system, creating a large class of factory wage workers.",
+          "ref": {
+            "title": "Industrial Revolution",
+            "url": "https://en.wikipedia.org/wiki/Industrial_Revolution"
+          }
+        },
+        {
+          "text": "Abolitionism grew from the late 18th century, and in the 1820s the movement revived to campaign against slavery itself, with the first Anti-Slavery Society founded in Britain in 1823.",
+          "ref": {
+            "title": "Abolitionism",
+            "url": "https://en.wikipedia.org/wiki/Abolitionism"
+          }
+        }
+      ],
+      "outsideEvidence": [
+        {
+          "text": "The Slave Trade Act 1807 prohibited the Atlantic slave trade in the British Empire, but it did not free those already enslaved.",
+          "ref": {
+            "title": "Slave Trade Act 1807",
+            "url": "https://en.wikipedia.org/wiki/Slave_Trade_Act_1807"
+          }
+        },
+        {
+          "text": "The Haitian Revolution (1791-1804) was an uprising of enslaved people against French rule in Saint-Domingue and founded a state free from slavery, though not from forced labour, and ruled by former enslaved captives.",
+          "ref": {
+            "title": "Haitian Revolution",
+            "url": "https://en.wikipedia.org/wiki/Haitian_Revolution"
+          }
+        },
+        {
+          "text": "The Factory Act of 1833 (Althorp's Act) limited the hours of children aged 9 to 13 to eight a day, barred night work for those under 18 and set up a Factory Inspectorate to enforce the rules.",
+          "ref": {
+            "title": "Factory Acts",
+            "url": "https://en.wikipedia.org/wiki/Factory_Acts"
+          }
+        },
+        {
+          "text": "The Thirteenth Amendment, ratified on 6 December 1865, made slavery and involuntary servitude illegal in the United States except as punishment for a crime.",
+          "ref": {
+            "title": "Thirteenth Amendment to the United States Constitution",
+            "url": "https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution"
+          }
+        },
+        {
+          "text": "The Lei Aurea (Golden Law) of 13 May 1888, signed by Princess Isabel as regent, abolished slavery in Brazil, the last nation in the Americas to do so.",
+          "ref": {
+            "title": "Lei Áurea",
+            "url": "https://en.wikipedia.org/wiki/Lei_%C3%81urea"
+          }
+        },
+        {
+          "text": "After the end of slavery in the British Empire in 1833, the Indian indenture system carried about two million Indian labourers, called coolies, to colonies of European powers, mainly for sugar plantations, until 1920.",
+          "ref": {
+            "title": "Indentured servitude",
+            "url": "https://en.wikipedia.org/wiki/Indentured_servitude"
+          }
+        }
+      ],
+      "complexity": [
+        "Explain similarity and difference: the Slavery Abolition Act (1833) and the Russian manifesto (1861) both freed workers on terms that protected the former masters (compensation and apprenticeship in one, land purchase and redemption debts in the other), while Lincoln's proclamation was a war measure, so the same change came by law, by decree and by war.",
+        "Corroborate across groups: Prince asks for wages like English servants and Lincoln urges freed people to work for reasonable wages, yet Bentley and Robinson show wage work in the mills was harsh and could be cut, and Washington and the Mississippi Code show freed workers tied by debt and law, so wage labor is not simply free labor.",
+        "Qualify with a counter-argument: Ure presents the factory as kind to workers, but Bentley's testimony of long hours and strapping contradicts him, so the claim that the new system was progress depends on whose voice is trusted."
+      ]
+    }
+  }
+]
