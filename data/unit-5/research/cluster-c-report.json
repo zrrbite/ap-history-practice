@@ -1,0 +1,27 @@
+[
+  {
+    "id": "lane-1836-monopolies-and-manufactures",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/70796/pg70796.txt",
+    "status": "match"
+  },
+  {
+    "id": "lane-1836-conscription-evasion",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/70796/pg70796.txt",
+    "status": "match"
+  },
+  {
+    "id": "stjohn-1834-rosetta-failed-mills",
+    "sourceUrl": "https://archive.org/stream/egyptandmohamme02johngoog/egyptandmohamme02johngoog_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "scott-1837-factories-arsenals-scale",
+    "sourceUrl": "https://archive.org/stream/ramblesinegyptca02scot/ramblesinegyptca02scot_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "scott-1837-why-monopolies",
+    "sourceUrl": "https://archive.org/stream/ramblesinegyptca02scot/ramblesinegyptca02scot_djvu.txt",
+    "status": "match"
+  }
+]

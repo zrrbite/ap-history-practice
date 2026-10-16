@@ -1,0 +1,206 @@
+{
+  "cluster": "c",
+  "documents": [
+    {
+      "id": "lane-1836-monopolies-and-manufactures",
+      "authorKey": "lane",
+      "sourceLine": "Edward William Lane, English Arabic scholar who lived in Egypt in 1833-35 and a European observer rather than an Egyptian voice, An Account of the Manners and Customs of the Modern Egyptians, 1836",
+      "year": 1836,
+      "text": "How different now is the state of Egypt from what it might be, possessing a population of scarcely more than one quarter of the number that it might be rendered capable of supporting! How great a change might be effected in it by a truly enlightened government, by a prince who (instead of impoverishing the peasantry by depriving them of their lands, and by his monopolies of the most valuable productions of the soil; by employing the best portion of the population to prosecute his ambitious schemes of foreign conquest, and another large portion in the vain attempt to rival European manufactures) would give his people a greater interest in the cultivation of the fields, and make Egypt what nature designed it to be—almost exclusively an agricultural country! Its produce of cotton alone would more than suffice to procure all the articles of foreign manufacture, and all the natural productions of foreign countries, that the wants of its inhabitants demand.",
+      "translation": null,
+      "topics": [
+        "5.4",
+        "5.6"
+      ],
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/70796/pg70796.txt",
+      "kind": "text",
+      "adapted": false,
+      "original": null,
+      "verified": false
+    },
+    {
+      "id": "lane-1836-conscription-evasion",
+      "authorKey": "lane",
+      "sourceLine": "Edward William Lane, English Arabic scholar who lived in Egypt in 1833-35 and a European observer rather than an Egyptian voice, An Account of the Manners and Customs of the Modern Egyptians, 1836",
+      "year": 1836,
+      "text": "When a certain number of recruits are required from a village, the sheykh of the village often adopts the plan that gives him the least trouble to obtain them, which is, to take the sons of those persons who are possessed of most property. … There is now (in 1834) seldom to be found, in any of the villages, an able-bodied youth or young man who has not had one or more of his teeth broken out (that he may not be able to bite a cartridge), or a finger cut off, or an eye pulled out or blinded, to prevent his being taken for a recruit.",
+      "translation": null,
+      "topics": [
+        "5.4",
+        "5.6"
+      ],
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/70796/pg70796.txt",
+      "kind": "text",
+      "adapted": false,
+      "original": null,
+      "verified": false
+    },
+    {
+      "id": "stjohn-1834-rosetta-failed-mills",
+      "authorKey": "stjohn",
+      "sourceLine": "James Augustus St. John, English travel writer visiting Egypt in the early 1830s and a European observer rather than an Egyptian voice, Egypt and Mohammed Ali; or, Travels in the Valley of the Nile, vol. 2, 1834",
+      "year": 1834,
+      "text": "Returning to the city, we visited the deserted rice-mills of the Pasha ; where large sums of money have been squandered upon steam-engines, and a complicated apparatus for cleansing the rice from the husk, which have all proved utterly useless ; as, instead of effecting the intended purpose, they only crush and spoil the grain. A large factory, likewise, erected at great expense, has been for some time abandoned, and is fast going to ruin. The great tannery we found working, under the direction of three or four Europeans, who employ in the works about two hundred Arabs.",
+      "translation": null,
+      "topics": [
+        "5.4",
+        "5.6"
+      ],
+      "sourceUrl": "https://archive.org/stream/egyptandmohamme02johngoog/egyptandmohamme02johngoog_djvu.txt",
+      "kind": "text",
+      "adapted": false,
+      "original": null,
+      "verified": false
+    },
+    {
+      "id": "scott-1837-factories-arsenals-scale",
+      "authorKey": "scott",
+      "sourceLine": "Charles Rochfort Scott, British army officer who travelled in Egypt in the 1830s and a European observer rather than an Egyptian voice, Rambles in Egypt and Candia, vol. 2, 1837",
+      "year": 1837,
+      "text": "Persuaded that the wealth and greatness of England are derived from her numerous manufactories and powerful navy — the political consequence and strength of France and Russia, from the size and discipline of their armies — he has been induced to establish factories and arsenals, build a large fleet, and raise an immense … body of troops, with the idea of exciting the respect of those powers. Though these establishments were certainly called for, and have been eminently useful in promoting the political regeneration of Egypt, and insuring its internal tranquillity, yet they have totally failed in effecting the purpose for which they were set on foot, whilst the scale on which they have been instituted was far too great for the necessities, and the expense of maintaining them is totally disproportioned to the resources, of the country.",
+      "translation": null,
+      "topics": [
+        "5.4",
+        "5.6"
+      ],
+      "sourceUrl": "https://archive.org/stream/ramblesinegyptca02scot/ramblesinegyptca02scot_djvu.txt",
+      "kind": "text",
+      "adapted": false,
+      "original": null,
+      "verified": false
+    },
+    {
+      "id": "scott-1837-why-monopolies",
+      "authorKey": "scott",
+      "sourceLine": "Charles Rochfort Scott, British army officer who travelled in Egypt in the 1830s and a European observer rather than an Egyptian voice, Rambles in Egypt and Candia, vol. 2, 1837",
+      "year": 1837,
+      "text": "He has also bestowed lands on some few of his Moslim adherents, but they enjoy only a life interest in them ; whereas it is a body of hereditary landed proprietors that is called for. It is the want of this substantial class that in like manner has forced Mohammed Ali to burthen himself with the various monopolies for which he is so generally abused, and to become the sole merchant of the country ; but where are the capitalists in Egypt that could embark in manufacturing or mercantile … speculations? The natives and Turkish inhabitants are out of the question",
+      "translation": null,
+      "topics": [
+        "5.4",
+        "5.6"
+      ],
+      "sourceUrl": "https://archive.org/stream/ramblesinegyptca02scot/ramblesinegyptca02scot_djvu.txt",
+      "kind": "text",
+      "adapted": false,
+      "original": null,
+      "verified": false
+    }
+  ],
+  "poolHints": [
+    {
+      "dbq": "state-led-industrialization",
+      "doc": "lane-1836-monopolies-and-manufactures",
+      "group": "limits",
+      "why": "Lane argues that the Pasha's monopolies and his effort to rival European manufactures impoverished the peasantry and left Egypt with a population far below what it could support."
+    },
+    {
+      "dbq": "state-led-industrialization",
+      "doc": "lane-1836-monopolies-and-manufactures",
+      "group": "economic-growth",
+      "why": "Lane records what the state's monopolies and factories cost, and says cotton exports alone could have paid for foreign manufactures, a direct challenge to the factory strategy."
+    },
+    {
+      "dbq": "state-led-industrialization",
+      "doc": "lane-1836-conscription-evasion",
+      "group": "defense",
+      "why": "Lane shows the human cost of building a conscript army: villagers disabled their sons to escape the Pasha's recruiters."
+    },
+    {
+      "dbq": "state-led-industrialization",
+      "doc": "lane-1836-conscription-evasion",
+      "group": "limits",
+      "why": "Lane shows that forced conscription met resistance and bore hardest on the poor, who were paid to serve as substitutes."
+    },
+    {
+      "dbq": "state-led-industrialization",
+      "doc": "stjohn-1834-rosetta-failed-mills",
+      "group": "limits",
+      "why": "St. John describes state rice mills and a factory that wasted money and were abandoned, evidence that state-built industry often failed."
+    },
+    {
+      "dbq": "state-led-industrialization",
+      "doc": "stjohn-1834-rosetta-failed-mills",
+      "group": "economic-growth",
+      "why": "St. John shows the Pasha's state works at Rosetta, a tannery run by Europeans employing Arab workers beside failed mills, so results were mixed."
+    },
+    {
+      "dbq": "state-led-industrialization",
+      "doc": "scott-1837-factories-arsenals-scale",
+      "group": "defense",
+      "why": "Scott says Muhammad Ali built factories, arsenals, a fleet and a large army to win the respect of the European powers."
+    },
+    {
+      "dbq": "state-led-industrialization",
+      "doc": "scott-1837-factories-arsenals-scale",
+      "group": "limits",
+      "why": "Scott judges that the state's establishments were useful but far too large for Egypt's resources, so the cost was out of proportion."
+    },
+    {
+      "dbq": "state-led-industrialization",
+      "doc": "scott-1837-why-monopolies",
+      "group": "economic-growth",
+      "why": "Scott explains the monopolies as the Pasha's substitute for a missing class of Egyptian landowners and capitalists, so the state became the sole merchant."
+    },
+    {
+      "dbq": "state-led-industrialization",
+      "doc": "scott-1837-why-monopolies",
+      "group": "limits",
+      "why": "Scott shows that state monopoly stood in for private capital that did not exist, which limited who could share in growth."
+    }
+  ],
+  "drillHints": [
+    {
+      "topic": "5.4",
+      "doc": "lane-1836-monopolies-and-manufactures",
+      "why": "Shows how Egypt's ruler tried to industrialize through state monopolies and manufactures, and the criticism it drew."
+    },
+    {
+      "topic": "5.6",
+      "doc": "lane-1836-monopolies-and-manufactures",
+      "why": "A contemporary critique of a government monopolising production and building factories."
+    },
+    {
+      "topic": "5.6",
+      "doc": "lane-1836-conscription-evasion",
+      "why": "Shows state compulsion, conscription, in a government's modernizing program and the resistance to it."
+    },
+    {
+      "topic": "5.4",
+      "doc": "stjohn-1834-rosetta-failed-mills",
+      "why": "Shows industrialization outside Europe through state factories and imported European machinery, with costly failures."
+    },
+    {
+      "topic": "5.6",
+      "doc": "scott-1837-factories-arsenals-scale",
+      "why": "Shows a government building arsenals, factories and a fleet to gain respect from the European powers."
+    },
+    {
+      "topic": "5.4",
+      "doc": "scott-1837-why-monopolies",
+      "why": "Explains why Muhammad Ali's state became the sole merchant: Egypt lacked a native class of capitalists."
+    },
+    {
+      "topic": "5.6",
+      "doc": "scott-1837-why-monopolies",
+      "why": "Shows government monopoly as a state response to missing private capital."
+    }
+  ],
+  "gaps": [
+    "No public-domain English text by an Egyptian or Ottoman voice (Muhammad Ali himself, his officials, al-Tahtawi, Clot Bey) was found as plain text: al-Tahtawi's English translations are modern and in copyright, and Clot Bey's Aperçu général is French. All four documents are by European observers, and each sourceLine says so.",
+    "John Bowring's Report on Egypt and Candia (1840) was not found as plain text (only catalogue records and a HathiTrust scan), so it was skipped.",
+    "An 1841 anonymous 'Life of Mohammed Ali' on archive.org is catalogued under his name but is not by him, so it was not used."
+  ],
+  "rulings": [
+    {
+      "what": "Lane's and Scott's excerpts are tagged to the state-led-industrialization prompt even though their authors are critics or sympathetic outside observers, not Egyptian officials.",
+      "why": "No Egyptian-voiced text could be found; sourcing notes should flag the observers' European viewpoint.",
+      "prompt": "state-led-industrialization"
+    },
+    {
+      "what": "In the Scott excerpts a running page head (THE EGYPTIAN NAVY. 121 and EXPERIMENTS OF ADVENTURERS. 147) falls mid-sentence; each is marked with a single cut (…) with no words omitted, and OCR spacing before semicolons is as printed.",
+      "why": "The cut marks where the scan's page furniture interrupts the sentence.",
+      "prompt": "state-led-industrialization"
+    }
+  ]
+}

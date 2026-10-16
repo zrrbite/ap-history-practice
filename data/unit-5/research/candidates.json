@@ -857,7 +857,7 @@
   {
     "id": "mill-1869-subjection-of-women",
     "authorKey": "mill",
-    "sourceLine": "John Stuart Mill, English philosopher and member of Parliament, The Subjection of Women, Chapter 1, 1869",
+    "sourceLine": "John Stuart Mill, English philosopher and former Member of Parliament, The Subjection of Women, Chapter 1, 1869",
     "year": 1869,
     "kind": "text",
     "text": "The object of this Essay is to explain as clearly as I am able, the grounds of an opinion which I have held from the very earliest period when I had formed any opinions at all on social or political matters, and which, instead of being weakened or modified, has been constantly growing stronger by the progress of reflection and the experience of life: That the principle which regulates the existing social relations between the two sexes--the legal subordination of one sex to the other--is wrong in itself, and now one of the chief hindrances to human improvement; and that it ought to be replaced by a principle of perfect equality, admitting no power or privilege on the one side, nor disability on the other.",
@@ -870,12 +870,13 @@
     ],
     "sourceUrl": "https://www.gutenberg.org/cache/epub/27083/pg27083.txt",
     "verified": true,
-    "verifiedBy": "script"
+    "verifiedBy": "script",
+    "verifiedNote": "Accuracy review 2026-10-15: sourceLine corrected (English philosopher and former Member of Parliament)."
   },
   {
     "id": "mill-1869-subjection-women",
     "authorKey": "mill",
-    "sourceLine": "John Stuart Mill, English philosopher and Member of Parliament, The Subjection of Women, 1869",
+    "sourceLine": "John Stuart Mill, English philosopher and former Member of Parliament, The Subjection of Women, 1869",
     "year": 1869,
     "kind": "text",
     "text": "That the principle which regulates the existing social relations between the two sexes--the legal subordination of one sex to the other--is wrong in itself, and now one of the chief hindrances to human improvement; and that it ought to be replaced by a principle of perfect equality, admitting no power or privilege on the one side, nor disability on the other. … But this dependence, as it exists at present, is not an original institution, taking a fresh start from considerations of justice and social expediency--it is the primitive state of slavery lasting on",
@@ -888,12 +889,13 @@
     ],
     "sourceUrl": "https://www.gutenberg.org/cache/epub/27083/pg27083.txt",
     "verified": true,
-    "verifiedBy": "script"
+    "verifiedBy": "script",
+    "verifiedNote": "Accuracy review 2026-10-15: sourceLine corrected (English philosopher and former Member of Parliament)."
   },
   {
     "id": "miller-1828-tupac-amaru-rising",
     "authorKey": "miller",
-    "sourceLine": "John Miller, British officer who served in the Peruvian independence army, on the Tupac Amaru rising of 1780 (background chapter, not an eyewitness account), Memoirs of General Miller, 1828 (adapted)",
+    "sourceLine": "John Miller, compiling the memoirs of his brother General William Miller, a British officer in the Peruvian independence army, on the Tupac Amaru rising of 1780 (background chapter, not an eyewitness account), Memoirs of General Miller, 1828 (adapted)",
     "year": 1828,
     "kind": "text",
     "text": "Instead of uniting and making common cause with the Spanish Americans, who born on the same soil, and held in perhaps more galling fetters, were entitled to the same rights with himself, he directed his hostilities equally against them as against the Spaniards, the real tyrants of both … The popularity of his cause, however, amongst his own people, soon attracted to his standard a multitude of undisciplined Indians, whom he had not either the talent to train in military tactics, or the means to arm.",
@@ -905,7 +907,8 @@
     ],
     "sourceUrl": "https://archive.org/stream/memoirsofgeneral01mill/memoirsofgeneral01mill_djvu.txt",
     "verified": true,
-    "verifiedBy": "script"
+    "verifiedBy": "script",
+    "verifiedNote": "Accuracy review 2026-10-15: sourceLine corrected (John Miller, compiling the memoirs of his brother General William Miller, a British officer in the Peruvian independence army)."
   },
   {
     "id": "montesquieu-1748-spirit-laws-separation",
@@ -1629,5 +1632,100 @@
     "verified": true,
     "verifiedBy": "script",
     "verifiedNote": "Role corrected: the book says Yung Wing was appointed co-commissioner alongside Chin Lan Pin (later with other commissioners), not sole head; passage is in Chapter XIX."
+  },
+  {
+    "id": "lane-1836-monopolies-and-manufactures",
+    "authorKey": "lane",
+    "sourceLine": "Edward William Lane, English Arabic scholar who lived in Egypt in 1833-35 and a European observer rather than an Egyptian voice, An Account of the Manners and Customs of the Modern Egyptians, 1836 (first edition; text as reprinted from the 1842 third edition)",
+    "year": 1836,
+    "text": "How different now is the state of Egypt from what it might be, possessing a population of scarcely more than one quarter of the number that it might be rendered capable of supporting! How great a change might be effected in it by a truly enlightened government, by a prince who (instead of impoverishing the peasantry by depriving them of their lands, and by his monopolies of the most valuable productions of the soil; by employing the best portion of the population to prosecute his ambitious schemes of foreign conquest, and another large portion in the vain attempt to rival European manufactures) would give his people a greater interest in the cultivation of the fields, and make Egypt what nature designed it to be—almost exclusively an agricultural country! Its produce of cotton alone would more than suffice to procure all the articles of foreign manufacture, and all the natural productions of foreign countries, that the wants of its inhabitants demand.",
+    "translation": null,
+    "topics": [
+      "5.4",
+      "5.6"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/70796/pg70796.txt",
+    "kind": "text",
+    "adapted": false,
+    "original": null,
+    "verified": true,
+    "verifiedBy": "script",
+    "verifiedNote": "sourceLine checked: Gutenberg #70796 is the 1890 Ward, Lock reprint of the 1842 third edition (first edition Dec 1836); edition now stated in sourceLine, year 1836 kept as first publication. Passage found verbatim; observations are from Lane's 1833-35 stay."
+  },
+  {
+    "id": "lane-1836-conscription-evasion",
+    "authorKey": "lane",
+    "sourceLine": "Edward William Lane, English Arabic scholar who lived in Egypt in 1833-35 and a European observer rather than an Egyptian voice, An Account of the Manners and Customs of the Modern Egyptians, 1836 (first edition; text as reprinted from the 1842 third edition)",
+    "year": 1836,
+    "text": "When a certain number of recruits are required from a village, the sheykh of the village often adopts the plan that gives him the least trouble to obtain them, which is, to take the sons of those persons who are possessed of most property. … There is now (in 1834) seldom to be found, in any of the villages, an able-bodied youth or young man who has not had one or more of his teeth broken out (that he may not be able to bite a cartridge), or a finger cut off, or an eye pulled out or blinded, to prevent his being taken for a recruit.",
+    "translation": null,
+    "topics": [
+      "5.4",
+      "5.6"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/70796/pg70796.txt",
+    "kind": "text",
+    "adapted": false,
+    "original": null,
+    "verified": true,
+    "verifiedBy": "script",
+    "verifiedNote": "sourceLine checked: Gutenberg #70796 is the 1890 Ward, Lock reprint of the 1842 third edition (first edition Dec 1836); edition now stated in sourceLine, year 1836 kept as first publication. Passage found verbatim; observations are from Lane's 1833-35 stay."
+  },
+  {
+    "id": "stjohn-1834-rosetta-failed-mills",
+    "authorKey": "stjohn",
+    "sourceLine": "James Augustus St. John, English travel writer visiting Egypt in the early 1830s and a European observer rather than an Egyptian voice, Egypt and Mohammed Ali; or, Travels in the Valley of the Nile, vol. 1, 1834",
+    "year": 1834,
+    "text": "Returning to the city, we visited the deserted rice-mills of the Pasha ; where large sums of money have been squandered upon steam-engines, and a complicated apparatus for cleansing the rice from the husk, which have all proved utterly useless ; as, instead of effecting the intended purpose, they only crush and spoil the grain. A large factory, likewise, erected at great expense, has been for some time abandoned, and is fast going to ruin. The great tannery we found working, under the direction of three or four Europeans, who employ in the works about two hundred Arabs.",
+    "translation": null,
+    "topics": [
+      "5.4",
+      "5.6"
+    ],
+    "sourceUrl": "https://archive.org/stream/egyptandmohamme02johngoog/egyptandmohamme02johngoog_djvu.txt",
+    "kind": "text",
+    "adapted": false,
+    "original": null,
+    "verified": true,
+    "verifiedBy": "script",
+    "verifiedNote": "sourceLine corrected from vol. 2 to vol. 1: the archive.org item egyptandmohamme02johngoog has title page 'Vol. I', London: Longman et al., 1834; passage is in section XXXIX (Rosetta), p. 77."
+  },
+  {
+    "id": "scott-1837-factories-arsenals-scale",
+    "authorKey": "scott",
+    "sourceLine": "Charles Rochfort Scott, British army officer who travelled in Egypt in the 1830s and a European observer rather than an Egyptian voice, Rambles in Egypt and Candia, vol. 2, 1837",
+    "year": 1837,
+    "text": "Persuaded that the wealth and greatness of England are derived from her numerous manufactories and powerful navy — the political consequence and strength of France and Russia, from the size and discipline of their armies — he has been induced to establish factories and arsenals, build a large fleet, and raise an immense … body of troops, with the idea of exciting the respect of those powers. Though these establishments were certainly called for, and have been eminently useful in promoting the political regeneration of Egypt, and insuring its internal tranquillity, yet they have totally failed in effecting the purpose for which they were set on foot, whilst the scale on which they have been instituted was far too great for the necessities, and the expense of maintaining them is totally disproportioned to the resources, of the country.",
+    "translation": null,
+    "topics": [
+      "5.4",
+      "5.6"
+    ],
+    "sourceUrl": "https://archive.org/stream/ramblesinegyptca02scot/ramblesinegyptca02scot_djvu.txt",
+    "kind": "text",
+    "adapted": false,
+    "original": null,
+    "verified": true,
+    "verifiedBy": "script",
+    "verifiedNote": "sourceLine checked against title page: Capt. C. Rochfort Scott, H.P., Royal Staff Corps, Rambles in Egypt and Candia, vol. II, London: Colburn, 1837."
+  },
+  {
+    "id": "scott-1837-why-monopolies",
+    "authorKey": "scott",
+    "sourceLine": "Charles Rochfort Scott, British army officer who travelled in Egypt in the 1830s and a European observer rather than an Egyptian voice, Rambles in Egypt and Candia, vol. 2, 1837",
+    "year": 1837,
+    "text": "He has also bestowed lands on some few of his Moslim adherents, but they enjoy only a life interest in them ; whereas it is a body of hereditary landed proprietors that is called for. It is the want of this substantial class that in like manner has forced Mohammed Ali to burthen himself with the various monopolies for which he is so generally abused, and to become the sole merchant of the country ; but where are the capitalists in Egypt that could embark in manufacturing or mercantile … speculations? The natives and Turkish inhabitants are out of the question.",
+    "translation": null,
+    "topics": [
+      "5.4",
+      "5.6"
+    ],
+    "sourceUrl": "https://archive.org/stream/ramblesinegyptca02scot/ramblesinegyptca02scot_djvu.txt",
+    "kind": "text",
+    "adapted": false,
+    "original": null,
+    "verified": true,
+    "verifiedBy": "script",
+    "verifiedNote": "sourceLine checked (vol. II, Colburn, 1837). Scan p. 147 reads 'out of the question .' with a period, so the final period was added; the researcher's unclear-scan note does not hold."
   }
 ]
