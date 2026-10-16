@@ -7,6 +7,7 @@ import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { escapeHtml, fill } from './html.js';
+import { landingPage } from './landing.js';
 import { loadUnit, selectUnits, takeUnit } from './load-data.js';
 import { validate } from './validate.js';
 
@@ -95,16 +96,26 @@ export async function build({ dataRoot = path.join(ROOT, 'data'), outDir = path.
     await writeFile(localPath, wrapAsDocument(page));
     units.push({ id, indexPath, localPath, bytes: Buffer.byteLength(page) });
   }
-  return { units };
+  let landingPath = null;
+  if (only === null) {
+    landingPath = path.join(outDir, 'index.html');
+    const cards = loaded.map(({ data }) => ({
+      unit: data.unit,
+      counts: { documents: data.documents.length, dbqs: data.dbqs.length, saqs: data.saqs.length, mcqs: data.mcqs.length },
+    }));
+    await writeFile(landingPath, landingPage(await src('landing.html'), styles, cards));
+  }
+  return { units, landingPath };
 }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
   try {
     const { unit } = takeUnit(process.argv.slice(2));
-    const { units } = await build({ only: unit });
+    const { units, landingPath } = await build({ only: unit });
     for (const u of units) {
       console.log(`Wrote ${path.relative(ROOT, u.indexPath)} (${Math.round(u.bytes / 1024)} KB) and ${path.relative(ROOT, u.localPath)}.`);
     }
+    if (landingPath) console.log(`Wrote ${path.relative(ROOT, landingPath)}.`);
   } catch (error) {
     console.error(error.message);
     process.exit(1);
