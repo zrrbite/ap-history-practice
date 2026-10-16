@@ -1,0 +1,973 @@
+{
+ "cluster": "e",
+ "documents": [
+  {
+   "id": "equiano-1789-middle-passage",
+   "authorKey": "equiano",
+   "sourceLine": "Olaudah Equiano, African-born formerly enslaved man and abolitionist, The Interesting Narrative of the Life of Olaudah Equiano, 1789",
+   "year": 1789,
+   "kind": "text",
+   "text": "I was not long suffered to indulge my grief; I was soon put down under the decks, and there I received such a salutation in my nostrils as I had never experienced in my life: so that, with the loathsomeness of the stench, and crying together, I became so sick and low that I was not able to eat, nor had I the least desire to taste any thing. I now wished for the last friend, death, to relieve me; but soon, to my grief, two of the white men offered me eatables; and, on my refusing to eat, one of them held me fast by the hands, and laid me across I think the windlass, and tied my feet, while the other flogged me severely. … I have seen some of these poor African prisoners most severely cut for attempting to do so, and hourly whipped for not eating.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.10",
+    "5.9"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/15399/pg15399.txt",
+   "verified": false
+  },
+  {
+   "id": "prince-1831-history-slaves-want-freedom",
+   "authorKey": "prince",
+   "sourceLine": "Mary Prince, formerly enslaved woman from Bermuda who had worked in the West Indies, The History of Mary Prince, a West Indian Slave, related by herself, 1831",
+   "year": 1831,
+   "kind": "text",
+   "text": "All slaves want to be free--to be free is very sweet. … They hire servants in England; and if they don't like them, they send them away: they can't lick them. Let them work ever so hard in England, they are far better off than slaves. If they get a bad master, they give warning and go hire to another. They have their liberty. That's just what we want. … We don't mind hard work, if we had proper treatment, and proper wages like English servants, and proper time given in the week to keep us from breaking the Sabbath. … And then when we are quite done up, who cares for us, more than for a lame horse? This is slavery.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.10",
+    "5.9"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/17851/pg17851.txt",
+   "verified": false
+  },
+  {
+   "id": "douglass-1845-hiring-his-time",
+   "authorKey": "douglass-frederick",
+   "sourceLine": "Frederick Douglass, formerly enslaved man and abolitionist, Narrative of the Life of Frederick Douglass, an American Slave, 1845",
+   "year": 1845,
+   "kind": "text",
+   "text": "I was to be allowed all my time, make all contracts with those for whom I worked, and find my own employment; and, in return for this liberty, I was to pay him three dollars at the end of each week; find myself in calking tools, and in board and clothing. My board was two dollars and a half per week. This, with the wear and tear of clothing and calking tools, made my regular expenses about six dollars per week. This amount I was compelled to make up, or relinquish the privilege of hiring my time. Rain or shine, work or no work, at the end of each week the money must be forthcoming, or I must give up my privilege. … He received all the benefits of slaveholding without its evils; while I endured all the evils of a slave, and suffered all the care and anxiety of a freeman.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.10",
+    "5.9"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/23/pg23.txt",
+   "verified": false
+  },
+  {
+   "id": "washington-1901-mortgaged-crops",
+   "authorKey": "washington",
+   "sourceLine": "Booker T. Washington, formerly enslaved Black educator in Alabama, Up from Slavery, 1901, describing the rural South of the 1880s",
+   "year": 1901,
+   "kind": "text",
+   "text": "Every child that was large enough to carry a hoe was put to work, and the baby—for usually there was at least one baby—would be laid down at the end of the cotton row, so that its mother could give it a certain amount of attention when she had finished chopping her row. … With few exceptions, I found that the crops were mortgaged in the counties where I went, and that the most of the coloured farmers were in debt. … The state had not been able to build schoolhouses in the country districts, and, as a rule, the schools were taught in churches or in log cabins.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.10"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/2376/pg2376.txt",
+   "verified": false
+  },
+  {
+   "id": "herzl-1896-jewish-state-one-people",
+   "authorKey": "herzl",
+   "sourceLine": "Theodor Herzl, Viennese Jewish journalist and founder of political Zionism, The Jewish State (Der Judenstaat), 1896",
+   "year": 1896,
+   "kind": "text",
+   "text": "We are a people--one people. We have honestly endeavored everywhere to merge ourselves in the social life of surrounding communities and to preserve the faith of our fathers. We are not permitted to do so. … In countries where we have lived for centuries we are still cried down as strangers, and often by those whose ancestors were not yet domiciled in the land where Jews had already had experience of suffering. The majority may decide which are the strangers; for this, as indeed every point which arises in the relations between nations, is a question of might.",
+   "adapted": false,
+   "original": null,
+   "translation": "Translated by Sylvie d'Avigdor, 1896; text as printed in the revised 1946 edition (American Zionist Emergency Council)",
+   "topics": [
+    "5.2"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/25282/pg25282.txt",
+   "verified": false
+  },
+  {
+   "id": "mazzini-1858-duties-of-man-country",
+   "authorKey": "mazzini",
+   "sourceLine": "Giuseppe Mazzini, Italian republican nationalist and founder of Young Italy, The Duties of Man, \"Duties Towards Your Country,\" 1858",
+   "year": 1858,
+   "kind": "text",
+   "text": "This means was provided for you by God when He gave you a country; when, even as a wise overseer of labour distributes the various branches of employment according to the different capacities of the workmen, he divided Humanity into distinct groups or nuclei upon the face of the earth, thus creating the germ of nationalities. … The map of Europe will be redrawn. The countries of the peoples, defined by the vote of free men, will arise upon the ruins of the countries of kings and privileged castes, and between these countries harmony and fraternity will exist.",
+   "adapted": false,
+   "original": null,
+   "translation": "English translation published by Funk & Wagnalls, New York, 1898 (Hanover Historical Texts Project)",
+   "topics": [
+    "5.2"
+   ],
+   "sourceUrl": "https://history.hanover.edu/texts/Mazzini/mazzini5.html",
+   "verified": false
+  },
+  {
+   "id": "bismarck-1862-iron-and-blood",
+   "authorKey": "bismarck",
+   "sourceLine": "Otto von Bismarck, Prussian minister president, speech to the budget committee of the Prussian parliament (reported speech), 30 September 1862",
+   "year": 1862,
+   "kind": "text",
+   "text": "Germany is not looking to Prussia’s liberalism, but to its power; Bavaria, Württemberg, Baden may indulge liberalism, and yet no one will assign them Prussia’s role; Prussia has to coalesce and concentrate its power for the opportune moment, which has already been missed several times; Prussia’s borders according to the Vienna Treaties [of 1814–15] are not favorable for a healthy, vital state; it is not by speeches and majority resolutions that the great questions of the time are decided—that was the big mistake of 1848 and 1849—but by iron and blood.",
+   "adapted": false,
+   "original": null,
+   "translation": "Translated by Jeremiah Riemer, German History in Documents and Images (German Historical Institute, Washington DC)",
+   "topics": [
+    "5.2"
+   ],
+   "sourceUrl": "https://germanhistorydocs.org/en/from-vormaerz-to-prussian-dominance-1815-1866/excerpt-from-bismarcks-blood-and-iron-speech-1862",
+   "verified": false
+  },
+  {
+   "id": "fichte-1808-addresses-german-nation",
+   "authorKey": "fichte",
+   "sourceLine": "Johann Gottlieb Fichte, German philosopher, Addresses to the German Nation (Thirteenth Address), delivered in Berlin under French occupation, 1808",
+   "year": 1808,
+   "kind": "text",
+   "text": "the first, original, and truly natural boundaries of States are beyond doubt their internal boundaries. Those who speak the same language are joined to each other by a multitude of invisible bonds by nature herself, long before any human art begins ; … Such a whole, if it wishes to absorb and mingle with itself any other people of different descent and language, cannot do so without itself becoming confused, in the beginning at any rate, and violently disturbing the even progress of its culture.",
+   "adapted": false,
+   "original": null,
+   "translation": "Translated by R. F. Jones and G. H. Turnbull, Open Court Publishing Company, 1922",
+   "topics": [
+    "5.2"
+   ],
+   "sourceUrl": "https://archive.org/stream/addressestogerma00fich/addressestogerma00fich_djvu.txt",
+   "verified": false
+  },
+  {
+   "id": "greek-assembly-1822-declaration-independence",
+   "authorKey": "greek-national-assembly",
+   "sourceLine": "First National Assembly of the Greeks at Epidaurus, Declaration of Independence, 1822",
+   "year": 1822,
+   "kind": "text",
+   "text": "The war which we are carrying on against the Turk is not that of a faction or the result of sedition. It is not aimed at the advantage of any single part of the Greek people; it is a national war, a holy war, a war the object of which is to reconquer the rights of individual liberty, of property and honor, – rights which the civilized people of Europe, our neighbors, enjoy to-day; rights of which the cruel and unheard-of tyranny of the Ottomans would deprive us-us alone – and the very memory of which they would stifle in our hearts.",
+   "adapted": false,
+   "original": null,
+   "translation": "English translation as printed in Shirley Elson Roessler and Reny Miklos, Europe 1715-1919 (2003), reproduced by the Declaration Project",
+   "topics": [
+    "5.2",
+    "5.1"
+   ],
+   "sourceUrl": "https://declarationproject.org/?p=1592",
+   "verified": false
+  },
+  {
+   "id": "parliament-1833-slavery-abolition-act",
+   "authorKey": "british-parliament",
+   "sourceLine": "Parliament of the United Kingdom, Slavery Abolition Act (3 & 4 Will. IV c. 73), 28 August 1833",
+   "year": 1833,
+   "kind": "text",
+   "text": "Whereas divers Persons are holden in Slavery within divers of His Majesty s Colonies, and it is just and expedient that all such Persons should be manumitted and set free, and that a reasonable Compensation should be made to the Persons hitherto entitled to the Services of such Slaves for the Loss which they will incur by being deprived of their Right to such Services: … during the Continuance of the Apprenticeship of any such apprenticed Labourer such Person or Persons shall be entitled to the Services of such apprenticed Labourer as would for the Time being have been entitled to his or her Services as a Slave if this Act had not been made. … towards compensating the Persons at present entitled to the Services of the Slaves to be manumitted and set free by virtue of this Act for the Loss of such Services, His Majesty s most dutiful and loyal Subjects the Commons of Great Britain and Ireland in Parliament assembled have resolved to give and grant to His Majesty the Sum of Twenty Millions Pounds Sterling;",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.10",
+    "5.2"
+   ],
+   "sourceUrl": "https://www.irishstatutebook.ie/1833/en/act/pub/0073/print.html",
+   "verified": false
+  },
+  {
+   "id": "meiji-1890-rescript-on-education",
+   "authorKey": "meiji-emperor",
+   "sourceLine": "Emperor Meiji of Japan, Imperial Rescript on Education, 30 October 1890",
+   "year": 1890,
+   "kind": "text",
+   "text": "Know ye, Our subjects: Our Imperial Ancestors have founded Our Empire on a basis broad and everlasting and have deeply and firmly implanted virtue; Our subjects ever united in loyalty and filial piety have from generation to generation illustrated the beauty thereof. This is the glory of the fundamental character of Our Empire, and herein also lies the source of Our education. … Ye, Our subjects, be filial to your parents, affectionate to your brothers and sisters; as husbands and wives be harmonious, as friends true; bear yourselves in modesty and moderation; extend your benevolence to all; pursue learning and cultivate arts, and thereby develop intellectual faculties and perfect moral powers; furthermore advance public good and promote common interests; always respect the Constitution and observe the laws; should emergency arise, offer yourselves courageously to the State; and thus guard and maintain the prosperity of Our Imperial Throne coeval with heaven and earth.",
+   "adapted": false,
+   "original": null,
+   "translation": "Official translation by the Japanese Ministry of Education",
+   "topics": [
+    "5.2",
+    "5.4"
+   ],
+   "sourceUrl": "https://en.wikisource.org/wiki/Imperial_Rescript_on_Education",
+   "verified": false
+  },
+  {
+   "id": "rizal-1889-philippines-century-hence",
+   "authorKey": "rizal",
+   "sourceLine": "Jose Rizal, Filipino reformer and writer, \"The Philippines a Century Hence,\" La Solidaridad (Madrid), 1889-1890",
+   "year": 1889,
+   "kind": "text",
+   "text": "The Islands cannot remain in the condition they are without requiring from the sovereign country more liberty Mutatis mutandis. For new men, a new social order. To wish that the alleged child remain in its swaddling-clothes is to risk that it may turn against its nurse and flee, tearing away the old rags that bind it. … The Philippines, then, will remain under Spanish domination, but with more law and greater liberty, or they will declare themselves independent, after steeping themselves and the mother country in blood.",
+   "adapted": false,
+   "original": null,
+   "translation": "Translated by Charles E. Derbyshire, 1912 (Project Gutenberg edition)",
+   "topics": [
+    "5.2"
+   ],
+   "sourceUrl": "https://gutenberg.org/cache/epub/35899/pg35899.txt",
+   "verified": false
+  },
+  {
+   "id": "garibaldi-1859-proclamation-italians",
+   "authorKey": "garibaldi",
+   "sourceLine": "Giuseppe Garibaldi, Italian nationalist general, proclamation to the Italian volunteers, Genoa, 23 November 1859",
+   "year": 1859,
+   "kind": "text",
+   "text": "Diplomacy still looks upon you as the handful of malcontents which she had been accustomed to despise. She does not know that in you there are the elements of a great nation, and that in your free and independent hearts there germinate the seeds of a world-wide revolution if our rights shall not be recognized, and if people will not allow us to be masters in our own home. \"We desire to invade no foreign soil; let us remain unmolested on our own. Whosoever attempts to gainsay this our determination will find that we will never be slaves, unless they succeed in crushing by force an entire people ready to die for liberty. \"But, even should we all fall, we shall bequeath to future generations a legacy of hatred and vengeance against foreign domination; the inheritance of each of our sons will be a rifle, and the consciousness of his rights; and by the blessing of God, the oppressor will never sleep soundly.",
+   "adapted": false,
+   "original": null,
+   "translation": "As printed in Theodore Dwight, The Life of General Garibaldi (New York, 1861)",
+   "topics": [
+    "5.2"
+   ],
+   "sourceUrl": "https://gutenberg.org/cache/epub/50544/pg50544.txt",
+   "verified": false
+  },
+  {
+   "id": "mississippi-1865-black-code-labor-contracts",
+   "authorKey": "mississippi-legislature",
+   "sourceLine": "Legislature of Mississippi, An Act to Confer Civil Rights on Freedmen (the Black Code), sections on labor contracts and desertion, November 1865",
+   "year": 1865,
+   "kind": "text",
+   "text": "All contracts for labor made with freedmen, free Negroes, and mulattoes for a longer period than one month shall be in writing and in duplicate, attested and read to said freedman, free Negro, or mulatto by a beat, city, or county officer, or two disinterested white persons of the county in which the labor is to be performed, of which each party shall have one; … if the laborer shall quit the service of the employer before expiration of his term of service without good cause, he shall forfeit his wages for that year, up to the time of quitting. … every civil officer shall, and every person may, arrest and carry back to his or her legal employer any freedman, free Negro, or mulatto who shall have quit the service of his or her employer before the expiration of his or her term of service without good cause",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.10"
+   ],
+   "sourceUrl": "https://teachingamericanhistory.org/document/black-codes-of-mississippi/",
+   "verified": false
+  },
+  {
+   "id": "mississippi-1865-black-code-apprentice-law",
+   "authorKey": "mississippi-legislature",
+   "sourceLine": "Legislature of Mississippi, An Act to Regulate the Relation of Master and Apprentice, as relates to Freedmen, Free Negroes, and Mulattoes, November 1865",
+   "year": 1865,
+   "kind": "text",
+   "text": "all freedmen, free Negroes, and mulattoes under the age of eighteen within their respective counties, beats, or districts who are orphans, or whose parent or parents have not the means, or who refuse to provide for and support said minors; … it shall be the duty of said Probate Court to order the clerk of said court to apprentice said minors to some competent and suitable person, on such terms as the court may direct, having a particular care to the interest of said minors: Provided, that the former owner of said minors shall have the preference when, in the opinion of the court, he or she shall be a suitable person for that purpose. … if any apprentice shall leave the employment of his or her master or mistress without his or her consent, said master or mistress may pursue and recapture said apprentice and bring him or her before any justice of the peace of the county, whose duty it shall be to remand said apprentice to the service of his or her master or mistress",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.10"
+   ],
+   "sourceUrl": "https://teachingamericanhistory.org/document/black-codes-of-mississippi/",
+   "verified": false
+  },
+  {
+   "id": "ure-1835-philosophy-of-manufactures",
+   "authorKey": "ure",
+   "sourceLine": "Andrew Ure, Scottish professor and defender of the factory system, The Philosophy of Manufactures, 1835",
+   "year": 1835,
+   "kind": "text",
+   "text": "There is, however, this difference in the two cases, that in the factory, every member of the loom is so adjusted, that the driving force leaves the attendant nearly nothing at all to do, certainly no muscular fatigue to sustain, while it procures for him good, unfailing wages, besides a healthy workshop gratis: whereas the non-factory weaver, having everything to execute by muscular exertion, finds the labour irksome, makes in consequence innumerable short pauses, separately of little account, but great when added together; earns therefore proportionally low wages, while he loses his health by poor diet and the dampness of his hovel. … The constant aim and effect of scientific improvement in manufactures are philanthropic, as they tend to relieve the workmen either from niceties of adjustment which exhaust his mind and fatigue his eyes, or from painful repetition of efforts which distort or wear out his frame. At every step of each manufacturing process described in this volume the humanity of science will be manifest.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.3",
+    "5.10"
+   ],
+   "sourceUrl": "https://sourcebooks.fordham.edu/mod/1835ure.asp",
+   "verified": false
+  },
+  {
+   "id": "mill-1861-nationality-defined",
+   "authorKey": "mill",
+   "sourceLine": "John Stuart Mill, British philosopher and member of Parliament, Considerations on Representative Government, chapter 16, \"Of Nationality,\" 1861",
+   "year": 1861,
+   "kind": "text",
+   "text": "A portion of mankind may be said to constitute a nationality if they are united among themselves by common sympathies which do not exist between them and any others--which make them co-operate with each other more willingly than with other people, desire to be under the same government, and desire that it should be government by themselves, or a portion of themselves, exclusively. … Switzerland has a strong sentiment of nationality, though the cantons are of different races, different languages, and different religions. Sicily has hitherto felt itself quite distinct in nationality from Naples, notwithstanding identity of religion, almost identity of language, and a considerable amount of common historical antecedents.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.2"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/5669/pg5669.txt",
+   "verified": false
+  },
+  {
+   "id": "mill-1861-nationalities-absorbed",
+   "authorKey": "mill",
+   "sourceLine": "John Stuart Mill, British philosopher and member of Parliament, Considerations on Representative Government, chapter 16, \"Of Nationality,\" 1861",
+   "year": 1861,
+   "kind": "text",
+   "text": "Experience proves that it is possible for one nationality to merge and be absorbed in another; and when it was originally an inferior and more backward portion of the human race, the absorption is greatly to its advantage. Nobody can suppose that it is not more beneficial to a Breton, or a Basque of French Navarre, to be brought into the current of the ideas and feelings of a highly civilized and cultivated people--to be a member of the French nationality, admitted on equal terms to all the privileges of French citizenship, sharing the advantages of French protection, and the dignity and _prestige_ of French power--than to sulk on his own rocks, the half-savage relic of past times, revolving in his own little mental orbit, without participation or interest in the general movement of the world. The same remark applies to the Welshman or the Scottish Highlander as members of the British nation. Whatever really tends to the admixture of nationalities, and the blending of their attributes and peculiarities in a common union, is a benefit to the human race.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.2"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/5669/pg5669.txt",
+   "verified": false
+  },
+  {
+   "id": "lincoln-1863-emancipation-proclamation",
+   "authorKey": "lincoln",
+   "sourceLine": "Abraham Lincoln, President of the United States, Emancipation Proclamation, 1 January 1863",
+   "year": 1863,
+   "kind": "text",
+   "text": "And by virtue of the power, and for the purpose aforesaid, I do order and declare that all persons held as slaves within said designated States, and parts of States, are, and henceforward shall be free; and that the Executive government of the United States, including the military and naval authorities thereof, will recognize and maintain the freedom of said persons. And I hereby enjoin upon the people so declared to be free to abstain from all violence, unless in necessary self-defence; and I recommend to them that, in all cases when allowed, they labor faithfully for reasonable wages.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.10",
+    "5.2"
+   ],
+   "sourceUrl": "https://avalon.law.yale.edu/19th_century/emancipa.asp",
+   "verified": false
+  },
+  {
+   "id": "jacobs-1861-incidents-wages-stolen",
+   "authorKey": "jacobs",
+   "sourceLine": "Harriet Jacobs (writing as Linda Brent), formerly enslaved woman who escaped to the North, Incidents in the Life of a Slave Girl, Written by Herself, 1861",
+   "year": 1861,
+   "kind": "text",
+   "text": "When a man has his wages stolen from him, year after year, and the laws sanction and enforce the theft, how can he be expected to have more regard to honesty than has the man who robs him? I have become somewhat enlightened, but I confess that I agree with poor, ignorant, much-abused Luke, in thinking he had a _right_ to that money, as a portion of his unpaid wages. … All that winter I lived in a state of anxiety. When I took the children out to breathe the air, I closely observed the countenances of all I met. I dreaded the approach of summer, when snakes and slaveholders make their appearance. I was, in fact, a slave in New York, as subject to slave laws as I had been in a Slave State. Strange incongruity in a State called free!",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.10",
+    "5.9"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/11030/pg11030.txt",
+   "verified": false
+  },
+  {
+   "id": "wilberforce-1789-speech-slave-trade",
+   "authorKey": "wilberforce",
+   "sourceLine": "William Wilberforce, member of the British House of Commons and leader of the abolition cause, speech on the slave trade, 12 May 1789 (as printed in Cobbett, Parliamentary History, 1816)",
+   "year": 1789,
+   "kind": "text",
+   "text": "I mean not to accuse any one, but to take the shame upon myself, in common, indeed, with the whole parliament of Great Britain, for having suffered this horrid trade to be carried on under their authority. We are all guilty we ought all to plead guilty, and not to exculpate ourselves by throwing the blame on others … Let any one imagine to himself 6 or 700 of these wretches chained two and two, surrounded with every object that is nauseous and disgusting, diseased, and struggling under every kind of wretchedness! How can we bear to think of such a scene as this? … The truth is, that for the sake of exercise, these miserable wretches, loaded with chains, oppressed with disease and wretchedness, are forced to dance by the terror of the lash, and sometimes by the actual use of it.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.10",
+    "5.1"
+   ],
+   "sourceUrl": "https://www.brycchancarey.com/abolition/wilberforce2.htm",
+   "verified": false
+  },
+  {
+   "id": "wallace-1877-russia-emancipation-redemption",
+   "authorKey": "wallace",
+   "sourceLine": "Donald Mackenzie Wallace, British journalist who lived in Russia before and after emancipation, Russia (revised edition, 1905; first published 1877), on the redemption payments",
+   "year": 1905,
+   "kind": "text",
+   "text": "The arrangement was as follows:--The dues were capitalised at six per cent., and the Government paid at once to the proprietors four-fifths of the whole sum. The peasants were to pay to the proprietor the remaining fifth, either at once or in installments, and to the Government six per cent. for forty-nine years on the sum advanced. … Many Communes refused to undertake the operation on any conditions and in consequence of this not a few proprietors demanded the so-called obligatory redemption, according to which they accepted the four-fifths from the Government as full payment, and the operation was thus effected without the peasants being consulted.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.10",
+    "5.6"
+   ],
+   "sourceUrl": "https://gutenberg.org/cache/epub/1349/pg1349.txt",
+   "verified": false
+  },
+  {
+   "id": "mitchel-1861-davis-free-sovereign-ireland",
+   "authorKey": "mitchel",
+   "sourceLine": "John Mitchel, Irish nationalist journalist and member of the Young Ireland movement, The Last Conquest of Ireland (Perhaps), chapter 10, on Thomas Davis, 1861",
+   "year": 1861,
+   "kind": "text",
+   "text": "thought it shame and sin (which, indeed, it was and is,) that our old island should be devoured by strangers; that the people of the ancient clans, who had’ once taught half the schools and won half the battles in Europe, should send tribute of corn and cattle; nay, (as Athens did of old to Crete,) tribute of her choicest youth also, of her genius and her energy, to swell the pride and power of an inferior race. … He longed to see Ireland standing on her own feet, using her own resources for her own behoof, living her own genial life, with her own flag floating above her, – a free and sovereign State among the nations of Europe. And he knew that all this might be achieved, if only the hereditary religious feuds of ages could be healed: and by inculcation of mutual tolerance and respect, by kindling a common love for our own land, by education, by the promotion of Irish art, and re-awakening of Irish military spirit, he hoped to effect it all.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.2"
+   ],
+   "sourceUrl": "https://cartlann.org/authors/john-mitchel/the-last-conquest-of-ireland-perhaps/chapter-x/",
+   "verified": false
+  }
+ ],
+ "poolHints": [
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "equiano-1789-middle-passage",
+   "group": "persisting-coercion",
+   "why": "An enslaved African describes the Atlantic slave trade that fed coerced plantation labour in the Americas, the system the abolition campaigns attacked."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "equiano-1789-middle-passage",
+   "group": "abolition-and-reform",
+   "why": "Published in 1789 by a formerly enslaved man as part of the British abolition campaign, a witness the reformers used."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "prince-1831-history-slaves-want-freedom",
+   "group": "abolition-and-reform",
+   "why": "A woman who had been enslaved argues in a pamphlet for British readers that slavery should end, contrasting it with paid service in England."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "prince-1831-history-slaves-want-freedom",
+   "group": "persisting-coercion",
+   "why": "Describes the whip and unpaid, unceasing labour that continued in the British West Indies on the eve of abolition."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "prince-1831-history-slaves-want-freedom",
+   "group": "wage-labor",
+   "why": "Sets slavery against hired servants in England, who could leave a bad master and receive wages."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "douglass-1845-hiring-his-time",
+   "group": "persisting-coercion",
+   "why": "An enslaved shipyard worker hires out his own time and pays his master a weekly sum, showing slavery adapting to a wage-earning urban setting without ending."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "douglass-1845-hiring-his-time",
+   "group": "wage-labor",
+   "why": "Shows the cash-wage economy of a port city reaching enslaved workers, who earned wages but had to hand them to a master."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "douglass-1845-hiring-his-time",
+   "group": "abolition-and-reform",
+   "why": "Published by a leading abolitionist in 1845 to make the case against slavery."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "washington-1901-mortgaged-crops",
+   "group": "persisting-coercion",
+   "why": "A former slave reports that after emancipation Alabama farm families still worked cotton under mortgaged crops and debt."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "herzl-1896-jewish-state-one-people",
+   "group": "limits",
+   "why": "A Jewish nationalist argues that Jews, though loyal citizens, were still treated as strangers inside European nation-states, so they must form a nation of their own."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "mazzini-1858-duties-of-man-country",
+   "group": "unification",
+   "why": "An Italian nationalist argues that peoples, not dynasties, are the natural units of Europe and that the map must be redrawn by the vote of free men."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "bismarck-1862-iron-and-blood",
+   "group": "unification",
+   "why": "The Prussian leader states that German unity will come through Prussian power rather than liberal speeches and majority votes."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "fichte-1808-addresses-german-nation",
+   "group": "unification",
+   "why": "A German philosopher argues that people who share a language form a natural whole, the cultural basis for a German nation-state."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "fichte-1808-addresses-german-nation",
+   "group": "limits",
+   "why": "Defines the nation by language and descent, which marks off those thought to belong to a different people."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "greek-assembly-1822-declaration-independence",
+   "group": "independence",
+   "why": "Greek revolutionaries frame their rising against Ottoman rule as a national war for the rights enjoyed by the peoples of Europe."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "parliament-1833-slavery-abolition-act",
+   "group": "abolition-and-reform",
+   "why": "The British law that ended slavery in the colonies, but replaced it with a period of apprenticeship and paid slave-owners compensation."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "parliament-1833-slavery-abolition-act",
+   "group": "persisting-coercion",
+   "why": "Shows emancipation by law keeping formerly enslaved people bound to their former owners as apprenticed labourers, while the owners, not the workers, were paid."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "meiji-1890-rescript-on-education",
+   "group": "limits",
+   "why": "The Japanese state uses schooling to bind subjects to the throne and calls on them to offer themselves to the State, nationalism directed by the government."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "meiji-1890-rescript-on-education",
+   "group": "unification",
+   "why": "Shows how Meiji Japan built a shared national identity around loyalty to the emperor."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "rizal-1889-philippines-century-hence",
+   "group": "independence",
+   "why": "A Filipino writer warns that Spain must grant liberty and reform to its colony or face independence, an early statement of Filipino national aspirations."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "rizal-1889-philippines-century-hence",
+   "group": "limits",
+   "why": "A colonized people argues in a Madrid journal for the rights nationalism promised, which the colonial state withheld."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "garibaldi-1859-proclamation-italians",
+   "group": "unification",
+   "why": "A military leader of Italian unification calls on volunteers to prepare for a national war against foreign domination."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "mississippi-1865-black-code-labor-contracts",
+   "group": "persisting-coercion",
+   "why": "A Southern state law, passed months after emancipation, forces freedmen to hold written labor contracts, forfeit their wages if they quit and be arrested and returned to employers."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "mississippi-1865-black-code-apprentice-law",
+   "group": "persisting-coercion",
+   "why": "The law lets courts bind Black minors to work for their former owners and have runaways recaptured, continuing unfree labor after abolition."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "ure-1835-philosophy-of-manufactures",
+   "group": "wage-labor",
+   "why": "A factory-system defender argues that power-loom work brings steady wages and a healthy workshop compared with hand-weaving, the case for wage labor in factories."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "mill-1861-nationality-defined",
+   "group": "unification",
+   "why": "A British liberal defines a nationality by shared sympathies and the wish for self-government, and uses Italy and Germany as examples of national feeling short of unity."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "mill-1861-nationalities-absorbed",
+   "group": "limits",
+   "why": "A liberal nationalist argues that smaller peoples such as the Bretons, Basques and Welsh benefit from absorption into a larger nation, showing how nationalism could rank peoples."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "lincoln-1863-emancipation-proclamation",
+   "group": "abolition-and-reform",
+   "why": "A wartime order declaring slaves in rebel states free and recommending that they work for wages."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "lincoln-1863-emancipation-proclamation",
+   "group": "wage-labor",
+   "why": "Presents paid labor as the expected successor to slavery."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "jacobs-1861-incidents-wages-stolen",
+   "group": "persisting-coercion",
+   "why": "A woman who escaped slavery reports that, under the Fugitive Slave Law, she remained subject to slave laws even in free New York, and that enslaved workers' wages were taken."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "jacobs-1861-incidents-wages-stolen",
+   "group": "abolition-and-reform",
+   "why": "Written to rouse Northern readers against slavery and the Fugitive Slave Law."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "wilberforce-1789-speech-slave-trade",
+   "group": "abolition-and-reform",
+   "why": "The leader of the parliamentary campaign argues that the whole Parliament is guilty of the slave trade and describes conditions on slave ships."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "wilberforce-1789-speech-slave-trade",
+   "group": "persisting-coercion",
+   "why": "Describes the Atlantic slave trade as it still operated in 1789, supplying forced labor to the colonies."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "wallace-1877-russia-emancipation-redemption",
+   "group": "persisting-coercion",
+   "why": "After the 1861 emancipation, Russian peasants had to pay for their land for forty-nine years, and many were bound to redemption without being consulted."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "wallace-1877-russia-emancipation-redemption",
+   "group": "abolition-and-reform",
+   "why": "An observer describes how the state and nobles arranged the financial terms of the 1861 emancipation of the serfs."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "mitchel-1861-davis-free-sovereign-ireland",
+   "group": "independence",
+   "why": "An Irish nationalist describes the Young Ireland aim of a free and sovereign Ireland, to be built on healing religious divisions and a shared love of country."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "meiji-1868-charter-oath",
+   "group": "unification",
+   "why": "The Meiji government promises a national assembly and national unity of \"all classes\" as it builds a modern Japanese state."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "okakura-1905-restoration-schools-army",
+   "group": "unification",
+   "why": "A Japanese writer describes the schools and army that the Restoration government used to create a unified nation."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "bolivar-1819-angostura-address",
+   "group": "independence",
+   "why": "Bolivar addresses the Venezuelan Congress on the political identity of the new American peoples breaking from Spain."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "morelos-1813-sentiments-nation",
+   "group": "independence",
+   "why": "A Mexican insurgent declares that sovereignty belongs to the nation and America is free of Spain."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "viscardo-1799-letter-spanish-americans",
+   "group": "independence",
+   "why": "A Jesuit exile urges Spanish Americans to see themselves as a people with a separate interest from Spain."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "venezuela-1811-act-independence",
+   "group": "independence",
+   "why": "Venezuela's congress declares independence from Spain in the name of the people."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "dessalines-1804-haitian-declaration",
+   "group": "independence",
+   "why": "Haiti's leader declares independence from France and a Haitian identity."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "tucuman-1816-declaration-independence",
+   "group": "independence",
+   "why": "The Congress of Tucuman declares the United Provinces independent of Spain."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "jefferson-1776-declaration-independence",
+   "group": "independence",
+   "why": "The model declaration of independence by colonists against an empire."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "seneca-falls-1848-declaration-sentiments",
+   "group": "limits",
+   "why": "Women claim a place in the political nation that the nation-state left them out of."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "gouges-1791-rights-woman",
+   "group": "limits",
+   "why": "A French writer shows that the revolutionary nation's \"citizen\" excluded women."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "morelos-1811-decree-castes",
+   "group": "limits",
+   "why": "A Mexican insurgent abolishes caste distinctions inside the new nation, showing who the old order left out."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "douglass-1852-fourth-of-july",
+   "group": "limits",
+   "why": "A former slave shows a nation proclaiming liberty while excluding the enslaved."
+  },
+  {
+   "dbq": "nationalism-identity",
+   "doc": "sarmiento-1845-facundo-pampas",
+   "group": "limits",
+   "why": "An Argentine writer divides his nation into civilization and \"barbarism\", ranking some of its people."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "engels-1845-before-machinery",
+   "group": "wage-labor",
+   "why": "Describes work before and after mechanization, the change to factory wage work."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "engels-1845-spinning-machinery",
+   "group": "wage-labor",
+   "why": "Shows the new machine-based factory system and the workers it employed."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "robinson-1898-lowell-turn-out",
+   "group": "wage-labor",
+   "why": "A Lowell mill girl recalls a strike by wage workers in a New England factory."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "robinson-1898-loom-and-spindle-doffer",
+   "group": "wage-labor",
+   "why": "A mill girl recalls child wage labor in the Lowell mills."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "smith-1776-pin-factory",
+   "group": "wage-labor",
+   "why": "Division of labour in a manufactory, the organization behind wage work."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "bentley-1832-sadler-committee",
+   "group": "wage-labor",
+   "why": "Testimony from a factory worker about long hours and discipline in the mill."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "crabtree-1832-sadler-committee",
+   "group": "wage-labor",
+   "why": "Testimony from a factory worker about child labor in the mills."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "dickens-1842-lowell-mills",
+   "group": "wage-labor",
+   "why": "A visitor describes the factory girls of the Lowell mills and their working life."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "duff-gordon-1863-suez-forced-labour",
+   "group": "persisting-coercion",
+   "why": "An eyewitness describes forced peasant labor on the Suez Canal under the Egyptian government."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "kropotkin-1899-emancipation-from-above",
+   "group": "persisting-coercion",
+   "why": "A Russian writer looks back on the 1861 emancipation of the serfs and its limits."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "alexander-ii-1861-emancipation-manifesto",
+   "group": "abolition-and-reform",
+   "why": "The tsar's manifesto ending serfdom in Russia."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "kropotkin-1899-emancipation-from-above",
+   "group": "abolition-and-reform",
+   "why": "A Russian writer's account of how serfdom was ended from above."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "san-martin-1821-free-womb-decree",
+   "group": "abolition-and-reform",
+   "why": "A Latin American liberator's law declaring children of slaves in Peru free."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "morelos-1811-decree-castes",
+   "group": "abolition-and-reform",
+   "why": "A Mexican insurgent decree abolishing slavery and caste distinctions."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "douglass-1852-fourth-of-july",
+   "group": "abolition-and-reform",
+   "why": "A leading abolitionist's speech against slavery in the United States."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "harris-1842-ashley-mines-hansard",
+   "group": "abolition-and-reform",
+   "why": "A parliamentary debate on regulating the employment of women and children in mines."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "marx-1867-capital-working-day",
+   "group": "abolition-and-reform",
+   "why": "Describes the English Factory Acts that limited the working day."
+  },
+  {
+   "dbq": "labor-continuity-change",
+   "doc": "marx-1867-capital-factory-education",
+   "group": "abolition-and-reform",
+   "why": "Describes factory legislation, including its education clauses."
+  }
+ ],
+ "drillHints": [
+  {
+   "topic": "5.10",
+   "doc": "equiano-1789-middle-passage",
+   "why": "Eyewitness evidence of the coercion at the base of Atlantic plantation labour."
+  },
+  {
+   "topic": "5.10",
+   "doc": "prince-1831-history-slaves-want-freedom",
+   "why": "Contrasts coerced slave labour with wage work and asks for wages and free time."
+  },
+  {
+   "topic": "5.10",
+   "doc": "douglass-1845-hiring-his-time",
+   "why": "Shows slavery coexisting with wage-earning in an industrializing port."
+  },
+  {
+   "topic": "5.10",
+   "doc": "washington-1901-mortgaged-crops",
+   "why": "Shows how debt tied freed people to cotton farming after emancipation."
+  },
+  {
+   "topic": "5.2",
+   "doc": "herzl-1896-jewish-state-one-people",
+   "why": "Jewish nationalism arising from exclusion by European national states."
+  },
+  {
+   "topic": "5.2",
+   "doc": "mazzini-1858-duties-of-man-country",
+   "why": "Mazzini presents nations as divinely intended units replacing dynastic states."
+  },
+  {
+   "topic": "5.2",
+   "doc": "bismarck-1862-iron-and-blood",
+   "why": "Bismarck links German unification to Prussian military power."
+  },
+  {
+   "topic": "5.2",
+   "doc": "fichte-1808-addresses-german-nation",
+   "why": "Cultural nationalism: language as the basis of the nation."
+  },
+  {
+   "topic": "5.2",
+   "doc": "greek-assembly-1822-declaration-independence",
+   "why": "Greek independence movement justified by natural rights and nationhood."
+  },
+  {
+   "topic": "5.10",
+   "doc": "parliament-1833-slavery-abolition-act",
+   "why": "Abolition law that kept apprenticeship and compensated owners."
+  },
+  {
+   "topic": "5.2",
+   "doc": "meiji-1890-rescript-on-education",
+   "why": "State-directed nationalism through the school system in Meiji Japan."
+  },
+  {
+   "topic": "5.2",
+   "doc": "rizal-1889-philippines-century-hence",
+   "why": "Early nationalism in a colonized society in Asia."
+  },
+  {
+   "topic": "5.2",
+   "doc": "garibaldi-1859-proclamation-italians",
+   "why": "Garibaldi and the armed side of Italian unification."
+  },
+  {
+   "topic": "5.10",
+   "doc": "mississippi-1865-black-code-labor-contracts",
+   "why": "Black Codes as a post-emancipation labor-control system."
+  },
+  {
+   "topic": "5.10",
+   "doc": "mississippi-1865-black-code-apprentice-law",
+   "why": "Apprenticeship laws that kept freed children working for former owners."
+  },
+  {
+   "topic": "5.3",
+   "doc": "ure-1835-philosophy-of-manufactures",
+   "why": "The factory owner's case that machinery benefits workers."
+  },
+  {
+   "topic": "5.10",
+   "doc": "ure-1835-philosophy-of-manufactures",
+   "why": "Factory wage work presented as an improvement on hand production."
+  },
+  {
+   "topic": "5.2",
+   "doc": "mill-1861-nationality-defined",
+   "why": "Contemporary definition of nationality and the Italian case."
+  },
+  {
+   "topic": "5.2",
+   "doc": "mill-1861-nationalities-absorbed",
+   "why": "Nationalism and the fate of minority peoples within nation-states."
+  },
+  {
+   "topic": "5.10",
+   "doc": "lincoln-1863-emancipation-proclamation",
+   "why": "Emancipation order that pairs freedom with wage labor."
+  },
+  {
+   "topic": "5.10",
+   "doc": "jacobs-1861-incidents-wages-stolen",
+   "why": "Slave law reaching into a free state; unpaid labor of the enslaved."
+  },
+  {
+   "topic": "5.10",
+   "doc": "wilberforce-1789-speech-slave-trade",
+   "why": "Parliamentary abolition campaign against the slave trade."
+  },
+  {
+   "topic": "5.1",
+   "doc": "wilberforce-1789-speech-slave-trade",
+   "why": "Humanitarian argument against the slave trade."
+  },
+  {
+   "topic": "5.10",
+   "doc": "wallace-1877-russia-emancipation-redemption",
+   "why": "Terms of Russian serf emancipation: redemption dues paid by peasants."
+  },
+  {
+   "topic": "5.6",
+   "doc": "wallace-1877-russia-emancipation-redemption",
+   "why": "State role in the Russian emancipation of 1861."
+  },
+  {
+   "topic": "5.2",
+   "doc": "mitchel-1861-davis-free-sovereign-ireland",
+   "why": "Irish nationalism in the 1840s: language, history and sovereignty."
+  }
+ ],
+ "gaps": [
+  "Cuba Commission report (1876) on Chinese labourers: only SOAS scans and a modern reprint turned up in search; no readable plain-text page. Indian and Chinese indenture is therefore missing from persisting-coercion; the same for Jenkins, The Coolie (1871) which exists only as an image viewer on canadiana.ca, and Beaumont, The New Slavery (1871).",
+  "Brazil's Golden Law (1888): only Wikipedia and Portuguese-language school sites came up; no public-domain English text of the law as printed in 1888. Cuba and Brazil are not represented by their own voices.",
+  "Dadabhai Naoroji and the early Indian National Congress (resolutions 1885-1890s, Bonnerjee's 1885 address): only secondary summaries or scanned books (GIPE) were found; no plain-text primary page. India has no new nationalist voice in this cluster.",
+  "Parnell's 'march of a nation' speech and Thomas Davis's essays: no plain-text primary page found. Ireland is covered by Mitchel (1861), who wrote about Davis and Young Ireland.",
+  "Bolivar's Jamaica Letter, Marti's 'Our America', Menelik II's 1891 circular letter, Kossuth's 1849 declaration, Palacky's 1848 letter to Frankfurt: only modern translations, PDFs or unverified reprints were found (the ERNiE Beardmore translation of Palacky was not read because its date and status are unclear).",
+  "The Basel Program (1897) appears on jewishvirtuallibrary.org, but the page text has soft hyphens inside 'Eretz-Israel', so it was not used. Garibaldi's Rome speech of 1849 ('I offer neither pay, nor quarters') is not in the Dwight 1861 text; the 1859 Genoa proclamation was used instead.",
+  "The 1842 Mines Commission testimony page at Fordham and Avalon's Thirteenth Amendment page returned no text, so the factory-law side of abolition-and-reform rests on existing bank documents (Marx, Ashley's Hansard speech) and on British, American and Russian emancipation texts. No new factory-law primary text was found.",
+  "Non-European voices: nationalism-identity has Greek (Epidaurus), Filipino (Rizal), Japanese (Rescript on Education); labor-continuity-change has African/African-Caribbean/African-American voices (Equiano, Prince, Douglass, Jacobs, Washington). No Egyptian, Ottoman, Chinese, Indian or Brazilian voice could be reached."
+ ],
+ "rulings": [
+  {
+   "what": "Herzl, The Jewish State: the only free English text is the 1946 American Zionist Emergency Council revision of Sylvie d'Avigdor's 1896 translation (Gutenberg 25282), not the 1896 wording itself.",
+   "why": "The 1896 Nutt edition was not found as plain text. The excerpt is genuine page text, but its wording may differ slightly from the 1896 translation; translation field says so.",
+   "prompt": "nationalism-identity"
+  },
+  {
+   "what": "Wilberforce 1789 speech comes from brycchancarey.com, which reproduces Cobbett's Parliamentary History (1816) and says there was no official record, only newspaper reports.",
+   "why": "The page is a historian's website, but the excerpt is the printed 1816 text. The sourceLine says so. Another 1789 account of the same speech differs in wording.",
+   "prompt": "labor-continuity-change"
+  },
+  {
+   "what": "Wallace, Russia: the Gutenberg text is the revised edition of 1905 (it mentions 1887 and 1932); the book first appeared in 1877. Year is set to 1905.",
+   "why": "Wallace lived in Russia before and after the emancipation; the passage on redemption terms is from the revised edition.",
+   "prompt": "labor-continuity-change"
+  },
+  {
+   "what": "Mill's Considerations on Representative Government (1861) chapter 16 is used twice, in 'unification' and in 'limits'.",
+   "why": "He defines nationality and then argues that smaller peoples gain from absorption; the second passage is a liberal's justification of the limits of nationalism.",
+   "prompt": "nationalism-identity"
+  },
+  {
+   "what": "Bismarck's speech survives only as a summary in reported speech; translation by Jeremiah Riemer (German History in Documents and Images). Greek 1822 declaration text is from a textbook reprint on declarationproject.org.",
+   "why": "Both are the best free English texts; the page notes that the Bismarck text is not word for word.",
+   "prompt": "nationalism-identity"
+  },
+  {
+   "what": "Garibaldi's 1859 proclamation is printed in Theodore Dwight's 1861 'Life of General Garibaldi', a compilation by a US writer, not Garibaldi's own book.",
+   "why": "The excerpt is the quoted proclamation only; the translator of the proclamation is not named.",
+   "prompt": "nationalism-identity"
+  },
+  {
+   "what": "Washington's Up from Slavery (1901) and Jacobs's Incidents (1861) were written decades after or during the events they describe; Mississippi Black Code excerpts come from the teachingamericanhistory.org transcription of the 1865 statutes.",
+   "why": "Authors lived through the events; the page marks cuts with '. . .', which I avoided inside excerpts.",
+   "prompt": "labor-continuity-change"
+  }
+ ]
+}

@@ -1,0 +1,1526 @@
+{
+ "cluster": "d",
+ "documents": [
+  {
+   "id": "marx-1853-british-rule-steam-free-trade",
+   "authorKey": "marx",
+   "sourceLine": "Karl Marx, German socialist writing as a correspondent for a New York newspaper, \"The British Rule in India,\" New-York Daily Tribune, June 25, 1853",
+   "year": 1853,
+   "kind": "text",
+   "text": "These small stereotype forms of social organism have been to the greater part dissolved, and are disappearing, not so much through the brutal interference of the British tax-gatherer and the British soldier, as to the working of English steam and English free trade. Those family-communities were based on domestic industry, in that peculiar combination of hand-weaving, hands-spinning and hand-tilling agriculture which gave them self-supporting power. English interference having placed the spinner in Lancashire and the weaver in Bengal, or sweeping away both Hindoo spinner and weaver, dissolved these small semi-barbarian, semi-civilized communities, by blowing up their economical basis, and thus produced the greatest, and to speak the truth, the only social revolution ever heard of in Asia.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.5",
+    "5.7",
+    "5.8"
+   ],
+   "sourceUrl": "https://www.marxists.org/archive/marx/works/1853/06/25.htm",
+   "verified": false
+  },
+  {
+   "id": "marx-1853-future-results-railways",
+   "authorKey": "marx",
+   "sourceLine": "Karl Marx, German socialist writing as a correspondent for a New York newspaper, \"The Future Results of British Rule in India,\" New-York Daily Tribune, August 8, 1853",
+   "year": 1853,
+   "kind": "text",
+   "text": "I know that the English millocracy intend to endow India with railways with the exclusive view of extracting at diminished expenses the cotton and other raw materials for their manufactures. But when you have once introduced machinery into the locomotion of a country, which possesses iron and coals, you are unable to withhold it from its fabrication. You cannot maintain a net of railways over an immense country without introducing all those industrial processes necessary to meet the immediate and current wants of railway locomotion, and out of which there must grow the application of machinery to those branches of industry not immediately connected with railways. The railway-system will therefore become, in India, truly the forerunner of modern industry.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.5",
+    "5.4"
+   ],
+   "sourceUrl": "https://www.marxists.org/archive/marx/works/1853/07/22.htm",
+   "verified": false
+  },
+  {
+   "id": "babbage-1832-cotton-india-lancashire",
+   "authorKey": "babbage",
+   "sourceLine": "Charles Babbage, English mathematician and observer of British factories, On the Economy of Machinery and Manufactures, 1832",
+   "year": 1832,
+   "kind": "text",
+   "text": "The accumulation of skill and science which has been directed to diminish the difficulty of producing manufactured goods, has not been beneficial to that country alone in which it is concentrated; distant kingdoms have participated in its advantages. … The cotton of India is conveyed by British ships round half our planet, to be woven by British skill in the factories of Lancashire: it is again set in motion by British capital; and, transported to the very plains whereon it grew, is repurchased by the lords of the soil which gave it birth, at a cheaper price than that at which their coarser machinery enables them to manufacture it themselves.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.5",
+    "5.3"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/4238/pg4238.txt",
+   "verified": false
+  },
+  {
+   "id": "jevons-1865-coal-question-world-supplies",
+   "authorKey": "jevons",
+   "sourceLine": "W. Stanley Jevons, English economist, The Coal Question, 1865 (second edition 1866)",
+   "year": 1865,
+   "kind": "text",
+   "text": "The plains of North America and Russia are our corn-fields ; Chicago and Odessa our granaries; Canada and the Baltic are our timber-forests ; Australasia contains our sheep-farms, and in South America are our herds of oxen; Peru sends her silver, and the gold of California and Australia flows to London ; the Chinese grow tea for us, and our coffee, sugar, and spice plantations are in all the Indies. … But great as is our own system, it is not the whole. Commerce is undoubtedly making its way by its own subtle force, and is uniting the parts of the globe into a web of interchanges, in which the peculiar riches of each are made useful to all.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.5",
+    "5.7"
+   ],
+   "sourceUrl": "https://archive.org/stream/bub_gb_nVtJUsGgLcoC/bub_gb_nVtJUsGgLcoC_djvu.txt",
+   "verified": false
+  },
+  {
+   "id": "naoroji-1871-benefits-detriments-material",
+   "authorKey": "naoroji",
+   "sourceLine": "Dadabhai Naoroji, Indian economist and later member of the British Parliament, \"The Benefits of British Rule\" (credit and debit accounts of British rule), 1871",
+   "year": 1871,
+   "kind": "text",
+   "text": "Materially: Loans for railways and irrigation. Development of a few valuable products, such as indigo, tea, coffee, silk, etc. Increase of exports. Telegraphs. … The consequent continuous impoverishment and exhaustion of the country, except so far as it has been very partially relieved and replenished by the railway and irrigation loans, and the windfall of the consequences of the American war, since 1850. Even with this relief, the material condition of India is such that the great mass of the poor have hardly tuppence a day and a few rags, or a scanty subsistence. The famines that were in their power to prevent, if they had done their duty, as a good and intelligent government. The policy adopted during the last fifteen years of building railways, irrigation works, etc., is hopeful, has already resulted in much good to your credit, and if persevered in, gratitude and contentment will follow. An increase of exports without adequate compensation; loss of manufacturing industry and skill.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.5",
+    "5.4",
+    "5.10"
+   ],
+   "sourceUrl": "https://sourcebooks.fordham.edu/mod/1871britishrule.asp",
+   "verified": false
+  },
+  {
+   "id": "mill-1848-benefits-of-commerce",
+   "authorKey": "mill",
+   "sourceLine": "John Stuart Mill, English philosopher and economist, Principles of Political Economy, 1848 (abridged edition by J. Laurence Laughlin, 1885)",
+   "year": 1848,
+   "kind": "text",
+   "text": "A country which produces for a larger market than its own can introduce a more extended division of labor, can make greater use of machinery, and is more likely to make inventions and improvements in the processes of production. Whatever causes a greater quantity of anything to be produced in the same place tends to the general increase of the productive powers of the world. … Finally, (4) commerce first taught nations to see with goodwill the wealth and prosperity of one another. Before, the patriot, unless sufficiently advanced in culture to feel the world his country, wished all countries weak, poor, and ill-governed but his own: he now sees in their wealth and progress a direct source of wealth and progress to his own country. It is commerce which is rapidly rendering war obsolete, by strengthening and multiplying the personal interests which are in natural opposition to it.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.7",
+    "5.5",
+    "5.3"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/30107/pg30107.txt",
+   "verified": false
+  },
+  {
+   "id": "carlyle-1843-laissez-faire-nexus",
+   "authorKey": "carlyle",
+   "sourceLine": "Thomas Carlyle, Scottish essayist and Romantic social critic, Past and Present, 1843",
+   "year": 1843,
+   "kind": "text",
+   "text": "All this dire misery, therefore; all this of our poor Workhouse Workmen, of our Chartisms, Trades-strikes, Corn-Laws, Toryisms, and the general downbreak of Laissez-faire in these days,--may we not regard it as a voice from the dumb bosom of Nature, saying to us: \"Behold! Supply-and-demand is not the one Law of Nature; Cash-payment is not the sole nexus of man with man,--how far from it! Deep, far deeper than Supply-and-demand, are Laws, Obligations sacred as Man's Life itself: these also, if you will continue to do work, you shall now learn and obey. He that will learn them, behold Nature is on his side, he shall yet work and prosper with noble rewards. He that will not learn them, Nature is against him, he shall not be able to do work in Nature's empire,--not in hers. Perpetual mutiny, contention, hatred, isolation, execration shall wait on his footsteps, till all men discern that the thing which he attains, however golden it look or be, is not success, but the want of success.\"",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.7",
+    "5.8"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/26159/pg26159.txt",
+   "verified": false
+  },
+  {
+   "id": "carlyle-1843-mammon-gospel-cash-payment",
+   "authorKey": "carlyle",
+   "sourceLine": "Thomas Carlyle, Scottish essayist and Romantic social critic, Past and Present, 1843",
+   "year": 1843,
+   "kind": "text",
+   "text": "True, it must be owned, we for the present, with our Mammon-Gospel, have come to strange conclusions. We call it a Society; and go about professing openly the totalest separation, isolation. Our life is not a mutual helpfulness; but rather, cloaked under due laws-of-war, named 'fair competition' and so forth, it is a mutual hostility. We have profoundly forgotten everywhere that _Cash-payment_ is not the sole relation of human beings; we think, nothing doubting, that _it_ absolves and liquidates all engagements of man. \"My starving workers?\" answers the rich mill-owner: \"Did not I hire them fairly in the market? Did I not pay them, to the last sixpence, the sum covenanted for? What have I to do with them more?\"--Verily Mammon-worship is a melancholy creed.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.7",
+    "5.8",
+    "5.9"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/26159/pg26159.txt",
+   "verified": false
+  },
+  {
+   "id": "ruskin-1860-unto-this-last-no-wealth-but-life",
+   "authorKey": "ruskin",
+   "sourceLine": "John Ruskin, English art critic and social thinker, Unto This Last, 1860",
+   "year": 1860,
+   "kind": "text",
+   "text": "Of course, as in the instances of alchemy, astrology, witchcraft, and other such popular creeds, political economy has a plausible idea at the root of it. \"The social affections,\" says the economist, \"are accidental and disturbing elements in human nature; but avarice and the desire of progress are constant elements. Let us eliminate the inconstants, and, considering the human being merely as a covetous machine, examine by what laws of labour, purchase, and sale, the greatest accumulative result in wealth is obtainable. … THERE IS NO WEALTH BUT LIFE. Life, including all its powers of love, of joy, and of admiration. That country is the richest which nourishes the greatest number of noble and happy human beings; that man is richest who, having perfected the functions of his own life to the utmost, has also the widest helpful influence, both personal and by means of his possessions, over the lives of others.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.7",
+    "5.8"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/36541/pg36541.txt",
+   "verified": false
+  },
+  {
+   "id": "george-1879-progress-and-poverty-promise",
+   "authorKey": "george",
+   "sourceLine": "Henry George, American journalist and economist, Progress and Poverty, 1879",
+   "year": 1879,
+   "kind": "text",
+   "text": "The present century has been marked by a prodigious increase in wealth-producing power. The utilization of steam and electricity, the introduction of improved processes and labor-saving machinery, the greater subdivision and grander scale of production, the wonderful facilitation of exchanges, have multiplied enormously the effectiveness of labor. … Could a man of the last century—a Franklin or a Priestley—have seen, in a vision of the future, the steamship taking the place of the sailing vessel, the railroad train of the wagon, the reaping machine of the scythe, the threshing machine of the flail; … could he have realized the enormous saving of labor resulting from improved facilities of exchange and communication—sheep killed in Australia eaten fresh in England, and the order given by the London banker in the afternoon executed in San Francisco in the morning of the same day;",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.5",
+    "5.7",
+    "5.8"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/55308/pg55308.txt",
+   "verified": false
+  },
+  {
+   "id": "george-1879-progress-and-poverty-disappointment",
+   "authorKey": "george",
+   "sourceLine": "Henry George, American journalist and economist, Progress and Poverty, 1879",
+   "year": 1879,
+   "kind": "text",
+   "text": "It is true that disappointment has followed disappointment, and that discovery upon discovery, and invention after invention, have neither lessened the toil of those who most need respite, nor brought plenty to the poor. … From all parts of the civilized world come complaints of industrial depression; of labor condemned to involuntary idleness; of capital massed and wasting; of pecuniary distress among business men; of want and suffering and anxiety among the working classes. All the dull, deadening pain, all the keen, maddening anguish, that to great masses of men are involved in the words “hard times,” afflict the world to-day.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.5",
+    "5.8",
+    "5.10"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/55308/pg55308.txt",
+   "verified": false
+  },
+  {
+   "id": "bastiat-1845-candlemakers-petition",
+   "authorKey": "bastiat",
+   "sourceLine": "Frederic Bastiat, French free-trade economist, \"Petition of the Manufacturers of Candles,\" a satire on protectionism from Economic Sophisms, 1845",
+   "year": 1845,
+   "kind": "text",
+   "text": "We are suffering from the intolerable competition of a foreign rival, placed, it would seem, in a condition so far superior to ours for the production of light, that he absolutely inundates our national market with it at a price fabulously reduced. The moment he shows himself, our trade leaves us all consumers apply to him; and a branch of native industry, having countless ramifications, is all at once rendered completely stagnant. … What we pray for is, that it may please you to pass a law ordering the shutting up of all windows, sky-lights, dormer-windows, outside and inside shutters, curtains, blinds, bull's-eyes; in a word, of all openings, holes, chinks, clefts, and fissures, by or through which the light of the sun has been in use to enter houses",
+   "adapted": false,
+   "original": null,
+   "translation": "Translated by Patrick James Stirling, Economic Sophisms, 1873",
+   "topics": [
+    "5.7",
+    "5.6"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/files/44145/44145-h/44145-h.htm",
+   "verified": false
+  },
+  {
+   "id": "kemble-1830-liverpool-manchester-railway",
+   "authorKey": "kemble",
+   "sourceLine": "Fanny Kemble, English actress, letter describing a trial trip on the new Liverpool and Manchester Railway, 1830 (as reprinted in Railway Adventures and Anecdotes)",
+   "year": 1830,
+   "kind": "text",
+   "text": "This snorting little animal, which I felt rather inclined to pat, was then harnessed to our carriage, and Mr. Stephenson having taken me on the bench of the engine with him, we started at about ten miles an hour. … without any visible cause of progress other than the magical machine, with its flying white breath and rhythmical, unvarying pace, between these rocky walls … Upon this the clay and soil were laid down, and the road does float, for we passed over it at the rate of five and twenty miles an hour, and saw the stagnant swamp water trembling on the surface of the soil on either side of us.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.5",
+    "5.3"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/files/31395/31395-h/31395-h.htm",
+   "verified": false
+  },
+  {
+   "id": "bagehot-1873-lombard-street-joint-stock-banks",
+   "authorKey": "bagehot",
+   "sourceLine": "Walter Bagehot, English banker and editor of The Economist, Lombard Street: A Description of the Money Market, 1873",
+   "year": 1873,
+   "kind": "text",
+   "text": "The Joint Stock Banks of this country are a most remarkable success. Generally speaking the career of Joint Stock Companies in this country has been chequered. Adam Smith, many years since, threw out many pregnant hints on the difficulty of such undertakings--hints which even after so many years will well repay perusal. But joint stock banking has been an exception to this rule. … But the main source of the profitableness of established banking is the smallness of the requisite capital. Being only wanted as a \"moral influence,\" it need not be more than is necessary to secure that influence. Although, therefore, a banker deals only with the most sure securities, and with those which yield the least interest, he can nevertheless gain and divide a very large profit upon his own capital, because the money in his hands is so much larger than that capital.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.7"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/4359/pg4359.txt",
+   "verified": false
+  },
+  {
+   "id": "smith-1776-invisible-hand-home-market",
+   "authorKey": "smith",
+   "sourceLine": "Adam Smith, Scottish moral philosopher and political economist, An Inquiry into the Nature and Causes of the Wealth of Nations, Book IV, 1776",
+   "year": 1776,
+   "kind": "text",
+   "text": "He generally, indeed, neither intends to promote the public interest, nor knows how much he is promoting it. By preferring the support of domestic to that of foreign industry, he intends only his own security; and by directing that industry in such a manner as its produce may be of the greatest value, he intends only his own gain; and he is in this, as in many other cases, led by an invisible hand to promote an end which was no part of his intention. … It is the maxim of every prudent master of a family, never to attempt to make at home what it will cost him more to make than to buy. The tailor does not attempt to make his own shoes, but buys them of the shoemaker.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.7",
+    "5.3"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/3300/pg3300.txt",
+   "verified": false
+  },
+  {
+   "id": "smith-1776-water-carriage-market",
+   "authorKey": "smith",
+   "sourceLine": "Adam Smith, Scottish moral philosopher and political economist, An Inquiry into the Nature and Causes of the Wealth of Nations, Book I, 1776",
+   "year": 1776,
+   "kind": "text",
+   "text": "In about the same time a ship navigated by six or eight men, and sailing between the ports of London and Leith, frequently carries and brings back two hundred ton weight of goods. Six or eight men, therefore, by the help of water-carriage, can carry and bring back, in the same time, the same quantity of goods between London and Edinburgh as fifty broad-wheeled waggons, attended by a hundred men, and drawn by four hundred horses. … What goods could bear the expense of land-carriage between London and Calcutta? Or if there were any so precious as to be able to support this expense, with what safety could they be transported through the territories of so many barbarous nations?",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.3",
+    "5.5",
+    "5.7"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/3300/pg3300.txt",
+   "verified": false
+  },
+  {
+   "id": "bagehot-1873-lombard-street-limited-liability",
+   "authorKey": "bagehot",
+   "sourceLine": "Walter Bagehot, English banker and editor of The Economist, Lombard Street: A Description of the Money Market, 1873",
+   "year": 1873,
+   "kind": "text",
+   "text": "The Bank of England had, till lately, the monopoly of limited liability in England. The common law of England knows nothing of any such principle. It is only possible by Royal Charter or Statute Law. And by neither of these was any real bank (I do not count absurd schemes such as Chamberlayne's Land Bank) permitted with limited liability in England till within these few years. … He was declaiming against banks of limited liability, and some one asked--'Why, what do you say, then, to the Bank of England, where you keep your own account?' 'Oh!' he replied, 'that is an exceptional case.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.7"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/4359/pg4359.txt",
+   "verified": false
+  },
+  {
+   "id": "marx-1867-capital-transport-telegraphs",
+   "authorKey": "marx",
+   "sourceLine": "Karl Marx, German socialist theorist writing in London, Capital, Volume 1, chapter 15 (Machinery and Modern Industry), 1867",
+   "year": 1867,
+   "kind": "text",
+   "text": "Hence, apart from the radical changes introduced in the construction of sailing vessels, the means of communication and transport became gradually adapted to the modes of production of mechanical industry, by the creation of a system of river steamers, railways, ocean steamers, and telegraphs. … But the huge masses of iron that had now to be forged, to be welded, to be cut, to be bored, and to be shaped, demanded, on their part, cyclopean machines, for the construction of which the methods of the manufacturing period were utterly inadequate.",
+   "adapted": false,
+   "original": null,
+   "translation": "English edition of 1887 translated by Samuel Moore and Edward Aveling, edited by Frederick Engels",
+   "topics": [
+    "5.5",
+    "5.3"
+   ],
+   "sourceUrl": "https://www.marxists.org/archive/marx/works/1867-c1/ch15.htm",
+   "verified": false
+  },
+  {
+   "id": "marx-1867-capital-international-division-labour",
+   "authorKey": "marx",
+   "sourceLine": "Karl Marx, German socialist theorist writing in London, Capital, Volume 1, chapter 15 (Machinery and Modern Industry), 1867",
+   "year": 1867,
+   "kind": "text",
+   "text": "By ruining handicraft production in other countries, machinery forcibly converts them into fields for the supply of its raw material. In this way East India was compelled to produce cotton, wool, hemp, jute, and indigo for Great Britain. … A new and international division of labour, a division suited to the requirements of the chief centres of modern industry springs up, and converts one part of the globe into a chiefly agricultural field of production, for supplying the other part which remains a chiefly industrial field.",
+   "adapted": false,
+   "original": null,
+   "translation": "English edition of 1887 translated by Samuel Moore and Edward Aveling, edited by Frederick Engels",
+   "topics": [
+    "5.5",
+    "5.4",
+    "5.8"
+   ],
+   "sourceUrl": "https://www.marxists.org/archive/marx/works/1867-c1/ch15.htm",
+   "verified": false
+  },
+  {
+   "id": "marx-1867-capital-handloom-weavers-india",
+   "authorKey": "marx",
+   "sourceLine": "Karl Marx, German socialist theorist writing in London, Capital, Volume 1, chapter 15 (Machinery and Modern Industry), 1867",
+   "year": 1867,
+   "kind": "text",
+   "text": "Where the transition is rapid, the effect is acute and felt by great masses. History discloses no tragedy more horrible than the gradual extinction of the English hand-loom weavers, an extinction that was spread over several decades, and finally sealed in 1838. … On the other hand, the English cotton machinery produced an acute effect in India. The Governor General reported 1834-35: “The misery hardly finds a parallel in the history of commerce. The bones of the cotton-weavers are bleaching the plains of India.",
+   "adapted": false,
+   "original": null,
+   "translation": "English edition of 1887 translated by Samuel Moore and Edward Aveling, edited by Frederick Engels",
+   "topics": [
+    "5.5",
+    "5.8",
+    "5.4"
+   ],
+   "sourceUrl": "https://www.marxists.org/archive/marx/works/1867-c1/ch15.htm",
+   "verified": false
+  },
+  {
+   "id": "gandhi-1909-hind-swaraj-railways",
+   "authorKey": "gandhi",
+   "sourceLine": "M. K. Gandhi, Indian lawyer and political thinker, Hind Swaraj (Indian Home Rule), chapter IX, \"The Condition of India (Continued): Railways,\" written 1909",
+   "year": 1909,
+   "kind": "text",
+   "text": "It must be manifest to you that, but for the railways, the English could not have such a hold on India as they have. The railways, too, have spread the bubonic plague. Without them, masses could not move from place to place. They are the carriers of plague germs. Formerly we had natural segregation. Railways have also increased the frequency of famines, because, owing to facility of means of locomotion, people sell out their grain, and it is sent to the dearest markets. People become careless, and so the pressure of famine increases. They accentuate the evil nature of man. Bad men fulfil their evil designs with greater rapidity.",
+   "adapted": false,
+   "original": null,
+   "translation": "Translated from the Gujarati by the author, Indian Home Rule, 1910 edition",
+   "topics": [
+    "5.5",
+    "5.4",
+    "5.10"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/files/40461/40461-h/40461-h.htm",
+   "verified": false
+  },
+  {
+   "id": "gandhi-1909-hind-swaraj-machinery-manchester",
+   "authorKey": "gandhi",
+   "sourceLine": "M. K. Gandhi, Indian lawyer and political thinker, Hind Swaraj (Indian Home Rule), chapter XIX, \"Machinery,\" written 1909",
+   "year": 1909,
+   "kind": "text",
+   "text": "It is machinery that has impoverished India. It is difficult to measure the harm that Manchester has done to us. It is due to Manchester that Indian handicraft has all but disappeared. … Machinery is the chief symbol of modern civilization; it represents a great sin. … The workers in the mills of Bombay have become slaves. … in the mills is shocking. When there were no mills, these women were not starving. … If the machinery craze grows in our country, it will become an unhappy land.",
+   "adapted": false,
+   "original": null,
+   "translation": "Translated from the Gujarati by the author, Indian Home Rule, 1910 edition",
+   "topics": [
+    "5.5",
+    "5.8",
+    "5.4"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/files/40461/40461-h/40461-h.htm",
+   "verified": false
+  },
+  {
+   "id": "ure-1835-factory-system-arkwright",
+   "authorKey": "ure",
+   "sourceLine": "Andrew Ure, Scottish chemist and professor, defender of the factory system, The Philosophy of Manufactures, 1835",
+   "year": 1835,
+   "kind": "text",
+   "text": "When the first water-frames for spinning cotton were erected at Cromford, in the romantic valley of the Derwent, about sixty years ago, mankind were little aware of the mighty revolution which the new system of labour was destined by Providence to achieve, not only in the structure of British society, but in the fortunes of the world at large. Arkwright alone had the sagacity to discern, and the boldness to predict in glowing language, how vastly productive human industry would become, when no longer proportioned in its results to muscular effort, which is by its nature fitful and capricious, but when made to consist in the task of guiding the work of mechanical fingers and arms, regularly impelled with great velocity by some indefatigable physical power.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.3",
+    "5.5"
+   ],
+   "sourceUrl": "https://sourcebooks.fordham.edu/mod/1835ure.asp",
+   "verified": false
+  },
+  {
+   "id": "bryan-1896-cross-of-gold",
+   "authorKey": "bryan",
+   "sourceLine": "William Jennings Bryan, Nebraska congressman and Democratic presidential candidate, \"Cross of Gold\" speech to the Democratic National Convention, July 1896",
+   "year": 1896,
+   "kind": "text",
+   "text": "If they ask us here why it is we say more on the money question than we say upon the tariff question, I reply that if protection has slain its thousands the gold standard has slain its tens of thousands. … You come to us and tell us that the great cities are in favor of the gold standard. I tell you that the great cities rest upon these broad and fertile prairies. Burn down your cities and leave our farms, and your cities will spring up again as if by magic. But destroy our farms and the grass will grow in the streets of every city in this country. … we shall answer their demands for a gold standard by saying to them, you shall not press down upon the brow of labor this crown of thorns. You shall not crucify mankind upon a cross of gold.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.7",
+    "5.8"
+   ],
+   "sourceUrl": "https://teachingamericanhistory.org/document/the-cross-of-gold-speech/",
+   "verified": false
+  },
+  {
+   "id": "smith-1776-banking-waggon-way",
+   "authorKey": "smith",
+   "sourceLine": "Adam Smith, Scottish moral philosopher and political economist, An Inquiry into the Nature and Causes of the Wealth of Nations, Book II, 1776",
+   "year": 1776,
+   "kind": "text",
+   "text": "That part of his capital which a dealer is obliged to keep by him unemployed and in ready money, for answering occasional demands, is so much dead stock, which, so long as it remains in this situation, produces nothing, either to him or to his country. … The gold and silver money which circulates in any country may very properly be compared to a highway, which, while it circulates and carries to market all the grass and corn of the country, produces itself not a single pile of either. The judicious operations of banking, by providing, if I may be allowed so violent a metaphor, a sort of waggon-way through the air, enable the country to convert, as it were, a great part of its highways into good pastures, and corn fields, and thereby to increase, very considerably, the annual produce of its land and labour.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.7",
+    "5.3"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/3300/pg3300.txt",
+   "verified": false
+  },
+  {
+   "id": "yung-1909-joint-stock-steamship-proposal",
+   "authorKey": "yung-wing",
+   "sourceLine": "Yung Wing, Chinese educator and reformer, My Life in China and America, 1909 (recalling his 1868 proposals to the Qing government)",
+   "year": 1909,
+   "kind": "text",
+   "text": "The first proposal contemplated the organization of a Steamship Company on a joint stock basis. No foreigner was to be allowed to be a stockholder in the company. It was to be a purely Chinese company, managed and worked by Chinese exclusively. … My proposition was to use steam to do the work, supplanting both the flat-bottomed scows and the Ningpo junk system, so that the millions who were dependent on rice for subsistence might find it possible to get good and sound rice. This is one of the great benefits and blessings which the China Merchant Steamship Co. has conferred upon China.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.5",
+    "5.7",
+    "5.4"
+   ],
+   "sourceUrl": "https://gutenberg.org/cache/epub/54635/pg54635.txt",
+   "verified": false
+  },
+  {
+   "id": "nasmyth-1883-self-acting-machine-tools",
+   "authorKey": "nasmyth",
+   "sourceLine": "James Nasmyth, Scottish engineer and Manchester machine-tool maker, James Nasmyth, Engineer: An Autobiography (recalling the 1830s), 1883",
+   "year": 1883,
+   "kind": "text",
+   "text": "The irregularity and carelessness of the workmen naturally proved very annoying to the employers. But it gave an increased stimulus to the demand for self-acting machine tools by which the untrustworthy efforts of hand labour might be avoided. The machines never got drunk; their hands never shook from excess; they were never absent from work; they did not strike for wages; they were unfailing in their accuracy and regularity, while producing the most delicate or ponderous portions of mechanical structures.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.5",
+    "5.3",
+    "5.8"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/476/pg476.txt",
+   "verified": false
+  },
+  {
+   "id": "rochdale-1844-pioneers-objects",
+   "authorKey": "rochdale-pioneers",
+   "sourceLine": "Rochdale Equitable Pioneers' Society, a co-operative society of Lancashire working men, statement of its objects, 1844 (as printed in G. J. Holyoake, History of the Rochdale Pioneers)",
+   "year": 1844,
+   "kind": "text",
+   "text": "The objects and plans of this Society are to form arrangements for the pecuniary benefit and the improvement of the social and domestic condition of its members, by raising a sufficient amount of capital in shares of one pound each, … The establishment of a Store for the sale of provisions, clothing, … To commence the manufacture of such articles as the Society may determine upon, for the employment of such members as may be without employment, or who may be suffering in consequence of repeated reductions in their wages.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.7",
+    "5.8"
+   ],
+   "sourceUrl": "https://archive.org/stream/historyofrochdal00holyuoft/historyofrochdal00holyuoft_djvu.txt",
+   "verified": false
+  },
+  {
+   "id": "shibusawa-1908-first-national-bank-shareholders",
+   "authorKey": "shibusawa",
+   "sourceLine": "Baron Shibusawa Eiichi, Japanese official turned banker and founder of the First National Bank, chapter \"Joint-Stock Enterprise in Japan\" in Fifty Years of New Japan, 1907-08",
+   "year": 1908,
+   "kind": "text",
+   "text": "Thus the first joint-stock companies after Western models in this country were banks, and next came companies connected with shipping, railways, and insurance, to be followed by degrees by various industrial companies. … Hitherto, business had consisted of small transactions, the public being ignorant of the advantages of conducting it on a joint-stock basis. But very few came forward to assist, and the Government had to persuade, nay, almost to order, the Mitsuigumi and the Onogumi to form it ; and if these two families had not taken part as principal shareholders, it is extremely doubtful whether the bank could ever have become an accomplished fact. The capital of the bank was at first 2,500,000 yen, and of this 2,000,000 yen was subscribed by the two families, the rest being offered to the general public.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.7",
+    "5.4"
+   ],
+   "sourceUrl": "https://archive.org/stream/fiftyyearsofnewj01okumuoft/fiftyyearsofnewj01okumuoft_djvu.txt",
+   "verified": false
+  },
+  {
+   "id": "shibusawa-1908-joint-stock-men-of-ability",
+   "authorKey": "shibusawa",
+   "sourceLine": "Baron Shibusawa Eiichi, Japanese official turned banker and founder of the First National Bank, chapter \"Joint-Stock Enterprise in Japan\" in Fifty Years of New Japan, 1907-08",
+   "year": 1908,
+   "kind": "text",
+   "text": "The Government rightly encouraged private enterprise, but when those thus encouraged happened to be men of no ability, what good could be expected. Therefore it became a matter of prime importance to have some enterprise set up on a large scale so as to attract men of ability to it, and to this end there was no better means than to start the system of joint-stock companies. … At the same time, if by means of joint-stock companies we can secure the prosperity of production and trade, we may thereby expect to promote the wealth and power of a nation.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.7",
+    "5.4",
+    "5.6"
+   ],
+   "sourceUrl": "https://archive.org/stream/fiftyyearsofnewj01okumuoft/fiftyyearsofnewj01okumuoft_djvu.txt",
+   "verified": false
+  },
+  {
+   "id": "victoria-1858-atlantic-cable-message",
+   "authorKey": "victoria",
+   "sourceLine": "Queen Victoria, British monarch, message to President James Buchanan over the first transatlantic telegraph cable, August 16, 1858 (as printed in Henry M. Field, The Story of the Atlantic Telegraph)",
+   "year": 1858,
+   "kind": "text",
+   "text": "The Queen desires to congratulate the President upon the successful completion of this great international work, in which the Queen has taken the deepest interest. \"The Queen is convinced that the President will join with her in fervently hoping that the electric cable which now connects Great Britain with the United States will prove an additional link between the nations, whose friendship is founded upon their common interest and reciprocal esteem. \"The Queen has much pleasure in thus communicating with the President, and renewing to him her wishes for the prosperity of the United States.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.5",
+    "5.4"
+   ],
+   "sourceUrl": "https://gutenberg.org/files/34765/34765-h/34765-h.htm",
+   "verified": false
+  },
+  {
+   "id": "buchanan-1858-atlantic-cable-reply",
+   "authorKey": "buchanan",
+   "sourceLine": "James Buchanan, President of the United States, reply to Queen Victoria over the first transatlantic telegraph cable, August 16, 1858 (as printed in Henry M. Field, The Story of the Atlantic Telegraph)",
+   "year": 1858,
+   "kind": "text",
+   "text": "The President cordially reciprocates the congratulations of her Majesty the Queen, on the success of the great international enterprise accomplished by the science, skill, and indomitable energy of the two countries. \"It is a triumph more glorious, because far more useful to mankind, than was ever won by conqueror on the field of battle. \"May the Atlantic Telegraph, under the blessing of Heaven, prove to be a bond of perpetual peace and friendship between the kindred nations, and an instrument destined by Divine Providence to diffuse religion, civilization, liberty, and law throughout the world.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.5",
+    "5.4"
+   ],
+   "sourceUrl": "https://gutenberg.org/files/34765/34765-h/34765-h.htm",
+   "verified": false
+  },
+  {
+   "id": "sumner-1883-laissez-faire-mind-your-business",
+   "authorKey": "sumner",
+   "sourceLine": "William Graham Sumner, American sociologist and Yale professor, What Social Classes Owe to Each Other, 1883",
+   "year": 1883,
+   "kind": "text",
+   "text": "Society needs first of all to be freed from these meddlers that is, to be let alone. Here we are, then, once more back at the old doctrine Laissez faire. Let us translate it into blunt English, and it will read, Mind your own business. It is nothing but the doctrine of liberty. Let every man be happy in his own way. If his sphere of action and interest impinges on that of any other man, there will have to be compromise and adjustment. Wait for the occasion. Do not attempt to generalize those interferences or to plan for them a priori. We have a body of laws and institutions which have grown up as occasion has occurred for adjusting rights. Let the same process go on. Practise the utmost reserve possible in your interferences even of this kind, and by no means seize occasion for interfering with natural adjustments. Try first long and patiently whether the natural adjustment will not come about through the play of interests and the voluntary concessions of the parties.",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.7",
+    "5.8"
+   ],
+   "sourceUrl": "https://www.gutenberg.org/files/18603/18603-h/18603-h.htm",
+   "verified": false
+  },
+  {
+   "id": "weeks-1903-congo-public-works-morel",
+   "authorKey": "weeks",
+   "sourceLine": "J. H. Weeks, British missionary on the Upper Congo for twenty-five years, letter of December 24, 1903, quoted in E. D. Morel, Red Rubber, 1906",
+   "year": 1903,
+   "kind": "text",
+   "text": "What does the native receive in return for all this taxation? … Those who live near the line have to keep the road clear for nothing, and in tropical Africa that is not an easy task. … Others, again, point to well-built State stations. In what way do they benefit the native? … Then others point to the railway. It is a splendid achievement of engineering skill and pays large dividends to shareholders, but in what way does it benefit the thousands of natives on the Upper Congo?",
+   "adapted": false,
+   "original": null,
+   "translation": null,
+   "topics": [
+    "5.5",
+    "5.4",
+    "5.10"
+   ],
+   "sourceUrl": "https://archive.org/stream/redrubberstoryof00more_0/redrubberstoryof00more_0_djvu.txt",
+   "verified": false
+  }
+ ],
+ "poolHints": [
+  {
+   "dbq": "technology-global-economy",
+   "doc": "marx-1853-british-rule-steam-free-trade",
+   "group": "unequal-effects",
+   "why": "A critic of British colonial policy argues that English steam and free trade, by putting the spinner in Lancashire and the weaver in Bengal, destroyed India's village economy."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "marx-1853-british-rule-steam-free-trade",
+   "group": "critics",
+   "why": "A critic of British colonial policy argues that English steam and free trade, by putting the spinner in Lancashire and the weaver in Bengal, destroyed India's village economy."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "marx-1853-future-results-railways",
+   "group": "speed-and-scale",
+   "why": "Shows that railways built to carry Indian cotton to English mills would, in Marx's argument, pull machinery and modern industry into India itself."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "marx-1853-future-results-railways",
+   "group": "global-integration",
+   "why": "Shows that railways built to carry Indian cotton to English mills would, in Marx's argument, pull machinery and modern industry into India itself."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "babbage-1832-cotton-india-lancashire",
+   "group": "global-integration",
+   "why": "A British observer describes Indian cotton carried round the world to Lancashire factories and sold back to India more cheaply than Indian machinery could make it."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "babbage-1832-cotton-india-lancashire",
+   "group": "unequal-effects",
+   "why": "A British observer describes Indian cotton carried round the world to Lancashire factories and sold back to India more cheaply than Indian machinery could make it."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "jevons-1865-coal-question-world-supplies",
+   "group": "global-integration",
+   "why": "A British economist describes steam transport and commerce turning the farms and plantations of other continents into suppliers of Britain's industrial economy."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "jevons-1865-coal-question-world-supplies",
+   "group": "free-market-ideas",
+   "why": "A British economist describes steam transport and commerce turning the farms and plantations of other continents into suppliers of Britain's industrial economy."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "naoroji-1871-benefits-detriments-material",
+   "group": "unequal-effects",
+   "why": "An Indian economist credits railways and telegraphs on one side of the ledger and sets against them the drain of wealth, rising raw-material exports and the loss of India's manufacturing."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "naoroji-1871-benefits-detriments-material",
+   "group": "critics",
+   "why": "An Indian economist credits railways and telegraphs on one side of the ledger and sets against them the drain of wealth, rising raw-material exports and the loss of India's manufacturing."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "mill-1848-benefits-of-commerce",
+   "group": "free-market-ideas",
+   "why": "A leading liberal economist argues that larger markets bring a wider division of labour, more machinery and invention, and a common interest in peace."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "mill-1848-benefits-of-commerce",
+   "group": "global-integration",
+   "why": "A leading liberal economist argues that larger markets bring a wider division of labour, more machinery and invention, and a common interest in peace."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "carlyle-1843-laissez-faire-nexus",
+   "group": "critics",
+   "why": "A Romantic critic rejects supply-and-demand and laissez-faire, insisting that cash payment is not the sole bond between people."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "carlyle-1843-mammon-gospel-cash-payment",
+   "group": "critics",
+   "why": "Imagines a mill-owner who believes that hiring workers in the market and paying them ends every obligation, as a charge against competitive industrial society."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "ruskin-1860-unto-this-last-no-wealth-but-life",
+   "group": "critics",
+   "why": "A moral critic of political economy rejects the idea of treating people as a covetous machine and redefines wealth as life."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "george-1879-progress-and-poverty-promise",
+   "group": "speed-and-scale",
+   "why": "Lists steam, railroads, machinery and rapid communication as multiplying the power of labour in the nineteenth century."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "george-1879-progress-and-poverty-promise",
+   "group": "global-integration",
+   "why": "Lists steam, railroads, machinery and rapid communication as multiplying the power of labour in the nineteenth century."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "george-1879-progress-and-poverty-disappointment",
+   "group": "unequal-effects",
+   "why": "Argues that inventions have neither lightened the toil of those who most need respite nor brought plenty to the poor, and that depression is worldwide."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "george-1879-progress-and-poverty-disappointment",
+   "group": "critics",
+   "why": "Argues that inventions have neither lightened the toil of those who most need respite nor brought plenty to the poor, and that depression is worldwide."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "bastiat-1845-candlemakers-petition",
+   "group": "free-market-ideas",
+   "why": "A French free-trade writer mocks protectionism by having candlemakers petition to shut out the sun as a foreign competitor."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "kemble-1830-liverpool-manchester-railway",
+   "group": "speed-and-scale",
+   "why": "An eyewitness on the locomotive records the speed of the first intercity steam railway and the engineering needed to carry it across rock and swamp."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "bagehot-1873-lombard-street-joint-stock-banks",
+   "group": "companies-and-banks",
+   "why": "Explains why joint-stock banks succeeded where many joint-stock companies failed: a bank uses other people's money and needs little capital of its own."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "smith-1776-invisible-hand-home-market",
+   "group": "free-market-ideas",
+   "why": "The founding statement that individuals pursuing their own interest serve the public, and that nations, like households, should buy what costs more to make at home."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "smith-1776-water-carriage-market",
+   "group": "global-integration",
+   "why": "Shows, before steam, how cheaper transport widens the market and makes long-distance trade such as London to Calcutta possible."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "smith-1776-water-carriage-market",
+   "group": "speed-and-scale",
+   "why": "Shows, before steam, how cheaper transport widens the market and makes long-distance trade such as London to Calcutta possible."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "smith-1776-water-carriage-market",
+   "group": "free-market-ideas",
+   "why": "Shows, before steam, how cheaper transport widens the market and makes long-distance trade such as London to Calcutta possible."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "bagehot-1873-lombard-street-limited-liability",
+   "group": "companies-and-banks",
+   "why": "Describes how limited liability, once a privilege of the Bank of England, was extended to other banks only recently and was still resisted by prominent merchants."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "marx-1867-capital-transport-telegraphs",
+   "group": "speed-and-scale",
+   "why": "Explains how mechanised industry forced a matching system of river steamers, railways, ocean steamers and telegraphs, and heavier machinery to build them."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "marx-1867-capital-transport-telegraphs",
+   "group": "global-integration",
+   "why": "Explains how mechanised industry forced a matching system of river steamers, railways, ocean steamers and telegraphs, and heavier machinery to build them."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "marx-1867-capital-international-division-labour",
+   "group": "unequal-effects",
+   "why": "Argues that machine industry in Europe turns other regions into suppliers of raw material, creating an international division of labour between industrial and agricultural parts of the world."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "marx-1867-capital-international-division-labour",
+   "group": "global-integration",
+   "why": "Argues that machine industry in Europe turns other regions into suppliers of raw material, creating an international division of labour between industrial and agricultural parts of the world."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "marx-1867-capital-international-division-labour",
+   "group": "critics",
+   "why": "Argues that machine industry in Europe turns other regions into suppliers of raw material, creating an international division of labour between industrial and agricultural parts of the world."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "marx-1867-capital-handloom-weavers-india",
+   "group": "unequal-effects",
+   "why": "Quotes the Governor General's 1834-35 report on the ruin of India's cotton weavers by English machinery, set beside the extinction of English hand-loom weavers."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "marx-1867-capital-handloom-weavers-india",
+   "group": "critics",
+   "why": "Quotes the Governor General's 1834-35 report on the ruin of India's cotton weavers by English machinery, set beside the extinction of English hand-loom weavers."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "gandhi-1909-hind-swaraj-railways",
+   "group": "unequal-effects",
+   "why": "An Indian critic of colonial rule argues that railways strengthened British control, shifted grain to the dearest markets and increased famine."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "gandhi-1909-hind-swaraj-railways",
+   "group": "critics",
+   "why": "An Indian critic of colonial rule argues that railways strengthened British control, shifted grain to the dearest markets and increased famine."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "gandhi-1909-hind-swaraj-machinery-manchester",
+   "group": "unequal-effects",
+   "why": "An Indian critic blames Manchester machinery for the disappearance of Indian handicraft and warns that Indian mills enslave workers."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "gandhi-1909-hind-swaraj-machinery-manchester",
+   "group": "critics",
+   "why": "An Indian critic blames Manchester machinery for the disappearance of Indian handicraft and warns that Indian mills enslave workers."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "ure-1835-factory-system-arkwright",
+   "group": "speed-and-scale",
+   "why": "A champion of the factory system says machinery driven by a tireless physical power made human industry vastly more productive than muscular effort."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "bryan-1896-cross-of-gold",
+   "group": "companies-and-banks",
+   "why": "An American farmers' champion attacks the gold standard as a burden on labour and farms while city financiers and creditors defend it."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "bryan-1896-cross-of-gold",
+   "group": "critics",
+   "why": "An American farmers' champion attacks the gold standard as a burden on labour and farms while city financiers and creditors defend it."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "smith-1776-banking-waggon-way",
+   "group": "companies-and-banks",
+   "why": "Argues that banks, by substituting paper for gold and silver, turn idle money into active capital, like a waggon-way through the air."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "yung-1909-joint-stock-steamship-proposal",
+   "group": "speed-and-scale",
+   "why": "A Chinese reformer proposes a joint-stock, all-Chinese steamship company that would carry tribute rice by steam instead of by canal boats and junks."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "yung-1909-joint-stock-steamship-proposal",
+   "group": "companies-and-banks",
+   "why": "A Chinese reformer proposes a joint-stock, all-Chinese steamship company that would carry tribute rice by steam instead of by canal boats and junks."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "nasmyth-1883-self-acting-machine-tools",
+   "group": "speed-and-scale",
+   "why": "A machine-tool maker explains that employers' troubles with workmen raised demand for self-acting machines that never struck or went absent."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "nasmyth-1883-self-acting-machine-tools",
+   "group": "unequal-effects",
+   "why": "A machine-tool maker explains that employers' troubles with workmen raised demand for self-acting machines that never struck or went absent."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "rochdale-1844-pioneers-objects",
+   "group": "critics",
+   "why": "Working people answer low wages by pooling capital in one-pound shares to open a store, make goods and employ unemployed members, an alternative to the market economy."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "rochdale-1844-pioneers-objects",
+   "group": "companies-and-banks",
+   "why": "Working people answer low wages by pooling capital in one-pound shares to open a store, make goods and employ unemployed members, an alternative to the market economy."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "shibusawa-1908-first-national-bank-shareholders",
+   "group": "companies-and-banks",
+   "why": "Shows Japan's first Western-style joint-stock companies were banks, and that the public was so reluctant to invest that two merchant families supplied most of the First National Bank's capital."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "shibusawa-1908-joint-stock-men-of-ability",
+   "group": "companies-and-banks",
+   "why": "A Japanese banker explains that joint-stock companies were the means to draw able men into commerce and so raise national wealth and power."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "victoria-1858-atlantic-cable-message",
+   "group": "global-integration",
+   "why": "The first official message across the Atlantic cable presents the telegraph as a link of friendship and common interest between Britain and the United States."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "buchanan-1858-atlantic-cable-reply",
+   "group": "global-integration",
+   "why": "An American president calls the Atlantic telegraph a triumph more useful to mankind than any conqueror's, a bond to spread civilization and law."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "sumner-1883-laissez-faire-mind-your-business",
+   "group": "free-market-ideas",
+   "why": "Translates laissez-faire as 'mind your own business' and argues that society should be freed from reformers and left to natural adjustment."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "weeks-1903-congo-public-works-morel",
+   "group": "unequal-effects",
+   "why": "A missionary asks who benefits from the Congo's telegraph, steamers and railway, answering that the shareholders profit while the people supply forced labour."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "weeks-1903-congo-public-works-morel",
+   "group": "critics",
+   "why": "A missionary asks who benefits from the Congo's telegraph, steamers and railway, answering that the shareholders profit while the people supply forced labour."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "engels-1845-spinning-machinery",
+   "group": "speed-and-scale",
+   "why": "Describes Arkwright's spinning machine extending the factory system, a first step in the speed and scale of cotton production."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "marx-1848-productive-forces",
+   "group": "speed-and-scale",
+   "why": "Lists steam navigation, railways, electric telegraphs and machinery as productive forces larger than all earlier generations combined."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "twain-1883-steamboat-railroad",
+   "group": "speed-and-scale",
+   "why": "Shows railroads doing in days what steamboats took a week to do, and cheap towing fleets undercutting steamboat freight."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "macaulay-1848-mineral-wealth",
+   "group": "speed-and-scale",
+   "why": "Measures the growth of coal and mineral output that powered British industry."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "smith-1776-pin-factory",
+   "group": "speed-and-scale",
+   "why": "Shows how division of labour in a workshop multiplied output per worker before steam power."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "dyer-1910-edison-electric-light",
+   "group": "speed-and-scale",
+   "why": "Records the first regular incandescent lighting station and how a restrictive English law slowed the new industry."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "inouye-1908-railroads",
+   "group": "speed-and-scale",
+   "why": "A Japanese official recalls opposition to the first railways, which later reshaped Japan's economy."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "suzuki-1908-model-factories",
+   "group": "speed-and-scale",
+   "why": "Japan introduced model factories for silk reeling, spinning and cement to transfer industrial methods quickly."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "den-1908-telegraph-japan",
+   "group": "global-integration",
+   "why": "Traces the telegraph reaching Japan after Perry's 1854 gift and becoming a national network."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "duff-gordon-1863-suez-forced-labour",
+   "group": "global-integration",
+   "why": "Shows the Suez Canal, a link between world markets, built with forced Egyptian labour."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "dutt-1904-india-railways",
+   "group": "global-integration",
+   "why": "Argues railways were built to open India's interior to British goods under parliamentary pressure."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "dutt-1902-raw-produce",
+   "group": "global-integration",
+   "why": "Describes a policy of making India grow raw produce to feed British looms and factories."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "smith-1776-discovery-america",
+   "group": "global-integration",
+   "why": "Treats the opening of America and the sea route to the East Indies as the greatest events in world trade."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "okuma-1908-summary-state-subsidy",
+   "group": "global-integration",
+   "why": "Shows steamship lines in Japan founded with state subsidy to carry trade overseas."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "dutt-1902-raw-produce",
+   "group": "unequal-effects",
+   "why": "Argues India was made a supplier of raw produce while its weavers lost their markets."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "dutt-1904-india-poverty",
+   "group": "unequal-effects",
+   "why": "Contrasts the prosperity of the Empire with the poverty of India."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "dutt-1904-india-railways",
+   "group": "unequal-effects",
+   "why": "Argues railways served British manufacturers and neglected irrigation for Indian farmers."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "duff-gordon-1863-public-works-cost",
+   "group": "unequal-effects",
+   "why": "An observer reports who paid the human cost of new railways and public works in Egypt."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "duff-gordon-1863-suez-forced-labour",
+   "group": "unequal-effects",
+   "why": "Shows peasants torn from their homes to dig the Suez Canal."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "cromer-1908-egypt-debt",
+   "group": "unequal-effects",
+   "why": "Shows Egypt's borrowing, mostly squandered, leading to financial breakdown and foreign control."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "okakura-1905-white-disaster",
+   "group": "unequal-effects",
+   "why": "A Japanese writer says cheap machine-made goods and the lack of a protective tariff destroyed Eastern crafts."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "stjohn-1834-rosetta-failed-mills",
+   "group": "unequal-effects",
+   "why": "A traveller finds Muhammad Ali's steam-powered mills abandoned or useless."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "lane-1836-monopolies-and-manufactures",
+   "group": "unequal-effects",
+   "why": "Argues Egypt's rulers wasted resources on monopolies and failed attempts to rival European manufactures."
+  },
+  {
+   "dbq": "technology-global-economy",
+   "doc": "engels-1845-before-machinery",
+   "group": "unequal-effects",
+   "why": "Describes how machinery ended the independence of hand-weaving families."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "ricardo-1817-free-commerce",
+   "group": "free-market-ideas",
+   "why": "States the case that free commerce gives each country the work it does best."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "cobden-1843-corn-laws-free-trade",
+   "group": "free-market-ideas",
+   "why": "A leading campaigner demands free trade in everything against the Corn Laws."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "smith-1776-pin-factory",
+   "group": "free-market-ideas",
+   "why": "Founding statement of how division of labour raises wealth."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "smith-1776-discovery-america",
+   "group": "free-market-ideas",
+   "why": "Treats expanding markets as the greatest source of the wealth of nations."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "carnegie-1889-wealth-change",
+   "group": "free-market-ideas",
+   "why": "Defends the inequality that comes with competition as better than universal squalor."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "smith-1776-joint-stock",
+   "group": "companies-and-banks",
+   "why": "Warns that joint-stock directors manage other people's money with less care than their own."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "bagehot-1873-lombard-street-capital",
+   "group": "companies-and-banks",
+   "why": "Argues that an organised money market lets capital be gathered for railways and other ventures."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "shibusawa-1908-banking-joint-stock",
+   "group": "companies-and-banks",
+   "why": "A Japanese banker explains why joint-stock companies were needed to circulate money."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "matsukata-1908-gold-standard",
+   "group": "companies-and-banks",
+   "why": "A Japanese finance minister explains the decision to adopt the gold standard."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "midhat-1903-ottoman-bankruptcy",
+   "group": "companies-and-banks",
+   "why": "Shows Ottoman finances collapsing under a newly learned national debt."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "cromer-1908-egypt-debt",
+   "group": "companies-and-banks",
+   "why": "Shows how foreign loans bankrupted Egypt and led to financial control."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "marx-engels-1848-manifesto-bourgeoisie-proletariat",
+   "group": "critics",
+   "why": "Accuses the bourgeoisie of leaving no bond between people but naked self-interest and cash payment."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "marx-1867-capital-working-day",
+   "group": "critics",
+   "why": "A socialist critic shows workers compelling laws to protect themselves from the market."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "marx-1867-capital-factory-education",
+   "group": "critics",
+   "why": "A socialist critic finds the germ of future education in the factory system."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "proudhon-1840-what-is-property",
+   "group": "critics",
+   "why": "A French socialist attacks private property as robbery."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "leo-xiii-1891-rerum-novarum",
+   "group": "critics",
+   "why": "A religious critic condemns concentrated wealth and the market bargain while rejecting socialism."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "owen-1813-new-view-society",
+   "group": "critics",
+   "why": "A factory-owner reformer argues that character is formed by circumstances the economy creates."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "list-1841-productive-power",
+   "group": "critics",
+   "why": "A German economist rejects free-trade theory in favour of building a nation's productive power."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "okakura-1905-white-disaster",
+   "group": "critics",
+   "why": "A Japanese critic of Western commerce says organised capital and unequal treaties destroyed Eastern crafts."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "dutt-1902-raw-produce",
+   "group": "critics",
+   "why": "An Indian historian criticises colonial trade policy that destroyed Indian weaving."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "dutt-1904-india-poverty",
+   "group": "critics",
+   "why": "An Indian historian contrasts imperial prosperity with Indian poverty."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "engels-1845-bourgeoisie-attitude",
+   "group": "critics",
+   "why": "Criticises the factory-owning class's attitude to its workers."
+  },
+  {
+   "dbq": "economic-ideas-institutions",
+   "doc": "engels-1845-trades-unions-strikes",
+   "group": "critics",
+   "why": "Presents trades unions and strikes as the workers' answer to the market."
+  }
+ ],
+ "drillHints": [
+  {
+   "topic": "5.5",
+   "doc": "marx-1853-british-rule-steam-free-trade",
+   "why": "A critic of British colonial policy argues that English steam and free trade, by putting the spinner in Lancashire and the weaver in Bengal, destroyed India's village economy."
+  },
+  {
+   "topic": "5.7",
+   "doc": "marx-1853-british-rule-steam-free-trade",
+   "why": "A critic of British colonial policy argues that English steam and free trade, by putting the spinner in Lancashire and the weaver in Bengal, destroyed India's village economy."
+  },
+  {
+   "topic": "5.5",
+   "doc": "marx-1853-future-results-railways",
+   "why": "Shows that railways built to carry Indian cotton to English mills would, in Marx's argument, pull machinery and modern industry into India itself."
+  },
+  {
+   "topic": "5.5",
+   "doc": "babbage-1832-cotton-india-lancashire",
+   "why": "A British observer describes Indian cotton carried round the world to Lancashire factories and sold back to India more cheaply than Indian machinery could make it."
+  },
+  {
+   "topic": "5.3",
+   "doc": "babbage-1832-cotton-india-lancashire",
+   "why": "A British observer describes Indian cotton carried round the world to Lancashire factories and sold back to India more cheaply than Indian machinery could make it."
+  },
+  {
+   "topic": "5.5",
+   "doc": "jevons-1865-coal-question-world-supplies",
+   "why": "A British economist describes steam transport and commerce turning the farms and plantations of other continents into suppliers of Britain's industrial economy."
+  },
+  {
+   "topic": "5.7",
+   "doc": "jevons-1865-coal-question-world-supplies",
+   "why": "A British economist describes steam transport and commerce turning the farms and plantations of other continents into suppliers of Britain's industrial economy."
+  },
+  {
+   "topic": "5.5",
+   "doc": "naoroji-1871-benefits-detriments-material",
+   "why": "An Indian economist credits railways and telegraphs on one side of the ledger and sets against them the drain of wealth, rising raw-material exports and the loss of India's manufacturing."
+  },
+  {
+   "topic": "5.4",
+   "doc": "naoroji-1871-benefits-detriments-material",
+   "why": "An Indian economist credits railways and telegraphs on one side of the ledger and sets against them the drain of wealth, rising raw-material exports and the loss of India's manufacturing."
+  },
+  {
+   "topic": "5.7",
+   "doc": "mill-1848-benefits-of-commerce",
+   "why": "A leading liberal economist argues that larger markets bring a wider division of labour, more machinery and invention, and a common interest in peace."
+  },
+  {
+   "topic": "5.7",
+   "doc": "carlyle-1843-laissez-faire-nexus",
+   "why": "A Romantic critic rejects supply-and-demand and laissez-faire, insisting that cash payment is not the sole bond between people."
+  },
+  {
+   "topic": "5.8",
+   "doc": "carlyle-1843-laissez-faire-nexus",
+   "why": "A Romantic critic rejects supply-and-demand and laissez-faire, insisting that cash payment is not the sole bond between people."
+  },
+  {
+   "topic": "5.8",
+   "doc": "carlyle-1843-mammon-gospel-cash-payment",
+   "why": "Imagines a mill-owner who believes that hiring workers in the market and paying them ends every obligation, as a charge against competitive industrial society."
+  },
+  {
+   "topic": "5.7",
+   "doc": "ruskin-1860-unto-this-last-no-wealth-but-life",
+   "why": "A moral critic of political economy rejects the idea of treating people as a covetous machine and redefines wealth as life."
+  },
+  {
+   "topic": "5.8",
+   "doc": "ruskin-1860-unto-this-last-no-wealth-but-life",
+   "why": "A moral critic of political economy rejects the idea of treating people as a covetous machine and redefines wealth as life."
+  },
+  {
+   "topic": "5.5",
+   "doc": "george-1879-progress-and-poverty-promise",
+   "why": "Lists steam, railroads, machinery and rapid communication as multiplying the power of labour in the nineteenth century."
+  },
+  {
+   "topic": "5.8",
+   "doc": "george-1879-progress-and-poverty-disappointment",
+   "why": "Argues that inventions have neither lightened the toil of those who most need respite nor brought plenty to the poor, and that depression is worldwide."
+  },
+  {
+   "topic": "5.10",
+   "doc": "george-1879-progress-and-poverty-disappointment",
+   "why": "Argues that inventions have neither lightened the toil of those who most need respite nor brought plenty to the poor, and that depression is worldwide."
+  },
+  {
+   "topic": "5.7",
+   "doc": "bastiat-1845-candlemakers-petition",
+   "why": "A French free-trade writer mocks protectionism by having candlemakers petition to shut out the sun as a foreign competitor."
+  },
+  {
+   "topic": "5.5",
+   "doc": "kemble-1830-liverpool-manchester-railway",
+   "why": "An eyewitness on the locomotive records the speed of the first intercity steam railway and the engineering needed to carry it across rock and swamp."
+  },
+  {
+   "topic": "5.7",
+   "doc": "bagehot-1873-lombard-street-joint-stock-banks",
+   "why": "Explains why joint-stock banks succeeded where many joint-stock companies failed: a bank uses other people's money and needs little capital of its own."
+  },
+  {
+   "topic": "5.7",
+   "doc": "smith-1776-invisible-hand-home-market",
+   "why": "The founding statement that individuals pursuing their own interest serve the public, and that nations, like households, should buy what costs more to make at home."
+  },
+  {
+   "topic": "5.3",
+   "doc": "smith-1776-invisible-hand-home-market",
+   "why": "The founding statement that individuals pursuing their own interest serve the public, and that nations, like households, should buy what costs more to make at home."
+  },
+  {
+   "topic": "5.3",
+   "doc": "smith-1776-water-carriage-market",
+   "why": "Shows, before steam, how cheaper transport widens the market and makes long-distance trade such as London to Calcutta possible."
+  },
+  {
+   "topic": "5.5",
+   "doc": "smith-1776-water-carriage-market",
+   "why": "Shows, before steam, how cheaper transport widens the market and makes long-distance trade such as London to Calcutta possible."
+  },
+  {
+   "topic": "5.7",
+   "doc": "bagehot-1873-lombard-street-limited-liability",
+   "why": "Describes how limited liability, once a privilege of the Bank of England, was extended to other banks only recently and was still resisted by prominent merchants."
+  },
+  {
+   "topic": "5.5",
+   "doc": "marx-1867-capital-transport-telegraphs",
+   "why": "Explains how mechanised industry forced a matching system of river steamers, railways, ocean steamers and telegraphs, and heavier machinery to build them."
+  },
+  {
+   "topic": "5.5",
+   "doc": "marx-1867-capital-international-division-labour",
+   "why": "Argues that machine industry in Europe turns other regions into suppliers of raw material, creating an international division of labour between industrial and agricultural parts of the world."
+  },
+  {
+   "topic": "5.4",
+   "doc": "marx-1867-capital-international-division-labour",
+   "why": "Argues that machine industry in Europe turns other regions into suppliers of raw material, creating an international division of labour between industrial and agricultural parts of the world."
+  },
+  {
+   "topic": "5.5",
+   "doc": "marx-1867-capital-handloom-weavers-india",
+   "why": "Quotes the Governor General's 1834-35 report on the ruin of India's cotton weavers by English machinery, set beside the extinction of English hand-loom weavers."
+  },
+  {
+   "topic": "5.8",
+   "doc": "marx-1867-capital-handloom-weavers-india",
+   "why": "Quotes the Governor General's 1834-35 report on the ruin of India's cotton weavers by English machinery, set beside the extinction of English hand-loom weavers."
+  },
+  {
+   "topic": "5.5",
+   "doc": "gandhi-1909-hind-swaraj-railways",
+   "why": "An Indian critic of colonial rule argues that railways strengthened British control, shifted grain to the dearest markets and increased famine."
+  },
+  {
+   "topic": "5.10",
+   "doc": "gandhi-1909-hind-swaraj-railways",
+   "why": "An Indian critic of colonial rule argues that railways strengthened British control, shifted grain to the dearest markets and increased famine."
+  },
+  {
+   "topic": "5.5",
+   "doc": "gandhi-1909-hind-swaraj-machinery-manchester",
+   "why": "An Indian critic blames Manchester machinery for the disappearance of Indian handicraft and warns that Indian mills enslave workers."
+  },
+  {
+   "topic": "5.8",
+   "doc": "gandhi-1909-hind-swaraj-machinery-manchester",
+   "why": "An Indian critic blames Manchester machinery for the disappearance of Indian handicraft and warns that Indian mills enslave workers."
+  },
+  {
+   "topic": "5.3",
+   "doc": "ure-1835-factory-system-arkwright",
+   "why": "A champion of the factory system says machinery driven by a tireless physical power made human industry vastly more productive than muscular effort."
+  },
+  {
+   "topic": "5.5",
+   "doc": "ure-1835-factory-system-arkwright",
+   "why": "A champion of the factory system says machinery driven by a tireless physical power made human industry vastly more productive than muscular effort."
+  },
+  {
+   "topic": "5.7",
+   "doc": "bryan-1896-cross-of-gold",
+   "why": "An American farmers' champion attacks the gold standard as a burden on labour and farms while city financiers and creditors defend it."
+  },
+  {
+   "topic": "5.8",
+   "doc": "bryan-1896-cross-of-gold",
+   "why": "An American farmers' champion attacks the gold standard as a burden on labour and farms while city financiers and creditors defend it."
+  },
+  {
+   "topic": "5.7",
+   "doc": "smith-1776-banking-waggon-way",
+   "why": "Argues that banks, by substituting paper for gold and silver, turn idle money into active capital, like a waggon-way through the air."
+  },
+  {
+   "topic": "5.5",
+   "doc": "yung-1909-joint-stock-steamship-proposal",
+   "why": "A Chinese reformer proposes a joint-stock, all-Chinese steamship company that would carry tribute rice by steam instead of by canal boats and junks."
+  },
+  {
+   "topic": "5.7",
+   "doc": "yung-1909-joint-stock-steamship-proposal",
+   "why": "A Chinese reformer proposes a joint-stock, all-Chinese steamship company that would carry tribute rice by steam instead of by canal boats and junks."
+  },
+  {
+   "topic": "5.4",
+   "doc": "yung-1909-joint-stock-steamship-proposal",
+   "why": "A Chinese reformer proposes a joint-stock, all-Chinese steamship company that would carry tribute rice by steam instead of by canal boats and junks."
+  },
+  {
+   "topic": "5.5",
+   "doc": "nasmyth-1883-self-acting-machine-tools",
+   "why": "A machine-tool maker explains that employers' troubles with workmen raised demand for self-acting machines that never struck or went absent."
+  },
+  {
+   "topic": "5.3",
+   "doc": "nasmyth-1883-self-acting-machine-tools",
+   "why": "A machine-tool maker explains that employers' troubles with workmen raised demand for self-acting machines that never struck or went absent."
+  },
+  {
+   "topic": "5.7",
+   "doc": "rochdale-1844-pioneers-objects",
+   "why": "Working people answer low wages by pooling capital in one-pound shares to open a store, make goods and employ unemployed members, an alternative to the market economy."
+  },
+  {
+   "topic": "5.8",
+   "doc": "rochdale-1844-pioneers-objects",
+   "why": "Working people answer low wages by pooling capital in one-pound shares to open a store, make goods and employ unemployed members, an alternative to the market economy."
+  },
+  {
+   "topic": "5.7",
+   "doc": "shibusawa-1908-first-national-bank-shareholders",
+   "why": "Shows Japan's first Western-style joint-stock companies were banks, and that the public was so reluctant to invest that two merchant families supplied most of the First National Bank's capital."
+  },
+  {
+   "topic": "5.4",
+   "doc": "shibusawa-1908-first-national-bank-shareholders",
+   "why": "Shows Japan's first Western-style joint-stock companies were banks, and that the public was so reluctant to invest that two merchant families supplied most of the First National Bank's capital."
+  },
+  {
+   "topic": "5.7",
+   "doc": "shibusawa-1908-joint-stock-men-of-ability",
+   "why": "A Japanese banker explains that joint-stock companies were the means to draw able men into commerce and so raise national wealth and power."
+  },
+  {
+   "topic": "5.4",
+   "doc": "shibusawa-1908-joint-stock-men-of-ability",
+   "why": "A Japanese banker explains that joint-stock companies were the means to draw able men into commerce and so raise national wealth and power."
+  },
+  {
+   "topic": "5.5",
+   "doc": "victoria-1858-atlantic-cable-message",
+   "why": "The first official message across the Atlantic cable presents the telegraph as a link of friendship and common interest between Britain and the United States."
+  },
+  {
+   "topic": "5.5",
+   "doc": "buchanan-1858-atlantic-cable-reply",
+   "why": "An American president calls the Atlantic telegraph a triumph more useful to mankind than any conqueror's, a bond to spread civilization and law."
+  },
+  {
+   "topic": "5.7",
+   "doc": "sumner-1883-laissez-faire-mind-your-business",
+   "why": "Translates laissez-faire as 'mind your own business' and argues that society should be freed from reformers and left to natural adjustment."
+  },
+  {
+   "topic": "5.5",
+   "doc": "weeks-1903-congo-public-works-morel",
+   "why": "A missionary asks who benefits from the Congo's telegraph, steamers and railway, answering that the shareholders profit while the people supply forced labour."
+  },
+  {
+   "topic": "5.10",
+   "doc": "weeks-1903-congo-public-works-morel",
+   "why": "A missionary asks who benefits from the Congo's telegraph, steamers and railway, answering that the shareholders profit while the people supply forced labour."
+  }
+ ],
+ "gaps": [
+  "Dalhousie's 1853 railway minute and M. G. Ranade's Essays on Indian Economics (1898): searched; only secondary summaries, catalogue records or scans unreadable with --text were found. Naoroji is represented only by the 1871 \"Benefits of British Rule\" page on Fordham (Poverty and Un-British Rule in India was not found as readable text).",
+  "Suez Canal opening (1869): no public-domain English eyewitness text found (Lesseps's Recollections of Forty Years is only a licensed reprint or catalogue record; the one full-text lead is Portuguese). The Atlantic telegraph is covered by the 1858 Victoria and Buchanan messages as printed in Field's 1866 history.",
+  "Non-European voices are thin: India (Naoroji, Gandhi), China (Yung Wing), Japan (Shibusawa). Not found as usable public-domain English text: Feng Guifen, Zeng Guofan, Li Hongzhang, Fukuzawa, Latin American economic writers (Bello, Alberdi), Ottoman or Egyptian voices on railways and joint-stock companies. Muhammad Ali's Egypt appears only through European observers already in the unit.",
+  "Fifty Years of New Japan (archive.org OCR) interleaves marginal notes into the text, so only passages free of OCR noise were used (Shibusawa); the mercantile-marine and cotton-spinning chapters were skipped. Hobson's Imperialism (archive.org OCR with systematic errors such as \"die\" for \"the\") and Ure's full Philosophy of Manufactures were not used (the Fordham excerpt of Ure was used).",
+  "Grain, rubber and cotton as world markets: only Jevons and Weeks/Morel (Congo) touch them; no readable public-domain text on Chicago grain, Egyptian or Indian cotton exports during the American Civil War, or Amazon rubber was found. Few workers' own voices on machinery beyond the Rochdale Pioneers; Malthus (fetched) was judged off-prompt.",
+  "Gold standard and stock exchanges: only Bryan (against) and Bagehot/Matsukata/Shibusawa; no primary text on a stock exchange itself. Marx's Capital Vol. 3 on joint-stock companies exists only in a Progress Publishers translation (not public domain) and was not used."
+ ],
+ "rulings": [
+  {
+   "what": "Mill excerpt comes from J. Laurence Laughlin's 1885 abridgement (Gutenberg 30107), which keeps Mill's sentences but omits chapters; the sourceLine says so.",
+   "why": "The full Principles was not reached; the passage is Mill's own wording on the page.",
+   "prompt": "economic-ideas-institutions"
+  },
+  {
+   "what": "Fanny Kemble's 1830 letter is taken from the anthology Railway Adventures and Anecdotes (Gutenberg 31395), which reprints her letter; her 1876 introduction on the same page was not excerpted.",
+   "why": "The letter itself is the 1830 account; a purer source would be better if one is found.",
+   "prompt": "technology-global-economy"
+  },
+  {
+   "what": "The Victoria and Buchanan cable messages (1858) and the Weeks letter (1903, in Morel's Red Rubber) are quoted from later books that reprint them; sourceLine names the book. The Weeks excerpt is built from four short pieces to avoid OCR noise; in the OCR-based excerpts (Shibusawa, Weeks) line-break hyphens are joined and ' ?' spacing closed (wording unchanged, adapted false).",
+   "why": "Only way to avoid copying OCR errors or page markers; the checker matches after normalising punctuation.",
+   "prompt": "technology-global-economy"
+  },
+  {
+   "what": "Marx 1853 India articles are the author's own English newspaper text; the Capital Vol. 1 excerpts use the 1887 Moore and Aveling translation on marxists.org.",
+   "why": "Public-domain translation, same edition as the existing Capital documents in the unit.",
+   "prompt": "technology-global-economy"
+  },
+  {
+   "what": "authorKey 'shibusawa' is used for the two new Shibusawa documents; check it equals the key of the existing Shibusawa document so the pool builder groups them.",
+   "why": "Consistency for author counting."
+  }
+ ]
+}
