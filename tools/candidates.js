@@ -7,7 +7,7 @@ import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const RESEARCH = path.join(ROOT, 'data', 'research');
+const RESEARCH = path.join(ROOT, 'data', 'unit-4', 'research');
 const CANDIDATES = path.join(RESEARCH, 'candidates.json');
 const byId = (a, b) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0);
 
@@ -49,7 +49,7 @@ async function main(command) {
     for (const c of conflicts) console.log(`  conflict  ${c}`);
   } else if (command === 'promote') {
     const { documents, dropped } = promote(JSON.parse(await readFile(CANDIDATES, 'utf8')));
-    await writeJson(path.join(ROOT, 'data', 'documents.json'), documents);
+    await writeJson(path.join(ROOT, 'data', 'unit-4', 'documents.json'), documents);
     console.log(`Promoted ${documents.length} verified documents; dropped ${dropped.length}.`);
     for (const d of dropped) console.log(`  dropped  ${d}`);
   } else {

@@ -5,8 +5,7 @@ import { fileURLToPath } from 'node:url';
 import { parseCode, resolveCode } from '../src/code.js';
 import { loadData } from '../tools/load-data.js';
 
-// Task 2 changes this to ../data/unit-4.
-const UNIT4_DIR = fileURLToPath(new URL('../data', import.meta.url));
+const UNIT4_DIR = fileURLToPath(new URL('../data/unit-4', import.meta.url));
 
 test("every code in Unit 4's render snapshot still resolves in Unit 4's bank", async () => {
   const data = await loadData(UNIT4_DIR);

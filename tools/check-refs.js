@@ -105,7 +105,7 @@ async function fetchPage(url) {
 
 async function loadBank(files) {
   if (files.length === 0) {
-    const read = async (name) => JSON.parse(await readFile(path.join(ROOT, 'data', `${name}.json`), 'utf8'));
+    const read = async (name) => JSON.parse(await readFile(path.join(ROOT, 'data', 'unit-4', `${name}.json`), 'utf8'));
     return { dbqs: await read('dbqs'), saqs: await read('saqs'), mcqs: await read('mcqs') };
   }
   const bank = { dbqs: [], saqs: [], mcqs: [] };

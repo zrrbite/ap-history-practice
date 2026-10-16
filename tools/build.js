@@ -37,7 +37,7 @@ function fill(template, marker, value) {
   return template.replace(marker, () => value); // a function, so "$&" in the value stays literal
 }
 
-export async function build({ dataDir = path.join(ROOT, 'data'), outDir = path.join(ROOT, 'dist'), shareBase = null } = {}) {
+export async function build({ dataDir = path.join(ROOT, 'data', 'unit-4'), outDir = path.join(ROOT, 'dist'), shareBase = null } = {}) {
   const data = await loadData(dataDir);
   const errors = validate(data);
   if (errors.length) throw new Error(`The question bank has ${errors.length} problem(s):\n${errors.join('\n')}`);
@@ -48,7 +48,7 @@ export async function build({ dataDir = path.join(ROOT, 'data'), outDir = path.j
   let page = await src('index.html');
   page = fill(page, '/*STYLES*/', await src('styles.css'));
   page = fill(page, '/*SCRIPT*/', script);
-  page = fill(page, '__BANK__', jsonForHtml(runtimeBank(data, shareBase)));
+  page = fill(page, '__BANK__', jsonForHtml(runtimeBank(data, shareBase ?? data.unit.shareBase)));
   const local = [
     '<!doctype html>',
     '<html lang="en">',
@@ -70,17 +70,9 @@ export async function build({ dataDir = path.join(ROOT, 'data'), outDir = path.j
   return { indexPath, localPath, bytes: Buffer.byteLength(page) };
 }
 
-async function readShareBase() {
-  try {
-    return JSON.parse(await readFile(path.join(ROOT, 'site.json'), 'utf8')).shareBase ?? null;
-  } catch {
-    return null;
-  }
-}
-
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
   try {
-    const { indexPath, localPath, bytes } = await build({ shareBase: await readShareBase() });
+    const { indexPath, localPath, bytes } = await build();
     console.log(`Wrote ${path.relative(ROOT, indexPath)} (${Math.round(bytes / 1024)} KB) and ${path.relative(ROOT, localPath)}.`);
   } catch (error) {
     console.error(error.message);

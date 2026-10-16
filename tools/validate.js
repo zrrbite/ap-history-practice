@@ -1,14 +1,14 @@
 #!/usr/bin/env node
 // Content rules for the question bank. The build refuses to run while any rule fails.
-// Usage: node tools/validate.js [--release]
+// Usage: node tools/validate.js [--release] [--unit unit-5]
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { drawDbq } from '../src/sampler.js';
-import { loadData } from './load-data.js';
+import { loadUnit, selectUnits, takeUnit } from './load-data.js';
 
-export const TOPICS = ['4.1', '4.2', '4.3', '4.4', '4.5', '4.6', '4.7', '4.8'];
-export const RELEASE_MINIMUMS = { documents: 60, dbqs: 10, saqs: 18, mcqs: 13 };
 const ID_PATTERN = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
+const EXAMPLE_CODE = /^dbq\.[a-z0-9]+(?:-[a-z0-9]+)*\.[0-9a-z]{1,7}$/;
+const MINIMUM_KEYS = ['documents', 'dbqs', 'saqs', 'mcqs'];
 const SEEDS_CHECKED = 1000;
 const TEXT_NOTES = ['thesis', 'complexity'];
 const REFERENCED_NOTES = ['contextualization', 'outsideEvidence'];
@@ -27,17 +27,59 @@ function refProblem(ref) {
   return null;
 }
 
+// Checks unit.json field by field. Returns true when it is sound enough to validate the rest against.
+export function checkUnit(unit, fail) {
+  let ok = true;
+  const bad = (field, message) => {
+    ok = false;
+    fail('unit.json', `${field}: ${message}`);
+  };
+  if (unit === null || typeof unit !== 'object' || Array.isArray(unit)) {
+    fail('unit.json', 'missing or not a JSON object');
+    return false;
+  }
+  const numberOk = Number.isInteger(unit.number) && unit.number >= 1;
+  if (!numberOk) bad('number', 'must be a whole number from 1');
+  const expectedId = numberOk ? `unit-${unit.number}` : 'unit-N';
+  if (typeof unit.id !== 'string' || !(numberOk ? unit.id === expectedId : /^unit-\d+$/.test(unit.id))) bad('id', `must look like "${expectedId}"`);
+  if (!nonEmpty(unit.title)) bad('title', 'is required');
+  if (!nonEmpty(unit.period)) bad('period', 'is required');
+  if (!Array.isArray(unit.years) || unit.years.length !== 2 || !unit.years.every(Number.isInteger) || unit.years[0] >= unit.years[1]) {
+    bad('years', 'must be two whole numbers, earliest first');
+  }
+  if (unit.topics === null || typeof unit.topics !== 'object' || Array.isArray(unit.topics) || Object.keys(unit.topics).length === 0) {
+    bad('topics', 'must be an object from topic code to label, with at least one topic');
+  } else {
+    for (const [code, label] of Object.entries(unit.topics)) {
+      if (numberOk && !new RegExp(`^${unit.number}\\.\\d+$`).test(code)) bad('topics', `"${code}" must start with "${unit.number}."`);
+      else if (!numberOk && !/^\d+\.\d+$/.test(code)) bad('topics', `"${code}" must look like 5.1`);
+      if (!nonEmpty(label)) bad('topics', `"${code}" needs a label`);
+    }
+  }
+  if (unit.minimums === null || typeof unit.minimums !== 'object' || Array.isArray(unit.minimums)) {
+    bad('minimums', 'must be an object');
+  } else {
+    for (const key of MINIMUM_KEYS) {
+      if (!Number.isInteger(unit.minimums[key]) || unit.minimums[key] < 1) bad(`minimums.${key}`, 'must be a positive whole number');
+    }
+  }
+  if (unit.shareBase !== null && !(typeof unit.shareBase === 'string' && /^https:\/\/\S+$/.test(unit.shareBase))) bad('shareBase', 'must be null or an https link');
+  if (typeof unit.exampleCode !== 'string' || !EXAMPLE_CODE.test(unit.exampleCode)) bad('exampleCode', 'must look like dbq.some-prompt.k2x9q1');
+  return ok;
+}
+
 export function validate(data, { release = false } = {}) {
   const errors = [];
   const fail = (where, message) => errors.push(`${where}: ${message}`);
+  if (!checkUnit(data.unit, fail)) return errors;
   for (const name of ['documents', 'dbqs', 'saqs', 'mcqs']) {
     if (!Array.isArray(data[name])) fail(name, 'must be a JSON array');
   }
   if (errors.length) return errors;
-  const docsById = checkDocuments(data.documents, fail);
-  checkDbqs(data.dbqs, docsById, fail);
-  checkSaqs(data.saqs, docsById, fail);
-  checkMcqs(data.mcqs, docsById, fail);
+  const docsById = checkDocuments(data.documents, data.unit, fail);
+  checkDbqs(data.dbqs, docsById, data.unit, fail);
+  checkSaqs(data.saqs, docsById, data.unit, fail);
+  checkMcqs(data.mcqs, docsById, data.unit, fail);
   if (release) checkRelease(data, fail);
   return errors;
 }
@@ -55,13 +97,14 @@ function checkId(id, seen, fail) {
   return true;
 }
 
-function checkTopics(topics, fail) {
-  if (!Array.isArray(topics) || topics.length === 0) return fail('topics must list at least one of 4.1–4.8');
-  const unknown = topics.filter((t) => !TOPICS.includes(t));
-  if (unknown.length) fail(`unknown topics ${unknown.join(', ')}`);
+function checkTopics(topics, unit, fail) {
+  const known = Object.keys(unit.topics);
+  if (!Array.isArray(topics) || topics.length === 0) return fail(`topics must list at least one of ${known[0]}–${known[known.length - 1]}`);
+  const unknown = topics.filter((t) => !known.includes(t));
+  if (unknown.length) fail(`unknown topics ${unknown.join(', ')} for ${unit.id}`);
 }
 
-function checkDocuments(documents, fail) {
+function checkDocuments(documents, unit, fail) {
   const docsById = new Map();
   const seen = new Set();
   for (const d of documents) {
@@ -69,8 +112,9 @@ function checkDocuments(documents, fail) {
     if (checkId(d.id, seen, local)) docsById.set(d.id, d);
     if (typeof d.authorKey !== 'string' || !ID_PATTERN.test(d.authorKey)) local('authorKey must be lowercase letters and digits joined by hyphens');
     if (!nonEmpty(d.sourceLine)) local('sourceLine is required');
-    if (!Number.isInteger(d.year) || d.year < 1400 || d.year > 1760) local('year must be a whole number from 1400 to 1760');
-    checkTopics(d.topics, local);
+    const [from, to] = unit.years;
+    if (!Number.isInteger(d.year) || d.year < from || d.year > to) local(`year must be a whole number from ${from} to ${to}`);
+    checkTopics(d.topics, unit, local);
     if (typeof d.sourceUrl !== 'string' || !/^https?:\/\/\S+$/.test(d.sourceUrl)) local('sourceUrl must be an http(s) link');
     if (d.translation !== null && !nonEmpty(d.translation)) local('translation must be null or a credit');
     if (d.verified !== true) local('not verified (run the source check, then promote)');
@@ -100,7 +144,7 @@ function checkDocuments(documents, fail) {
   return docsById;
 }
 
-function checkDbqs(dbqs, docsById, fail) {
+function checkDbqs(dbqs, docsById, unit, fail) {
   const seen = new Set();
   for (const q of dbqs) {
     let problems = 0;
@@ -109,7 +153,7 @@ function checkDbqs(dbqs, docsById, fail) {
       fail(`dbq ${q.id ?? '(no id)'}`, message);
     };
     checkId(q.id, seen, local);
-    checkTopics(q.topics, local);
+    checkTopics(q.topics, unit, local);
     if (!nonEmpty(q.prompt)) local('prompt is required');
     const groups = Array.isArray(q.groups) ? q.groups : [];
     if (groups.length < 2 || groups.length > 3) local('needs 2–3 groups');
@@ -163,12 +207,12 @@ function checkDbqs(dbqs, docsById, fail) {
   }
 }
 
-function checkSaqs(saqs, docsById, fail) {
+function checkSaqs(saqs, docsById, unit, fail) {
   const seen = new Set();
   for (const s of saqs) {
     const local = (message) => fail(`saq ${s.id ?? '(no id)'}`, message);
     checkId(s.id, seen, local);
-    checkTopics(s.topics, local);
+    checkTopics(s.topics, unit, local);
     if (!Array.isArray(s.docs) || s.docs.length > 2) local('docs must be a list of 0–2 document ids');
     else for (const id of s.docs) if (!docsById.has(id)) local(`unknown document ${id}`);
     const parts = Array.isArray(s.parts) ? s.parts : [];
@@ -185,12 +229,12 @@ function checkSaqs(saqs, docsById, fail) {
   }
 }
 
-function checkMcqs(mcqs, docsById, fail) {
+function checkMcqs(mcqs, docsById, unit, fail) {
   const seen = new Set();
   for (const m of mcqs) {
     const local = (message) => fail(`mcq ${m.id ?? '(no id)'}`, message);
     checkId(m.id, seen, local);
-    checkTopics(m.topics, local);
+    checkTopics(m.topics, unit, local);
     if (!docsById.has(m.doc)) local(`unknown document ${m.doc}`);
     const questions = Array.isArray(m.questions) ? m.questions : [];
     if (questions.length < 3 || questions.length > 4) local(`has ${questions.length} questions; it must have 3–4`);
@@ -207,11 +251,11 @@ function checkMcqs(mcqs, docsById, fail) {
 }
 
 function checkRelease(data, fail) {
-  for (const [name, min] of Object.entries(RELEASE_MINIMUMS)) {
+  for (const [name, min] of Object.entries(data.unit.minimums)) {
     if (data[name].length < min) fail('release', `${name} has ${data[name].length}; release needs at least ${min}`);
   }
   const drillTopics = new Set([...data.saqs, ...data.mcqs].flatMap((x) => x.topics ?? []));
-  for (const t of TOPICS) if (!drillTopics.has(t)) fail('release', `no drill covers topic ${t}`);
+  for (const t of Object.keys(data.unit.topics)) if (!drillTopics.has(t)) fail('release', `no drill covers topic ${t}`);
   const answers = data.mcqs.flatMap((m) => (m.questions ?? []).map((q) => q.answer));
   if (answers.length >= 20) {
     for (let letter = 0; letter < 4; letter++) {
@@ -223,11 +267,25 @@ function checkRelease(data, fail) {
 
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
   const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-  const release = process.argv.includes('--release');
-  const errors = validate(await loadData(path.join(root, 'data')), { release });
-  if (errors.length) {
-    console.error(`${errors.join('\n')}\n\n${errors.length} problem(s).`);
+  try {
+    const { unit, args } = takeUnit(process.argv.slice(2));
+    const release = args.includes('--release');
+    let problems = 0;
+    for (const entry of await selectUnits(path.join(root, 'data'), unit)) {
+      const errors = validate(await loadUnit(entry), { release });
+      if (errors.length) {
+        console.error(`${entry.id}:\n${errors.map((e) => `  ${e}`).join('\n')}`);
+        problems += errors.length;
+      } else {
+        console.log(`${entry.id}: ${release ? 'valid and meets the release minimums' : 'valid'}.`);
+      }
+    }
+    if (problems) {
+      console.error(`\n${problems} problem(s).`);
+      process.exit(1);
+    }
+  } catch (error) {
+    console.error(error.message);
     process.exit(1);
   }
-  console.log(release ? 'The bank is valid and meets the release minimums.' : 'The bank is valid.');
 }

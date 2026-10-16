@@ -5,8 +5,7 @@ import { fileURLToPath } from 'node:url';
 import { loadData } from '../tools/load-data.js';
 import { runtimeBank } from '../tools/build.js';
 
-// Where Unit 4's bank lives. Task 2 moves it to data/unit-4 and changes this line.
-const UNIT4_DIR = fileURLToPath(new URL('../data', import.meta.url));
+const UNIT4_DIR = fileURLToPath(new URL('../data/unit-4', import.meta.url));
 
 // Taken on main (commit e8317ec) before the multi-unit restructure: the SHA-256 of
 //   JSON.stringify({ documents, dbqs, saqs, mcqs })

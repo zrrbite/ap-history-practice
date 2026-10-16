@@ -1,7 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { validate, wordCount } from '../tools/validate.js';
-import { makeData } from './helpers/fixture.js';
+import { makeData, makeUnit } from './helpers/fixture.js';
 
 function errorsAfter(mutate, options) {
   const data = makeData();
@@ -21,9 +21,9 @@ test('each broken rule is reported', () => {
     ['short text', (d) => { d.documents[0].text = 'too short'; }, /text has 2 words; it must have 60–200/],
     ['adapted without original', (d) => { d.documents[0].adapted = true; d.documents[0].sourceLine += ' (adapted)'; }, /verbatim original/],
     ['adapted without label', (d) => { d.documents[0].adapted = true; d.documents[0].original = 'x'; }, /end the sourceLine with "\(adapted\)"/],
-    ['bad topic', (d) => { d.documents[0].topics = ['3.1']; }, /unknown topics 3\.1/],
+    ['bad topic', (d) => { d.documents[0].topics = ['3.1']; }, /unknown topics 3\.1 for unit-4/],
     ['bad url', (d) => { d.documents[0].sourceUrl = 'ftp://x'; }, /http\(s\) link/],
-    ['bad year', (d) => { d.documents[0].year = 1900; }, /year must be/],
+    ['bad year', (d) => { d.documents[0].year = 1900; }, /year must be a whole number from 1400 to 1760/],
     ['ragged table', (d) => { Object.assign(d.documents[0], { kind: 'table', text: undefined, table: { caption: 'c', columns: ['a', 'b'], rows: [['1']] } }); }, /one cell per column/],
     ['pool too small', (d) => { d.dbqs[0].pool = d.dbqs[0].pool.slice(0, 8); }, /pool has 8 documents; it must have 9–12/],
     ['unknown pool doc', (d) => { d.dbqs[0].pool[0].doc = 'nope'; }, /pool refers to unknown document nope/],
@@ -55,7 +55,7 @@ test('each broken rule is reported', () => {
 });
 
 test('non-array data files are reported, not crashed on', () => {
-  assert.deepEqual(validate({ documents: {}, dbqs: [], saqs: [], mcqs: [] }), ['documents: must be a JSON array']);
+  assert.deepEqual(validate({ unit: makeUnit(), documents: {}, dbqs: [], saqs: [], mcqs: [] }), ['documents: must be a JSON array']);
 });
 
 test('release mode enforces minimum counts and topic coverage', () => {
@@ -77,4 +77,75 @@ test('release mode flags a lopsided answer key', () => {
 
 test('wordCount ignores ellipses', () => {
   assert.equal(wordCount('one … two three'), 3);
+});
+
+test('a topic from another unit is rejected and the error names the unit', () => {
+  const data = makeData(5);
+  data.documents[0].topics = ['4.3'];
+  assert.ok(validate(data).some((e) => /document doc-1: unknown topics 4\.3 for unit-5/.test(e)));
+  const none = makeData(5);
+  none.saqs[0].topics = [];
+  assert.ok(validate(none).some((e) => /saq test-saq: topics must list at least one of 5\.1–5\.10/.test(e)));
+  assert.deepEqual(validate(makeData(4)), []);
+});
+
+test("a document year outside the unit's range is rejected", () => {
+  const data = makeData(5);
+  data.documents[0].year = 1739;
+  data.documents[1].year = 1911;
+  data.documents[2].year = 1740;
+  data.documents[3].year = 1910;
+  const errors = validate(data);
+  assert.ok(errors.some((e) => /document doc-1: year must be a whole number from 1740 to 1910/.test(e)), JSON.stringify(errors));
+  assert.ok(errors.some((e) => /document doc-2: year must be a whole number from 1740 to 1910/.test(e)));
+  assert.ok(!errors.some((e) => /document doc-3|document doc-4/.test(e)), 'the range is inclusive');
+});
+
+test("release mode enforces the unit's own minimums and topic list", () => {
+  const data = makeData(5);
+  const errors = validate(data, { release: true });
+  assert.ok(errors.some((e) => /documents has 10; release needs at least 60/.test(e)), JSON.stringify(errors));
+  assert.ok(errors.some((e) => /dbqs has 1; release needs at least 6/.test(e)));
+  assert.ok(errors.some((e) => /saqs has 1; release needs at least 12/.test(e)));
+  assert.ok(errors.some((e) => /mcqs has 1; release needs at least 9/.test(e)));
+  assert.ok(errors.some((e) => /no drill covers topic 5\.10/.test(e)));
+  assert.ok(!errors.some((e) => /\b4\.\d/.test(e)), 'unit 4 topics are never mentioned for unit 5');
+  data.unit.minimums = { documents: 10, dbqs: 1, saqs: 1, mcqs: 1 };
+  assert.ok(!validate(data, { release: true }).some((e) => /release needs at least/.test(e)));
+});
+
+test('a malformed unit.json is reported field by field', () => {
+  const data = makeData(5);
+  data.unit = {
+    id: 'five', number: 5, title: '', period: 'c. 1750–1900', years: [1910, 1740],
+    topics: { '4.1': 'Wrong unit', '5.2': ' ' }, minimums: { documents: 60, dbqs: 0 },
+    shareBase: 'ftp://x', exampleCode: 'nonsense',
+  };
+  const errors = validate(data);
+  const expected = [
+    /unit\.json: id: must look like "unit-5"/,
+    /unit\.json: title: is required/,
+    /unit\.json: years: must be two whole numbers, earliest first/,
+    /unit\.json: topics: "4\.1" must start with "5\."/,
+    /unit\.json: topics: "5\.2" needs a label/,
+    /unit\.json: minimums\.dbqs: must be a positive whole number/,
+    /unit\.json: minimums\.saqs: must be a positive whole number/,
+    /unit\.json: minimums\.mcqs: must be a positive whole number/,
+    /unit\.json: shareBase: must be null or an https link/,
+    /unit\.json: exampleCode: must look like dbq\.some-prompt\.k2x9q1/,
+  ];
+  for (const pattern of expected) assert.ok(errors.some((e) => pattern.test(e)), `${pattern}: ${JSON.stringify(errors)}`);
+  assert.ok(errors.every((e) => e.startsWith('unit.json: ')), 'nothing else is checked until unit.json is sound');
+});
+
+test('a missing unit.json is one clear error', () => {
+  assert.deepEqual(validate({ documents: [], dbqs: [], saqs: [], mcqs: [] }), ['unit.json: missing or not a JSON object']);
+  assert.deepEqual(validate({ unit: [], documents: [], dbqs: [], saqs: [], mcqs: [] }), ['unit.json: missing or not a JSON object']);
+});
+
+test('a null shareBase and an https shareBase are both accepted', () => {
+  const data = makeData();
+  assert.deepEqual(validate(data), []);
+  data.unit.shareBase = 'https://claude.ai/artifact/abc';
+  assert.deepEqual(validate(data), []);
 });
