@@ -1,6 +1,10 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { htmlToText, normalizeForMatch, segmentsOf, checkText, checkDocument } from '../tools/check-sources.js';
+import { mkdtemp, readFile, writeFile } from 'node:fs/promises';
+import { tmpdir } from 'node:os';
+import path from 'node:path';
+import { htmlToText, normalizeForMatch, segmentsOf, checkText, checkDocument, checkFile } from '../tools/check-sources.js';
+import { makeDoc, WORDS_80 } from './helpers/fixture.js';
 
 test('normalizeForMatch folds case, accents, punctuation and curly quotes', () => {
   assert.equal(normalizeForMatch('“Bartolomé,” he said — QUITE so…'), 'bartolome he said quite so');
@@ -55,4 +59,21 @@ test('checkDocument checks an adapted document against its original, and reports
     { status: 'fetch-failed', reason: 'HTTP 404' },
   );
   assert.deepEqual(await checkDocument({ ...doc, kind: 'table' }, new Map(), async () => page), { status: 'manual', reason: 'tables are checked by hand' });
+});
+
+test('checkFile reports each unverified document, writes <file>-report.json, and marks matches only with mark', async () => {
+  const dir = await mkdtemp(path.join(tmpdir(), 'check-sources-'));
+  const file = path.join(dir, 'cluster-a.json');
+  const good = makeDoc(1, { verified: false });
+  const bad = makeDoc(2, { verified: false, text: 'a completely different excerpt which the source page never says anywhere at all' });
+  await writeFile(file, JSON.stringify({ cluster: 'a', documents: [good, bad, makeDoc(3)] }));
+  const fetchPage = async () => WORDS_80;
+  const first = await checkFile(file, { fetchPage });
+  assert.equal(first.reportFile, path.join(dir, 'cluster-a-report.json'));
+  assert.deepEqual(first.report.map((r) => [r.id, r.status]), [['doc-1', 'match'], ['doc-2', 'mismatch']]);
+  assert.equal(JSON.parse(await readFile(file, 'utf8')).documents[0].verified, false);
+  await checkFile(file, { fetchPage, mark: true });
+  const marked = JSON.parse(await readFile(file, 'utf8')).documents;
+  assert.deepEqual(marked.map((d) => [d.id, d.verified]), [['doc-1', true], ['doc-2', false], ['doc-3', true]]);
+  assert.equal(marked[0].verifiedBy, 'script');
 });

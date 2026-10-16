@@ -1,7 +1,10 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { collectRefs, pageTitle, titleMatches, checkRef } from '../tools/check-refs.js';
-import { makeData } from './helpers/fixture.js';
+import { mkdtemp, writeFile } from 'node:fs/promises';
+import { tmpdir } from 'node:os';
+import path from 'node:path';
+import { collectRefs, pageTitle, titleMatches, checkRef, loadBank } from '../tools/check-refs.js';
+import { makeData, writeDataDir } from './helpers/fixture.js';
 
 const WIKI = { title: "Mit'a", url: 'https://en.wikipedia.org/wiki/Mita_(Inca)' };
 const BRIT = { title: 'Encomienda', url: 'https://www.britannica.com/topic/encomienda' };
@@ -128,4 +131,19 @@ test('checkRef retries a Wayback snapshot that times out or answers 503', async 
     }],
   ]);
   assert.equal((await checkRef(BRIT, fetch, { wait: noWait })).ok, true);
+});
+
+test('loadBank reads a unit folder, or sorts the given files into DBQs, SAQs and MCQ sets', async () => {
+  const dir = await mkdtemp(path.join(tmpdir(), 'check-refs-'));
+  const data = makeData();
+  await writeDataDir(dir, data);
+  const bank = await loadBank(dir, []);
+  assert.deepEqual([bank.dbqs.length, bank.saqs.length, bank.mcqs.length], [1, 1, 1]);
+  const mixed = path.join(dir, 'mixed.json');
+  await writeFile(mixed, JSON.stringify([data.dbqs[0], data.saqs[0], data.mcqs[0]]));
+  const fromFile = await loadBank(dir, [mixed]);
+  assert.deepEqual([fromFile.dbqs.length, fromFile.saqs.length, fromFile.mcqs.length], [1, 1, 1]);
+  const junk = path.join(dir, 'junk.json');
+  await writeFile(junk, JSON.stringify([{ id: 'x' }]));
+  await assert.rejects(loadBank(dir, [junk]), /x is not a DBQ, SAQ or MCQ set/);
 });

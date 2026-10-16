@@ -1,14 +1,14 @@
 #!/usr/bin/env node
-// Research drafts -> one candidate list -> the verified bank.
-//   node tools/candidates.js merge     data/research/cluster-*.json -> data/research/candidates.json
-//   node tools/candidates.js promote   verified candidates -> data/documents.json (dropped ones are listed)
+// Research drafts -> one candidate list -> the verified bank, for one unit.
+//   node tools/candidates.js merge   --unit unit-5   research/cluster-*.json -> research/candidates.json
+//   node tools/candidates.js promote --unit unit-5   verified candidates -> documents.json (dropped ones are listed)
+// Both write into the unit's folder, so --unit is required: there is no "every unit" default for commands that write the bank.
 import { access, readdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
+import { selectUnits, takeUnit } from './load-data.js';
 
-const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const RESEARCH = path.join(ROOT, 'data', 'unit-4', 'research');
-const CANDIDATES = path.join(RESEARCH, 'candidates.json');
+const DATA_ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', 'data');
 const byId = (a, b) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0);
 
 export function mergeClusters(clusters) {
@@ -36,29 +36,46 @@ export function promote(candidates) {
 
 const writeJson = (file, value) => writeFile(file, `${JSON.stringify(value, null, 2)}\n`);
 
-async function main(command) {
+// research/cluster-*.json -> research/candidates.json inside a unit folder.
+export async function mergeUnit(dir) {
+  const research = path.join(dir, 'research');
+  const candidates = path.join(research, 'candidates.json');
+  if (await access(candidates).then(() => true, () => false)) {
+    throw new Error('research/candidates.json already exists; delete it to merge again (this discards verification marks)');
+  }
+  const files = (await readdir(research)).filter((f) => /^cluster-[a-z]+\.json$/.test(f)).sort();
+  if (files.length === 0) throw new Error('research/ has no cluster-*.json files');
+  const clusters = await Promise.all(files.map(async (f) => JSON.parse(await readFile(path.join(research, f), 'utf8'))));
+  const { documents, conflicts } = mergeClusters(clusters);
+  await writeJson(candidates, documents);
+  return { files: files.length, documents: documents.length, conflicts };
+}
+
+// Verified candidates -> documents.json inside a unit folder.
+export async function promoteUnit(dir) {
+  const { documents, dropped } = promote(JSON.parse(await readFile(path.join(dir, 'research', 'candidates.json'), 'utf8')));
+  await writeJson(path.join(dir, 'documents.json'), documents);
+  return { documents: documents.length, dropped };
+}
+
+async function main(argv) {
+  const { unit, args } = takeUnit(argv);
+  const [command] = args;
+  if (!['merge', 'promote'].includes(command) || unit === null) throw new Error('usage: node tools/candidates.js merge|promote --unit <unit id>');
+  const [{ dir }] = await selectUnits(DATA_ROOT, unit);
   if (command === 'merge') {
-    if (await access(CANDIDATES).then(() => true, () => false)) {
-      throw new Error(`${path.relative(ROOT, CANDIDATES)} already exists; delete it to merge again (this discards verification marks)`);
-    }
-    const files = (await readdir(RESEARCH)).filter((f) => /^cluster-[a-z]+\.json$/.test(f)).sort();
-    const clusters = await Promise.all(files.map(async (f) => JSON.parse(await readFile(path.join(RESEARCH, f), 'utf8'))));
-    const { documents, conflicts } = mergeClusters(clusters);
-    await writeJson(CANDIDATES, documents);
-    console.log(`Merged ${files.length} cluster files into ${documents.length} candidates.`);
+    const { files, documents, conflicts } = await mergeUnit(dir);
+    console.log(`Merged ${files} cluster files into ${documents} candidates (research/candidates.json).`);
     for (const c of conflicts) console.log(`  conflict  ${c}`);
-  } else if (command === 'promote') {
-    const { documents, dropped } = promote(JSON.parse(await readFile(CANDIDATES, 'utf8')));
-    await writeJson(path.join(ROOT, 'data', 'unit-4', 'documents.json'), documents);
-    console.log(`Promoted ${documents.length} verified documents; dropped ${dropped.length}.`);
-    for (const d of dropped) console.log(`  dropped  ${d}`);
   } else {
-    throw new Error('usage: node tools/candidates.js merge | promote');
+    const { documents, dropped } = await promoteUnit(dir);
+    console.log(`Promoted ${documents} verified documents into documents.json; dropped ${dropped.length}.`);
+    for (const d of dropped) console.log(`  dropped  ${d}`);
   }
 }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
-  main(process.argv[2]).catch((error) => {
+  main(process.argv.slice(2)).catch((error) => {
     console.error(error.message);
     process.exit(1);
   });

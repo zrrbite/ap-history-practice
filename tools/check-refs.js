@@ -1,17 +1,20 @@
 #!/usr/bin/env node
 // Confirms that every "Check it" reference loads and is the article it claims to be.
 // Usage:
-//   node tools/check-refs.js                 check data/dbqs.json, saqs.json and mcqs.json
-//   node tools/check-refs.js <file.json> ... check these arrays of DBQs, SAQs or MCQ sets
-//   node tools/check-refs.js --title <url>   print the confirmed page title for a reference URL
+//   node tools/check-refs.js                         check dbqs.json, saqs.json and mcqs.json of every unit
+//   node tools/check-refs.js --unit unit-5           check one unit
+//   node tools/check-refs.js [--unit id] <file.json> ...  check these arrays of DBQs, SAQs or MCQ sets (inside the unit's folder with --unit)
+//   node tools/check-refs.js --title <url>           print the confirmed page title for a reference URL
 // Wikipedia pages are fetched directly. Britannica refuses scripted requests, so a Britannica link
 // counts as confirmed only when the Wayback Machine holds a 200 capture of it with a matching title.
 import { readFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
+import { inUnit, selectUnits, takeUnit } from './load-data.js';
 import { htmlToText, normalizeForMatch } from './check-sources.js';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+
 const BRITANNICA = /^https:\/\/www\.britannica\.com\//;
 
 export function collectRefs(bank) {
@@ -103,9 +106,9 @@ async function fetchPage(url) {
   return { status: response.status, text: await response.text() };
 }
 
-async function loadBank(files) {
+export async function loadBank(dir, files) {
   if (files.length === 0) {
-    const read = async (name) => JSON.parse(await readFile(path.join(ROOT, 'data', 'unit-4', `${name}.json`), 'utf8'));
+    const read = async (name) => JSON.parse(await readFile(path.join(dir, `${name}.json`), 'utf8'));
     return { dbqs: await read('dbqs'), saqs: await read('saqs'), mcqs: await read('mcqs') };
   }
   const bank = { dbqs: [], saqs: [], mcqs: [] };
@@ -121,24 +124,36 @@ async function loadBank(files) {
 }
 
 async function main(argv) {
+  const fetcher = fetchPage;
   if (argv[0] === '--title') {
-    const found = await resolveTitle(argv[1], fetchPage);
+    const found = await resolveTitle(argv[1], fetcher);
     console.log(found.reason ? `not confirmed: ${found.reason}` : `${found.title}  (via ${found.via})`);
     return;
   }
-  const refs = collectRefs(await loadBank(argv));
+  const { unit, args } = takeUnit(argv);
+  const targets = args.length > 0 && unit === null
+    ? [{ id: 'files', dir: process.cwd() }]
+    : await selectUnits(path.join(ROOT, 'data'), unit);
   const results = new Map();
+  let total = 0;
   let failed = 0;
-  for (const ref of refs) {
-    const key = `${ref.url}\n${ref.title}`;
-    if (!results.has(key)) results.set(key, await checkRef(ref, fetchPage));
-    const result = results.get(key);
-    if (!result.ok) {
-      failed++;
-      console.log(`FAIL  ${ref.where}  ${ref.url}  ${result.reason}`);
+  for (const { id, dir } of targets) {
+    const refs = collectRefs(await loadBank(dir, args.map((file) => inUnit(dir, file))));
+    let unitFailed = 0;
+    for (const ref of refs) {
+      const key = `${ref.url}\n${ref.title}`;
+      if (!results.has(key)) results.set(key, await checkRef(ref, fetcher));
+      const result = results.get(key);
+      if (!result.ok) {
+        unitFailed++;
+        console.log(`FAIL  ${id}  ${ref.where}  ${ref.url}  ${result.reason}`);
+      }
     }
+    console.log(`${id}: ${refs.length - unitFailed} of ${refs.length} references confirmed.`);
+    total += refs.length;
+    failed += unitFailed;
   }
-  console.log(`${refs.length - failed} of ${refs.length} references confirmed (${results.size} distinct links).`);
+  console.log(`${total - failed} of ${total} references confirmed (${results.size} distinct links).`);
   if (failed) process.exit(1);
 }
 

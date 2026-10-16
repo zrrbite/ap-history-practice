@@ -1,12 +1,18 @@
 #!/usr/bin/env node
 // Confirms that each document's excerpt really appears in the page its sourceUrl points to.
 // Usage:
-//   node tools/check-sources.js <file.json> [--mark] [--only id,id]   check unverified documents
-//   node tools/check-sources.js --text <url>                           print a page's text, for copying excerpts
-// <file.json> is a document array or a research cluster {cluster, documents, poolHints}.
+//   node tools/check-sources.js [--unit id] [file.json] [--mark] [--only id,id]   check unverified documents
+//   node tools/check-sources.js --text <url>                                      print a page's text, for copying excerpts
+// <file.json> is a document array or a research cluster {cluster, documents, poolHints}; with --unit it is
+// resolved inside that unit's folder (e.g. research/cluster-a.json). With no file, each selected unit's
+// research/candidates.json is checked (every unit unless --unit is given).
 // --mark sets verified: true, verifiedBy: "script" on matches. The report is <file>-report.json.
-import { readFile, writeFile } from 'node:fs/promises';
-import { pathToFileURL } from 'node:url';
+import { access, readFile, writeFile } from 'node:fs/promises';
+import path from 'node:path';
+import { fileURLToPath, pathToFileURL } from 'node:url';
+import { inUnit, selectUnits, takeUnit } from './load-data.js';
+
+const DATA_ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', 'data');
 
 const MIN_SEGMENT_WORDS = 4;
 const MIN_COVERAGE = 0.8;
@@ -95,32 +101,51 @@ export async function checkDocument(doc, pages = new Map(), fetchPage = fetchTex
   return { status: 'mismatch', ...(result.reason ? { reason: result.reason } : {}), missing: result.missing };
 }
 
-async function main(argv) {
-  if (argv[0] === '--text') {
-    console.log(await fetchText(argv[1]));
-    return;
-  }
-  const onlyAt = argv.indexOf('--only');
-  const file = argv.find((a, i) => !a.startsWith('--') && !(onlyAt >= 0 && i === onlyAt + 1));
-  if (!file) throw new Error('usage: node tools/check-sources.js <file.json> [--mark] [--only id,id] | --text <url>');
-  const only = onlyAt >= 0 ? new Set((argv[onlyAt + 1] ?? '').split(',')) : null;
+export async function checkFile(file, { mark = false, only = null, fetchPage = fetchText } = {}) {
   const json = JSON.parse(await readFile(file, 'utf8'));
   const documents = Array.isArray(json) ? json : json.documents;
   const pages = new Map();
   const report = [];
   for (const doc of documents) {
     if (only ? !only.has(doc.id) : doc.verified === true || doc.dropped) continue;
-    const result = await checkDocument(doc, pages);
+    const result = await checkDocument(doc, pages, fetchPage);
     report.push({ id: doc.id, sourceUrl: doc.sourceUrl, ...result });
-    if (argv.includes('--mark') && result.status === 'match') Object.assign(doc, { verified: true, verifiedBy: 'script' });
+    if (mark && result.status === 'match') Object.assign(doc, { verified: true, verifiedBy: 'script' });
   }
   const reportFile = file.replace(/\.json$/, '-report.json');
   await writeFile(reportFile, `${JSON.stringify(report, null, 2)}\n`);
-  if (argv.includes('--mark')) await writeFile(file, `${JSON.stringify(json, null, 2)}\n`);
-  const count = (status) => report.filter((r) => r.status === status).length;
-  console.log(`match ${count('match')}, mismatch ${count('mismatch')}, fetch-failed ${count('fetch-failed')}, manual ${count('manual')} → ${reportFile}`);
-  for (const r of report.filter((x) => x.status !== 'match')) {
-    console.log(`  ${r.status}  ${r.id}  ${r.reason ?? ''}${r.missing?.length ? ` missing: ${r.missing.map((m) => `“${m}”`).join(' | ')}` : ''}`);
+  if (mark) await writeFile(file, `${JSON.stringify(json, null, 2)}\n`);
+  return { reportFile, report };
+}
+
+async function main(argv) {
+  if (argv[0] === '--text') {
+    console.log(await fetchText(argv[1]));
+    return;
+  }
+  const { unit, args } = takeUnit(argv);
+  const onlyAt = args.indexOf('--only');
+  const only = onlyAt >= 0 ? new Set((args[onlyAt + 1] ?? '').split(',')) : null;
+  const mark = args.includes('--mark');
+  const files = args.filter((a, i) => !a.startsWith('--') && !(onlyAt >= 0 && i === onlyAt + 1));
+  const jobs = [];
+  if (files.length > 0) {
+    const base = unit ? (await selectUnits(DATA_ROOT, unit))[0].dir : process.cwd();
+    for (const file of files) jobs.push({ base, file: inUnit(base, file) });
+  } else {
+    for (const { dir } of await selectUnits(DATA_ROOT, unit)) {
+      const file = path.join(dir, 'research', 'candidates.json');
+      if (await access(file).then(() => true, () => false)) jobs.push({ base: dir, file });
+    }
+  }
+  if (jobs.length === 0) throw new Error('usage: node tools/check-sources.js [--unit id] [file.json] [--mark] [--only id,id] | --text <url>');
+  for (const { base, file } of jobs) {
+    const { reportFile, report } = await checkFile(file, { mark, only });
+    const count = (status) => report.filter((r) => r.status === status).length;
+    console.log(`match ${count('match')}, mismatch ${count('mismatch')}, fetch-failed ${count('fetch-failed')}, manual ${count('manual')} → ${path.relative(base, reportFile)}`);
+    for (const r of report.filter((x) => x.status !== 'match')) {
+      console.log(`  ${r.status}  ${r.id}  ${r.reason ?? ''}${r.missing?.length ? ` missing: ${r.missing.map((m) => `“${m}”`).join(' | ')}` : ''}`);
+    }
   }
 }
 
