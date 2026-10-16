@@ -6,6 +6,7 @@
   "scripts": {
     "test": "node --test test/*.test.js",
     "build": "node tools/build.js",
-    "validate": "node tools/validate.js"
+    "validate": "node tools/validate.js",
+    "check-page": "node tools/check-page.js"
   }
 }

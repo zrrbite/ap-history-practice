@@ -28,7 +28,98 @@ const openIn = async (d, code) => {
 const renderedText = (d) => `${d.querySelector('title')?.textContent ?? ''}\n${d.querySelector('.page').textContent}`.replace(/\s+/g, ' ').trim();
 
 async function runChecks(frame, results) {
-  /*CHECKS*/
+  const w = frame.contentWindow;
+  const d = w.document;
+  const errors = [];
+  w.addEventListener('error', (e) => errors.push(e.message));
+  const ok = (name, condition, extra = '') => results.push(`${condition ? 'PASS' : 'FAIL'}  ${name}${extra ? `  [${extra}]` : ''}`);
+  const $ = (selector) => d.querySelector(selector);
+  const $$ = (selector) => [...d.querySelectorAll(selector)];
+  const notice = () => ($('#notice').hidden ? '' : $('#notice').textContent);
+  const open = (code) => openIn(d, code);
+  const sources = () => $$('#dbq .document .source').map((p) => p.textContent).join('|');
+  const bank = JSON.parse(d.getElementById('bank').textContent);
+  const topicsWithDbqs = new RegExp(`Topics with DBQs: ${bank.unit.number}\\.\\d`);
+  const soloTopic = `#topic-${bank.dbqs[0].topics[0].replace('.', '-')}`;
+  try {
+    await wait(100);
+    ok('DBQ on load with 7 documents', $$('#dbq .document').length === 7);
+    ok('documents numbered 1-7', $$('#dbq .document h3').map((h) => h.textContent).join() === [1, 2, 3, 4, 5, 6, 7].map((n) => `Document ${n}`).join());
+    const code = $('#current-code').textContent;
+    ok('code shown', /^dbq\.[a-z0-9-]+\.[0-9a-z]+$/.test(code), code);
+    const guide = $('#dbq .guide');
+    ok('guide hidden at first', guide.hidden);
+    $$('#dbq button').find((b) => b.textContent === 'Show scoring guide').click();
+    ok('guide revealed', !guide.hidden);
+    ok('sourcing notes for the 7 drawn docs', guide.querySelectorAll('ul.notes')[4]?.children.length === 7);
+    ok('scoring guide has a Check it link per referenced note', guide.querySelectorAll('a.ref').length >= 2 && /^Check it: /.test(guide.querySelector('a.ref').textContent));
+    ok('copy link shown exactly when the unit has an artifact link', !$('#copy-link').hidden === Boolean(bank.config.shareBase));
+    const before = sources();
+    await open('nonsense');
+    ok('invalid code message', /isn’t valid/.test(notice()), notice());
+    ok('DBQ kept after bad code', sources() === before);
+    await open('dbq.gone.1');
+    ok('stale code message', /no longer in the bank/.test(notice()), notice());
+    $('#new-dbq').click(); await wait(20);
+    await open(code);
+    ok('reopening the first code reproduces its documents', sources() === before);
+    ok('good code clears the notice', notice() === '');
+    for (const box of $$('#topic-list input')) if (box.checked) box.click();
+    $('#new-dbq').click(); await wait(20);
+    ok('empty filter names topics with DBQs', topicsWithDbqs.test(notice()), notice());
+    ok('topic count updates', /0 DBQs and 0 drills match/.test($('#topic-count').textContent), $('#topic-count').textContent);
+    $(soloTopic).click();
+    $('#new-dbq').click(); await wait(20);
+    ok('a single topic still offers a DBQ', notice() === '' && $$('#dbq .document').length === 7);
+    for (const box of $$('#topic-list input')) if (!box.checked) box.click();
+    $('#tab-drill').click(); await wait(20);
+    ok('drill tab shows a drill', $('#drill').children.length === 1 && !$('#panel-drill').hidden && $('#panel-dbq').hidden);
+    ok('code box follows tab', /^(saq|mcq)\./.test($('#current-code').textContent), $('#current-code').textContent);
+    $('#kind-saq').click(); $('#new-drill').click(); await wait(20);
+    ok('SAQ with three answer boxes', $$('#drill textarea').length === 3);
+    $$('#drill button').find((b) => b.textContent === 'Show scoring guide').click();
+    ok('SAQ scoring guide revealed', $$('#drill .accept').every((a) => !a.hidden));
+    ok('SAQ references revealed with the guide', !$('#drill .refs').hidden && $$('#drill .refs a.ref').length >= 1);
+    $('#kind-mcq').click(); $('#new-drill').click(); await wait(20);
+    const nq = $$('#drill fieldset.mcq').length;
+    ok('MCQ with 3-4 questions of 4 options', (nq === 3 || nq === 4) && $$('#drill .option').length === nq * 4);
+    $('#q1-b').click();
+    $$('#drill button').find((b) => b.textContent === 'Check answers').click();
+    ok('MCQ score shown', /^\d of [34] correct$/.test($('#drill .score').textContent), $('#drill .score').textContent);
+    ok('MCQ q1 marks exactly one correct option', $$('#drill fieldset.mcq')[0].querySelectorAll('[data-mark="correct"]').length === 1);
+    ok('unanswered questions say so', /Not answered/.test($$('#drill .verdict')[1].textContent));
+    ok('every MCQ explanation has a Check it link', $$('#drill .explanation a.ref').length === nq);
+    $('#tab-dbq').click(); await wait(20);
+    $('#timer-toggle').click(); await wait(20);
+    ok('timer starts in reading period', /^Reading period · (15:00|14:59) left$/.test($('#timer').textContent), $('#timer').textContent);
+    $('#timer-toggle').click();
+    ok('timer stops and hides', $('#timer').hidden && $('#timer-toggle').textContent === 'Start 60-minute timer');
+    ok('no horizontal overflow at 400px', d.documentElement.scrollWidth <= d.documentElement.clientWidth, `${d.documentElement.scrollWidth} vs ${d.documentElement.clientWidth}`);
+    let bad = [];
+    for (const q of bank.dbqs) {
+      for (const seed of ['1', '2', 'zz9']) {
+        await open(`dbq.${q.id}.${seed}`);
+        if (notice() || $$('#dbq .document').length !== 7) bad.push(`${q.id}.${seed}`);
+      }
+    }
+    ok(`all ${bank.dbqs.length} DBQ prompts draw 7 documents from a code`, bad.length === 0, bad.join(' '));
+    bad = [];
+    for (const x of bank.saqs) {
+      await open(`saq.${x.id}`);
+      if (notice() || $$('#drill textarea').length !== 3) bad.push(x.id);
+    }
+    ok(`all ${bank.saqs.length} SAQs open from their codes`, bad.length === 0, bad.join(' '));
+    bad = [];
+    for (const x of bank.mcqs) {
+      await open(`mcq.${x.id}`);
+      if (notice() || $$('#drill fieldset.mcq').length !== x.questions.length) bad.push(x.id);
+    }
+    ok(`all ${bank.mcqs.length} MCQ sets open from their codes`, bad.length === 0, bad.join(' '));
+    ok('no mojibake in rendered text', !/Ã.|â€/.test(d.body.textContent));
+    ok('no script errors', errors.length === 0, errors.join('; '));
+  } catch (e) {
+    results.push(`ERROR ${e.stack}`);
+  }
 }
 
 (async () => {
