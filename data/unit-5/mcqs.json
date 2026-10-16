@@ -168,10 +168,10 @@
           "Large state subsidies paid to inventors by the Bank of England",
           "Plentiful enslaved labor working in British factory towns",
           "Abundant coal and iron deposits that were close to centers of industry",
-          "A ban on textile imports from India"
+          "Laws requiring that all cloth be spun and woven by hand in licensed guild workshops"
         ],
         "answer": 2,
-        "explanation": "Coal fueled steam engines and iron built machines. The British government did not pay inventors by subsidy, and slavery was not used in British factories. India's cloth was restricted in some years, but this did not provide the resources for machines.",
+        "explanation": "Coal fueled steam engines and iron built machines. The British government did not pay inventors by subsidy, slavery was not used in British factories, and no law confined cloth-making to hand work in guild workshops.",
         "ref": {
           "title": "Industrial Revolution",
           "url": "https://en.wikipedia.org/wiki/Industrial_Revolution"
@@ -226,7 +226,7 @@
           "The Self-Strengthening Movement, which adopted Western technology while preserving Confucian institutions"
         ],
         "answer": 3,
-        "explanation": "Officials such as Zeng Guofan founded arsenals after the 1860s. The Hundred Days' Reform of 1898 went further, attempting to change political institutions, and was short-lived.",
+        "explanation": "Officials such as Zeng Guofan founded arsenals from the 1860s. The Hundred Days' Reform of 1898 went further, attempting to change political institutions, and was short-lived.",
         "ref": {
           "title": "Self-Strengthening Movement",
           "url": "https://en.wikipedia.org/wiki/Self-Strengthening_Movement"
@@ -412,7 +412,7 @@
         }
       },
       {
-        "stem": "Which later thinker's ideas about property are most similar to Proudhon's?",
+        "stem": "Which other thinker's ideas about property are most similar to Proudhon's?",
         "options": [
           "Adam Smith, who defended private property as a basis of markets",
           "Andrew Carnegie, who defended the accumulation of great wealth",
@@ -491,8 +491,8 @@
         "answer": 3,
         "explanation": "Reformers used Riis's findings to press for tenement laws, such as New York's Tenement House Act of 1901. Riis was a reformer, not a revolutionary.",
         "ref": {
-          "title": "How the Other Half Lives",
-          "url": "https://en.wikipedia.org/wiki/How_the_Other_Half_Lives"
+          "title": "New York State Tenement House Act",
+          "url": "https://en.wikipedia.org/wiki/New_York_State_Tenement_House_Act"
         }
       },
       {
@@ -562,8 +562,8 @@
         "answer": 0,
         "explanation": "Carnegie drew on Herbert Spencer and justified competition as the way to progress. The other three options are critics of industrial capitalism.",
         "ref": {
-          "title": "Social Darwinism",
-          "url": "https://en.wikipedia.org/wiki/Social_Darwinism"
+          "title": "Andrew Carnegie",
+          "url": "https://en.wikipedia.org/wiki/Andrew_Carnegie"
         }
       }
     ]
@@ -657,7 +657,7 @@
           "Merchants who imported raw cotton for the mills"
         ],
         "answer": 0,
-        "explanation": "Reports on abuses in mines and textile mills stirred a public outcry and led to the first general factory laws in 1833 and 1844. Owners, steam enthusiasts and cotton merchants would have shared Ure's favourable view or had no reason to dispute it.",
+        "explanation": "Reports on abuses in textile mills and mines stirred a public outcry and led to laws such as the Factory Act of 1833, which created inspectors, and the Mines Act of 1842. Owners, steam enthusiasts and cotton merchants would have shared Ure's favourable view or had no reason to dispute it.",
         "ref": {
           "title": "Industrial Revolution",
           "url": "https://en.wikipedia.org/wiki/Industrial_Revolution"
@@ -845,15 +845,15 @@
         }
       },
       {
-        "stem": "Which group commissioned the Manifesto?",
+        "stem": "The ideas expressed in the passage most directly contributed to which of the following developments in the later nineteenth century?",
         "options": [
-          "The First International",
-          "The Chartists",
-          "The Fabian Society",
-          "The Communist League"
+          "The adoption of laissez-faire policies by most European governments",
+          "The restoration of guild control over urban trades",
+          "The decline of factory production in western Europe",
+          "The growth of socialist parties and international workers' organizations"
         ],
         "answer": 3,
-        "explanation": "The pamphlet was commissioned by the Communist League and published in London in 1848. The First International was founded in 1864 and the Fabian Society in 1884.",
+        "explanation": "The Manifesto's account of exploitation fed the socialist and labor movements of the later nineteenth century: Marx led the International Workingmen's Association (the First International, 1864), and the Manifesto revived in the 1870s alongside German social democracy. Laissez-faire (A) is the free-market approach the authors attacked, not a development their ideas produced.",
         "ref": {
           "title": "The Communist Manifesto",
           "url": "https://en.wikipedia.org/wiki/The_Communist_Manifesto"

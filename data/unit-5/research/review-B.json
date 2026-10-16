@@ -1,0 +1,317 @@
+{
+  "reviewed": [
+    "enlightenment-1",
+    "haiti-dessalines-1",
+    "latin-america-independence-1",
+    "division-of-labour-1",
+    "china-self-strengthening-1",
+    "suez-canal-labour-1",
+    "german-social-insurance-1",
+    "free-trade-ricardo-1",
+    "trade-unions-engels-1",
+    "child-labour-bentley-1",
+    "emancipation-compare-1",
+    "transport-communications-compare-1",
+    "meiji-charter-oath-1",
+    "chartist-petition-1",
+    "kemble-railway-1",
+    "rights-of-man-1",
+    "egypt-debt-cromer-1",
+    "abolition-wilberforce-1833-compare-1",
+    "railways-gandhi-marx-compare-1",
+    "industrial-continuity-change-1",
+    "wollstonecraft-vindication",
+    "tucuman-independence",
+    "engels-textile-machinery",
+    "kiangnan-arsenal-yung-wing",
+    "twain-railroads-steamboats",
+    "smith-joint-stock-companies",
+    "proudhon-property-robbery",
+    "riis-tenements",
+    "carnegie-wealth-change",
+    "gouges-declaration-rights-woman",
+    "ure-factory-philanthropy",
+    "dutt-india-poverty",
+    "dyer-holborn-electric-light",
+    "manifesto-appendage-machine",
+    "lincoln-emancipation-proclamation"
+  ],
+  "findings": [
+    {
+      "where": "saq enlightenment-1 parts.0.task",
+      "kind": "consistency",
+      "problem": "The task limits the idea to thinkers of 'the 1700s', but the first two accept lines credit Locke, whose Two Treatises appeared in 1689, so the task and its scoring guide disagree about whether Locke's ideas count.",
+      "edit": {
+        "file": "saqs",
+        "id": "enlightenment-1",
+        "path": "parts.0.task",
+        "old": "Identify ONE idea about government or society that Enlightenment thinkers developed in the 1700s.",
+        "new": "Identify ONE idea about government or society that Enlightenment thinkers developed in the late 1600s and 1700s."
+      }
+    },
+    {
+      "where": "saq latin-america-independence-1 parts.0.accept.2",
+      "kind": "exam-fit",
+      "problem": "The accept list credits the example of the American and French revolutions but its last line refuses the Haitian Revolution, although Haiti's example and Petion's 1816 aid to Bolivar are standard influences and haiti-dessalines-1 part (c) credits exactly that claim; a good answer fails here that earns the point elsewhere in the bank.",
+      "edit": {
+        "file": "saqs",
+        "id": "latin-america-independence-1",
+        "path": "parts.0.accept.2",
+        "old": "Enlightenment ideas and the example of the American and French revolutions.",
+        "new": "Enlightenment ideas and the example of the American, French and Haitian revolutions (Haiti also gave Bolivar aid in 1816)."
+      }
+    },
+    {
+      "where": "saq latin-america-independence-1 parts.0.accept.4",
+      "kind": "exam-fit",
+      "problem": "Companion to the previous finding: the 'does not earn' line rejects the Haitian Revolution as a cause; replace it with a genuine non-answer.",
+      "edit": {
+        "file": "saqs",
+        "id": "latin-america-independence-1",
+        "path": "parts.0.accept.4",
+        "old": "Does not earn the point: 'the Haitian Revolution' alone, which was an influence on some leaders but not the usual cause given for the Spanish American movements.",
+        "new": "Does not earn the point: naming a leader such as Bolivar or San Martin without a cause, or giving a result of independence instead of a cause."
+      }
+    },
+    {
+      "where": "saq china-self-strengthening-1 parts.1.accept.3",
+      "kind": "accuracy",
+      "problem": "It rejects the Boxer Uprising as merely 'a popular movement', but the Qing court under Cixi backed the Boxers and declared war on the foreign powers in 1900; the real reasons it does not fit are that this was not a self-strengthening response and falls after the period asked about.",
+      "edit": {
+        "file": "saqs",
+        "id": "china-self-strengthening-1",
+        "path": "parts.1.accept.3",
+        "old": "Does not earn the point: Qing officials rejecting all Western ideas, or the Boxer Uprising, which was a popular movement against foreigners.",
+        "new": "Does not earn the point: Qing officials rejecting all Western ideas, or the Boxer Uprising (1899-1901), a popular anti-foreign movement that the court backed only in 1900, after this period."
+      }
+    },
+    {
+      "where": "saq china-self-strengthening-1 parts.2.accept.2",
+      "kind": "exam-fit",
+      "problem": "The task asks how Japan's response differed; this line gives only an outcome (winning the 1894-95 war) and names no difference in the response, so a student who merely says 'Japan beat China' would earn the point.",
+      "edit": {
+        "file": "saqs",
+        "id": "china-self-strengthening-1",
+        "path": "parts.2.accept.2",
+        "old": "Japan's results were shown in its victory in the Sino-Japanese War (1894-95), which exposed the weakness of China's Self-Strengthening.",
+        "new": "Japan's broader reforms built a modern army and navy that defeated China in the Sino-Japanese War (1894-95), which exposed the weakness of China's Self-Strengthening."
+      }
+    },
+    {
+      "where": "documents duff-gordon-1863-suez-forced-labour sourceLine and year (used by saq suez-canal-labour-1)",
+      "kind": "accuracy",
+      "problem": "The verification pass changed the letter's date to 30 November 1862, but the passage speaks of 'the new Pasha' (Said died in January 1863, so Ismail was new only from 1863), 30 November was a Monday in 1863 and a Sunday in 1862, and the 1865 book is titled Letters from Egypt, 1863-65; the date should be 30 November 1863 (year 1863). This sits in documents.json, which the edit format cannot reach.",
+      "edit": null
+    },
+    {
+      "where": "saq german-social-insurance-1 parts.1.accept.2",
+      "kind": "accuracy",
+      "problem": "Bismarck's insurance laws covered sickness (1883), accidents (1884) and old age and disability (1889); there was no unemployment insurance (Germany added it only in 1927), so naming unemployment as the risk the state acted on teaches students the wrong content of the program.",
+      "edit": {
+        "file": "saqs",
+        "id": "german-social-insurance-1",
+        "path": "parts.1.accept.2",
+        "old": "Industrialization had created a large urban working class vulnerable to illness and unemployment, which gave the state a reason to act and to strengthen Germany's unity.",
+        "new": "Industrialization had created a large urban working class vulnerable to illness, accidents and old age, which gave the state a reason to act and to strengthen Germany's unity."
+      }
+    },
+    {
+      "where": "saq trade-unions-engels-1 parts.1.accept.1",
+      "kind": "accuracy",
+      "problem": "\"later the Reform Acts of 1867 and 1884\" puts the 1867 Reform Act after the 1871 Trade Union Act; it came four years before it.",
+      "edit": {
+        "file": "saqs",
+        "id": "trade-unions-engels-1",
+        "path": "parts.1.accept.1",
+        "old": "The Trade Union Act of 1871 gave unions legal status, and later the Reform Acts of 1867 and 1884 gave many workers the vote.",
+        "new": "The Trade Union Act of 1871 gave unions legal status, and the Reform Acts of 1867 and 1884 gave many workers the vote."
+      }
+    },
+    {
+      "where": "saq meiji-charter-oath-1 parts.2.accept.0",
+      "kind": "accuracy",
+      "problem": "'A parliament with real power was not set up until 1890' implies the 1890 Diet had real power; under the Meiji Constitution ministers answered to the emperor, the Diet's powers were limited and only about 1 percent of the people could vote for it.",
+      "edit": {
+        "file": "saqs",
+        "id": "meiji-charter-oath-1",
+        "path": "parts.2.accept.0",
+        "old": "A parliament with real power was not set up until 1890, so the promise of assemblies went unfulfilled for more than twenty years.",
+        "new": "An elected national parliament (the Diet) was not set up until 1890, and even then it had limited powers, so the promise of assemblies went unfulfilled for more than twenty years."
+      }
+    },
+    {
+      "where": "saq meiji-charter-oath-1 parts.2.accept.2",
+      "kind": "exam-fit",
+      "problem": "The task asks how the promises were limited in practice, but this line describes the Oath's own wording, not practice; it is also misleading, because in practice the Meiji state abolished the old class system (samurai privileges ended by 1876).",
+      "edit": {
+        "file": "saqs",
+        "id": "meiji-charter-oath-1",
+        "path": "parts.2.accept.2",
+        "old": "The Oath still assumed classes would continue ('civil and military classes as well as commoners'), so it did not promise equality.",
+        "new": "Ordinary people gained little political voice: the 1889 constitution was granted by the emperor, and the vote for the Diet went only to men paying substantial taxes, about 1 percent of the population."
+      }
+    },
+    {
+      "where": "saq chartist-petition-1 parts.1.accept.2",
+      "kind": "accuracy",
+      "problem": "The 1832 Reform Act gave seats to industrial towns such as Manchester, Birmingham and Leeds, so by the 1830s the towns did have a say; what the Chartists objected to was that their working men still could not vote.",
+      "edit": {
+        "file": "saqs",
+        "id": "chartist-petition-1",
+        "path": "parts.1.accept.2",
+        "old": "Industrial towns and a growing working class had no say in laws that governed their lives.",
+        "new": "Workers in the growing industrial towns had no say in laws that governed their lives."
+      }
+    },
+    {
+      "where": "saq egypt-debt-cromer-1 parts.0.accept.2",
+      "kind": "consistency",
+      "problem": "Cromer names the 16 million pounds spent on the Suez Canal as the one part of the borrowing that was not squandered; presenting it bare as a cause 'according to Cromer' misreads the passage, though borrowing for the canal did add to the debt.",
+      "edit": {
+        "file": "saqs",
+        "id": "egypt-debt-cromer-1",
+        "path": "parts.0.accept.2",
+        "old": "About sixteen million pounds went to the Suez Canal.",
+        "new": "Borrowing for the Suez Canal added about sixteen million pounds to the debt, though Cromer counts this as the one part of the borrowing that was not squandered."
+      }
+    },
+    {
+      "where": "saq egypt-debt-cromer-1 parts.2.accept.0",
+      "kind": "consistency",
+      "problem": "Open point settled: part (c) is answerable from the sourceLine and the list is fair, but this line rests on the 1878 commission of inquiry, which the sourceLine does not mention; it should use the role the student is given (British Commissioner of the Egyptian Public Debt in 1877, representing the creditors).",
+      "edit": {
+        "file": "saqs",
+        "id": "egypt-debt-cromer-1",
+        "path": "parts.2.accept.0",
+        "old": "Cromer served on the 1878 commission of inquiry into Egyptian finances and later ruled Egypt as British Consul-General, so blaming Ismail's recklessness helped justify European control.",
+        "new": "Cromer was British Commissioner of the Egyptian Public Debt in 1877, representing the creditors, and later ruled Egypt as British Consul-General, so blaming Ismail's recklessness helped justify European control."
+      }
+    },
+    {
+      "where": "saq abolition-wilberforce-1833-compare-1 parts.2.accept.1",
+      "kind": "accuracy",
+      "problem": "The Act set apprenticeship to end in 1838 for domestic and 1840 for field workers, but under abolitionist pressure all apprenticeship ended on 1 August 1838; saying apprenticeships ended in 1840 is wrong.",
+      "edit": {
+        "file": "saqs",
+        "id": "abolition-wilberforce-1833-compare-1",
+        "path": "parts.2.accept.1",
+        "old": "Freed people over six became 'apprentices' who owed services to their former owners, with apprenticeships ending in 1838 and 1840.",
+        "new": "Freed people over six became 'apprentices' who owed services to their former owners; the Act set apprenticeship to last until 1838 or 1840, though protest ended it for all in 1838."
+      }
+    },
+    {
+      "where": "saq railways-gandhi-marx-compare-1 parts.2.accept.0",
+      "kind": "accuracy",
+      "problem": "India's network was about 9,000 miles (about 14,500 km) in 1880, not 'over 25,000 km' (a size reached around 1890); it was nearly 25,000 miles (about 40,000 km) by 1900. Pegging a 1909 claim to 1880 figures also undersells it. The cited Economic history of India article carries the wrong 1880 figure, so the ref will not back the corrected numbers.",
+      "edit": {
+        "file": "saqs",
+        "id": "railways-gandhi-marx-compare-1",
+        "path": "parts.2.accept.0",
+        "old": "By 1909 India had a large railway network (from about 1,300 km in 1860 to over 25,000 km in 1880), mostly British owned and run for British commercial and military use, but India had not industrialized in the way Marx predicted.",
+        "new": "By 1909 India had one of the world's largest railway networks (about 14,500 km in 1880 and nearly 40,000 km by 1900), mostly British owned and run for British commercial and military use, but India had not industrialized in the way Marx predicted."
+      }
+    },
+    {
+      "where": "saq railways-gandhi-marx-compare-1 parts.2.accept.2",
+      "kind": "exam-fit",
+      "problem": "Open point settled: parts (a)-(b) and accept lines 0-1 of (c) are sound, but the task asks for a historical development and this line gives only the authors' differing purposes and audiences, a sourcing point that does not answer it. Rewritten around the development behind Gandhi's purpose, the rise of Indian nationalism; the Hind Swaraj ref may fit that better than the railway claim it sat beside.",
+      "edit": {
+        "file": "saqs",
+        "id": "railways-gandhi-marx-compare-1",
+        "path": "parts.2.accept.2",
+        "old": "Gandhi wrote as an Indian critic seeking self-rule (swaraj) and rejecting modern Western civilization, which gave him a different purpose from Marx, a European writing for a New York newspaper.",
+        "new": "The growth of Indian nationalism (the Indian National Congress from 1885, the swadeshi movement after the 1905 partition of Bengal) led critics such as Gandhi to see railways as tools of British control and to seek self-rule (swaraj) and reject modern Western civilization."
+      }
+    },
+    {
+      "where": "saq industrial-continuity-change-1 parts.2.accept.2",
+      "kind": "exam-fit",
+      "problem": "The task asks how industrialization changed social structure; passing the Factory Acts is a government response to conditions, not a change in social structure, so this line credits an answer to a different question.",
+      "edit": {
+        "file": "saqs",
+        "id": "industrial-continuity-change-1",
+        "path": "parts.2.accept.2",
+        "old": "Reports of abuses, especially in mines and textile mills, led to laws such as the Factory Acts of 1833 and 1844 limiting child labour.",
+        "new": "Family roles changed: working-class women and children earned wages outside the home, while middle-class families adopted 'separate spheres' that kept wives out of paid work."
+      }
+    },
+    {
+      "where": "mcq engels-textile-machinery questions.1.options.3",
+      "kind": "exam-fit",
+      "problem": "Open point settled: option D is defensible, since the Calico Acts (1700, 1721) did ban Indian printed cottons until 1774 and historians link that protection to the mechanization of British cotton. C remains the best answer, but a distractor that names a real condition many argue helped should be replaced with one that is plainly wrong.",
+      "edit": {
+        "file": "mcqs",
+        "id": "engels-textile-machinery",
+        "path": "questions.1.options.3",
+        "old": "A ban on textile imports from India",
+        "new": "Laws requiring that all cloth be spun and woven by hand in licensed guild workshops"
+      }
+    },
+    {
+      "where": "mcq engels-textile-machinery questions.1.explanation",
+      "kind": "exam-fit",
+      "problem": "Companion to the option D fix; the explanation also understates the Calico Acts as cloth 'restricted in some years'.",
+      "edit": {
+        "file": "mcqs",
+        "id": "engels-textile-machinery",
+        "path": "questions.1.explanation",
+        "old": "Coal fueled steam engines and iron built machines. The British government did not pay inventors by subsidy, and slavery was not used in British factories. India's cloth was restricted in some years, but this did not provide the resources for machines.",
+        "new": "Coal fueled steam engines and iron built machines. The British government did not pay inventors by subsidy, slavery was not used in British factories, and no law confined cloth-making to hand work in guild workshops."
+      }
+    },
+    {
+      "where": "mcq kiangnan-arsenal-yung-wing questions.1.explanation",
+      "kind": "accuracy",
+      "problem": "'founded arsenals after the 1860s' is wrong: the Anqing arsenal dates from 1861 and the Kiangnan Arsenal from 1865 (as question 4 itself says), so the arsenals were founded in the 1860s.",
+      "edit": {
+        "file": "mcqs",
+        "id": "kiangnan-arsenal-yung-wing",
+        "path": "questions.1.explanation",
+        "old": "Officials such as Zeng Guofan founded arsenals after the 1860s. The Hundred Days' Reform of 1898 went further, attempting to change political institutions, and was short-lived.",
+        "new": "Officials such as Zeng Guofan founded arsenals from the 1860s. The Hundred Days' Reform of 1898 went further, attempting to change political institutions, and was short-lived."
+      }
+    },
+    {
+      "where": "mcq proudhon-property-robbery questions.2.stem",
+      "kind": "exam-fit",
+      "problem": "The stem asks for a 'later' thinker but option A is Adam Smith, whose Wealth of Nations (1776) came 64 years before Proudhon's 1840 book; the stem misdates a listed thinker.",
+      "edit": {
+        "file": "mcqs",
+        "id": "proudhon-property-robbery",
+        "path": "questions.2.stem",
+        "old": "Which later thinker's ideas about property are most similar to Proudhon's?",
+        "new": "Which other thinker's ideas about property are most similar to Proudhon's?"
+      }
+    },
+    {
+      "where": "mcq riis-tenements questions.2.explanation (ref)",
+      "kind": "consistency",
+      "problem": "Open point settled: the claim is accurate (New York State's Tenement House Act of 1901 required light, ventilation and indoor toilets, and Riis's work fed the campaign for it), so the text needs no change; if the cited article really omits the Act, only the ref is weak, and refs are outside this pass.",
+      "edit": null
+    },
+    {
+      "where": "mcq carnegie-wealth-change questions.2.explanation (ref)",
+      "kind": "consistency",
+      "problem": "Open point settled: the claim is accurate (Carnegie called himself a disciple of Herbert Spencer, and his 1889 essay defends competition because it 'insures the survival of the fittest'), so the text needs no change; only the ref, which does not name Carnegie, is weak, and refs are outside this pass.",
+      "edit": null
+    },
+    {
+      "where": "mcq ure-factory-philanthropy questions.1.explanation",
+      "kind": "accuracy",
+      "problem": "Open point settled: the 1833 and 1844 Factory Acts were real (1833 barred under-nines from textile mills and created inspectors; 1844 cut children's hours and first limited women's), but they were not 'the first' factory laws (Parliament passed acts in 1802, 1819 and 1831), and the mines reports led to the 1842 Mines Act, not to factory laws.",
+      "edit": {
+        "file": "mcqs",
+        "id": "ure-factory-philanthropy",
+        "path": "questions.1.explanation",
+        "old": "Reports on abuses in mines and textile mills stirred a public outcry and led to the first general factory laws in 1833 and 1844. Owners, steam enthusiasts and cotton merchants would have shared Ure's favourable view or had no reason to dispute it.",
+        "new": "Reports on abuses in textile mills and mines stirred a public outcry and led to laws such as the Factory Act of 1833, which created inspectors, and the Mines Act of 1842. Owners, steam enthusiasts and cotton merchants would have shared Ure's favourable view or had no reason to dispute it."
+      }
+    },
+    {
+      "where": "mcq manifesto-appendage-machine questions.3",
+      "kind": "structural",
+      "problem": "Question 4 ('Which group commissioned the Manifesto?') is accurate but is pure publishing trivia: the passage does not bear on it, and the Communist League is not Unit 5 content a student is expected to know, so it tests recall of a detail the course does not teach. Replace it with a passage-based question (for example, what outcome Marx and Engels predicted from these conditions: a proletarian revolution against the bourgeoisie), or drop it.",
+      "edit": null
+    }
+  ]
+}

@@ -99,8 +99,8 @@
         {
           "text": "The Seven Years' War (1756–1763) left Britain with a large debt, and its attempt to raise revenue from the American colonies through measures such as the Stamp Act of 1765 broke an older habit of loose imperial control and set off colonial protest. France's war debts, and its help to the American rebels, also deepened its financial crisis in the 1780s.",
           "ref": {
-            "title": "Seven Years' War",
-            "url": "https://en.wikipedia.org/wiki/Seven_Years%27_War"
+            "title": "Stamp Act 1765",
+            "url": "https://en.wikipedia.org/wiki/Stamp_Act_1765"
           }
         },
         {
@@ -206,7 +206,7 @@
       {
         "doc": "viscardo-1799-letter-offices",
         "group": "creole-interests",
-        "sourcing": "Viscardo, a Peruvian-born Jesuit exile, wrote c. 1791 and published in 1799 to persuade Spanish Americans. He claims that only creoles should fill offices in their own country and attacks Spanish adventurers, so the letter shows the creole interest in office and wealth well before 1808, though an exile's propaganda is not a measure of widespread opinion."
+        "sourcing": "Viscardo, a Peruvian-born Jesuit exile, wrote c. 1791 to persuade Spanish Americans; the letter was published in 1799. He claims that only creoles should fill offices in their own country and attacks Spanish adventurers, so the letter shows the creole interest in office and wealth well before 1808, though an exile's propaganda is not a measure of widespread opinion."
       },
       {
         "doc": "beaver-1808-letter-caracas",
@@ -231,7 +231,7 @@
       {
         "doc": "dessalines-1804-haitian-declaration",
         "group": "fear-from-below",
-        "sourcing": "Dessalines was a general of the Haitian revolution, and this 1804 address is part of the Haitian declaration of independence. It shows what a successful rising of enslaved people looked like, which is the example that slaveholding creoles in Spanish America feared, but the source is not about Latin America and the fear has to be inferred from outside knowledge."
+        "sourcing": "Dessalines was a general of the Haitian revolution, and this 1804 address is part of the Haitian declaration of independence. It shows what a successful rising of enslaved people looked like, which is the example that slaveholding creoles in Spanish America feared, but the source is not about Spanish America and the fear has to be inferred from outside knowledge."
       },
       {
         "doc": "morelos-1812-medidas-politicas",
@@ -270,7 +270,7 @@
       ],
       "outsideEvidence": [
         {
-          "text": "The Bourbon Reforms of the 1760s to 1780s created new viceroyalties, raised taxes and promoted peninsulares to high office, so creole elites lost ground in their home colonies before any independence movement began.",
+          "text": "The Bourbon Reforms of the 1760s to 1780s created the new Viceroyalty of the Río de la Plata (1776), raised taxes and promoted peninsulares to high office, so creole elites lost ground in their home colonies before any independence movement began.",
           "ref": {
             "title": "Bourbon Reforms",
             "url": "https://en.wikipedia.org/wiki/Bourbon_Reforms"
@@ -307,8 +307,8 @@
       ],
       "complexity": [
         "Explain similarity and difference: compare Morelos in Mexico, who called for an end to slavery and caste as early as 1813, with the Venezuelan and Argentine congresses, which declared independence in the name of 'the people' while keeping the social order, to show that the same ideas could be radical or conservative depending on who used them.",
-        "Corroborate across groups: Viscardo, the Venezuelan declaration and Bolívar all complain about exclusion from office and trade, which supports the creole-interests argument, while Morelos and San Martín show liberal ideas changing policy, so taken together they point to a movement driven by interest that adopted ideas it could not fully control.",
-        "Qualify with a counter-argument: although fear of the poor held many creoles back, ideas of equality were not merely decoration, since Morelos, San Martín and the Tucumán congress put them into decrees and declarations, and the rebellion of 1808 was at first loyal to the king, so a lot of the radical language came later."
+        "Corroborate across groups: Viscardo complains about exclusion from office, the Venezuelan declaration about unequal representation, and Bolívar wants a hereditary senate to hold back the people, which supports the creole-interests argument, while Morelos and San Martín show liberal ideas changing policy, so taken together they point to a movement driven by interest that adopted ideas it could not fully control.",
+        "Qualify with a counter-argument: although fear of the poor held many creoles back, ideas of equality were not merely decoration, since Morelos and San Martín put them into programmes and decrees, and the crisis of 1808 began with loyalty to the king, so a lot of the radical language came later."
       ]
     }
   },
@@ -356,7 +356,7 @@
       {
         "doc": "smith-1776-joint-stock",
         "group": "capital-markets",
-        "sourcing": "Smith was a Scottish political economist who wrote in 1776, before the factory age, criticising joint-stock companies for foreign trade because directors manage other people's money. It shows that such companies existed and that economists doubted their efficiency, so it complicates the claim that company law drove industrialization."
+        "sourcing": "Smith was a Scottish political economist who wrote in 1776, when factories were still few, criticising joint-stock companies for foreign trade because directors manage other people's money. It shows that such companies existed and that economists doubted their efficiency, so it complicates the claim that company law drove industrialization."
       },
       {
         "doc": "bagehot-1873-lombard-street-capital",
@@ -376,7 +376,7 @@
       {
         "doc": "engels-1845-before-machinery",
         "group": "labor-technology",
-        "sourcing": "Engels was a German socialist and manager in his father's Manchester cotton firm who wrote this in 1845 as a critic of industrial capitalism. He dates the English revolution to the steam engine and cotton machinery and describes spinning and weaving moving out of the family home, which is first-hand evidence of technology and wage labour, though his political purpose coloured his picture of the earlier period."
+        "sourcing": "Engels was a German socialist and manager in his father's Manchester cotton firm who wrote this in 1845 as a critic of industrial capitalism. He dates the English revolution to the steam engine and cotton machinery and describes spinning and weaving moving out of the family home, which is evidence of technology and wage labour from a man who knew the factory system at first hand, though he had not seen the earlier period and his political purpose coloured his picture of it."
       },
       {
         "doc": "marx-1848-productive-forces",
@@ -420,7 +420,7 @@
       ],
       "outsideEvidence": [
         {
-          "text": "James Watt's improved steam engine of the late 1760s and 1770s used a separate condenser to burn much less coal than earlier engines, and it freed factories from dependence on rivers and water power.",
+          "text": "James Watt's improved steam engine of the late 1760s and 1770s used a separate condenser to burn much less coal than earlier engines, and, once adapted to rotary motion in the 1780s, it freed factories from dependence on rivers and water power.",
           "ref": {
             "title": "James Watt",
             "url": "https://en.wikipedia.org/wiki/James_Watt"
@@ -494,7 +494,7 @@
       {
         "doc": "yamagata-1908-japanese-army",
         "group": "defense",
-        "sourcing": "Yamagata was the Field-Marshal who designed Japan's conscript army, writing in 1908 about the reforms of 1871. He shows the new government disbanding clan troops and centring military power on the state, so he is strong evidence that defence needs drove state action, but as an insider telling his own success story he stresses the achievement more than the cost."
+        "sourcing": "Yamagata was the Field-Marshal who designed Japan's conscript army, writing in 1908 about the reforms of 1871. He shows the new government disbanding clan troops and centring military power on the state, which is evidence of military reform driving state action, but the passage concerns the security of the new regime at home and says nothing of factories or foreign threats, and as an insider telling his own success story he stresses the achievement more than the cost."
       },
       {
         "doc": "yung-wing-1909-kiangnan-arsenal",
@@ -534,7 +534,7 @@
       {
         "doc": "duff-gordon-1863-suez-forced-labour",
         "group": "limits",
-        "sourcing": "Lucie Duff Gordon was an English traveller living in Upper Egypt for her health, writing to a friend in November 1862. She describes hundreds of men taken from their homes to work on the Suez Canal or the Pasha's palaces for a nominal piastre a day, which shows the human cost of state projects in Egypt, but she is a sympathetic outside observer whose letter was written privately and published in 1865."
+        "sourcing": "Lucie Duff Gordon was an English traveller living in Upper Egypt for her health, writing home to her mother, Sarah Austin, in November 1862 and to her husband in February 1863, just after Ismail became Pasha. She describes hundreds of men taken from their homes to work on the Suez Canal or the Pasha's palaces for a nominal piastre a day, which shows the human cost of state projects in Egypt, but she is a sympathetic outside observer whose letter was written privately and published in 1865."
       },
       {
         "doc": "cromer-1908-egypt-debt",
@@ -555,7 +555,7 @@
     "notes": {
       "thesis": [
         "Governments drove industrialization to a large extent outside Britain, because late-comers faced Western military and economic pressure and only the state could gather the capital, build railways and arsenals, and train workers, as in Meiji Japan.",
-        "Governments were necessary but not sufficient: state action worked best where it built on existing strengths and kept control of finance, as in Japan, but where it relied on foreign loans, monopolies and forced labour, as in Muhammad Ali's Egypt and the Tanzimat Ottoman Empire, it produced debt and foreign control instead of lasting industry.",
+        "Governments were necessary but not sufficient: state action worked best where it built on existing strengths and kept control of finance, as in Japan, but where it relied on foreign loans, monopolies and forced labour, as in Egypt under Muhammad Ali and his successors and the Tanzimat Ottoman Empire, it produced debt and foreign control instead of lasting industry.",
         "The extent of state leadership was greatest in the areas of defence and infrastructure and weakest in the growth of private enterprise, so governments launched industrialization and then often handed the factories to private business, and the results depended on how far reforms overcame social resistance."
       ],
       "contextualization": [
@@ -590,7 +590,7 @@
           }
         },
         {
-          "text": "After the Meiji Restoration of 1868 the government built model factories, and in the 1880s it sold many of them to private firms; family-controlled combines called zaibatsu, such as Mitsui and Mitsubishi, grew from this.",
+          "text": "After the Meiji Restoration of 1868 the government built model factories, and in the 1880s it sold many of them to private firms; family-controlled combines called zaibatsu, such as Mitsui and Mitsubishi, grew in part through buying them.",
           "ref": {
             "title": "Zaibatsu",
             "url": "https://en.wikipedia.org/wiki/Zaibatsu"
@@ -621,7 +621,7 @@
       "complexity": [
         "Explain similarity and difference: compare Meiji Japan with Egypt and the Ottoman Empire, which also borrowed Western models, to show that Japan kept control of its own finance and avoided, in its early decades, the heavy foreign debt that gave Britain and France influence in Egypt and the Ottoman lands.",
         "Corroborate across groups: Yamagata and Yung Wing show armies and arsenals as the first reason for state action, while Inouye and Matsukata show railways and finance following, so defence and economic growth reinforced each other and both rested on state power.",
-        "Qualify with a counter-argument: two of the sources on limits are by British observers and officials such as Cromer and Duff Gordon, who may exaggerate the failures of governments they criticised, while Midhat, writing the life of his reforming father, may flatter the Tanzimat."
+        "Qualify with a counter-argument: three of the sources on limits are by British observers and officials, Cromer, Duff Gordon and Lane, who may exaggerate the failures of governments they criticised, while Midhat, writing the life of his reforming father, may flatter the Tanzimat."
       ]
     }
   },
@@ -704,7 +704,7 @@
     ],
     "notes": {
       "thesis": [
-        "Reform from above was the most effective response in the short term because only governments, employers and churches could make rules binding on whole industries, as the factory and mines acts of Britain and Bismarck's insurance laws did, but these reforms came largely because workers and socialists created pressure.",
+        "Reform from above was the most effective response in the short term because only governments could make rules binding on whole industries, as the factory and mines acts of Britain and Bismarck's insurance laws did, but these reforms came largely because workers and socialists created pressure.",
         "Labor organization was the most effective response over the century because unions, strikes and political movements gave workers lasting bargaining power, whereas Chartism's petitions failed and utopian experiments stayed small; unions won recognition and shorter hours that reformers alone had not delivered.",
         "Socialist ideas were the least effective at directly changing conditions before 1900, since revolutionary hopes of 1848 failed, but they were the most influential in shaping the agenda: fear of socialism led governments such as Bismarck's to offer welfare and led the Church to respond with Rerum Novarum."
       ],
@@ -826,7 +826,7 @@
       {
         "doc": "crabtree-1832-sadler-committee",
         "group": "gender-family",
-        "sourcing": "Matthew Crabtree was a 22-year-old blanket manufacturer who had worked in a textile mill from the age of eight, testifying to the Sadler Committee of the House of Commons in 1832. He describes fourteen-hour days and being beaten and woken by his parents, which shows child labour as a family matter, but he spoke to a committee looking for evidence of abuse."
+        "sourcing": "Matthew Crabtree was a 22-year-old blanket manufacturer who had worked in a textile mill from the age of eight, testifying to the Sadler Committee of the House of Commons in 1832. He describes fourteen-hour days and being woken by his parents and beaten when he was late, which shows child labour as a family matter, but he spoke to a committee looking for evidence of abuse."
       },
       {
         "doc": "harris-1842-ashley-mines-hansard",
@@ -973,7 +973,7 @@
       {
         "doc": "nasmyth-1883-self-acting-machine-tools",
         "group": "speed-and-scale",
-        "sourcing": "James Nasmyth was a Manchester machine-tool maker who recalled the 1830s in his 1883 autobiography, so he speaks as an employer and seller of machines. He shows machines valued for accuracy and regularity and as a way to be rid of unreliable hand labour, which is good evidence for the scale of mechanization but also for how factory owners saw workers."
+        "sourcing": "James Nasmyth was a Manchester machine-tool maker who recalled the 1830s in his 1883 autobiography, so he speaks as an employer and seller of machines. He shows machines valued for accuracy and regularity and as a way to be rid of unreliable hand labour, which is good evidence for why employers mechanized and for how factory owners saw workers."
       },
       {
         "doc": "yung-1909-joint-stock-steamship-proposal",
@@ -1008,7 +1008,7 @@
       {
         "doc": "weeks-1903-congo-public-works-morel",
         "group": "unequal-effects",
-        "sourcing": "J. H. Weeks, a British Baptist missionary on the Upper Congo, wrote this letter in 1903 to E. D. Morel, who quoted it in Red Rubber (1906) for his reform campaign, so the passage was chosen to make a case. It claims that the Congo railway paid large dividends to shareholders while the people paid taxes and kept roads clear for nothing, which is eyewitness evidence of who gained from the railway."
+        "sourcing": "J. H. Weeks, a British Baptist missionary on the Upper Congo, wrote this letter in 1903 to E. D. Morel, who quoted it in Red Rubber (1906) for his reform campaign, so the passage was chosen to make a case. It claims that the Congo railway paid large dividends to shareholders while the people paid taxes and kept roads clear for nothing, which is a long-serving missionary's view of who gained from the railway, though he lived far up-river from the line and knew its dividends only by report."
       },
       {
         "doc": "gandhi-1909-hind-swaraj-railways",
@@ -1023,7 +1023,7 @@
     ],
     "notes": {
       "thesis": [
-        "To a great extent: steam power, factories, railways and steamships raised output and cut the time of transport (a railway at twenty-five miles an hour, a canal that shortened the route from Europe to the Indian Ocean), while the telegraph and cables joined distant markets, so by 1900 grain, cotton, timber and rubber were produced for a world market that had not existed in 1750.",
+        "To a great extent: steam power, factories, railways and steamships raised output and cut the time of transport (a railway at twenty-five miles an hour, a canal that shortened the route from Europe to the Indian Ocean), while the telegraph and cables joined distant markets, so by 1900 grain, cotton, timber and rubber were produced for a world market far larger and faster than that of 1750.",
         "To a limited extent: the technologies changed how much and how fast, but who controlled capital, coal and colonies decided who benefited, so they made the global economy more unequal rather than creating a common prosperity, as seen in India's loss of manufacturing and the Congo railway's dividends.",
         "The change was real but dependent on older conditions: Britain's coal, capital and empire made the new machines pay, and states such as Japan and China adopted steam and the telegraph through government and joint-stock enterprise, so technology alone did not change the economy; it changed it where politics and money allowed."
       ],
@@ -1095,7 +1095,7 @@
         }
       ],
       "complexity": [
-        "Explain similarity and difference: the same technologies, the railway and the telegraph, were adopted by Japan and China through state and joint-stock effort (Den, Yung Wing) but imposed in India and the Congo by colonial rulers (Naoroji, Weeks, Gandhi), so the effect depended on who controlled them.",
+        "Explain similarity and difference: the same technologies of steam and the telegraph were adopted by Japan and China through state and joint-stock effort (Den, Yung Wing) but imposed in India and the Congo by colonial rulers (Naoroji, Weeks, Gandhi), so the effect depended on who controlled them.",
         "Corroborate across groups: Babbage describes Indian cotton going to Lancashire and returning as cheaper cloth as a benefit of machinery, and Naoroji and Dutt describe the same flow as lost manufacturing and a widening income gap, so one pattern of integration looks like progress from the core and impoverishment from the periphery.",
         "Qualify with a counter-argument: Twain shows new technology replacing older transport inside a single country, and Jevons shows the whole system resting on British coal and imports, so the global change was not only caused by invention; it also depended on fuel, capital and political power."
       ]
@@ -1145,7 +1145,7 @@
       {
         "doc": "bagehot-1873-lombard-street-limited-liability",
         "group": "companies-and-banks",
-        "sourcing": "Walter Bagehot, an English banker and editor of The Economist, wrote Lombard Street (1873) as an insider describing the London money market. He notes that limited liability in banks had long been a monopoly of the Bank of England and that the law allowed it only by charter or statute, so he is good evidence for how a new legal form was introduced, though he writes only about England."
+        "sourcing": "Walter Bagehot, an English banker and editor of The Economist, wrote Lombard Street (1873) as an insider describing the London money market. He notes that limited liability in banks had long been a monopoly of the Bank of England and that the law allowed it only by charter or statute, so he is good evidence that limited liability for banks was a recent legal change, though he writes only about England."
       },
       {
         "doc": "shibusawa-1908-first-national-bank-shareholders",
@@ -1295,7 +1295,7 @@
       {
         "doc": "meiji-1868-charter-oath",
         "group": "unification",
-        "sourcing": "The Charter Oath was issued in the name of Emperor Meiji by the new government in March 1868. It calls on all people, high and low, to unite their minds in conducting the affairs of the state and to seek knowledge throughout the world, which shows a government building a national identity from a divided class society, but it is an official statement of intent and not proof that people took it up."
+        "sourcing": "The Charter Oath was issued in the name of Emperor Meiji by the new government in April 1868. It calls on all people, high and low, to unite their minds in conducting the affairs of the state and to seek knowledge throughout the world, which shows a government building a national identity from a divided class society, but it is an official statement of intent and not proof that people took it up."
       },
       {
         "doc": "rizal-1889-philippines-century-hence",
@@ -1412,7 +1412,7 @@
         }
       ],
       "complexity": [
-        "Explain similarity and difference: Mazzini, Garibaldi and Fichte all define the nation by a shared people and hostility to foreign domination, but the Italian and German movements built new states by joining many small ones while Tucumán, Rizal and Mitchel sought to leave an existing empire, so the same idea unified in one place and divided in another.",
+        "Explain similarity and difference: Mazzini, Garibaldi and Fichte all define the nation by a shared people rather than by its rulers, but the Italian and German movements built new states by joining many small ones while Tucumán and Mitchel sought to leave an existing empire and Rizal warned that the Philippines might do so, so the same idea unified in one place and divided in another.",
         "Corroborate across groups: Tucumán (1816) and Seneca Falls (1848) both follow the American Declaration of Independence (Seneca Falls copies its wording), and Douglass shows the limit, since the rights of 'the people' were claimed by some groups and denied to others, so the ideal of the nation and its practice must be read together.",
         "Qualify with a counter-argument: Mill's view that small nationalities should merge and the 1890 Rescript on Education show nationalism being managed by states for their own aims, so the new identity was not always the people's own creation; and Herzl shows that exclusion by nations could itself create a new nationalism."
       ]
@@ -1504,7 +1504,7 @@
       "thesis": [
         "To a great extent: between 1750 and 1900 the dominant labor systems changed from slavery, serfdom and household or craft work to wage labor, as the British abolished the slave trade in 1807 and slavery in 1833, the United States and Brazil ended slavery, Russia freed its serfs in 1861, and factories and cities put millions to work for wages.",
         "To a limited extent: coercion changed its form more than it disappeared, since the Mississippi Black Code, debt and crop mortgages, Russian redemption payments and indentured labour kept workers tied to employers, so abolition was often followed by new forms of unfree labor.",
-        "The change was driven by campaigns and reform from below as well as from above: abolitionists, strikers and factory reformers pushed governments, while owners and states protected property by compensation and apprenticeship, so continuity and change shaped each other."
+        "Labor systems changed to a real but limited extent, through campaigns and reform from below as well as from above: abolitionists, strikers and factory reformers pushed governments, while owners and states protected property by compensation and apprenticeship, so continuity and change shaped each other."
       ],
       "contextualization": [
         {

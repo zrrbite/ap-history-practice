@@ -535,8 +535,8 @@
   {
     "id": "duff-gordon-1863-suez-forced-labour",
     "authorKey": "duff-gordon",
-    "sourceLine": "Lucie Duff Gordon, English traveller living in Upper Egypt for her health, Letters from Egypt, letter to Mrs. Austin of 30 November 1862 (published 1865)",
-    "year": 1862,
+    "sourceLine": "Lucie Duff Gordon, English traveller living in Upper Egypt for her health, Letters from Egypt (published 1865), from two letters: to her mother, Sarah Austin, Feshn, 30 November 1862, and to her husband, Sir Alexander Duff Gordon, 11 February 1863",
+    "year": 1863,
     "kind": "text",
     "text": "The other day four huge barges passed us towed by a steamer and crammed with hundreds of the poor souls torn from their homes to work at the Isthmus of Suez, or some palace of the Pasha's, for a nominal piastre a day, and find their own bread and water and cloak. … Everyone is cursing the French here. Forty thousand men always at work at the Suez Canal at starvation-point, does not endear them to the Arabs. There is great excitement as to what the new Pasha will do. If he ceases to give forced labour, the Canal, I suppose, must be given up.",
     "adapted": false,
@@ -550,7 +550,7 @@
     "sourceUrl": "https://www.gutenberg.org/cache/epub/17816/pg17816.txt",
     "verified": true,
     "verifiedBy": "script",
-    "verifiedNote": "year and sourceLine corrected: the passage falls in the letter headed 'FESHN, Monday, November 30, 1862' (no later dated heading before it), not 1863."
+    "verifiedNote": "year and sourceLine corrected: the passage falls in the letter headed 'FESHN, Monday, November 30, 1862' (no later dated heading before it), not 1863. Corrected 2026-10-16: the excerpt's second part (\"Everyone is cursing the French here ...\") is from the letter of February 11, 1863, so the sourceLine names both letters and the year is 1863."
   },
   {
     "id": "dutt-1902-raw-produce",

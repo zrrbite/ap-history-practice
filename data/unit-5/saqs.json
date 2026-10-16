@@ -9,7 +9,7 @@
     "parts": [
       {
         "label": "a",
-        "task": "Identify ONE idea about government or society that Enlightenment thinkers developed in the 1700s.",
+        "task": "Identify ONE idea about government or society that Enlightenment thinkers developed in the late 1600s and 1700s.",
         "accept": [
           "Natural rights: people are born with rights to life, liberty and property that governments must protect (Locke).",
           "Popular sovereignty or the social contract: government gets its authority from the consent of the governed (Rousseau, Locke).",
@@ -113,9 +113,9 @@
         "accept": [
           "Napoleon's invasion of Spain in 1808 and removal of the king left the colonies without legitimate authority and led to local juntas.",
           "Creole resentment that peninsulares (Spanish-born officials) held the top political and church offices.",
-          "Enlightenment ideas and the example of the American and French revolutions.",
+          "Enlightenment ideas and the example of the American, French and Haitian revolutions (Haiti also gave Bolivar aid in 1816).",
           "Trade restrictions of Spanish mercantilism that kept creoles from trading freely.",
-          "Does not earn the point: 'the Haitian Revolution' alone, which was an influence on some leaders but not the usual cause given for the Spanish American movements."
+          "Does not earn the point: naming a leader such as Bolivar or San Martin without a cause, or giving a result of independence instead of a cause."
         ]
       },
       {
@@ -224,7 +224,7 @@
           "Provincial leaders such as Zeng Guofan and Li Hongzhang started arsenals, shipyards and factories (for example the Kiangnan Arsenal) in the Self-Strengthening Movement.",
           "They sent students abroad, as in the Chinese Educational Mission, and translated Western technical books.",
           "They adopted Western technology while keeping Confucian values and the imperial system ('Chinese learning as the base, Western learning for use').",
-          "Does not earn the point: Qing officials rejecting all Western ideas, or the Boxer Uprising, which was a popular movement against foreigners."
+          "Does not earn the point: Qing officials rejecting all Western ideas, or the Boxer Uprising (1899-1901), a popular anti-foreign movement that the court backed only in 1900, after this period."
         ]
       },
       {
@@ -233,7 +233,7 @@
         "accept": [
           "Meiji leaders made far wider changes than China's officials did, including a conscript army, a national bank and tax system, a constitution (1889) and state-built model factories later sold to private firms.",
           "Japan's government coordinated reform from the center, whereas Chinese efforts were led by regional officials with little central direction and were hindered by conservative court opposition.",
-          "Japan's results were shown in its victory in the Sino-Japanese War (1894-95), which exposed the weakness of China's Self-Strengthening.",
+          "Japan's broader reforms built a modern army and navy that defeated China in the Sino-Japanese War (1894-95), which exposed the weakness of China's Self-Strengthening.",
           "Does not earn the point: 'Japan industrialized and China did not', which is too general, or saying Japan rejected Western ideas."
         ]
       }
@@ -323,7 +323,7 @@
         "accept": [
           "Bismarck wanted to win workers away from the Social Democratic Party and socialism, which was growing, by giving them a stake in the empire.",
           "He used the 'carrot and stick' approach: alongside the Anti-Socialist Laws of 1878, state health, accident and old-age insurance were meant to buy loyalty.",
-          "Industrialization had created a large urban working class vulnerable to illness and unemployment, which gave the state a reason to act and to strengthen Germany's unity.",
+          "Industrialization had created a large urban working class vulnerable to illness, accidents and old age, which gave the state a reason to act and to strengthen Germany's unity.",
           "Does not earn the point: 'Bismarck cared about the poor', which ignores the political motive given in the passage."
         ]
       },
@@ -425,7 +425,7 @@
         "task": "Explain ONE way governments responded to workers' organizing in Britain in the 1800s.",
         "accept": [
           "Parliament had banned unions through the Combination Acts (1799-1800) and repealed them in 1824-25, but still punished strikes and the Tolpuddle Martyrs were transported in 1834.",
-          "The Trade Union Act of 1871 gave unions legal status, and later the Reform Acts of 1867 and 1884 gave many workers the vote.",
+          "The Trade Union Act of 1871 gave unions legal status, and the Reform Acts of 1867 and 1884 gave many workers the vote.",
           "Governments also passed Factory Acts to limit hours as workers pressed for change.",
           "Does not earn the point: saying governments 'ignored' workers, or that unions were made legal before the 1820s."
         ]
@@ -639,9 +639,9 @@
         "label": "c",
         "task": "Explain ONE way the promises of the Charter Oath were limited in practice in the decades after 1868.",
         "accept": [
-          "A parliament with real power was not set up until 1890, so the promise of assemblies went unfulfilled for more than twenty years.",
+          "An elected national parliament (the Diet) was not set up until 1890, and even then it had limited powers, so the promise of assemblies went unfulfilled for more than twenty years.",
           "A small group of oligarchs from Satsuma, Choshu, Tosa and Hizen kept political and military control, so 'public discussion' did not mean power for ordinary people.",
-          "The Oath still assumed classes would continue ('civil and military classes as well as commoners'), so it did not promise equality.",
+          "Ordinary people gained little political voice: the 1889 constitution was granted by the emperor, and the vote for the Diet went only to men paying substantial taxes, about 1 percent of the population.",
           "Does not earn the point: saying the Oath was 'ignored' completely, since the government did adopt a constitution and a Diet."
         ]
       }
@@ -684,7 +684,7 @@
         "accept": [
           "The Reform Act of 1832 did not extend the vote beyond property owners, so working men felt betrayed and still had no voice in Parliament.",
           "They believed that only elected representatives of the many would change laws on food prices, taxes and wages, as the petition argues.",
-          "Industrial towns and a growing working class had no say in laws that governed their lives.",
+          "Workers in the growing industrial towns had no say in laws that governed their lives.",
           "Does not earn the point: saying the Chartists wanted the vote 'to become rich' with no link to law-making or representation."
         ]
       },
@@ -824,7 +824,7 @@
         "accept": [
           "Ismail Pasha borrowed heavily, adding about seven million pounds a year to the debt for thirteen years.",
           "Most of the borrowed money was squandered through reckless administration of the finances.",
-          "About sixteen million pounds went to the Suez Canal.",
+          "Borrowing for the Suez Canal added about sixteen million pounds to the debt, though Cromer counts this as the one part of the borrowing that was not squandered.",
           "Does not earn the point: 'European invasion', since Cromer places the origin in borrowing and spending."
         ]
       },
@@ -842,7 +842,7 @@
         "label": "c",
         "task": "Explain how ONE aspect of Cromer's position or purpose could affect the reliability of this account.",
         "accept": [
-          "Cromer served on the 1878 commission of inquiry into Egyptian finances and later ruled Egypt as British Consul-General, so blaming Ismail's recklessness helped justify European control.",
+          "Cromer was British Commissioner of the Egyptian Public Debt in 1877, representing the creditors, and later ruled Egypt as British Consul-General, so blaming Ismail's recklessness helped justify European control.",
           "He wrote in 1908 as a British imperial official defending British involvement, so he may underplay the role of European lenders and bankers in the debt.",
           "He was an outsider who saw Egypt through the interests of its European creditors, not of Egyptians.",
           "Does not earn the point: 'he is biased' with no link to his role."
@@ -891,7 +891,7 @@
         "task": "Explain ONE way the 1833 Act shows that the interests of slaveholders still shaped British abolition.",
         "accept": [
           "Parliament granted twenty million pounds in compensation to the owners, but nothing to the enslaved people.",
-          "Freed people over six became 'apprentices' who owed services to their former owners, with apprenticeships ending in 1838 and 1840.",
+          "Freed people over six became 'apprentices' who owed services to their former owners; the Act set apprenticeship to last until 1838 or 1840, though protest ended it for all in 1838.",
           "The Act's wording treats owners as having a 'Right' to services, showing that property rights stayed protected.",
           "Does not earn the point: saying the Act freed everyone immediately."
         ]
@@ -943,9 +943,9 @@
         "label": "c",
         "task": "Explain ONE historical development that could account for the change in views between 1853 and 1909.",
         "accept": [
-          "By 1909 India had a large railway network (from about 1,300 km in 1860 to over 25,000 km in 1880), mostly British owned and run for British commercial and military use, but India had not industrialized in the way Marx predicted.",
+          "By 1909 India had one of the world's largest railway networks (built from 1853 and spread across the country by 1900), mostly British owned and run for British commercial and military use, but India had not industrialized in the way Marx predicted.",
           "Britain's rule had been accompanied by deindustrialization of Indian crafts and by poverty and famine, so Indian critics judged railways by their results.",
-          "Gandhi wrote as an Indian critic seeking self-rule (swaraj) and rejecting modern Western civilization, which gave him a different purpose from Marx, a European writing for a New York newspaper.",
+          "The growth of Indian nationalism (the Indian National Congress from 1885, the swadeshi movement after the 1905 partition of Bengal) led critics such as Gandhi to see railways as tools of British control and to seek self-rule (swaraj) and reject modern Western civilization.",
           "Does not earn the point: 'time passed' or 'Gandhi disliked technology' with no link to events in India."
         ]
       }
@@ -994,7 +994,7 @@
         "accept": [
           "An industrial middle class of factory owners and businessmen gained influence over the landed nobility and gentry.",
           "Factories drew workers from the countryside to growing cities, creating a large urban working class.",
-          "Reports of abuses, especially in mines and textile mills, led to laws such as the Factory Acts of 1833 and 1844 limiting child labour.",
+          "Family roles changed: working-class women and children earned wages outside the home, while middle-class families adopted 'separate spheres' that kept wives out of paid work.",
           "Does not earn the point: 'cities got bigger' with no social effect."
         ]
       }

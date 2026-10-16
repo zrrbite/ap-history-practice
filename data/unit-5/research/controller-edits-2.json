@@ -1,0 +1,114 @@
+[
+  {
+    "file": "dbqs",
+    "id": "enlightenment-revolutions",
+    "path": "notes.contextualization.1.ref.title",
+    "old": "Seven Years' War",
+    "new": "Stamp Act 1765",
+    "why": "Opus review A: the Seven Years' War article does not mention the debt or the Stamp Act; the Stamp Act 1765 article says the debt nearly doubled 1755-1764."
+  },
+  {
+    "file": "dbqs",
+    "id": "enlightenment-revolutions",
+    "path": "notes.contextualization.1.ref.url",
+    "old": "https://en.wikipedia.org/wiki/Seven_Years%27_War",
+    "new": "https://en.wikipedia.org/wiki/Stamp_Act_1765",
+    "why": "as above"
+  },
+  {
+    "file": "mcqs",
+    "id": "riis-tenements",
+    "path": "questions.2.ref.title",
+    "old": "How the Other Half Lives",
+    "new": "New York State Tenement House Act",
+    "why": "Opus review B: the cited article omits the 1901 Act; this one describes the 1901 New Law."
+  },
+  {
+    "file": "mcqs",
+    "id": "riis-tenements",
+    "path": "questions.2.ref.url",
+    "old": "https://en.wikipedia.org/wiki/How_the_Other_Half_Lives",
+    "new": "https://en.wikipedia.org/wiki/New_York_State_Tenement_House_Act",
+    "why": "as above"
+  },
+  {
+    "file": "mcqs",
+    "id": "carnegie-wealth-change",
+    "path": "questions.2.ref.title",
+    "old": "Social Darwinism",
+    "new": "Andrew Carnegie",
+    "why": "Opus review B: Social Darwinism article does not name Carnegie; the Andrew Carnegie article says he declared Spencer his teacher."
+  },
+  {
+    "file": "mcqs",
+    "id": "carnegie-wealth-change",
+    "path": "questions.2.ref.url",
+    "old": "https://en.wikipedia.org/wiki/Social_Darwinism",
+    "new": "https://en.wikipedia.org/wiki/Andrew_Carnegie",
+    "why": "as above"
+  },
+  {
+    "file": "saqs",
+    "id": "railways-gandhi-marx-compare-1",
+    "path": "parts.2.accept.0",
+    "old": "By 1909 India had one of the world's largest railway networks (about 14,500 km in 1880 and nearly 40,000 km by 1900), mostly British owned and run for British commercial and military use, but India had not industrialized in the way Marx predicted.",
+    "new": "By 1909 India had one of the world's largest railway networks (built from 1853 and spread across the country by 1900), mostly British owned and run for British commercial and military use, but India had not industrialized in the way Marx predicted.",
+    "why": "The cited article gives a wrong 1880 figure (25,495 km); no figure is needed for the point."
+  },
+  {
+    "file": "mcqs",
+    "id": "manifesto-appendage-machine",
+    "path": "questions.3.stem",
+    "old": "Which group commissioned the Manifesto?",
+    "new": "The ideas expressed in the passage most directly contributed to which of the following developments in the later nineteenth century?",
+    "why": "Opus review B: the old question (who commissioned the Manifesto) was publishing trivia outside Unit 5; replaced with an effect question the course covers."
+  },
+  {
+    "file": "mcqs",
+    "id": "manifesto-appendage-machine",
+    "path": "questions.3.options.0",
+    "old": "The First International",
+    "new": "The adoption of laissez-faire policies by most European governments",
+    "why": "Opus review B: the old question (who commissioned the Manifesto) was publishing trivia outside Unit 5; replaced with an effect question the course covers."
+  },
+  {
+    "file": "mcqs",
+    "id": "manifesto-appendage-machine",
+    "path": "questions.3.options.1",
+    "old": "The Chartists",
+    "new": "The restoration of guild control over urban trades",
+    "why": "Opus review B: the old question (who commissioned the Manifesto) was publishing trivia outside Unit 5; replaced with an effect question the course covers."
+  },
+  {
+    "file": "mcqs",
+    "id": "manifesto-appendage-machine",
+    "path": "questions.3.options.2",
+    "old": "The Fabian Society",
+    "new": "The decline of factory production in western Europe",
+    "why": "Opus review B: the old question (who commissioned the Manifesto) was publishing trivia outside Unit 5; replaced with an effect question the course covers."
+  },
+  {
+    "file": "mcqs",
+    "id": "manifesto-appendage-machine",
+    "path": "questions.3.options.3",
+    "old": "The Communist League",
+    "new": "The growth of socialist parties and international workers' organizations",
+    "why": "Opus review B: the old question (who commissioned the Manifesto) was publishing trivia outside Unit 5; replaced with an effect question the course covers."
+  },
+  {
+    "file": "mcqs",
+    "id": "manifesto-appendage-machine",
+    "path": "questions.3.explanation",
+    "old": "The pamphlet was commissioned by the Communist League and published in London in 1848. The First International was founded in 1864 and the Fabian Society in 1884.",
+    "new": "The Manifesto's account of exploitation fed the socialist and labor movements of the later nineteenth century: Marx led the International Workingmen's Association (the First International, 1864), and the Manifesto revived in the 1870s alongside German social democracy. Laissez-faire (A) is the free-market approach the authors attacked, not a development their ideas produced.",
+    "why": "Opus review B: the old question (who commissioned the Manifesto) was publishing trivia outside Unit 5; replaced with an effect question the course covers."
+  },
+  {
+    "file": "dbqs",
+    "id": "state-led-industrialization",
+    "path": "pool.8.sourcing",
+    "old": "Lucie Duff Gordon was an English traveller living in Upper Egypt for her health, writing to her mother, Mrs. Austin, in November 1862. She describes hundreds of men taken from their homes to work on the Suez Canal or the Pasha's palaces for a nominal piastre a day, which shows the human cost of state projects in Egypt, but she is a sympathetic outside observer whose letter was written privately and published in 1865.",
+    "new": "Lucie Duff Gordon was an English traveller living in Upper Egypt for her health, writing home to her mother, Sarah Austin, in November 1862 and to her husband in February 1863, just after Ismail became Pasha. She describes hundreds of men taken from their homes to work on the Suez Canal or the Pasha's palaces for a nominal piastre a day, which shows the human cost of state projects in Egypt, but she is a sympathetic outside observer whose letter was written privately and published in 1865.",
+    "why": "The excerpt joins two letters; the second, with \"the new Pasha\", is of 11 February 1863."
+  }
+]

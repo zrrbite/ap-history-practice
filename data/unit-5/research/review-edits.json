@@ -1,163 +1,310 @@
 [
   {
     "file": "dbqs",
-    "id": "enlightenment-revolutions",
-    "path": "notes.thesis.2",
-    "old": "The extent of the ideas' influence varied between revolutions: they were most decisive where the colonies already had experience of self-government and educated elites (British North America, France), and least where a revolt of enslaved people turned them to their own cause (Saint-Domingue), so that ideas and grievances were bound together in each case.",
-    "new": "The extent of the ideas' influence varied between revolutions: they were most decisive where societies already had experience of self-government or a reading public and educated elites (British North America, France), and least where a revolt of enslaved people turned them to their own cause (Saint-Domingue), so that ideas and grievances were bound together in each case."
-  },
-  {
-    "file": "dbqs",
-    "id": "enlightenment-revolutions",
-    "path": "notes.thesis.1",
-    "old": "Grievances were the stronger cause: the American, French, Haitian and Spanish American revolutions each began with a concrete crisis of money, privilege or colonial control, and ideas mainly justified action already under way; the limits placed on the rights of women and the enslaved show how far the principles were applied only when they suited the interests of the leaders.",
-    "new": "Grievances were the stronger cause: the American, French, Haitian and Spanish American revolutions each began with a concrete crisis of money, privilege, slavery or colonial control, and ideas mainly justified action already under way; the limits placed on the rights of women and the enslaved show how far the principles were applied only when they suited the interests of the leaders."
+    "id": "latin-american-independence",
+    "path": "pool.4.sourcing",
+    "old": "Viscardo, a Peruvian-born Jesuit exile, wrote c. 1791 and published in 1799 to persuade Spanish Americans. He claims that only creoles should fill offices in their own country and attacks Spanish adventurers, so the letter shows the creole interest in office and wealth well before 1808, though an exile's propaganda is not a measure of widespread opinion.",
+    "new": "Viscardo, a Peruvian-born Jesuit exile, wrote c. 1791 to persuade Spanish Americans; the letter was published in 1799. He claims that only creoles should fill offices in their own country and attacks Spanish adventurers, so the letter shows the creole interest in office and wealth well before 1808, though an exile's propaganda is not a measure of widespread opinion."
   },
   {
     "file": "dbqs",
     "id": "latin-american-independence",
-    "path": "pool.7.sourcing",
-    "old": "Miller, a British officer who served in the Peruvian independence army, wrote this account of the Tupac Amaru rising of 1780 in 1828 as background, not as an eyewitness. He criticises a rising that turned on Spanish Americans as well as Spaniards, so it shows how a sympathiser of the creole cause remembered Indigenous revolt as a danger.",
-    "new": "John Miller, brother and biographer of the British officer General William Miller of the Peruvian independence army, wrote this account of the Tupac Amaru rising of 1780 in 1828 as background, not as an eyewitness. He criticises a rising that turned on Spanish Americans as well as Spaniards, so it shows how a sympathiser of the creole cause remembered Indigenous revolt as a danger."
+    "path": "pool.9.sourcing",
+    "old": "Dessalines was a general of the Haitian revolution, and this 1804 address is part of the Haitian declaration of independence. It shows what a successful rising of enslaved people looked like, which is the example that slaveholding creoles in Spanish America feared, but the source is not about Latin America and the fear has to be inferred from outside knowledge.",
+    "new": "Dessalines was a general of the Haitian revolution, and this 1804 address is part of the Haitian declaration of independence. It shows what a successful rising of enslaved people looked like, which is the example that slaveholding creoles in Spanish America feared, but the source is not about Spanish America and the fear has to be inferred from outside knowledge."
   },
   {
     "file": "dbqs",
     "id": "latin-american-independence",
-    "path": "pool.5.sourcing",
-    "old": "Captain Beaver, a Royal Navy officer, wrote to Sir Alexander Cochrane on 19 July 1808 about the reaction in Caracas to news from Spain, and the letter was later printed in Miller's Memoirs. It shows the crowd proclaiming loyalty to Ferdinand VII and insulting the French, so the crisis of 1808 began as loyalty to the king and not as a demand for liberty, though a foreign officer reported what he heard secondhand.",
-    "new": "Captain Beaver, a Royal Navy officer, wrote to Sir Alexander Cochrane on 19 July 1808 about the reaction in Caracas to news from Spain, and the letter was later printed in Miller's Memoirs. It shows the crowd proclaiming loyalty to Ferdinand VII and insulting the French, so the crisis of 1808 began as loyalty to the king and not as a demand for liberty, though a British officer reporting to his admiral may have stressed the crowd's pro-British feeling and describes only one city."
+    "path": "notes.outsideEvidence.0.text",
+    "old": "The Bourbon Reforms of the 1760s to 1780s created new viceroyalties, raised taxes and promoted peninsulares to high office, so creole elites lost ground in their home colonies before any independence movement began.",
+    "new": "The Bourbon Reforms of the 1760s to 1780s created the new Viceroyalty of the Río de la Plata (1776), raised taxes and promoted peninsulares to high office, so creole elites lost ground in their home colonies before any independence movement began."
   },
   {
     "file": "dbqs",
-    "id": "industrial-revolution-causes",
-    "path": "notes.outsideEvidence.3.text",
-    "old": "The enclosure of common and open fields, carried out through hundreds of acts of Parliament in the 18th and early 19th centuries, strengthened large landowners' control and pushed many rural people off the land towards wage work.",
-    "new": "The enclosure of common and open fields, carried out through thousands of acts of Parliament in the 18th and early 19th centuries, strengthened large landowners' control and pushed many rural people off the land towards wage work."
+    "id": "latin-american-independence",
+    "path": "notes.complexity.1",
+    "old": "Corroborate across groups: Viscardo, the Venezuelan declaration and Bolívar all complain about exclusion from office and trade, which supports the creole-interests argument, while Morelos and San Martín show liberal ideas changing policy, so taken together they point to a movement driven by interest that adopted ideas it could not fully control.",
+    "new": "Corroborate across groups: Viscardo complains about exclusion from office, the Venezuelan declaration about unequal representation, and Bolívar wants a hereditary senate to hold back the people, which supports the creole-interests argument, while Morelos and San Martín show liberal ideas changing policy, so taken together they point to a movement driven by interest that adopted ideas it could not fully control."
   },
   {
     "file": "dbqs",
-    "id": "industrial-revolution-causes",
-    "path": "notes.outsideEvidence.5.text",
-    "old": "The Bank of England, founded in 1694, helped the state borrow cheaply, and by the 19th century a network of country banks and the London money market supplied credit to businesses; the Limited Liability Act of 1855 then let investors risk only what they put into a company.",
-    "new": "The Bank of England, founded in 1694, helped the state borrow cheaply, and by the 19th century a network of country banks and the London money market supplied credit to businesses for investment in canals, mills and, later, railways."
-  },
-  {
-    "file": "dbqs",
-    "id": "industrial-revolution-causes",
-    "path": "notes.complexity.0",
-    "old": "Explain similarity and difference: compare Britain with the United States (Dickens) and with India (Dutt), where factories and wage labour also spread but where the empire's raw materials and markets worked in Britain's favour, to explain why Britain industrialized first.",
-    "new": "Explain similarity and difference: compare Britain with the United States (Dickens), where factories and wage labour also spread, and with India (Dutt), where Indian industry declined while the empire's raw materials and markets worked in Britain's favour, to explain why Britain industrialized first."
-  },
-  {
-    "file": "dbqs",
-    "id": "state-led-industrialization",
-    "path": "notes.thesis.1",
-    "old": "Governments were necessary but not sufficient: state action worked best where it built on existing strengths and kept control of finance, as in Japan, but where it relied on foreign loans and forced labour, as in Egypt and the Ottoman Empire, it produced debt and foreign control instead of lasting industry.",
-    "new": "Governments were necessary but not sufficient: state action worked best where it built on existing strengths and kept control of finance, as in Japan, but where it relied on foreign loans, and in Egypt on forced labour, as in Egypt and the Ottoman Empire, it produced debt and foreign control instead of lasting industry."
-  },
-  {
-    "file": "dbqs",
-    "id": "state-led-industrialization",
-    "path": "notes.complexity.0",
-    "old": "Explain similarity and difference: compare Meiji Japan with Egypt and the Ottoman Empire, which also borrowed Western models, to show that Japan kept control of its own finance and avoided the foreign debt that gave Britain and France influence in Egypt and the Ottoman lands.",
-    "new": "Explain similarity and difference: compare Meiji Japan with Egypt and the Ottoman Empire, which also borrowed Western models, to show that Japan kept control of its own finance and avoided, in its early decades, the heavy foreign debt that gave Britain and France influence in Egypt and the Ottoman lands."
-  },
-  {
-    "file": "dbqs",
-    "id": "state-led-industrialization",
+    "id": "latin-american-independence",
     "path": "notes.complexity.2",
-    "old": "Qualify with a counter-argument: the sources on limits are mostly by British observers and officials such as Cromer and Duff Gordon, who may exaggerate the failures of governments they criticised, while Russia's Alexander II shows a state reform that mainly protected the nobility.",
-    "new": "Qualify with a counter-argument: two of the sources on limits are by British observers and officials such as Cromer and Duff Gordon, who may exaggerate the failures of governments they criticised, while Russia's Alexander II shows a state reform that mainly protected the nobility."
+    "old": "Qualify with a counter-argument: although fear of the poor held many creoles back, ideas of equality were not merely decoration, since Morelos, San Martín and the Tucumán congress put them into decrees and declarations, and the rebellion of 1808 was at first loyal to the king, so a lot of the radical language came later.",
+    "new": "Qualify with a counter-argument: although fear of the poor held many creoles back, ideas of equality were not merely decoration, since Morelos and San Martín put them into programmes and decrees, and the crisis of 1808 began with loyalty to the king, so a lot of the radical language came later."
   },
   {
     "file": "dbqs",
-    "id": "reactions-industrial-economy",
+    "id": "industrial-revolution-causes",
+    "path": "notes.outsideEvidence.0.text",
+    "old": "James Watt's improved steam engine of the late 1760s and 1770s used a separate condenser to burn much less coal than earlier engines, and it freed factories from dependence on rivers and water power.",
+    "new": "James Watt's improved steam engine of the late 1760s and 1770s used a separate condenser to burn much less coal than earlier engines, and, once adapted to rotary motion in the 1780s, it freed factories from dependence on rivers and water power."
+  },
+  {
+    "file": "dbqs",
+    "id": "industrial-revolution-causes",
     "path": "pool.8.sourcing",
-    "old": "Kaiser Wilhelm I read this proclamation, drafted by Chancellor Bismarck, to the Reichstag on 17 November 1881. It says that curing social defects needs both repression of Social Democratic excesses and promotion of workers' welfare, so it shows welfare used by the state to win loyalty and weaken socialism; it states a promise and not what was delivered.",
-    "new": "This proclamation in the name of Kaiser Wilhelm I, drafted by Chancellor Bismarck, was read to the Reichstag on 17 November 1881. It says that curing social defects needs both repression of Social Democratic excesses and promotion of workers' welfare, so it shows welfare used by the state to win loyalty and weaken socialism; it states a promise and not what was delivered."
+    "old": "Engels was a German socialist and manager in his father's Manchester cotton firm who wrote this in 1845 as a critic of industrial capitalism. He dates the English revolution to the steam engine and cotton machinery and describes spinning and weaving moving out of the family home, which is first-hand evidence of technology and wage labour, though his political purpose coloured his picture of the earlier period.",
+    "new": "Engels was a German socialist and manager in his father's Manchester cotton firm who wrote this in 1845 as a critic of industrial capitalism. He dates the English revolution to the steam engine and cotton machinery and describes spinning and weaving moving out of the family home, which is evidence of technology and wage labour from a man who knew the factory system at first hand, though he had not seen the earlier period and his political purpose coloured his picture of it."
   },
   {
     "file": "dbqs",
-    "id": "reactions-industrial-economy",
-    "path": "notes.contextualization.1.ref.title",
-    "old": "Combination Acts",
-    "new": "Combination Act 1799"
+    "id": "industrial-revolution-causes",
+    "path": "pool.4.sourcing",
+    "old": "Smith was a Scottish political economist who wrote in 1776, before the factory age, criticising joint-stock companies for foreign trade because directors manage other people's money. It shows that such companies existed and that economists doubted their efficiency, so it complicates the claim that company law drove industrialization.",
+    "new": "Smith was a Scottish political economist who wrote in 1776, when factories were still few, criticising joint-stock companies for foreign trade because directors manage other people's money. It shows that such companies existed and that economists doubted their efficiency, so it complicates the claim that company law drove industrialization."
   },
   {
     "file": "dbqs",
-    "id": "reactions-industrial-economy",
-    "path": "notes.contextualization.1.ref.url",
-    "old": "https://en.wikipedia.org/wiki/Combination_Acts",
-    "new": "https://en.wikipedia.org/wiki/Combination_Act_1799"
+    "id": "state-led-industrialization",
+    "path": "notes.thesis.1",
+    "old": "Governments were necessary but not sufficient: state action worked best where it built on existing strengths and kept control of finance, as in Japan, but where it relied on foreign loans, monopolies and forced labour, as in Muhammad Ali's Egypt and the Tanzimat Ottoman Empire, it produced debt and foreign control instead of lasting industry.",
+    "new": "Governments were necessary but not sufficient: state action worked best where it built on existing strengths and kept control of finance, as in Japan, but where it relied on foreign loans, monopolies and forced labour, as in Egypt under Muhammad Ali and his successors and the Tanzimat Ottoman Empire, it produced debt and foreign control instead of lasting industry."
   },
   {
     "file": "dbqs",
-    "id": "reactions-industrial-economy",
-    "path": "notes.outsideEvidence.0.ref.title",
-    "old": "Luddite",
-    "new": "Luddites"
+    "id": "state-led-industrialization",
+    "path": "pool.8.sourcing",
+    "old": "Lucie Duff Gordon was an English traveller living in Upper Egypt for her health, writing to a friend in November 1862. She describes hundreds of men taken from their homes to work on the Suez Canal or the Pasha's palaces for a nominal piastre a day, which shows the human cost of state projects in Egypt, but she is a sympathetic outside observer whose letter was written privately and published in 1865.",
+    "new": "Lucie Duff Gordon was an English traveller living in Upper Egypt for her health, writing to her mother, Mrs. Austin, in November 1862. She describes hundreds of men taken from their homes to work on the Suez Canal or the Pasha's palaces for a nominal piastre a day, which shows the human cost of state projects in Egypt, but she is a sympathetic outside observer whose letter was written privately and published in 1865."
   },
   {
     "file": "dbqs",
-    "id": "reactions-industrial-economy",
-    "path": "notes.outsideEvidence.0.ref.url",
-    "old": "https://en.wikipedia.org/wiki/Luddite",
-    "new": "https://en.wikipedia.org/wiki/Luddites"
+    "id": "state-led-industrialization",
+    "path": "pool.0.sourcing",
+    "old": "Yamagata was the Field-Marshal who designed Japan's conscript army, writing in 1908 about the reforms of 1871. He shows the new government disbanding clan troops and centring military power on the state, so he is strong evidence that defence needs drove state action, but as an insider telling his own success story he stresses the achievement more than the cost.",
+    "new": "Yamagata was the Field-Marshal who designed Japan's conscript army, writing in 1908 about the reforms of 1871. He shows the new government disbanding clan troops and centring military power on the state, which is evidence of military reform driving state action, but the passage concerns the security of the new regime at home and says nothing of factories or foreign threats, and as an insider telling his own success story he stresses the achievement more than the cost."
   },
   {
     "file": "dbqs",
-    "id": "industrial-society",
-    "path": "pool.6.sourcing",
-    "old": "Ruskin was a Victorian art critic and social writer who gave this lecture in 1865. He describes man as the active 'doer' and woman as the keeper of home as a place of peace, which gives an ideal of separate spheres that suited the middle class; it expresses an ideal and not what working women did.",
-    "new": "Ruskin was a Victorian art critic and social writer whose lecture was published in Sesame and Lilies in 1865. He describes man as the active 'doer' and woman as the keeper of home as a place of peace, which gives an ideal of separate spheres that suited the middle class; it expresses an ideal and not what working women did."
+    "id": "state-led-industrialization",
+    "path": "notes.outsideEvidence.1.text",
+    "old": "After the Meiji Restoration of 1868 the government built model factories, and in the 1880s it sold many of them to private firms; family-controlled combines called zaibatsu, such as Mitsui and Mitsubishi, grew from this.",
+    "new": "After the Meiji Restoration of 1868 the government built model factories, and in the 1880s it sold many of them to private firms; family-controlled combines called zaibatsu, such as Mitsui and Mitsubishi, grew in part through buying them."
   },
   {
     "file": "dbqs",
-    "id": "industrial-society",
-    "path": "pool.7.sourcing",
-    "old": "John Stuart Mill was an English philosopher and Member of Parliament who published The Subjection of Women in 1869. He argues that the legal subordination of women is wrong and should give way to equality, so he challenges the separate spheres ideal; he writes as a privileged male reformer and not from the experience of working women.",
-    "new": "John Stuart Mill was an English philosopher and former Member of Parliament who published The Subjection of Women in 1869. He argues that the legal subordination of women is wrong and should give way to equality, so he challenges the separate spheres ideal; he writes as a privileged male reformer and not from the experience of working women."
-  },
-  {
-    "file": "dbqs",
-    "id": "industrial-society",
-    "path": "notes.complexity.0",
-    "old": "Explain similarity and difference: compare the young workers of Crabtree and Harris in Britain with Robinson's account of Lowell, where mill work was one stage of a girl's life and not a lifelong fate, to show that the effects of industrial work on families depended on place and on the age and sex of the worker.",
-    "new": "Explain similarity and difference: compare the child mill worker Crabtree and the adult coal-bearer Harris in Britain with Robinson's account of Lowell, where mill work was one stage of a girl's life and not a lifelong fate, to show that the effects of industrial work on families depended on place and on the age and sex of the worker."
-  },
-  {
-    "file": "dbqs",
-    "id": "industrial-society",
+    "id": "state-led-industrialization",
     "path": "notes.complexity.2",
-    "old": "Qualify with a counter-argument: Smiles and Ruskin describe middle-class ideals of effort and of the home, while Mill criticises them, so industrialization changed the lives of different classes in different ways and the evidence should be weighed by who produced it.",
-    "new": "Qualify with a counter-argument: Smiles describes a middle-class ideal of effort and Ruskin a middle-class ideal of the home, while Mill criticises the second, so industrialization changed the lives of different classes in different ways and the evidence should be weighed by who produced it."
+    "old": "Qualify with a counter-argument: two of the sources on limits are by British observers and officials such as Cromer and Duff Gordon, who may exaggerate the failures of governments they criticised, while Midhat, writing the life of his reforming father, may flatter the Tanzimat.",
+    "new": "Qualify with a counter-argument: three of the sources on limits are by British observers and officials, Cromer, Duff Gordon and Lane, who may exaggerate the failures of governments they criticised, while Midhat, writing the life of his reforming father, may flatter the Tanzimat."
+  },
+  {
+    "file": "dbqs",
+    "id": "reactions-industrial-economy",
+    "path": "notes.thesis.0",
+    "old": "Reform from above was the most effective response in the short term because only governments, employers and churches could make rules binding on whole industries, as the factory and mines acts of Britain and Bismarck's insurance laws did, but these reforms came largely because workers and socialists created pressure.",
+    "new": "Reform from above was the most effective response in the short term because only governments could make rules binding on whole industries, as the factory and mines acts of Britain and Bismarck's insurance laws did, but these reforms came largely because workers and socialists created pressure."
+  },
+  {
+    "file": "dbqs",
+    "id": "industrial-society",
+    "path": "pool.4.sourcing",
+    "old": "Matthew Crabtree was a 22-year-old blanket manufacturer who had worked in a textile mill from the age of eight, testifying to the Sadler Committee of the House of Commons in 1832. He describes fourteen-hour days and being beaten and woken by his parents, which shows child labour as a family matter, but he spoke to a committee looking for evidence of abuse.",
+    "new": "Matthew Crabtree was a 22-year-old blanket manufacturer who had worked in a textile mill from the age of eight, testifying to the Sadler Committee of the House of Commons in 1832. He describes fourteen-hour days and being woken by his parents and beaten when he was late, which shows child labour as a family matter, but he spoke to a committee looking for evidence of abuse."
+  },
+  {
+    "file": "dbqs",
+    "id": "technology-global-economy",
+    "path": "notes.thesis.0",
+    "old": "To a great extent: steam power, factories, railways and steamships raised output and cut the time of transport (a railway at twenty-five miles an hour, a canal that shortened the route from Europe to the Indian Ocean), while the telegraph and cables joined distant markets, so by 1900 grain, cotton, timber and rubber were produced for a world market that had not existed in 1750.",
+    "new": "To a great extent: steam power, factories, railways and steamships raised output and cut the time of transport (a railway at twenty-five miles an hour, a canal that shortened the route from Europe to the Indian Ocean), while the telegraph and cables joined distant markets, so by 1900 grain, cotton, timber and rubber were produced for a world market far larger and faster than that of 1750."
+  },
+  {
+    "file": "dbqs",
+    "id": "technology-global-economy",
+    "path": "pool.9.sourcing",
+    "old": "J. H. Weeks, a British Baptist missionary on the Upper Congo, wrote this letter in 1903 to E. D. Morel, who quoted it in Red Rubber (1906) for his reform campaign, so the passage was chosen to make a case. It claims that the Congo railway paid large dividends to shareholders while the people paid taxes and kept roads clear for nothing, which is eyewitness evidence of who gained from the railway.",
+    "new": "J. H. Weeks, a British Baptist missionary on the Upper Congo, wrote this letter in 1903 to E. D. Morel, who quoted it in Red Rubber (1906) for his reform campaign, so the passage was chosen to make a case. It claims that the Congo railway paid large dividends to shareholders while the people paid taxes and kept roads clear for nothing, which is a long-serving missionary's view of who gained from the railway, though he lived far up-river from the line and knew its dividends only by report."
+  },
+  {
+    "file": "dbqs",
+    "id": "technology-global-economy",
+    "path": "notes.complexity.0",
+    "old": "Explain similarity and difference: the same technologies, the railway and the telegraph, were adopted by Japan and China through state and joint-stock effort (Den, Yung Wing) but imposed in India and the Congo by colonial rulers (Naoroji, Weeks, Gandhi), so the effect depended on who controlled them.",
+    "new": "Explain similarity and difference: the same technologies of steam and the telegraph were adopted by Japan and China through state and joint-stock effort (Den, Yung Wing) but imposed in India and the Congo by colonial rulers (Naoroji, Weeks, Gandhi), so the effect depended on who controlled them."
+  },
+  {
+    "file": "dbqs",
+    "id": "technology-global-economy",
+    "path": "pool.2.sourcing",
+    "old": "James Nasmyth was a Manchester machine-tool maker who recalled the 1830s in his 1883 autobiography, so he speaks as an employer and seller of machines. He shows machines valued for accuracy and regularity and as a way to be rid of unreliable hand labour, which is good evidence for the scale of mechanization but also for how factory owners saw workers.",
+    "new": "James Nasmyth was a Manchester machine-tool maker who recalled the 1830s in his 1883 autobiography, so he speaks as an employer and seller of machines. He shows machines valued for accuracy and regularity and as a way to be rid of unreliable hand labour, which is good evidence for why employers mechanized and for how factory owners saw workers."
+  },
+  {
+    "file": "dbqs",
+    "id": "economic-ideas-institutions",
+    "path": "pool.4.sourcing",
+    "old": "Walter Bagehot, an English banker and editor of The Economist, wrote Lombard Street (1873) as an insider describing the London money market. He notes that limited liability in banks had long been a monopoly of the Bank of England and that the law allowed it only by charter or statute, so he is good evidence for how a new legal form was introduced, though he writes only about England.",
+    "new": "Walter Bagehot, an English banker and editor of The Economist, wrote Lombard Street (1873) as an insider describing the London money market. He notes that limited liability in banks had long been a monopoly of the Bank of England and that the law allowed it only by charter or statute, so he is good evidence that limited liability for banks was a recent legal change, though he writes only about England."
+  },
+  {
+    "file": "dbqs",
+    "id": "nationalism-identity",
+    "path": "notes.complexity.0",
+    "old": "Explain similarity and difference: Mazzini, Garibaldi and Fichte all define the nation by a shared people and hostility to foreign domination, but the Italian and German movements built new states by joining many small ones while Tucumán, Rizal and Mitchel sought to leave an existing empire, so the same idea unified in one place and divided in another.",
+    "new": "Explain similarity and difference: Mazzini, Garibaldi and Fichte all define the nation by a shared people rather than by its rulers, but the Italian and German movements built new states by joining many small ones while Tucumán and Mitchel sought to leave an existing empire and Rizal warned that the Philippines might do so, so the same idea unified in one place and divided in another."
+  },
+  {
+    "file": "dbqs",
+    "id": "nationalism-identity",
+    "path": "pool.3.sourcing",
+    "old": "The Charter Oath was issued in the name of Emperor Meiji by the new government in March 1868. It calls on all people, high and low, to unite their minds in conducting the affairs of the state and to seek knowledge throughout the world, which shows a government building a national identity from a divided class society, but it is an official statement of intent and not proof that people took it up.",
+    "new": "The Charter Oath was issued in the name of Emperor Meiji by the new government in April 1868. It calls on all people, high and low, to unite their minds in conducting the affairs of the state and to seek knowledge throughout the world, which shows a government building a national identity from a divided class society, but it is an official statement of intent and not proof that people took it up."
+  },
+  {
+    "file": "dbqs",
+    "id": "labor-continuity-change",
+    "path": "notes.thesis.2",
+    "old": "The change was driven by campaigns and reform from below as well as from above: abolitionists, strikers and factory reformers pushed governments, while owners and states protected property by compensation and apprenticeship, so continuity and change shaped each other.",
+    "new": "Labor systems changed to a real but limited extent, through campaigns and reform from below as well as from above: abolitionists, strikers and factory reformers pushed governments, while owners and states protected property by compensation and apprenticeship, so continuity and change shaped each other."
   },
   {
     "file": "saqs",
     "id": "enlightenment-1",
-    "path": "parts.2.task",
-    "old": "Explain ONE way a group in this period used Enlightenment ideas to argue for rights that the revolutionary governments did not at first grant them.",
-    "new": "Explain ONE way a group between 1750 and 1850 used Enlightenment ideas to argue for rights that governments did not at first grant them."
+    "path": "parts.0.task",
+    "old": "Identify ONE idea about government or society that Enlightenment thinkers developed in the 1700s.",
+    "new": "Identify ONE idea about government or society that Enlightenment thinkers developed in the late 1600s and 1700s."
   },
   {
     "file": "saqs",
-    "id": "enlightenment-1",
+    "id": "latin-america-independence-1",
+    "path": "parts.0.accept.2",
+    "old": "Enlightenment ideas and the example of the American and French revolutions.",
+    "new": "Enlightenment ideas and the example of the American, French and Haitian revolutions (Haiti also gave Bolivar aid in 1816)."
+  },
+  {
+    "file": "saqs",
+    "id": "latin-america-independence-1",
+    "path": "parts.0.accept.4",
+    "old": "Does not earn the point: 'the Haitian Revolution' alone, which was an influence on some leaders but not the usual cause given for the Spanish American movements.",
+    "new": "Does not earn the point: naming a leader such as Bolivar or San Martin without a cause, or giving a result of independence instead of a cause."
+  },
+  {
+    "file": "saqs",
+    "id": "china-self-strengthening-1",
+    "path": "parts.1.accept.3",
+    "old": "Does not earn the point: Qing officials rejecting all Western ideas, or the Boxer Uprising, which was a popular movement against foreigners.",
+    "new": "Does not earn the point: Qing officials rejecting all Western ideas, or the Boxer Uprising (1899-1901), a popular anti-foreign movement that the court backed only in 1900, after this period."
+  },
+  {
+    "file": "saqs",
+    "id": "china-self-strengthening-1",
     "path": "parts.2.accept.2",
-    "old": "Workers or the poor argued that political equality needed to extend to those without property (for example, the Chartists' demand for votes in 1838).",
-    "new": "Workers or the poor argued that political equality needed to extend to those without property (for example, the Parisian radicals who attacked the 1791 constitution's division of men into active and passive citizens by wealth, or the Chartists' demand for votes in 1838)."
+    "old": "Japan's results were shown in its victory in the Sino-Japanese War (1894-95), which exposed the weakness of China's Self-Strengthening.",
+    "new": "Japan's broader reforms built a modern army and navy that defeated China in the Sino-Japanese War (1894-95), which exposed the weakness of China's Self-Strengthening."
   },
   {
     "file": "saqs",
-    "id": "division-of-labour-1",
-    "path": "parts.0.accept.1",
-    "old": "Output per worker rises enormously: a single untrained worker could make hardly one pin a day, but the divided process makes far more.",
-    "new": "Output per worker rises enormously: a single untrained worker could scarcely make twenty pins a day, while in the divided process (Smith goes on to say ten specialised workers made upward of 48,000 pins a day) each makes thousands."
+    "id": "german-social-insurance-1",
+    "path": "parts.1.accept.2",
+    "old": "Industrialization had created a large urban working class vulnerable to illness and unemployment, which gave the state a reason to act and to strengthen Germany's unity.",
+    "new": "Industrialization had created a large urban working class vulnerable to illness, accidents and old age, which gave the state a reason to act and to strengthen Germany's unity."
   },
   {
     "file": "saqs",
-    "id": "child-labour-bentley-1",
+    "id": "trade-unions-engels-1",
+    "path": "parts.1.accept.1",
+    "old": "The Trade Union Act of 1871 gave unions legal status, and later the Reform Acts of 1867 and 1884 gave many workers the vote.",
+    "new": "The Trade Union Act of 1871 gave unions legal status, and the Reform Acts of 1867 and 1884 gave many workers the vote."
+  },
+  {
+    "file": "saqs",
+    "id": "meiji-charter-oath-1",
+    "path": "parts.2.accept.0",
+    "old": "A parliament with real power was not set up until 1890, so the promise of assemblies went unfulfilled for more than twenty years.",
+    "new": "An elected national parliament (the Diet) was not set up until 1890, and even then it had limited powers, so the promise of assemblies went unfulfilled for more than twenty years."
+  },
+  {
+    "file": "saqs",
+    "id": "meiji-charter-oath-1",
     "path": "parts.2.accept.2",
-    "old": "Parliament set up investigations (the Sadler Committee, 1832) whose evidence led to reform.",
-    "new": "Parliament set up a Royal Commission on the employment of children in factories (1833) and, later, the Children's Employment Commission (1840-42), whose investigations led to reform."
+    "old": "The Oath still assumed classes would continue ('civil and military classes as well as commoners'), so it did not promise equality.",
+    "new": "Ordinary people gained little political voice: the 1889 constitution was granted by the emperor, and the vote for the Diet went only to men paying substantial taxes, about 1 percent of the population."
+  },
+  {
+    "file": "saqs",
+    "id": "chartist-petition-1",
+    "path": "parts.1.accept.2",
+    "old": "Industrial towns and a growing working class had no say in laws that governed their lives.",
+    "new": "Workers in the growing industrial towns had no say in laws that governed their lives."
+  },
+  {
+    "file": "saqs",
+    "id": "egypt-debt-cromer-1",
+    "path": "parts.0.accept.2",
+    "old": "About sixteen million pounds went to the Suez Canal.",
+    "new": "Borrowing for the Suez Canal added about sixteen million pounds to the debt, though Cromer counts this as the one part of the borrowing that was not squandered."
+  },
+  {
+    "file": "saqs",
+    "id": "egypt-debt-cromer-1",
+    "path": "parts.2.accept.0",
+    "old": "Cromer served on the 1878 commission of inquiry into Egyptian finances and later ruled Egypt as British Consul-General, so blaming Ismail's recklessness helped justify European control.",
+    "new": "Cromer was British Commissioner of the Egyptian Public Debt in 1877, representing the creditors, and later ruled Egypt as British Consul-General, so blaming Ismail's recklessness helped justify European control."
+  },
+  {
+    "file": "saqs",
+    "id": "abolition-wilberforce-1833-compare-1",
+    "path": "parts.2.accept.1",
+    "old": "Freed people over six became 'apprentices' who owed services to their former owners, with apprenticeships ending in 1838 and 1840.",
+    "new": "Freed people over six became 'apprentices' who owed services to their former owners; the Act set apprenticeship to last until 1838 or 1840, though protest ended it for all in 1838."
+  },
+  {
+    "file": "saqs",
+    "id": "railways-gandhi-marx-compare-1",
+    "path": "parts.2.accept.0",
+    "old": "By 1909 India had a large railway network (from about 1,300 km in 1860 to over 25,000 km in 1880), mostly British owned and run for British commercial and military use, but India had not industrialized in the way Marx predicted.",
+    "new": "By 1909 India had one of the world's largest railway networks (about 14,500 km in 1880 and nearly 40,000 km by 1900), mostly British owned and run for British commercial and military use, but India had not industrialized in the way Marx predicted."
+  },
+  {
+    "file": "saqs",
+    "id": "railways-gandhi-marx-compare-1",
+    "path": "parts.2.accept.2",
+    "old": "Gandhi wrote as an Indian critic seeking self-rule (swaraj) and rejecting modern Western civilization, which gave him a different purpose from Marx, a European writing for a New York newspaper.",
+    "new": "The growth of Indian nationalism (the Indian National Congress from 1885, the swadeshi movement after the 1905 partition of Bengal) led critics such as Gandhi to see railways as tools of British control and to seek self-rule (swaraj) and reject modern Western civilization."
+  },
+  {
+    "file": "saqs",
+    "id": "industrial-continuity-change-1",
+    "path": "parts.2.accept.2",
+    "old": "Reports of abuses, especially in mines and textile mills, led to laws such as the Factory Acts of 1833 and 1844 limiting child labour.",
+    "new": "Family roles changed: working-class women and children earned wages outside the home, while middle-class families adopted 'separate spheres' that kept wives out of paid work."
+  },
+  {
+    "file": "mcqs",
+    "id": "engels-textile-machinery",
+    "path": "questions.1.options.3",
+    "old": "A ban on textile imports from India",
+    "new": "Laws requiring that all cloth be spun and woven by hand in licensed guild workshops"
+  },
+  {
+    "file": "mcqs",
+    "id": "engels-textile-machinery",
+    "path": "questions.1.explanation",
+    "old": "Coal fueled steam engines and iron built machines. The British government did not pay inventors by subsidy, and slavery was not used in British factories. India's cloth was restricted in some years, but this did not provide the resources for machines.",
+    "new": "Coal fueled steam engines and iron built machines. The British government did not pay inventors by subsidy, slavery was not used in British factories, and no law confined cloth-making to hand work in guild workshops."
+  },
+  {
+    "file": "mcqs",
+    "id": "kiangnan-arsenal-yung-wing",
+    "path": "questions.1.explanation",
+    "old": "Officials such as Zeng Guofan founded arsenals after the 1860s. The Hundred Days' Reform of 1898 went further, attempting to change political institutions, and was short-lived.",
+    "new": "Officials such as Zeng Guofan founded arsenals from the 1860s. The Hundred Days' Reform of 1898 went further, attempting to change political institutions, and was short-lived."
+  },
+  {
+    "file": "mcqs",
+    "id": "proudhon-property-robbery",
+    "path": "questions.2.stem",
+    "old": "Which later thinker's ideas about property are most similar to Proudhon's?",
+    "new": "Which other thinker's ideas about property are most similar to Proudhon's?"
+  },
+  {
+    "file": "mcqs",
+    "id": "ure-factory-philanthropy",
+    "path": "questions.1.explanation",
+    "old": "Reports on abuses in mines and textile mills stirred a public outcry and led to the first general factory laws in 1833 and 1844. Owners, steam enthusiasts and cotton merchants would have shared Ure's favourable view or had no reason to dispute it.",
+    "new": "Reports on abuses in textile mills and mines stirred a public outcry and led to laws such as the Factory Act of 1833, which created inspectors, and the Mines Act of 1842. Owners, steam enthusiasts and cotton merchants would have shared Ure's favourable view or had no reason to dispute it."
   }
 ]
