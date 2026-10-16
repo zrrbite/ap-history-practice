@@ -1,0 +1,571 @@
+[
+ {
+  "id": "wollstonecraft-vindication",
+  "topics": [
+   "5.1",
+   "5.9"
+  ],
+  "doc": "wollstonecraft-1792-vindication-rights-woman",
+  "questions": [
+   {
+    "stem": "Which development most directly shaped the argument of this passage?",
+    "options": [
+     "The Enlightenment emphasis on reason and natural rights, which she applied to women",
+     "The revival of evangelical religion in the Great Awakening, which called women to preach",
+     "The growth of factory work, which had taken women out of the home",
+     "The Napoleonic Code's rules on marriage and property"
+    ],
+    "answer": 0,
+    "explanation": "Wollstonecraft wrote in 1792, at the height of Enlightenment debate in the French Revolution, and used its appeal to reason to argue women had been denied education. The Napoleonic Code came in 1804, after her book.",
+    "ref": {
+     "title": "A Vindication of the Rights of Woman",
+     "url": "https://en.wikipedia.org/wiki/A_Vindication_of_the_Rights_of_Woman"
+    }
+   },
+   {
+    "stem": "Which statement best describes Wollstonecraft's main purpose in this passage?",
+    "options": [
+     "To demand that women be given power over men in government",
+     "To argue that women's apparent weaknesses come from the education they receive, not from nature",
+     "To defend the separation of women into a private world of beauty and manners",
+     "To call for immediate votes for women in Britain"
+    ],
+    "answer": 1,
+    "explanation": "She says she wishes women to have power 'over themselves', not over men, and that their minds are shaped by training that stresses beauty. Votes for women were not her central demand in this passage.",
+    "ref": {
+     "title": "A Vindication of the Rights of Woman",
+     "url": "https://en.wikipedia.org/wiki/A_Vindication_of_the_Rights_of_Woman"
+    }
+   },
+   {
+    "stem": "Why does Wollstonecraft compare women's education to arguments against instructing the poor?",
+    "options": [
+     "She thinks that women and the poor should be educated only for useful trades",
+     "She believes that poverty and gender inequality have the same economic cause",
+     "She argues that education should be reserved for those who already hold political power",
+     "She sees both as ways that those with privilege keep other groups in the place assigned to them"
+    ],
+    "answer": 3,
+    "explanation": "She mentions 'the forms that aristocracy assumes', which shows she sees denial of learning as a means of upholding hierarchy. The other options attribute to her views she does not state.",
+    "ref": {
+     "title": "A Vindication of the Rights of Woman",
+     "url": "https://en.wikipedia.org/wiki/A_Vindication_of_the_Rights_of_Woman"
+    }
+   },
+   {
+    "stem": "Which later development most clearly continued the concerns raised in this passage?",
+    "options": [
+     "The Chartists' 1838 National Petition asking Parliament to expand the vote",
+     "The 1804 Haitian Declaration of Independence",
+     "The 1848 Seneca Falls Convention's Declaration of Sentiments demanding rights for women",
+     "The 1815 Congress of Vienna settlement after the Napoleonic Wars"
+    ],
+    "answer": 2,
+    "explanation": "Seneca Falls applied the language of rights to women, building on writers like Wollstonecraft. The Chartists demanded the vote for working men, not women.",
+    "ref": {
+     "title": "Seneca Falls Convention",
+     "url": "https://en.wikipedia.org/wiki/Seneca_Falls_Convention"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tucuman-independence",
+  "topics": [
+   "5.2",
+   "5.1"
+  ],
+  "doc": "tucuman-1816-declaration-independence",
+  "questions": [
+   {
+    "stem": "Which development most directly created the political crisis that led to declarations such as this one?",
+    "options": [
+     "The loss of Spain's American colonies in the Spanish-American War",
+     "Napoleon's removal of the Spanish king in 1808, which broke the legitimacy of Spanish rule in the Americas",
+     "The British defeat of Spain at sea, which cut the colonies off from trade",
+     "The Reign of Terror, which forced the Spanish court to abandon its overseas empire"
+    ],
+    "answer": 1,
+    "explanation": "Napoleon's occupation of Spain in 1808 led to local juntas in the colonies and the question of who should rule. The Spanish-American War took place in 1898.",
+    "ref": {
+     "title": "Latin American wars of independence",
+     "url": "https://en.wikipedia.org/wiki/Latin_American_wars_of_independence"
+    }
+   },
+   {
+    "stem": "The complaint that 'the teaching of science was forbidden us' best reflects the grievance of which group?",
+    "options": [
+     "Peninsulares who feared losing their offices",
+     "Creole elites who felt Spanish colonial rule limited their education and opportunities",
+     "Enslaved Africans who wanted to be freed",
+     "Indigenous communities who wanted lands returned"
+    ],
+    "answer": 1,
+    "explanation": "The Congress was made of colonial-born, educated men. Peninsulares were from Spain and defended the system; the other groups are not the authors or the subject of this complaint.",
+    "ref": {
+     "title": "Argentine Declaration of Independence",
+     "url": "https://en.wikipedia.org/wiki/Argentine_Declaration_of_Independence"
+    }
+   },
+   {
+    "stem": "The phrase 'by virtue of the authority of the people we represent' reflects which idea?",
+    "options": [
+     "Divine right, that rulers are chosen by God",
+     "Mercantilism, that colonies exist to enrich the mother country",
+     "Enlightened absolutism, that reforming monarchs know what is best",
+     "Popular sovereignty, that government rests on the people's consent"
+    ],
+    "answer": 3,
+    "explanation": "The delegates claim authority from the people, an idea of Locke and Rousseau. Although they invoke the 'Supreme Being', they do not claim that a king holds divine right.",
+    "ref": {
+     "title": "Age of Enlightenment",
+     "url": "https://en.wikipedia.org/wiki/Age_of_Enlightenment"
+    }
+   },
+   {
+    "stem": "Which statement best describes a result of independence in Spanish America?",
+    "options": [
+     "Indigenous and mixed-ancestry peoples gained equal political power",
+     "Slavery was ended at once in all the new republics",
+     "Creole elites generally replaced Spanish officials in power while old social hierarchies persisted",
+     "Spain regained control of its colonies through reforms"
+    ],
+    "answer": 2,
+    "explanation": "Independence left land and power with a creole elite. Slavery ended gradually in most new states, and Spain did not regain its colonies.",
+    "ref": {
+     "title": "Latin American wars of independence",
+     "url": "https://en.wikipedia.org/wiki/Latin_American_wars_of_independence"
+    }
+   }
+  ]
+ },
+ {
+  "id": "engels-textile-machinery",
+  "topics": [
+   "5.3",
+   "5.5"
+  ],
+  "doc": "engels-1845-spinning-machinery",
+  "questions": [
+   {
+    "stem": "The inventions Engels lists were important mainly because they",
+    "options": [
+     "replaced hand labor with machines powered by water and steam, concentrating production in factories",
+     "moved textile production to rural cottages",
+     "were financed by state monopolies on cloth",
+     "came from university scientists working for the government"
+    ],
+    "answer": 0,
+    "explanation": "Arkwright's frame, the power loom and the steam engine drove production into factories. Most inventors were tinkerers and craftsmen (Engels names a barber and a country parson), not state-funded scientists.",
+    "ref": {
+     "title": "Industrial Revolution",
+     "url": "https://en.wikipedia.org/wiki/Industrial_Revolution"
+    }
+   },
+   {
+    "stem": "Which condition in Britain, not mentioned in the passage, most helped steam-powered machinery to spread?",
+    "options": [
+     "Large state subsidies paid to inventors by the Bank of England",
+     "Plentiful enslaved labor working in British factory towns",
+     "Abundant coal and iron deposits that were close to centers of industry",
+     "A ban on textile imports from India"
+    ],
+    "answer": 2,
+    "explanation": "Coal fueled steam engines and iron built machines. The British government did not pay inventors by subsidy, and slavery was not used in British factories. India's cloth was restricted in some years, but this did not provide the resources for machines.",
+    "ref": {
+     "title": "Industrial Revolution",
+     "url": "https://en.wikipedia.org/wiki/Industrial_Revolution"
+    }
+   },
+   {
+    "stem": "Which effect was most directly linked to the spread of the factory system described here?",
+    "options": [
+     "Rapid growth of industrial towns as workers moved from the countryside",
+     "A decline in demand for raw cotton, harming plantations in the American South",
+     "A decrease in urban populations in Lancashire",
+     "A return of independent artisans to hand-weaving"
+    ],
+    "answer": 0,
+    "explanation": "Factories drew workers to towns such as Manchester. Mechanized spinning increased demand for raw cotton, which expanded plantation slavery in the American South, and power looms undercut hand-weavers.",
+    "ref": {
+     "title": "Industrial Revolution",
+     "url": "https://en.wikipedia.org/wiki/Industrial_Revolution"
+    }
+   }
+  ]
+ },
+ {
+  "id": "kiangnan-arsenal-yung-wing",
+  "topics": [
+   "5.4",
+   "5.6"
+  ],
+  "doc": "yung-wing-1909-kiangnan-arsenal",
+  "questions": [
+   {
+    "stem": "Which statement best describes Yung Wing's purpose in proposing a mechanical school at the arsenal?",
+    "options": [
+     "To replace the Confucian civil service examinations",
+     "To train workers for privately owned Chinese factories",
+     "To prepare for the abolition of the imperial government",
+     "To make China less dependent on foreign engineers"
+    ],
+    "answer": 3,
+    "explanation": "He says the school would let China 'dispense with the employment of foreign mechanical engineers' and be independent. He did not call for changes to the examination system or to the monarchy.",
+    "ref": {
+     "title": "Self-Strengthening Movement",
+     "url": "https://en.wikipedia.org/wiki/Self-Strengthening_Movement"
+    }
+   },
+   {
+    "stem": "The arsenal described in the passage was part of which movement?",
+    "options": [
+     "The Taiping Rebellion, which sought to overthrow the Qing dynasty",
+     "The Boxer Uprising, which aimed to expel foreigners",
+     "The Hundred Days' Reform, which sought sweeping institutional change",
+     "The Self-Strengthening Movement, which adopted Western technology while preserving Confucian institutions"
+    ],
+    "answer": 3,
+    "explanation": "Officials such as Zeng Guofan founded arsenals after the 1860s. The Hundred Days' Reform of 1898 went further, attempting to change political institutions, and was short-lived.",
+    "ref": {
+     "title": "Self-Strengthening Movement",
+     "url": "https://en.wikipedia.org/wiki/Self-Strengthening_Movement"
+    }
+   },
+   {
+    "stem": "How did Meiji Japan's approach to industrialization differ from the effort described in the passage?",
+    "options": [
+     "Japan's central government carried out broader changes, including conscription, a national bank and a constitution",
+     "Japan rejected Western technology and relied on traditional crafts",
+     "Japan limited its modernization to arsenals",
+     "Japan left industrialization to foreign companies"
+    ],
+    "answer": 0,
+    "explanation": "Meiji leaders reorganized the whole state and economy, whereas China's efforts were narrower and led by provincial officials. Japan did hire foreign experts, but only temporarily.",
+    "ref": {
+     "title": "Meiji Restoration",
+     "url": "https://en.wikipedia.org/wiki/Meiji_Restoration"
+    }
+   },
+   {
+    "stem": "Which event most clearly showed the limits of China's Self-Strengthening efforts?",
+    "options": [
+     "The Opium War of 1839-42",
+     "China's defeat in the Sino-Japanese War of 1894-95",
+     "The founding of the Kiangnan Arsenal in 1865",
+     "The Taiping Rebellion of 1850-64"
+    ],
+    "answer": 1,
+    "explanation": "China's modernized fleet lost to Japan in 1894-95. The Opium War came before Self-Strengthening and was one reason for it. The Taiping Rebellion was put down with the help of the same provincial armies.",
+    "ref": {
+     "title": "First Sino-Japanese War",
+     "url": "https://en.wikipedia.org/wiki/First_Sino-Japanese_War"
+    }
+   }
+  ]
+ },
+ {
+  "id": "twain-railroads-steamboats",
+  "topics": [
+   "5.5",
+   "5.7"
+  ],
+  "doc": "twain-1883-steamboat-railroad",
+  "questions": [
+   {
+    "stem": "According to Twain, what mainly caused the decline of Mississippi steamboat passenger traffic?",
+    "options": [
+     "A government ban on river passenger traffic",
+     "Railroads that covered the same distances in two or three days instead of a week",
+     "The end of trade with New Orleans",
+     "Lower demand for travel during an economic slump"
+    ],
+    "answer": 1,
+    "explanation": "Twain says railroads did in two or three days what steamboats needed a week for. He does not mention a ban or a slump.",
+    "ref": {
+     "title": "Steamboat",
+     "url": "https://en.wikipedia.org/wiki/Steamboat"
+    }
+   },
+   {
+    "stem": "The remark that remaining traffic is in the hands of 'two or three close corporations well fortified with capital' reflects which trend?",
+    "options": [
+     "The revival of craft guilds",
+     "The growth of large corporations that could raise capital and dominate industries",
+     "A move to government-run transport",
+     "A return to small family firms"
+    ],
+    "answer": 1,
+    "explanation": "Late 19th-century industries such as railroads and shipping consolidated into large firms. Government ownership of transport was not the pattern in the United States.",
+    "ref": {
+     "title": "Second Industrial Revolution",
+     "url": "https://en.wikipedia.org/wiki/Second_Industrial_Revolution"
+    }
+   },
+   {
+    "stem": "Which effect of railroads in the United States is best supported by the passage and your knowledge?",
+    "options": [
+     "A slowdown in the growth of cities",
+     "More isolation of inland farmers",
+     "A reduced need for banks and investors",
+     "Faster, cheaper connections between interior regions and national and world markets"
+    ],
+    "answer": 3,
+    "explanation": "Railroads cut transport time and costs, so farms and mines in the interior could sell to distant markets. They also needed large amounts of capital, which strengthened banks and investors.",
+    "ref": {
+     "title": "Rail transport",
+     "url": "https://en.wikipedia.org/wiki/Rail_transport"
+    }
+   }
+  ]
+ },
+ {
+  "id": "smith-joint-stock-companies",
+  "topics": [
+   "5.7",
+   "5.3"
+  ],
+  "doc": "smith-1776-joint-stock",
+  "questions": [
+   {
+    "stem": "Smith's argument reflects which economic belief?",
+    "options": [
+     "Mercantilism, that chartered companies strengthen the nation",
+     "Socialism, that firms should be owned by their workers",
+     "Competition among private individuals produces better results than privileged companies",
+     "Physiocracy, that only agriculture produces wealth"
+    ],
+    "answer": 2,
+    "explanation": "Smith criticized monopolies and privileged companies in favor of market competition. Mercantilists supported monopoly companies, which Smith attacked.",
+    "ref": {
+     "title": "The Wealth of Nations",
+     "url": "https://en.wikipedia.org/wiki/The_Wealth_of_Nations"
+    }
+   },
+   {
+    "stem": "Which later policy most reflects the kind of thinking found in this passage?",
+    "options": [
+     "Britain's repeal of the Corn Laws in 1846",
+     "The creation of the Zollverein among German states in 1834",
+     "The passage of the Factory Act of 1833",
+     "The expansion of the Combination Acts"
+    ],
+    "answer": 0,
+    "explanation": "The repeal of the Corn Laws removed protection for landowners and followed free-trade ideas descended from Smith. The Zollverein was a customs union that still had external tariffs, and the Factory Act regulated labor.",
+    "ref": {
+     "title": "Corn Laws",
+     "url": "https://en.wikipedia.org/wiki/Corn_Laws"
+    }
+   },
+   {
+    "stem": "Despite Smith's doubts, joint-stock companies became important to industrialization in the 1800s because they",
+    "options": [
+     "gave workers a share in the ownership of mills",
+     "replaced banks as lenders to governments",
+     "pooled the savings of many investors to pay for large projects such as railroads and factories",
+     "were shielded from competition by law in all of Europe"
+    ],
+    "answer": 2,
+    "explanation": "Railroads and heavy industry needed more capital than a few partners could supply. Joint-stock firms with limited liability (in Britain from the 1850s) enabled that, though the shares were not generally given to workers.",
+    "ref": {
+     "title": "Joint-stock company",
+     "url": "https://en.wikipedia.org/wiki/Joint-stock_company"
+    }
+   }
+  ]
+ },
+ {
+  "id": "proudhon-property-robbery",
+  "topics": [
+   "5.8"
+  ],
+  "doc": "proudhon-1840-what-is-property",
+  "questions": [
+   {
+    "stem": "The phrase 'the war-cry of '93' most likely refers to",
+    "options": [
+     "the July Revolution of 1830",
+     "the Revolutions of 1848",
+     "the radical phase of the French Revolution",
+     "the Paris Commune of 1871"
+    ],
+    "answer": 2,
+    "explanation": "1793 was the year of the Terror and the Republic's radical measures. The Commune was in 1871, after Proudhon's 1840 work, and the 1848 revolutions were still in the future.",
+    "ref": {
+     "title": "French Revolution",
+     "url": "https://en.wikipedia.org/wiki/French_Revolution"
+    }
+   },
+   {
+    "stem": "Proudhon's claim that 'property is robbery' directly challenges which idea?",
+    "options": [
+     "That monarchs rule by divine right",
+     "That the state should control all trade",
+     "That the colonies should be loyal to the mother country",
+     "That private property is a natural right that government must protect"
+    ],
+    "answer": 3,
+    "explanation": "The French Declaration of 1789 called property an inviolable right, and liberal thinkers such as Locke defended it. Proudhon, a socialist, argued it was an unjust seizure.",
+    "ref": {
+     "title": "Pierre-Joseph Proudhon",
+     "url": "https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon"
+    }
+   },
+   {
+    "stem": "Which later thinker's ideas about property are most similar to Proudhon's?",
+    "options": [
+     "Adam Smith, who defended private property as a basis of markets",
+     "Andrew Carnegie, who defended the accumulation of great wealth",
+     "Samuel Smiles, who urged self-help",
+     "Karl Marx, who argued that owners of capital exploited workers"
+    ],
+    "answer": 3,
+    "explanation": "Marx and Engels also attacked bourgeois property, though Marx criticized Proudhon's solutions. The others defended property and wealth.",
+    "ref": {
+     "title": "Karl Marx",
+     "url": "https://en.wikipedia.org/wiki/Karl_Marx"
+    }
+   },
+   {
+    "stem": "Which was a long-term effect of socialist critiques like this one?",
+    "options": [
+     "The end of industrialization in France",
+     "The growth of labor movements and socialist parties in industrial Europe",
+     "The abolition of private property in Western Europe",
+     "The disappearance of the middle class"
+    ],
+    "answer": 1,
+    "explanation": "Socialist ideas gave labor movements and parties, such as Germany's Social Democrats, a program. Western Europe never abolished private property.",
+    "ref": {
+     "title": "Socialism",
+     "url": "https://en.wikipedia.org/wiki/Socialism"
+    }
+   }
+  ]
+ },
+ {
+  "id": "riis-tenements",
+  "topics": [
+   "5.9"
+  ],
+  "doc": "riis-1890-how-other-half-lives",
+  "questions": [
+   {
+    "stem": "Which statement best describes Riis's purpose in this passage?",
+    "options": [
+     "To praise tenements as a successful solution to urban housing",
+     "To argue that poverty came from the moral failings of the poor",
+     "To expose slum conditions and move middle-class readers to support reform",
+     "To encourage immigrants to leave New York"
+    ],
+    "answer": 2,
+    "explanation": "Riis takes the reader through a dark tenement to make them feel the conditions, and his book led to reforms. His emphasis is on environment, not moral failure.",
+    "ref": {
+     "title": "How the Other Half Lives",
+     "url": "https://en.wikipedia.org/wiki/How_the_Other_Half_Lives"
+    }
+   },
+   {
+    "stem": "Which development best explains the conditions Riis describes?",
+    "options": [
+     "The collapse of American manufacturing",
+     "Rapid urbanization and immigration into industrial cities with little regulation of housing",
+     "The building of public housing by city government",
+     "A decline in immigration from Europe"
+    ],
+    "answer": 1,
+    "explanation": "Millions of immigrants came to New York for work in the late 1800s, and landlords packed them into tenements. Public housing came later.",
+    "ref": {
+     "title": "Tenement",
+     "url": "https://en.wikipedia.org/wiki/Tenement"
+    }
+   },
+   {
+    "stem": "A reformer using Riis's book would most likely have supported",
+    "options": [
+     "an end to immigration from Europe",
+     "repeal of public health laws",
+     "national ownership of all housing",
+     "housing and building codes setting standards for light, air and sanitation"
+    ],
+    "answer": 3,
+    "explanation": "Reformers used Riis's findings to press for tenement laws, such as New York's Tenement House Act of 1901. Riis was a reformer, not a revolutionary.",
+    "ref": {
+     "title": "How the Other Half Lives",
+     "url": "https://en.wikipedia.org/wiki/How_the_Other_Half_Lives"
+    }
+   },
+   {
+    "stem": "Compared with Engels's account of Manchester, Riis's account is more likely to reflect",
+    "options": [
+     "a goal of reform within the existing system",
+     "a call for revolution to overthrow capitalism",
+     "a defense of the factory owners",
+     "a wish to return to a rural economy"
+    ],
+    "answer": 0,
+    "explanation": "Both document urban squalor, but Engels was a socialist who expected revolution, while Riis, a journalist, asked for reform by city and state.",
+    "ref": {
+     "title": "The Condition of the Working Class in England",
+     "url": "https://en.wikipedia.org/wiki/The_Condition_of_the_Working_Class_in_England"
+    }
+   }
+  ]
+ },
+ {
+  "id": "carnegie-wealth-change",
+  "topics": [
+   "5.10",
+   "5.9",
+   "5.7"
+  ],
+  "doc": "carnegie-1889-wealth-change",
+  "questions": [
+   {
+    "stem": "Carnegie's contrast between the palace and the cottage describes which change?",
+    "options": [
+     "Industrial society produced far greater differences in wealth than earlier societies",
+     "Industrialization narrowed the gap between rich and poor",
+     "Industrial society returned to the equality of the guilds",
+     "Wages for laborers rose to equal profits for owners"
+    ],
+    "answer": 0,
+    "explanation": "Carnegie says that in earlier times the chief and his followers lived much alike, and that now the gap is large. He argues this inequality is a price worth paying.",
+    "ref": {
+     "title": "The Gospel of Wealth",
+     "url": "https://en.wikipedia.org/wiki/The_Gospel_of_Wealth"
+    }
+   },
+   {
+    "stem": "How does Carnegie justify inequality in this passage?",
+    "options": [
+     "He says that governments should redistribute wealth",
+     "He claims that equality is the natural condition of humanity",
+     "He argues that concentrated wealth benefits society, especially when used for the public good",
+     "He believes that workers should own the factories"
+    ],
+    "answer": 2,
+    "explanation": "He says inequality is better than 'universal squalor' and that wealth allows patrons to fund culture and public benefit. His essay urges the rich to give away their money.",
+    "ref": {
+     "title": "The Gospel of Wealth",
+     "url": "https://en.wikipedia.org/wiki/The_Gospel_of_Wealth"
+    }
+   },
+   {
+    "stem": "Carnegie's outlook is closest to which set of ideas?",
+    "options": [
+     "Social Darwinism, which applied 'survival of the fittest' to economic competition",
+     "Utopian socialism, which formed cooperative communities",
+     "Marxism, which predicted a workers' revolution",
+     "Anarchism, which rejected private property"
+    ],
+    "answer": 0,
+    "explanation": "Carnegie drew on Herbert Spencer and justified competition as the way to progress. The other three options are critics of industrial capitalism.",
+    "ref": {
+     "title": "Social Darwinism",
+     "url": "https://en.wikipedia.org/wiki/Social_Darwinism"
+    }
+   }
+  ]
+ }
+]

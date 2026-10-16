@@ -1,1 +1,607 @@
-[]
+[
+  {
+    "id": "enlightenment-1",
+    "topics": [
+      "5.1",
+      "5.2"
+    ],
+    "docs": [],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE idea about government or society that Enlightenment thinkers developed in the 1700s.",
+        "accept": [
+          "Natural rights: people are born with rights to life, liberty and property that governments must protect (Locke).",
+          "Popular sovereignty or the social contract: government gets its authority from the consent of the governed (Rousseau, Locke).",
+          "Separation of powers or checks and balances to prevent tyranny (Montesquieu).",
+          "Reason and the scientific method can be used to improve society and to challenge tradition, the church and absolute monarchy.",
+          "Does not earn the point: naming a philosopher without the idea (for example, 'Voltaire wrote books'), or describing an event such as the storming of the Bastille."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE way Enlightenment ideas contributed to a political revolution between 1775 and 1825.",
+        "accept": [
+          "American colonists used natural-rights and consent-of-the-governed arguments to justify independence in 1776 (Declaration of Independence).",
+          "French revolutionaries drew on popular sovereignty and equality before the law in the Declaration of the Rights of Man and of the Citizen (1789), and Sieyes argued the Third Estate was the nation.",
+          "Creole leaders in Spanish America such as Bolivar used Enlightenment ideas of liberty and representative government to justify breaking from Spain.",
+          "Haitian revolutionaries, such as Toussaint Louverture, claimed the rights of man applied to enslaved people as well.",
+          "Does not earn the point: saying only that the revolutions 'were influenced by Enlightenment ideas' without linking a specific idea to a specific revolution."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way a group in this period used Enlightenment ideas to argue for rights that the revolutionary governments did not at first grant them.",
+        "accept": [
+          "Women: Olympe de Gouges (1791) and Mary Wollstonecraft (1792) argued that the rights of man must also be the rights of woman; the Seneca Falls Declaration of Sentiments (1848) copied the Declaration of Independence to demand women's rights.",
+          "Enslaved and free people of color: Haitian revolutionaries and abolitionists argued that liberty and equality applied regardless of race, a claim the French National Assembly at first resisted.",
+          "Workers or the poor argued that political equality needed to extend to those without property (for example, the Chartists' demand for votes in 1838).",
+          "Does not earn the point: describing the Reign of Terror or Napoleon, which are not groups arguing for rights."
+        ]
+      }
+    ],
+    "refs": [
+      {
+        "title": "Age of Enlightenment",
+        "url": "https://en.wikipedia.org/wiki/Age_of_Enlightenment"
+      },
+      {
+        "title": "Haitian Revolution",
+        "url": "https://en.wikipedia.org/wiki/Haitian_Revolution"
+      }
+    ]
+  },
+  {
+    "id": "haiti-dessalines-1",
+    "topics": [
+      "5.2",
+      "5.1"
+    ],
+    "docs": [
+      "dessalines-1804-haitian-declaration"
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE goal that Dessalines sets out in the passage.",
+        "accept": [
+          "To make Haiti permanently independent of France ('live Independent or die').",
+          "To make sure the formerly enslaved are never enslaved again ('all hopes of ever enslaving us are at an End').",
+          "To keep the fruits of Haitian labor for Haitians rather than for another nation.",
+          "Does not earn the point: 'to defeat the French' alone, since the passage looks beyond the victory to permanent independence and freedom."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE way the Haitian Revolution differed from the American Revolution.",
+        "accept": [
+          "The Haitian Revolution was led largely by enslaved and formerly enslaved people and ended slavery, while American independence left slavery in place.",
+          "Haiti's revolution was a slave rebellion that became a war of independence, while the American Revolution was a colonial revolt led by property-owning colonists against taxes and imperial control.",
+          "Haiti's revolution produced a state of Black citizens in a world of slaveholding empires, which the United States and European powers refused to recognize for decades.",
+          "Does not earn the point: saying only that Haiti fought France and America fought Britain."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE effect of the Haitian Revolution on the Atlantic world in the early 1800s.",
+        "accept": [
+          "Napoleon lost Saint-Domingue, his richest colony, and sold Louisiana to the United States in 1803.",
+          "Slaveholders in the Americas feared similar uprisings and tightened control, while enslaved people and abolitionists gained a model of successful resistance.",
+          "Haiti's example, and its help to Bolivar in 1816 in return for a promise to free slaves, encouraged Latin American independence movements.",
+          "Does not earn the point: 'Haiti became free', which is the event itself and not an effect on the wider Atlantic world."
+        ]
+      }
+    ],
+    "refs": [
+      {
+        "title": "Haitian Revolution",
+        "url": "https://en.wikipedia.org/wiki/Haitian_Revolution"
+      }
+    ]
+  },
+  {
+    "id": "latin-america-independence-1",
+    "topics": [
+      "5.2",
+      "5.10"
+    ],
+    "docs": [],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE cause of the independence movements in Spanish America between 1808 and 1825.",
+        "accept": [
+          "Napoleon's invasion of Spain in 1808 and removal of the king left the colonies without legitimate authority and led to local juntas.",
+          "Creole resentment that peninsulares (Spanish-born officials) held the top political and church offices.",
+          "Enlightenment ideas and the example of the American and French revolutions.",
+          "Trade restrictions of Spanish mercantilism that kept creoles from trading freely.",
+          "Does not earn the point: 'the Haitian Revolution' alone, which was an influence on some leaders but not the usual cause given for the Spanish American movements."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE way the goals of creole elites differed from the interests of other groups in Spanish American society.",
+        "accept": [
+          "Creoles wanted political power and free trade but kept social hierarchies, while enslaved people, Indigenous peoples and people of mixed ancestry wanted an end to bondage, tribute and caste discrimination.",
+          "Many creole elites feared social revolution (as in Haiti) and so were cautious about ending slavery, which most new republics abolished only gradually.",
+          "Does not earn the point: saying creoles 'wanted independence and everyone else did not', since many other groups fought on both sides."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE continuity in Latin America after independence.",
+        "accept": [
+          "Wealth and land stayed concentrated in a small elite, and Indigenous and Afro-Latin people stayed at the bottom of a social hierarchy.",
+          "Economies stayed tied to exporting raw materials (silver, sugar, coffee, beef, guano) and importing manufactured goods, now mainly from Britain.",
+          "Caudillos, regional strongmen with armies, dominated politics in many new states, much as the colonial state had been authoritarian.",
+          "The Catholic Church kept great influence.",
+          "Does not earn the point: continuities that did not happen, such as 'Spain kept its colonies', or changes such as the end of Spanish rule."
+        ]
+      }
+    ],
+    "refs": [
+      {
+        "title": "Latin American wars of independence",
+        "url": "https://en.wikipedia.org/wiki/Latin_American_wars_of_independence"
+      }
+    ]
+  },
+  {
+    "id": "division-of-labour-1",
+    "topics": [
+      "5.3",
+      "5.7"
+    ],
+    "docs": [
+      "smith-1776-pin-factory"
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Describe ONE way production in the pin factory differs from the work of a single craftsman, according to Smith.",
+        "accept": [
+          "The work is split into many separate tasks (drawing the wire, straightening, cutting, pointing, grinding, and making and attaching the head) with each worker doing one.",
+          "Output per worker rises enormously: a single untrained worker could make hardly one pin a day, but the divided process makes far more.",
+          "Does not earn the point: stating that Smith liked pins or that pin-making was a small industry."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE way the factory system changed the lives of workers in Britain in the late 1700s and early 1800s.",
+        "accept": [
+          "Work moved from homes and workshops to factories, with workers following fixed hours set by owners and machines instead of the seasons.",
+          "Tasks became repetitive and less skilled, so skilled artisans such as hand-weavers lost income and were replaced by cheaper workers, including women and children.",
+          "Workers migrated from the countryside to industrial towns such as Manchester to find wage labor.",
+          "Does not earn the point: 'workers made more goods', which describes output and not a change in workers' lives."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE reason the Industrial Revolution began in Britain.",
+        "accept": [
+          "Britain had large, accessible deposits of coal and iron ore to fuel steam engines and build machines.",
+          "Agricultural improvements and enclosure freed labor and fed a growing population, supplying workers for towns.",
+          "Capital from overseas trade, colonies and banks was available to invest, and the government protected property and supported trade.",
+          "Colonies supplied raw materials such as cotton and bought finished goods, giving markets for British textiles.",
+          "Does not earn the point: 'Britain was the most advanced country' or 'Britain had the most inventors', which restate the result."
+        ]
+      }
+    ],
+    "refs": [
+      {
+        "title": "Division of labour",
+        "url": "https://en.wikipedia.org/wiki/Division_of_labour"
+      },
+      {
+        "title": "Industrial Revolution",
+        "url": "https://en.wikipedia.org/wiki/Industrial_Revolution"
+      }
+    ]
+  },
+  {
+    "id": "china-self-strengthening-1",
+    "topics": [
+      "5.4",
+      "5.6"
+    ],
+    "docs": [
+      "yung-wing-1909-kiangnan-arsenal"
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE goal that Yung Wing states in the passage.",
+        "accept": [
+          "To set up a mechanical school at the arsenal so Chinese youths learn the theory and practice of mechanical engineering.",
+          "To end China's reliance on foreign engineers and machinists and make China 'perfectly independent'.",
+          "Does not earn the point: 'to buy machinery in America', which is what he had already done, not the goal he sets out."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE way Qing officials tried to respond to Western military and industrial power in the second half of the 1800s.",
+        "accept": [
+          "Provincial leaders such as Zeng Guofan and Li Hongzhang started arsenals, shipyards and factories (for example the Kiangnan Arsenal) in the Self-Strengthening Movement.",
+          "They sent students abroad, as in the Chinese Educational Mission, and translated Western technical books.",
+          "They adopted Western technology while keeping Confucian values and the imperial system ('Chinese learning as the base, Western learning for use').",
+          "Does not earn the point: Qing officials rejecting all Western ideas, or the Boxer Uprising, which was a popular movement against foreigners."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way Japan's response to industrialization after 1868 differed from China's.",
+        "accept": [
+          "Meiji leaders made far wider changes than China's officials did, including a conscript army, a national bank and tax system, a constitution (1889) and state-built model factories later sold to private firms.",
+          "Japan's government coordinated reform from the center, whereas Chinese efforts were led by regional officials with little central direction and were hindered by conservative court opposition.",
+          "Japan's results were shown in its victory in the Sino-Japanese War (1894-95), which exposed the weakness of China's Self-Strengthening.",
+          "Does not earn the point: 'Japan industrialized and China did not', which is too general, or saying Japan rejected Western ideas."
+        ]
+      }
+    ],
+    "refs": [
+      {
+        "title": "Self-Strengthening Movement",
+        "url": "https://en.wikipedia.org/wiki/Self-Strengthening_Movement"
+      },
+      {
+        "title": "Meiji Restoration",
+        "url": "https://en.wikipedia.org/wiki/Meiji_Restoration"
+      }
+    ]
+  },
+  {
+    "id": "suez-canal-labour-1",
+    "topics": [
+      "5.5",
+      "5.6",
+      "5.7"
+    ],
+    "docs": [
+      "duff-gordon-1863-suez-forced-labour"
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Describe ONE way, according to the passage, labor was obtained for building the Suez Canal.",
+        "accept": [
+          "Egyptian peasants were forced from their homes (corvee labor) and carried on barges to the Isthmus of Suez.",
+          "They were paid a nominal piastre a day and had to supply their own food, water and clothing.",
+          "Tens of thousands worked at once, kept near starvation, and the Egyptian ruler's government supplied them.",
+          "Does not earn the point: saying that European engineers dug the canal by machines, which the passage does not describe."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE way the Suez Canal (opened 1869) and other advances in transportation changed global trade in the late 1800s.",
+        "accept": [
+          "The canal shortened the route between Europe and Asia by avoiding the voyage round Africa, which cut costs and time and increased trade with India and East Asia.",
+          "Steamships, railroads and canals let bulk goods such as grain, cotton and tea move quickly and cheaply over long distances, which tied distant regions into a single world market.",
+          "Raw materials flowed to industrial countries and manufactured goods flowed outward, deepening the dependence of colonies on European markets.",
+          "Does not earn the point: 'trade became faster' alone, without saying how or what changed."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way the building of the canal and related projects affected Egypt's relationship with European powers.",
+        "accept": [
+          "Egypt's rulers borrowed heavily from European banks to pay for the canal and modernization, and its debt led to European control of Egyptian finances in 1876.",
+          "Britain bought Egypt's shares in the canal in 1875 and occupied Egypt in 1882 to protect the route to India, showing how infrastructure drew in imperial control.",
+          "Does not earn the point: stating that Egypt became a British colony in 1869, which gets the date wrong and misses the cause."
+        ]
+      }
+    ],
+    "refs": [
+      {
+        "title": "Suez Canal",
+        "url": "https://en.wikipedia.org/wiki/Suez_Canal"
+      }
+    ]
+  },
+  {
+    "id": "german-social-insurance-1",
+    "topics": [
+      "5.6",
+      "5.8"
+    ],
+    "docs": [
+      "wilhelm-1881-imperial-message-social-policy"
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE group that Kaiser Wilhelm I says deserves state help.",
+        "accept": [
+          "Workers in general, through 'the positive promotion of workers' welfare'.",
+          "People unfit for work through age or disability.",
+          "The needy, who should have greater security and assistance.",
+          "Does not earn the point: the Social Democrats, who are named as a problem to be repressed and not as a group to be helped."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE reason the German government under Bismarck introduced social insurance in the 1880s.",
+        "accept": [
+          "Bismarck wanted to win workers away from the Social Democratic Party and socialism, which was growing, by giving them a stake in the empire.",
+          "He used the 'carrot and stick' approach: alongside the Anti-Socialist Laws of 1878, state health, accident and old-age insurance were meant to buy loyalty.",
+          "Industrialization had created a large urban working class vulnerable to illness and unemployment, which gave the state a reason to act and to strengthen Germany's unity.",
+          "Does not earn the point: 'Bismarck cared about the poor', which ignores the political motive given in the passage."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way another government or reformers in the 1800s responded to the problems of industrial workers.",
+        "accept": [
+          "Britain passed Factory Acts, such as the Factory Act of 1833 limiting child labor and the Ten Hours Act of 1847, and later legalized unions (1871).",
+          "British cities and Parliament acted on sanitation and housing following the Chadwick report (Public Health Act of 1848).",
+          "Reformers and employers such as Robert Owen built model workplaces and schools at New Lanark.",
+          "Socialists, such as Marx and Engels, called for workers to take over the means of production.",
+          "Does not earn the point: reforms that came later, such as the United States' New Deal, or actions of the Kaiser's own government."
+        ]
+      }
+    ],
+    "refs": [
+      {
+        "title": "Otto von Bismarck",
+        "url": "https://en.wikipedia.org/wiki/Otto_von_Bismarck"
+      },
+      {
+        "title": "Factory Acts",
+        "url": "https://en.wikipedia.org/wiki/Factory_Acts"
+      }
+    ]
+  },
+  {
+    "id": "free-trade-ricardo-1",
+    "topics": [
+      "5.7",
+      "5.3"
+    ],
+    "docs": [
+      "ricardo-1817-free-commerce"
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE argument Ricardo makes in favor of free trade.",
+        "accept": [
+          "Each country should specialize in what it produces best (wine in France and Portugal, corn in America and Poland, hardware in England), which uses labor and capital most efficiently.",
+          "Free commerce raises the total output of goods and benefits every nation, binding them together by common interest.",
+          "Does not earn the point: 'free trade is good' without a reason, or saying that Ricardo wanted tariffs to protect British manufacturers."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE way free-trade ideas changed British policy in the 1800s.",
+        "accept": [
+          "Parliament repealed the Corn Laws in 1846 after pressure from the Anti-Corn Law League, which led to cheaper imported grain and favored manufacturers over landowners.",
+          "Britain repealed the Navigation Acts (1849) and lowered tariffs, and its free-trade policy was widely adopted in the mid-1800s, as in the Cobden-Chevalier Treaty with France (1860).",
+          "Does not earn the point: saying Britain raised tariffs in the 1800s, or that the Corn Laws were repealed before 1840."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way free trade and industrialization could harm non-industrial regions.",
+        "accept": [
+          "India's handloom textile industry declined as cheap machine-made British cloth entered, and India was pushed to export raw cotton and other raw materials.",
+          "China and the Ottoman Empire were bound by treaties that kept tariffs low, so local producers faced industrial competition.",
+          "Latin American and colonial economies specialized in raw materials, leaving them dependent on industrial countries' prices and capital.",
+          "Does not earn the point: 'free trade hurt Britain', which reverses the direction of the argument."
+        ]
+      }
+    ],
+    "refs": [
+      {
+        "title": "Corn Laws",
+        "url": "https://en.wikipedia.org/wiki/Corn_Laws"
+      },
+      {
+        "title": "David Ricardo",
+        "url": "https://en.wikipedia.org/wiki/David_Ricardo"
+      }
+    ]
+  },
+  {
+    "id": "trade-unions-engels-1",
+    "topics": [
+      "5.8",
+      "5.9"
+    ],
+    "docs": [
+      "engels-1845-trades-unions-strikes"
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE goal of the trade unions described by Engels.",
+        "accept": [
+          "To protect individual workers against the power of employers.",
+          "To regulate wages according to profits, raise them when possible and keep them the same across a trade.",
+          "To keep wages high by limiting the number of apprentices.",
+          "Does not earn the point: 'to overthrow the government', since Engels describes economic goals, not a plan for revolution."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE way governments responded to workers' organizing in Britain in the 1800s.",
+        "accept": [
+          "Parliament had banned unions through the Combination Acts (1799-1800) and repealed them in 1824-25, but still punished strikes and the Tolpuddle Martyrs were transported in 1834.",
+          "The Trade Union Act of 1871 gave unions legal status, and later the Reform Acts of 1867 and 1884 gave many workers the vote.",
+          "Governments also passed Factory Acts to limit hours as workers pressed for change.",
+          "Does not earn the point: saying governments 'ignored' workers, or that unions were made legal before the 1820s."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way workers or reformers other than trade unions reacted to the conditions of industrial life.",
+        "accept": [
+          "The Chartists petitioned Parliament for the vote (the People's Charter, 1838) so working men could elect representatives.",
+          "Socialists, from Owen's cooperative communities to Marx and Engels's Communist Manifesto (1848), criticized capitalism and proposed shared ownership.",
+          "Luddites broke machines in 1811-1816 to protest lost wages and skills.",
+          "Reformers and middle-class philanthropists pressed for public health, housing and schooling laws.",
+          "Does not earn the point: restating the conditions (low pay, long hours) without a response, or naming trade unions, which the question excludes."
+        ]
+      }
+    ],
+    "refs": [
+      {
+        "title": "Trade union",
+        "url": "https://en.wikipedia.org/wiki/Trade_union"
+      }
+    ]
+  },
+  {
+    "id": "child-labour-bentley-1",
+    "topics": [
+      "5.9",
+      "5.8"
+    ],
+    "docs": [
+      "bentley-1832-sadler-committee"
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE working condition that Elizabeth Bentley describes.",
+        "accept": [
+          "Very long hours, from 5 in the morning until 9 at night when work was heavy.",
+          "Beginning factory work at the age of six.",
+          "Beating or strapping of children who were slow or late.",
+          "A dusty workplace and too little food to eat.",
+          "Does not earn the point: wages or pay, which she does not state in the passage."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE reason factory owners employed children in the early 1800s.",
+        "accept": [
+          "Children could be paid much less than adult men, so they lowered the owners' costs.",
+          "Children's small, nimble hands fit tasks such as doffing, piecing broken threads and working under the machines, and machines required little strength.",
+          "Poor families depended on their children's wages, so there was a steady supply of child workers.",
+          "Does not earn the point: 'there was no law against it', which explains that it was allowed but not why owners wanted children."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way the British government responded to the conditions described in testimony such as this.",
+        "accept": [
+          "The Factory Act of 1833 banned work under nine in textile mills, limited hours for children, and created inspectors to enforce the law.",
+          "The Ten Hours Act of 1847 limited the working day of women and young people, and the Mines Act of 1842 banned women and young children from underground work.",
+          "Parliament set up investigations (the Sadler Committee, 1832) whose evidence led to reform.",
+          "Does not earn the point: saying child labor was banned completely in 1833, or that the Sadler Committee itself passed a law."
+        ]
+      }
+    ],
+    "refs": [
+      {
+        "title": "Factory Acts",
+        "url": "https://en.wikipedia.org/wiki/Factory_Acts"
+      }
+    ]
+  },
+  {
+    "id": "emancipation-compare-1",
+    "topics": [
+      "5.10",
+      "5.2",
+      "5.6"
+    ],
+    "docs": [
+      "alexander-ii-1861-emancipation-manifesto",
+      "san-martin-1821-free-womb-decree"
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE similarity in how Alexander II and San Martin approached ending bondage.",
+        "accept": [
+          "Both made the change gradual and protected owners' interests: Alexander II let landlords keep their property and receive payment for land, and San Martin said he would not 'attack this ancient abuse with a single blow'.",
+          "Both were rulers acting from above through a decree, not responding to a vote.",
+          "Does not earn the point: 'both freed all the slaves at once', which neither did."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE difference between the two documents in the people they freed or the way they freed them.",
+        "accept": [
+          "Alexander II freed serfs, peasants tied to land and landlords, but let them buy land with payments; San Martin freed only children born to enslaved women after 28 July 1821, leaving the enslaved themselves in bondage.",
+          "The Russian measure made peasants 'temporarily bound' to landlords before they could become fully free, while the Peruvian measure left the enslaved with their owners and freed the next generation.",
+          "Russia's reform gave land (at a price), whereas Peru's decree did not.",
+          "Does not earn the point: stating that one document ended serfdom and the other slavery, without saying what each actually did to the people involved."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE reason that rulers in the 1800s ended or began to end forced labor systems.",
+        "accept": [
+          "Russia lost the Crimean War (1853-56), showing that serfdom held back its army and economy, so Alexander II hoped to modernize and to prevent peasant revolt.",
+          "Industrial capitalism and wage labor made free workers seem more efficient than bound ones, and a labor market was needed for factories and railroads.",
+          "In Latin America, Enlightenment ideas of liberty and the need to win support in the independence wars led to measures such as free-womb laws.",
+          "Humanitarian and abolitionist movements in Britain and elsewhere pressed for abolition.",
+          "Does not earn the point: 'they wanted to be nice', or reasons unconnected to the period."
+        ]
+      }
+    ],
+    "refs": [
+      {
+        "title": "Emancipation reform of 1861",
+        "url": "https://en.wikipedia.org/wiki/Emancipation_reform_of_1861"
+      },
+      {
+        "title": "Latin American wars of independence",
+        "url": "https://en.wikipedia.org/wiki/Latin_American_wars_of_independence"
+      }
+    ]
+  },
+  {
+    "id": "transport-communications-compare-1",
+    "topics": [
+      "5.5",
+      "5.4",
+      "5.7"
+    ],
+    "docs": [
+      "dutt-1904-india-railways",
+      "den-1908-telegraph-japan"
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "task": "Identify ONE difference between how railways reached India and how the telegraph reached Japan, according to the two documents.",
+        "accept": [
+          "In India, British manufacturers and Parliament pushed railways onto India, with the Company guaranteeing interest on railway capital and Indians having no say; in Japan, the Meiji government set up telegraphy itself as a central institution.",
+          "In India the aim was to open the interior to British goods, whereas in Japan the government built the telegraph as national infrastructure and borrowed a foreign engineer's expertise.",
+          "Does not earn the point: 'one was a railway and the other a telegraph', which is not a difference in how they arrived."
+        ]
+      },
+      {
+        "label": "b",
+        "task": "Explain ONE reason Japan was able to control the introduction of new technology in a way India was not.",
+        "accept": [
+          "Japan remained an independent state, and the Meiji government could set policy for its own ends, while India was ruled by Britain, whose interests set policy.",
+          "Meiji leaders hired foreign experts temporarily and sent Japanese abroad to learn, while keeping authority in their own hands.",
+          "Does not earn the point: 'Japan was richer', which is not supported, since the Meiji state was short of capital."
+        ]
+      },
+      {
+        "label": "c",
+        "task": "Explain ONE way railways affected the economy of colonial India.",
+        "accept": [
+          "Railways moved raw cotton, jute, tea and wheat to ports for export and carried British manufactured goods inland, reinforcing India's role as supplier of raw materials.",
+          "Cheap imported cloth reached rural markets, damaging Indian handicrafts such as hand-weaving.",
+          "Railways also linked regions and made famine relief and army movement easier, though Dutt argues their cost burdened Indian revenues.",
+          "Does not earn the point: 'railways modernized India', since that gives no effect on the economy and ignores who benefited."
+        ]
+      }
+    ],
+    "refs": [
+      {
+        "title": "Meiji Restoration",
+        "url": "https://en.wikipedia.org/wiki/Meiji_Restoration"
+      },
+      {
+        "title": "Rail transport in India",
+        "url": "https://en.wikipedia.org/wiki/Rail_transport_in_India"
+      }
+    ]
+  }
+]

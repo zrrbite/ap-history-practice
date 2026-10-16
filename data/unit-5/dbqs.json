@@ -1,1 +1,942 @@
-[]
+[
+  {
+    "id": "enlightenment-revolutions",
+    "topics": [
+      "5.1",
+      "5.2"
+    ],
+    "prompt": "Evaluate the extent to which Enlightenment ideas, rather than other grievances, caused the revolutions of the Atlantic world in the period c. 1750–1830.",
+    "groups": [
+      {
+        "key": "ideas",
+        "label": "Rights and reason: the ideas of the Enlightenment"
+      },
+      {
+        "key": "grievances",
+        "label": "Taxes, privilege and colonial rule: the grievances"
+      },
+      {
+        "key": "limits",
+        "label": "Whose rights? Those the new rights left out"
+      }
+    ],
+    "pool": [
+      {
+        "doc": "rousseau-1762-social-contract",
+        "group": "ideas",
+        "sourcing": "Rousseau, a Genevan philosopher, wrote in 1762 for readers who debated the legitimacy of government, not as a call to arms. It shows the kind of argument about freedom and consent available to later revolutionaries, but it cannot show that those arguments caused any revolution."
+      },
+      {
+        "doc": "montesquieu-1748-spirit-laws-separation",
+        "group": "ideas",
+        "sourcing": "Montesquieu was a French noble and judge writing in 1748 as a theorist, so his defence of separated powers was a scholarly argument aimed at educated readers. It shows how early Enlightenment thought about liberty and limited government, which later constitution-makers could draw on."
+      },
+      {
+        "doc": "paine-1791-rights-of-man",
+        "group": "ideas",
+        "sourcing": "Paine, an English-born pamphleteer of the American and French revolutions, wrote in 1791 to persuade a wide reading public that all men are born equal in natural right. As a participant publicist he shows how Enlightenment ideas were popularised during the revolutions, though his enthusiasm makes him an advocate rather than a neutral witness."
+      },
+      {
+        "doc": "national-assembly-1789-rights-man-citizen",
+        "group": "ideas",
+        "sourcing": "This is the official statement of the French National Assembly, written in 1789 by a revolutionary legislature of the Third Estate and its allies. It turns natural rights and national sovereignty into law, which is strong evidence that ideas shaped the revolution's aims, though it was drafted after the revolution had begun and so cannot prove ideas started it."
+      },
+      {
+        "doc": "jefferson-1776-declaration-independence",
+        "group": "ideas",
+        "sourcing": "Jefferson wrote for the Continental Congress in 1776 to justify rebellion to colonists and to the world, so he chose the strongest arguments available. The passage joins natural rights and consent of the governed to a list of grievances about armies, trade and taxes, which makes it useful for both sides of the prompt."
+      },
+      {
+        "doc": "sieyes-1789-what-is-third-estate",
+        "group": "grievances",
+        "sourcing": "Sieyès, a French priest and political writer, wrote this pamphlet in 1789 to rally the Third Estate against the privileged orders. It shows resentment of privilege as a driving force of the French Revolution, although it argues in the language of the nation and justice and so mixes ideas with grievance."
+      },
+      {
+        "doc": "viscardo-1799-letter-spanish-americans",
+        "group": "grievances",
+        "sourcing": "Viscardo, a Peruvian-born Jesuit exile, wrote c. 1791 and was published in 1799, addressing creoles from outside Spanish America. He lists Spanish economic exploitation of the colonies as injustice, so the letter is evidence that colonial grievances about trade and property mattered, but an exile's propaganda is not a measure of what most colonists felt."
+      },
+      {
+        "doc": "venezuela-1811-act-independence",
+        "group": "grievances",
+        "sourcing": "Creole representatives meeting in Caracas issued this declaration in 1811 to justify independence to Venezuelans and foreign powers. It complains of unequal representation and Spanish repression while invoking the will of the people, so it supports a mixed cause of grievance and liberal ideas, from the viewpoint of an elite that wanted a share of power."
+      },
+      {
+        "doc": "dessalines-1804-haitian-declaration",
+        "group": "grievances",
+        "sourcing": "Dessalines was a general of the Haitian revolution, speaking at the 1804 declaration of independence to the people of Haiti and to France. His call that they live independent or die shows that the experience of slavery and colonial rule drove the revolt, though he was a military leader making a political declaration."
+      },
+      {
+        "doc": "gouges-1791-rights-woman",
+        "group": "limits",
+        "sourcing": "Olympe de Gouges, a French playwright and revolutionary, wrote in 1791 to show that the Declaration of the Rights of Man excluded women. Her pamphlet is evidence that the revolution's ideals were applied narrowly, though it also shows that its ideas could be turned to new demands, and she was later guillotined."
+      },
+      {
+        "doc": "wollstonecraft-1792-vindication-rights-woman",
+        "group": "limits",
+        "sourcing": "Wollstonecraft, an English writer and early feminist, argued in 1792 that women's education kept them in a 'gilt cage'. She applies Enlightenment reason to women, showing that revolutionary ideals were not extended to them, but as an English observer she wrote about society and education more than about the revolutions' causes."
+      },
+      {
+        "doc": "bolivar-1819-angostura-colonial-legacy",
+        "group": "limits",
+        "sourcing": "Bolívar, a Venezuelan creole general, spoke to the Congress of Angostura in 1819 to explain why liberty was hard to achieve after colonial rule. He argues that Spanish rule left people without political experience, which a leader could use to justify limits on liberty, and he spoke to persuade a Congress about the government he wanted."
+      }
+    ],
+    "notes": {
+      "thesis": [
+        "Enlightenment ideas were a necessary but not a sufficient cause: grievances over taxes, debt, privilege and colonial rule produced the crises, while ideas of natural rights and popular sovereignty supplied the language that turned protest into revolution and gave leaders a programme for a new government.",
+        "Grievances were the stronger cause: the American, French, Haitian and Spanish American revolutions each began with a concrete crisis of money, privilege or colonial control, and ideas mainly justified action already under way; the limits placed on the rights of women and the enslaved show how far the principles were applied only when they suited the interests of the leaders.",
+        "The extent of the ideas' influence varied between revolutions: they were most decisive where the colonies already had experience of self-government and educated elites (British North America, France), and least where a revolt of enslaved people turned them to their own cause (Saint-Domingue), so that ideas and grievances were bound together in each case."
+      ],
+      "contextualization": [
+        {
+          "text": "The Scientific Revolution of the 16th and 17th centuries and the Enlightenment that followed taught educated Europeans and colonists to apply reason to government and society, and thinkers such as Locke, Montesquieu, Voltaire and Rousseau argued for natural rights, separation of powers and consent of the governed.",
+          "ref": {
+            "title": "Age of Enlightenment",
+            "url": "https://en.wikipedia.org/wiki/Age_of_Enlightenment"
+          }
+        },
+        {
+          "text": "The Seven Years' War (1756–1763) left Britain with a large debt, and its attempt to raise revenue from the American colonies through measures such as the Stamp Act of 1765 broke an older habit of loose imperial control and set off colonial protest. France's war debts, and its help to the American rebels, also deepened its financial crisis in the 1780s.",
+          "ref": {
+            "title": "Seven Years' War",
+            "url": "https://en.wikipedia.org/wiki/Seven_Years%27_War"
+          }
+        },
+        {
+          "text": "In France the Old Regime divided society into three estates, and the privileged first and second estates paid few taxes while the Third Estate carried the burden. Bad harvests and rising bread prices in the late 1780s made hunger a further cause of anger before the Estates-General met in 1789.",
+          "ref": {
+            "title": "French Revolution",
+            "url": "https://www.britannica.com/event/French-Revolution"
+          }
+        }
+      ],
+      "outsideEvidence": [
+        {
+          "text": "The Stamp Act of 1765 and the Tea Act of 1773 (leading to the Boston Tea Party) show British taxation sparking colonial resistance under the slogan 'no taxation without representation', a grievance with a constitutional argument attached.",
+          "ref": {
+            "title": "Boston Tea Party",
+            "url": "https://en.wikipedia.org/wiki/Boston_Tea_Party"
+          }
+        },
+        {
+          "text": "The Third Estate declared itself the National Assembly and took the Tennis Court Oath in June 1789, vowing not to separate until France had a constitution; the storming of the Bastille on 14 July followed. These events show Enlightenment ideas of popular sovereignty being acted on.",
+          "ref": {
+            "title": "French Revolution",
+            "url": "https://www.britannica.com/event/French-Revolution"
+          }
+        },
+        {
+          "text": "Toussaint Louverture, a formerly enslaved leader, rose to command the Haitian revolution from 1791; he used the French revolution's language of liberty and equality to demand an end to slavery in Saint-Domingue, though Napoleon sent an expedition in 1802 to restore French control and slavery.",
+          "ref": {
+            "title": "Toussaint Louverture",
+            "url": "https://en.wikipedia.org/wiki/Toussaint_Louverture"
+          }
+        },
+        {
+          "text": "The Reign of Terror of 1793–1794, led by the Committee of Public Safety under Robespierre, executed thousands in the name of the republic and virtue, showing how a revolution begun with ideas of liberty could turn to repression.",
+          "ref": {
+            "title": "Reign of Terror",
+            "url": "https://en.wikipedia.org/wiki/Reign_of_Terror"
+          }
+        },
+        {
+          "text": "The United States Constitution of 1787 counted each enslaved person as three-fifths of a person for representation and left slavery in place, one example of a new republic that did not apply its principles to all.",
+          "ref": {
+            "title": "Three-fifths Compromise",
+            "url": "https://en.wikipedia.org/wiki/Three-fifths_Compromise"
+          }
+        },
+        {
+          "text": "The Napoleonic Code of 1804 gave France a uniform civil law with equality before the law for men, but it kept married women legally subordinate to their husbands, a further limit on revolutionary equality.",
+          "ref": {
+            "title": "Napoleonic Code",
+            "url": "https://en.wikipedia.org/wiki/Napoleonic_Code"
+          }
+        }
+      ],
+      "complexity": [
+        "Explain similarity and difference: compare the American Revolution, where leaders were mostly property-owning colonists protesting taxation, with the Haitian Revolution, where enslaved people carried natural-rights language further than its authors, to show that the same ideas could serve very different grievances.",
+        "Corroborate across groups: Jefferson's Declaration joins natural rights to a list of grievances, and Venezuela's 1811 declaration joins complaints about representation to the will of the people, so ideas and grievances reinforced each other and cannot be cleanly separated.",
+        "Qualify with a counter-argument: Gouges, Wollstonecraft and Bolívar show leaders and societies applying Enlightenment rights selectively, which suggests that the ideas shaped rhetoric more than outcomes; but the very fact that excluded groups quoted the same principles to demand inclusion shows that the ideas had a power of their own."
+      ]
+    }
+  },
+  {
+    "id": "latin-american-independence",
+    "topics": [
+      "5.2"
+    ],
+    "prompt": "Evaluate the extent to which ideas of liberty and equality shaped the independence movements of Latin America in the period c. 1790–1830.",
+    "groups": [
+      {
+        "key": "ideas",
+        "label": "Liberty and equality reach the colonies"
+      },
+      {
+        "key": "creole-interests",
+        "label": "Trade, office and the crisis of 1808: creole interests"
+      },
+      {
+        "key": "fear-from-below",
+        "label": "Fear of risings from below"
+      }
+    ],
+    "pool": [
+      {
+        "doc": "venezuela-1811-act-independence",
+        "group": "ideas",
+        "sourcing": "Creole representatives meeting in Caracas issued this declaration in 1811 to justify independence to their own people and to foreign powers. It uses the language of justice and the will of the people while complaining of unequal representation, so it shows liberal ideas and creole interests working together and was written by an elite body, not by the poor."
+      },
+      {
+        "doc": "morelos-1813-sentiments-nation",
+        "group": "ideas",
+        "sourcing": "Morelos was a Mexican priest and insurgent general who presented these 23 points to the Congress of Chilpancingo in 1813. He calls for popular sovereignty and an end to slavery and caste distinctions, so he is strong evidence that equality was part of the movement, but his demands went further than most creole leaders and he wrote in the middle of a war."
+      },
+      {
+        "doc": "tucuman-1816-declaration-independence",
+        "group": "ideas",
+        "sourcing": "The Congress of the United Provinces of South America declared independence at Tucumán in 1816, addressing Spain and the wider world, and this English text is a translation printed in Miller's Memoirs. It speaks of recovering lost rights and the will of the provinces, but says little about equality among social groups, so it supports independence as self-government more than social equality."
+      },
+      {
+        "doc": "san-martin-1821-free-womb-decree",
+        "group": "ideas",
+        "sourcing": "San Martín, Protector of Peru, issued this decree at Lima on 12 August 1821 to begin ending slavery. He appeals to humanity and justice, but he chooses a gradual route that protects the interests of slaveholders, so it shows liberty and equality shaping policy only within limits set by propertied creoles."
+      },
+      {
+        "doc": "viscardo-1799-letter-offices",
+        "group": "creole-interests",
+        "sourcing": "Viscardo, a Peruvian-born Jesuit exile, wrote c. 1791 and published in 1799 to persuade Spanish Americans. He claims that only creoles should fill offices in their own country and attacks Spanish adventurers, so the letter shows the creole interest in office and wealth well before 1808, though an exile's propaganda is not a measure of widespread opinion."
+      },
+      {
+        "doc": "beaver-1808-letter-caracas",
+        "group": "creole-interests",
+        "sourcing": "Captain Beaver, a Royal Navy officer, wrote to Sir Alexander Cochrane on 19 July 1808 about the reaction in Caracas to news from Spain, and the letter was later printed in Miller's Memoirs. It shows the crowd proclaiming loyalty to Ferdinand VII and insulting the French, so the crisis of 1808 began as loyalty to the king and not as a demand for liberty, though a foreign officer reported what he heard secondhand."
+      },
+      {
+        "doc": "bolivar-1819-angostura-address",
+        "group": "creole-interests",
+        "sourcing": "Bolívar, a Venezuelan creole general, spoke to the Congress of Angostura in 1819 to win support for the government he wanted. His description of creoles as neither European nor Indian, fighting both natives and Spain over ownership, and his support for a hereditary senate show a creole leader's interests alongside liberal ideas."
+      },
+      {
+        "doc": "miller-1828-tupac-amaru-rising",
+        "group": "fear-from-below",
+        "sourcing": "Miller, a British officer who served in the Peruvian independence army, wrote this account of the Tupac Amaru rising of 1780 in 1828 as background, not as an eyewitness. He criticises a rising that turned on Spanish Americans as well as Spaniards, so it shows how a sympathiser of the creole cause remembered Indigenous revolt as a danger."
+      },
+      {
+        "doc": "cochrane-1822-proclamation-chile",
+        "group": "fear-from-below",
+        "sourcing": "Cochrane, a Scottish admiral commanding the Chilean navy, issued this proclamation in January 1823 as he left Chile, and it was printed in Miller's Memoirs. He warns Chileans against discord and anarchy after independence, so it shows an outside supporter's fear that liberty could become disorder, but he addressed the Chileans in general and not any particular social group."
+      },
+      {
+        "doc": "dessalines-1804-haitian-declaration",
+        "group": "fear-from-below",
+        "sourcing": "Dessalines was a general of the Haitian revolution, and this 1804 address is part of the Haitian declaration of independence. It shows what a successful rising of enslaved people looked like, which is the example that slaveholding creoles in Spanish America feared, but the source is not about Latin America and the fear has to be inferred from outside knowledge."
+      },
+      {
+        "doc": "morelos-1812-medidas-politicas",
+        "group": "fear-from-below",
+        "sourcing": "This text is attributed to Morelos and was written c. fall 1812 as political measures for the insurgent armies. It would seize the property of rich creoles and Spaniards alike for the poor and the army, which is the kind of social radicalism that frightened propertied creoles, but the attribution is uncertain and it is a plan, not a record of what was done."
+      }
+    ],
+    "notes": {
+      "thesis": [
+        "Ideas of liberty and equality shaped independence only partly: they gave the movements their language and some of their reforms, but the decisive causes were creole resentment of trade restrictions and the monopoly of offices by peninsulares, together with the collapse of Spanish authority after Napoleon's invasion in 1808, so liberty was mostly understood as freedom from Spain.",
+        "The extent of the influence was greatest in documents and constitutions and least in social practice: leaders such as Morelos and San Martín attacked slavery and caste, but most creole leaders hesitated because they feared risings by enslaved, Indigenous and mixed-race people, and independence kept the social hierarchy largely in place.",
+        "Ideas and creole interests cannot be separated, because creoles used liberal principles to justify the claim to govern themselves; the fear from below then explains why the same elites narrowed those principles once independence was won, which makes the influence of equality real but limited."
+      ],
+      "contextualization": [
+        {
+          "text": "Spanish colonial society ranked peninsulares (born in Spain) above creoles (Spaniards born in America), with mixed-race castes, Indigenous peoples and enslaved Africans below. The Bourbon Reforms of the 18th century tightened royal control over trade and taxes and gave more offices to peninsulares, which raised creole resentment.",
+          "ref": {
+            "title": "Bourbon Reforms",
+            "url": "https://en.wikipedia.org/wiki/Bourbon_Reforms"
+          }
+        },
+        {
+          "text": "The American, French and Haitian revolutions offered models of independence and of rights to Latin American creoles, who read Enlightenment writers and followed the news; the Haitian Revolution was also a warning, since it ended slavery and white rule in a colony.",
+          "ref": {
+            "title": "Haitian Revolution",
+            "url": "https://en.wikipedia.org/wiki/Haitian_Revolution"
+          }
+        },
+        {
+          "text": "Napoleon's invasion of Spain and Portugal from 1807 to 1808 and his placing of his brother Joseph on the Spanish throne left the colonies without a legitimate king. Colonial juntas formed in the name of the captive Ferdinand VII, and this crisis opened the way to the wars of independence.",
+          "ref": {
+            "title": "Peninsular War",
+            "url": "https://en.wikipedia.org/wiki/Peninsular_War"
+          }
+        }
+      ],
+      "outsideEvidence": [
+        {
+          "text": "The Bourbon Reforms of the 1760s to 1780s created new viceroyalties, raised taxes and promoted peninsulares to high office, so creole elites lost ground in their home colonies before any independence movement began.",
+          "ref": {
+            "title": "Bourbon Reforms",
+            "url": "https://en.wikipedia.org/wiki/Bourbon_Reforms"
+          }
+        },
+        {
+          "text": "Father Miguel Hidalgo's Grito de Dolores in September 1810 started the Mexican revolt with an army of Indigenous and mixed-race peasants; creole alarm at its violence, and Hidalgo's execution in 1811, show the fear from below at work.",
+          "ref": {
+            "title": "Grito de Dolores",
+            "url": "https://en.wikipedia.org/wiki/Grito_de_Dolores"
+          }
+        },
+        {
+          "text": "The Spanish Constitution of 1812, written by the Cortes of Cádiz, set up a constitutional monarchy with some representation for the colonies, but it did not give them equal representation, and Ferdinand VII abolished it in 1814 after returning to the throne.",
+          "ref": {
+            "title": "Spanish Constitution of 1812",
+            "url": "https://en.wikipedia.org/wiki/Spanish_Constitution_of_1812"
+          }
+        },
+        {
+          "text": "Mexican independence came in 1821 through the Plan of Iguala, led by the royalist officer Agustín de Iturbide, who joined the rebels when a liberal revolt in Spain in 1820 alarmed conservatives; independence there was won to protect the status quo and not to spread equality.",
+          "ref": {
+            "title": "Plan of Iguala",
+            "url": "https://en.wikipedia.org/wiki/Plan_of_Iguala"
+          }
+        },
+        {
+          "text": "The decisive military campaigns of Simón Bolívar in the north and José de San Martín in the south ended with the Battle of Ayacucho in December 1824, which brought the end of Spanish rule in South America.",
+          "ref": {
+            "title": "Battle of Ayacucho",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Ayacucho"
+          }
+        }
+      ],
+      "complexity": [
+        "Explain similarity and difference: compare Morelos in Mexico, who called for an end to slavery and caste as early as 1813, with the Venezuelan and Argentine congresses, which declared independence in the name of 'the people' while keeping the social order, to show that the same ideas could be radical or conservative depending on who used them.",
+        "Corroborate across groups: Viscardo, the Venezuelan declaration and Bolívar all complain about exclusion from office and trade, which supports the creole-interests argument, while Morelos and San Martín show liberal ideas changing policy, so taken together they point to a movement driven by interest that adopted ideas it could not fully control.",
+        "Qualify with a counter-argument: although fear of the poor held many creoles back, ideas of equality were not merely decoration, since Morelos, San Martín and the Tucumán congress put them into decrees and declarations, and the rebellion of 1808 was at first loyal to the king, so a lot of the radical language came later."
+      ]
+    }
+  },
+  {
+    "id": "industrial-revolution-causes",
+    "topics": [
+      "5.3"
+    ],
+    "prompt": "Evaluate the relative importance of the causes of the Industrial Revolution in Britain in the period c. 1750–1850.",
+    "groups": [
+      {
+        "key": "resources",
+        "label": "Coal, iron, food and colonial raw materials"
+      },
+      {
+        "key": "capital-markets",
+        "label": "Banks, trade profits and company law"
+      },
+      {
+        "key": "labor-technology",
+        "label": "Inventions, wage labour and the factory"
+      }
+    ],
+    "pool": [
+      {
+        "doc": "ricardo-1817-free-commerce",
+        "group": "resources",
+        "sourcing": "Ricardo, an English economist and stockbroker, wrote in 1817 to argue the theory of free trade, not to describe how Britain had industrialized. It shows how a commercial thinker believed that trade let each country use its labour and capital best, which fits the argument that access to foreign food and materials helped Britain, but the passage argues from principle and not from evidence."
+      },
+      {
+        "doc": "cobden-1843-corn-laws-free-trade",
+        "group": "resources",
+        "sourcing": "Cobden was a Manchester calico manufacturer and leader of the Anti-Corn Law League, speaking in the House of Commons in 1843 to persuade members to end the Corn Law. As a manufacturer he had an interest in cheap food and open markets, so his speech shows what industrial employers wanted, and it is a political argument and not a neutral account of causes."
+      },
+      {
+        "doc": "macaulay-1848-mineral-wealth",
+        "group": "resources",
+        "sourcing": "Macaulay was a historian and Whig politician who compared England in 1685 with his own day in his 1848 history. He describes the growth of mineral wealth, with coal and iron, as greater than the increase of farm produce, which supports the importance of resources; his pride in progress and his 1685 starting point mean that it is a view from hindsight."
+      },
+      {
+        "doc": "dutt-1902-raw-produce",
+        "group": "resources",
+        "sourcing": "Dutt was an Indian civil servant and economic historian who wrote this preface in December 1901 as a critic of British rule. He claims that the East India Company aimed to make Indians grow raw produce for the looms of Britain, which supports the importance of colonial raw materials, but he wrote long after the events and with a nationalist purpose."
+      },
+      {
+        "doc": "smith-1776-joint-stock",
+        "group": "capital-markets",
+        "sourcing": "Smith was a Scottish political economist who wrote in 1776, before the factory age, criticising joint-stock companies for foreign trade because directors manage other people's money. It shows that such companies existed and that economists doubted their efficiency, so it complicates the claim that company law drove industrialization."
+      },
+      {
+        "doc": "bagehot-1873-lombard-street-capital",
+        "group": "capital-markets",
+        "sourcing": "Bagehot, the son of an English banker and editor of The Economist, wrote in 1873 that any likely profitable undertaking, such as a railway, could find capital in London. As an insider describing the money market with hindsight, he is useful evidence that finance was available, though he may overstate how easy credit had been in the earlier period."
+      },
+      {
+        "doc": "dutt-1904-india-railways",
+        "group": "capital-markets",
+        "sourcing": "Dutt, an Indian civil servant and economic historian, argued in 1904 that British manufacturers pressed for railways in India, even at a loss to Indian revenue. It shows British capital and manufacturing interests operating in the empire, but it is a critic's view of India in the mid-19th century and not an account of what happened within Britain."
+      },
+      {
+        "doc": "smith-1776-pin-factory",
+        "group": "labor-technology",
+        "sourcing": "Smith, a Scottish moral philosopher and political economist, used a pin-maker's trade in 1776 to show that dividing work into branches raises output. His example is a workshop and not a steam-powered factory, but it shows the organisation of labour as a source of productivity before the main machines arrived."
+      },
+      {
+        "doc": "engels-1845-before-machinery",
+        "group": "labor-technology",
+        "sourcing": "Engels was a German socialist and manager in his father's Manchester cotton firm who wrote this in 1845 as a critic of industrial capitalism. He dates the English revolution to the steam engine and cotton machinery and describes spinning and weaving moving out of the family home, which is first-hand evidence of technology and wage labour, though his political purpose coloured his picture of the earlier period."
+      },
+      {
+        "doc": "marx-1848-productive-forces",
+        "group": "labor-technology",
+        "sourcing": "Marx and Engels wrote the Communist Manifesto in 1848 as a political statement for a socialist movement. Its list of machinery, steam navigation and railways shows that contemporaries saw technology as the central change, but the passage is polemic and gives credit to a class, the bourgeoisie, and not to the other causes."
+      },
+      {
+        "doc": "dickens-1842-lowell-mills",
+        "group": "labor-technology",
+        "sourcing": "Dickens, an English novelist visiting the United States, described the Lowell factory system in 1842 with workers on a twelve-hour day. He describes the United States, not Britain, so the passage supports the prompt only by comparison: it shows the factory and wage labour as a model that spread from Britain, seen through a visitor's impressions."
+      }
+    ],
+    "notes": {
+      "thesis": [
+        "Capital and markets were the most important cause: profits from Atlantic trade, banks, and growing credit paid for canals, mills and later railways, while the supply of coal, iron and labour became useful only when investors could pay to use them.",
+        "Technology and the change to wage labour in factories were the most important immediate cause, because inventions such as the spinning jenny and steam engine increased output, but Britain's coal, iron and colonial raw materials made it profitable and the supply of capital made it possible, so these were enabling conditions of lesser weight.",
+        "Natural resources and colonial raw materials were the foundation: Britain's accessible coal and iron and its use of overseas cotton and markets gave it a head start that other countries lacked, and so capital and invention depended on a resource base that was largely a matter of geography and empire."
+      ],
+      "contextualization": [
+        {
+          "text": "The British Agricultural Revolution, with enclosure of fields, new crop rotations and higher yields from the 17th and 18th centuries, fed a growing population and released rural labourers who could work in towns and mills.",
+          "ref": {
+            "title": "British Agricultural Revolution",
+            "url": "https://en.wikipedia.org/wiki/British_Agricultural_Revolution"
+          }
+        },
+        {
+          "text": "Britain's overseas empire and the triangular trade in goods, enslaved Africans and plantation products built up merchant wealth and created markets for textiles and metal goods before 1750.",
+          "ref": {
+            "title": "Triangular trade",
+            "url": "https://en.wikipedia.org/wiki/Triangular_trade"
+          }
+        },
+        {
+          "text": "The Scientific Revolution and the Enlightenment encouraged observation, experiment and practical invention, and Britain had a culture of tinkering and learned societies in which new machines could be developed.",
+          "ref": {
+            "title": "Scientific Revolution",
+            "url": "https://en.wikipedia.org/wiki/Scientific_Revolution"
+          }
+        }
+      ],
+      "outsideEvidence": [
+        {
+          "text": "James Watt's improved steam engine of the late 1760s and 1770s used a separate condenser to burn much less coal than earlier engines, and it freed factories from dependence on rivers and water power.",
+          "ref": {
+            "title": "James Watt",
+            "url": "https://en.wikipedia.org/wiki/James_Watt"
+          }
+        },
+        {
+          "text": "James Hargreaves's spinning jenny (c. 1764) let one worker spin several threads at once, and Richard Arkwright's water frame (1769) brought spinning into factories; together they raised the output of cotton thread sharply.",
+          "ref": {
+            "title": "Spinning jenny",
+            "url": "https://en.wikipedia.org/wiki/Spinning_jenny"
+          }
+        },
+        {
+          "text": "Abraham Darby of Coalbrookdale in Shropshire found in 1709 how to smelt iron with coke, and cheaper iron later went into machinery, bridges and rails.",
+          "ref": {
+            "title": "Abraham Darby I",
+            "url": "https://en.wikipedia.org/wiki/Abraham_Darby_I"
+          }
+        },
+        {
+          "text": "The enclosure of common and open fields, carried out through hundreds of acts of Parliament in the 18th and early 19th centuries, strengthened large landowners' control and pushed many rural people off the land towards wage work.",
+          "ref": {
+            "title": "Enclosure",
+            "url": "https://en.wikipedia.org/wiki/Enclosure"
+          }
+        },
+        {
+          "text": "The Liverpool and Manchester Railway, opened in 1830 with George Stephenson's locomotive engineering, was the first intercity line run entirely by steam locomotives and began the railway boom of the 1830s and 1840s.",
+          "ref": {
+            "title": "Liverpool and Manchester Railway",
+            "url": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway"
+          }
+        },
+        {
+          "text": "The Bank of England, founded in 1694, helped the state borrow cheaply, and by the 19th century a network of country banks and the London money market supplied credit to businesses; the Limited Liability Act of 1855 then let investors risk only what they put into a company.",
+          "ref": {
+            "title": "Bank of England",
+            "url": "https://en.wikipedia.org/wiki/Bank_of_England"
+          }
+        }
+      ],
+      "complexity": [
+        "Explain similarity and difference: compare Britain with the United States (Dickens) and with India (Dutt), where factories and wage labour also spread but where the empire's raw materials and markets worked in Britain's favour, to explain why Britain industrialized first.",
+        "Corroborate across groups: Engels and the Manifesto point to machinery, Smith to the division of labour, and Bagehot to the supply of capital, so the sources taken together show that inventions only spread because money and organisation were available to use them.",
+        "Qualify with a counter-argument: Smith doubted that joint-stock companies were efficient and Dutt shows that overseas raw materials came at the price of Indian industry, so no single cause was enough; the answer should weigh how each cause depended on the others."
+      ]
+    }
+  },
+  {
+    "id": "state-led-industrialization",
+    "topics": [
+      "5.4",
+      "5.6"
+    ],
+    "prompt": "Evaluate the extent to which governments drove industrialization outside Britain in the period c. 1800–1900.",
+    "groups": [
+      {
+        "key": "defense",
+        "label": "Armies, arms and the fear of conquest"
+      },
+      {
+        "key": "economic-growth",
+        "label": "State-built railways, banks, schools and tariffs"
+      },
+      {
+        "key": "limits",
+        "label": "Debt, foreign control and resistance"
+      }
+    ],
+    "pool": [
+      {
+        "doc": "yamagata-1908-japanese-army",
+        "group": "defense",
+        "sourcing": "Yamagata was the Field-Marshal who designed Japan's conscript army, writing in 1908 about the reforms of 1871. He shows the new government disbanding clan troops and centring military power on the state, so he is strong evidence that defence needs drove state action, but as an insider telling his own success story he stresses the achievement more than the cost."
+      },
+      {
+        "doc": "yung-wing-1909-kiangnan-arsenal",
+        "group": "defense",
+        "sourcing": "Yung Wing was a Chinese graduate of Yale sent by Zeng Guofan to buy machinery in the United States, writing his memoir in 1909. He describes buying machinery for the Kiangnan Arsenal and wanting a mechanical school so that China need not rely on foreign engineers, which shows a defence-driven industrial effort, though a man recalling his own role may inflate it."
+      },
+      {
+        "doc": "okuma-1908-fifty-years-new-japan",
+        "group": "defense",
+        "sourcing": "Okuma was a Japanese statesman and former finance minister, writing in the 1907–08 volume Fifty Years of New Japan. He ties Japan's rapid progress to Western models for an army and navy, with conscription, military education, arms manufacture and shipbuilding, so he supports the defence argument, but his account is a retrospective by one of the men who made policy."
+      },
+      {
+        "doc": "okakura-1905-white-disaster",
+        "group": "defense",
+        "sourcing": "Okakura was a Japanese art scholar and writer who wrote about Western commerce and armies in 1905. He describes the Opium War of 1842 and the invasion of Peking in 1860, so he is strong evidence of the threat that moved states to act, but his nationalist and rhetorical tone shows a Japanese intellectual's view and not a neutral one."
+      },
+      {
+        "doc": "list-1841-productive-power",
+        "group": "economic-growth",
+        "sourcing": "List was a German economist who campaigned for a German customs union and railways, writing in 1841. He argues that the power to produce wealth matters more than wealth itself and that weak nations lie at the mercy of stronger rivals, so he shows the theory behind state-led growth but is an advocate for a programme, not a witness of results."
+      },
+      {
+        "doc": "inouye-1908-railroads",
+        "group": "economic-growth",
+        "sourcing": "Inouye was a Meiji official who directed railway building, writing in the 1907–08 volume Fifty Years of New Japan. He describes opposition to the first railways because of taxes, lost jobs and fear of foreign loans, so his account supports state leadership while also showing resistance; as the official in charge he has reason to praise the result."
+      },
+      {
+        "doc": "matsukata-1908-gold-standard",
+        "group": "economic-growth",
+        "sourcing": "Matsukata was a Meiji finance minister and prime minister, writing in the 1907–08 volume Fifty Years of New Japan. He explains that Japan moved to a gold standard after receiving a war indemnity from China in 1895, which shows government planning of finance in order to trade with Western powers; as the minister he describes the policy as a success."
+      },
+      {
+        "doc": "shibusawa-1908-banking-joint-stock",
+        "group": "economic-growth",
+        "sourcing": "Shibusawa was a Japanese official turned banker who founded the First National Bank, writing in the 1907–08 volume Fifty Years of New Japan. He explains that weak national finances led to the need for joint-stock banks because the Japanese were not used to combining capital, which shows how the state's money problems shaped new institutions, though he describes his own field."
+      },
+      {
+        "doc": "duff-gordon-1863-suez-forced-labour",
+        "group": "limits",
+        "sourcing": "Lucie Duff Gordon was an English traveller living in Upper Egypt for her health, writing to a friend in November 1862. She describes hundreds of men taken from their homes to work on the Suez Canal or the Pasha's palaces for a nominal piastre a day, which shows the human cost of state projects in Egypt, but she is a sympathetic outside observer whose letter was written privately and published in 1865."
+      },
+      {
+        "doc": "cromer-1908-egypt-debt",
+        "group": "limits",
+        "sourcing": "Evelyn Baring, Lord Cromer, was a British Commissioner of the Egyptian Public Debt in 1877 and later Consul-General in Egypt, writing in 1908. He blames Ismail Pasha's borrowing, most of which he says was squandered, for the debt crisis, which shows how borrowing led to foreign control, but a British ruler of Egypt had reason to justify British intervention."
+      },
+      {
+        "doc": "midhat-1903-ottoman-bankruptcy",
+        "group": "limits",
+        "sourcing": "Ali Haydar Midhat, son and biographer of the Ottoman reformer Midhat Pasha, wrote in 1903 about the debt crisis of 1875. He describes Ottoman bankruptcy and the outcry across Europe, which shows borrowing for modernization ending in suspended payments, though a son writing the life of a reformer may shield his father's cause."
+      },
+      {
+        "doc": "alexander-ii-1861-emancipation-manifesto",
+        "group": "limits",
+        "sourcing": "Alexander II, Emperor and Autocrat of all the Russias, issued this manifesto on 3 March 1861, here in the translation printed in The Spectator. It frees the serfs but keeps landowners' property and makes peasants 'temporarily bound' and obliged to pay, so it shows a government reform limited by the interests of the nobility; it concerns serfdom, not factories, and supports the prompt only indirectly."
+      }
+    ],
+    "notes": {
+      "thesis": [
+        "Governments drove industrialization to a large extent outside Britain, because late-comers faced Western military and economic pressure and only the state could gather the capital, build railways and arsenals, and train workers, as in Meiji Japan.",
+        "Governments were necessary but not sufficient: state action worked best where it built on existing strengths and kept control of finance, as in Japan, but where it relied on foreign loans and forced labour, as in Egypt and the Ottoman Empire, it produced debt and foreign control instead of lasting industry.",
+        "The extent of state leadership was greatest in the areas of defence and infrastructure and weakest in the growth of private enterprise, so governments launched industrialization and then often handed the factories to private business, and the results depended on how far reforms overcame social resistance."
+      ],
+      "contextualization": [
+        {
+          "text": "Britain's Industrial Revolution gave it economic and military superiority, and states elsewhere had to respond by building their own railways, factories and armies in order to compete or to avoid being dominated.",
+          "ref": {
+            "title": "Industrial Revolution",
+            "url": "https://www.britannica.com/event/Industrial-Revolution"
+          }
+        },
+        {
+          "text": "Western imperial pressure, such as the Opium Wars with China (1839–1842 and 1856–1860) and unequal treaties, showed that traditional states could be forced to open their markets and cede territory.",
+          "ref": {
+            "title": "Opium Wars",
+            "url": "https://en.wikipedia.org/wiki/Opium_Wars"
+          }
+        },
+        {
+          "text": "Commodore Matthew Perry's expedition of 1853–1854 forced Japan to open ports to American ships, which discredited the Tokugawa shogunate and helped lead to the Meiji Restoration of 1868.",
+          "ref": {
+            "title": "Matthew C. Perry",
+            "url": "https://en.wikipedia.org/wiki/Matthew_C._Perry"
+          }
+        }
+      ],
+      "outsideEvidence": [
+        {
+          "text": "Muhammad Ali, who ruled Egypt from 1805 to 1848, built a conscript army, state cotton and textile factories and irrigation works, and relied on state monopolies; his programme was cut back after the 1838 Anglo-Ottoman trade treaty and the European intervention of 1840.",
+          "ref": {
+            "title": "Muhammad Ali of Egypt",
+            "url": "https://en.wikipedia.org/wiki/Muhammad_Ali_of_Egypt"
+          }
+        },
+        {
+          "text": "After the Meiji Restoration of 1868 the government built model factories, and in the 1880s it sold many of them to private firms; family-controlled combines called zaibatsu, such as Mitsui and Mitsubishi, grew from this.",
+          "ref": {
+            "title": "Zaibatsu",
+            "url": "https://en.wikipedia.org/wiki/Zaibatsu"
+          }
+        },
+        {
+          "text": "Sergei Witte, finance minister of Russia from 1892 to 1903, promoted heavy industry through state orders, foreign loans, a gold standard and the building of the Trans-Siberian Railway, which began in 1891.",
+          "ref": {
+            "title": "Sergei Witte",
+            "url": "https://en.wikipedia.org/wiki/Sergei_Witte"
+          }
+        },
+        {
+          "text": "The Zollverein, a customs union led by Prussia from 1834, removed tolls among German states and created a larger market for industry before German unification in 1871.",
+          "ref": {
+            "title": "Zollverein",
+            "url": "https://en.wikipedia.org/wiki/Zollverein"
+          }
+        },
+        {
+          "text": "The Tanzimat reforms in the Ottoman Empire (1839–1876) tried to modernize the army, law and finance on European lines, but the empire's reliance on European loans ended in the bankruptcy of 1875 and foreign control of part of its revenue.",
+          "ref": {
+            "title": "Tanzimat",
+            "url": "https://en.wikipedia.org/wiki/Tanzimat"
+          }
+        }
+      ],
+      "complexity": [
+        "Explain similarity and difference: compare Meiji Japan with Egypt and the Ottoman Empire, which also borrowed Western models, to show that Japan kept control of its own finance and avoided the foreign debt that gave Britain and France influence in Egypt and the Ottoman lands.",
+        "Corroborate across groups: Okuma and Yung Wing show armies and arsenals as the first reason for state action, while Inouye and Matsukata show railways and finance following, so defence and economic growth reinforced each other and both rested on state power.",
+        "Qualify with a counter-argument: the sources on limits are mostly by British observers and officials such as Cromer and Duff Gordon, who may exaggerate the failures of governments they criticised, while Russia's Alexander II shows a state reform that mainly protected the nobility."
+      ]
+    }
+  },
+  {
+    "id": "reactions-industrial-economy",
+    "topics": [
+      "5.8"
+    ],
+    "prompt": "Evaluate the relative effectiveness of labor organization, socialist ideas and reform from above as responses to the problems of industrial economies in the period c. 1800–1900.",
+    "groups": [
+      {
+        "key": "labor",
+        "label": "Unions, strikes and Chartism"
+      },
+      {
+        "key": "socialism",
+        "label": "Socialist and utopian ideas"
+      },
+      {
+        "key": "reform-from-above",
+        "label": "Reform from above: laws, welfare and charity"
+      }
+    ],
+    "pool": [
+      {
+        "doc": "chartist-1838-national-petition",
+        "group": "labor",
+        "sourcing": "The Chartists were English working-class radicals and this is their National Petition to the House of Commons of 1838. It claims that workmen are starving and that a few have governed for the interest of a few, so it shows workers turning to political pressure for a voice in Parliament; as a petition it states aims and says nothing of what was achieved."
+      },
+      {
+        "doc": "engels-1845-trades-unions-strikes",
+        "group": "labor",
+        "sourcing": "Engels was a German socialist and the son of a Manchester mill-owner, writing in 1845 about the labour movements. He presents unions as a means to protect workers, keep wages up and abolish competition among workers, which is useful evidence of what unions tried to do, but a socialist observer is likely to overstate their importance as a step towards revolution."
+      },
+      {
+        "doc": "marx-1867-capital-working-day",
+        "group": "labor",
+        "sourcing": "Marx was a German socialist theorist writing in London, in Capital of 1867. He argues that workers must act together as a class to compel a law that limits the working day, so the passage links labour organization to reform by law; as a theorist with a political goal he describes what he thought necessary and not what was always achieved."
+      },
+      {
+        "doc": "marx-engels-1848-manifesto-bourgeoisie-proletariat",
+        "group": "socialism",
+        "sourcing": "Marx and Engels were German socialist writers who wrote the Communist Manifesto in 1848 as a programme for a political movement. It describes the bourgeoisie as having replaced older ties with 'cash payment' and the worker as an appendage of the machine, so it shows the socialist diagnosis of the problem; it is a call to action, and not a record of effects."
+      },
+      {
+        "doc": "owen-1813-new-view-society",
+        "group": "socialism",
+        "sourcing": "Owen was a Welsh mill-owner who ran the New Lanark cotton mills and wrote A New View of Society in 1813. He argues that character is formed by surroundings and can be changed by 'proper means', which is the basis of his experiments in education and better conditions, but he writes as an employer-reformer arguing for his own principles, so the text shows an idea and not its general success."
+      },
+      {
+        "doc": "proudhon-1840-what-is-property",
+        "group": "socialism",
+        "sourcing": "Proudhon was a French printer and socialist writer who wrote What Is Property? in 1840. His claim that 'property is robbery' was intended to shock and to challenge ownership, so it shows how radical early socialist criticism was; it offers a slogan more than a practical policy and shows nothing about effectiveness."
+      },
+      {
+        "doc": "crabtree-1832-sadler-committee",
+        "group": "reform-from-above",
+        "sourcing": "Matthew Crabtree was a 22-year-old blanket manufacturer who had worked in a textile mill from the age of eight, and his testimony was given to the Sadler Committee of the House of Commons in 1832. It describes fourteen-hour days and beatings, which is the kind of evidence that drove Parliament to regulate factories, but it is a young man recalling his childhood before a committee gathering evidence for reform."
+      },
+      {
+        "doc": "harris-1842-ashley-mines-hansard",
+        "group": "reform-from-above",
+        "sourcing": "Betty Harris was a coal-bearer whose testimony to the Children's Employment Commission (Mines) was quoted by Lord Ashley in the House of Commons in 1842. Ashley used her description of chain and belt work to persuade members to act, so it shows how evidence reached lawmakers; it is a selected quotation, chosen for effect, rather than the full record."
+      },
+      {
+        "doc": "wilhelm-1881-imperial-message-social-policy",
+        "group": "reform-from-above",
+        "sourcing": "Kaiser Wilhelm I read this proclamation, drafted by Chancellor Bismarck, to the Reichstag on 17 November 1881. It says that curing social defects needs both repression of Social Democratic excesses and promotion of workers' welfare, so it shows welfare used by the state to win loyalty and weaken socialism; it states a promise and not what was delivered."
+      },
+      {
+        "doc": "leo-xiii-1891-rerum-novarum",
+        "group": "reform-from-above",
+        "sourcing": "Pope Leo XIII, the head of the Catholic Church, issued the encyclical Rerum Novarum in 1891. He condemns the 'yoke' laid on workers and also rejects socialists' plans to abolish private property, so it shows a church seeking a middle way between capitalism and socialism; his authority was moral and not legal."
+      },
+      {
+        "doc": "craven-1843-chadwick-leeds-housing",
+        "group": "reform-from-above",
+        "sourcing": "R. Craven, a Leeds surgeon, gave evidence that Edwin Chadwick quoted in his Supplementary Report on the Practice of Interment in Towns in 1843. His description of Irish families crowded into cellar dwellings was used by a reformer to argue for public health action, and as a professional man he may carry the prejudices of his class and time."
+      }
+    ],
+    "notes": {
+      "thesis": [
+        "Reform from above was the most effective response in the short term because only governments, employers and churches could make rules binding on whole industries, as the factory and mines acts of Britain and Bismarck's insurance laws did, but these reforms came largely because workers and socialists created pressure.",
+        "Labor organization was the most effective response over the century because unions, strikes and political movements gave workers lasting bargaining power, whereas Chartism's petitions failed and utopian experiments stayed small; unions won recognition and shorter hours that reformers alone had not delivered.",
+        "Socialist ideas were the least effective at directly changing conditions before 1900, since revolutionary hopes of 1848 failed, but they were the most influential in shaping the agenda: fear of socialism led governments such as Bismarck's to offer welfare and led the Church to respond with Rerum Novarum."
+      ],
+      "contextualization": [
+        {
+          "text": "The Industrial Revolution created factory towns and a large wage-earning working class that faced long hours, low pay, child labour and unhealthy housing, and which had little political voice because of property qualifications for voting.",
+          "ref": {
+            "title": "Industrial Revolution",
+            "url": "https://www.britannica.com/event/Industrial-Revolution"
+          }
+        },
+        {
+          "text": "The Combination Acts of 1799 and 1800 banned workers' associations in Britain, and their repeal in 1824 allowed trade unions to organise legally, though strikes remained risky.",
+          "ref": {
+            "title": "Combination Acts",
+            "url": "https://en.wikipedia.org/wiki/Combination_Acts"
+          }
+        },
+        {
+          "text": "Laissez-faire economic thought, drawn from Adam Smith, held that governments should interfere little in the economy, and it shaped the early resistance of many employers and legislators to regulation of factories and wages.",
+          "ref": {
+            "title": "Laissez-faire",
+            "url": "https://en.wikipedia.org/wiki/Laissez-faire"
+          }
+        }
+      ],
+      "outsideEvidence": [
+        {
+          "text": "The Luddites, groups of textile workers in England in 1811–1816, broke machines they thought threatened their living; the government made machine-breaking a capital offence and sent troops, which shows the limits of early direct action.",
+          "ref": {
+            "title": "Luddite",
+            "url": "https://en.wikipedia.org/wiki/Luddite"
+          }
+        },
+        {
+          "text": "The Factory Act of 1833 banned the employment of children under nine in textile mills, limited hours for older children and created factory inspectors, the first factory law in Britain that could be enforced.",
+          "ref": {
+            "title": "Factory Acts",
+            "url": "https://en.wikipedia.org/wiki/Factory_Acts"
+          }
+        },
+        {
+          "text": "Chartism's People's Charter of 1838 asked for six reforms, including universal male suffrage and the secret ballot; Parliament rejected the Chartist petitions of 1839, 1842 and 1848, though most of the six points later became law.",
+          "ref": {
+            "title": "Chartism",
+            "url": "https://en.wikipedia.org/wiki/Chartism"
+          }
+        },
+        {
+          "text": "The Trade Union Act of 1871 gave British trade unions legal status and protected their funds, a gain for labor organization decades after the end of the Combination Acts.",
+          "ref": {
+            "title": "Trade Union Act 1871",
+            "url": "https://en.wikipedia.org/wiki/Trade_Union_Act_1871"
+          }
+        },
+        {
+          "text": "Bismarck's laws of 1883 to 1889 created health, accident and old-age insurance for German workers, the first national welfare system, which he promoted to draw workers away from the Social Democrats.",
+          "ref": {
+            "title": "Otto von Bismarck",
+            "url": "https://en.wikipedia.org/wiki/Otto_von_Bismarck"
+          }
+        },
+        {
+          "text": "The International Workingmen's Association, founded in London in 1864 with Marx taking part, linked workers' groups across borders and gave socialism an organization, though it split and dissolved by the 1870s.",
+          "ref": {
+            "title": "First International",
+            "url": "https://en.wikipedia.org/wiki/First_International"
+          }
+        }
+      ],
+      "complexity": [
+        "Explain similarity and difference: compare Britain's factory acts, which followed evidence collected by Parliament and pressure from reformers like Ashley, with Bismarck's welfare laws, which a conservative government offered in order to weaken a socialist party, to show that reform from above could have different motives and still help workers.",
+        "Corroborate across groups: Marx's call for a legal limit to the working day, Engels's account of unions, and the testimony in front of Parliament all point to the same finding, that organization by workers and reform by law worked together and are hard to separate in effect.",
+        "Qualify with a counter-argument: reform from above often came late and covered few workers, and owners could evade the laws, while Owen's experiment at New Lanark and Leo XIII's encyclical show that employers and the Church tried to offer an alternative to class conflict."
+      ]
+    }
+  },
+  {
+    "id": "industrial-society",
+    "topics": [
+      "5.9"
+    ],
+    "prompt": "Evaluate the extent to which industrialization changed the lives of working people and their families in the period c. 1750–1900.",
+    "groups": [
+      {
+        "key": "class",
+        "label": "New classes: the middle class and the working class"
+      },
+      {
+        "key": "gender-family",
+        "label": "Women, children and separate spheres"
+      },
+      {
+        "key": "cities",
+        "label": "Cities: crowding, housing and public health"
+      }
+    ],
+    "pool": [
+      {
+        "doc": "smiles-1859-self-help",
+        "group": "class",
+        "sourcing": "Smiles was a Scottish writer and advocate of self-reliance who published Self-Help in 1859. He says that help from within strengthens a person and that institutions can do little, so he speaks for middle-class confidence that effort allowed advancement; as a moral guide for readers, he does not describe the experience of most workers."
+      },
+      {
+        "doc": "chartist-1838-national-petition",
+        "group": "class",
+        "sourcing": "The Chartists were English working-class radicals and this is their National Petition to the House of Commons of 1838. It describes starving workmen and a government run by the few for the few, so it shows a new class-based political voice; it is a petition written to persuade and may exaggerate distress."
+      },
+      {
+        "doc": "marx-engels-1848-manifesto-bourgeoisie-proletariat",
+        "group": "class",
+        "sourcing": "Marx and Engels were German socialist writers who wrote the Communist Manifesto in 1848 for a political movement. It describes society divided into bourgeoisie and proletariat, with the worker turned into 'an appendage of the machine', so it gives a clear class picture that simplifies a society with many middle groups and various trades."
+      },
+      {
+        "doc": "robinson-1898-loom-and-spindle-doffer",
+        "group": "gender-family",
+        "sourcing": "Harriet Hanson Robinson was a former Lowell mill girl who recalled the 1830s in Loom and Spindle in 1898. She describes starting as a young 'doffer' with working days of nearly fourteen hours, which shows child and female wage work in New England mills, but she wrote decades later and remembers the experience with less bitterness than many other witnesses."
+      },
+      {
+        "doc": "crabtree-1832-sadler-committee",
+        "group": "gender-family",
+        "sourcing": "Matthew Crabtree was a 22-year-old blanket manufacturer who had worked in a textile mill from the age of eight, testifying to the Sadler Committee of the House of Commons in 1832. He describes fourteen-hour days and being beaten and woken by his parents, which shows child labour as a family matter, but he spoke to a committee looking for evidence of abuse."
+      },
+      {
+        "doc": "harris-1842-ashley-mines-hansard",
+        "group": "gender-family",
+        "sourcing": "Betty Harris was a coal-bearer whose testimony to the Children's Employment Commission (Mines) was quoted by Lord Ashley in the House of Commons in 1842. She describes hauling coal on hands and feet with a belt and chain and says the work is worse when pregnant, which shows the harsh work of women in mines, though Ashley chose her words to persuade."
+      },
+      {
+        "doc": "ruskin-1865-sesame-lilies-queens-gardens",
+        "group": "gender-family",
+        "sourcing": "Ruskin was a Victorian art critic and social writer who gave this lecture in 1865. He describes man as the active 'doer' and woman as the keeper of home as a place of peace, which gives an ideal of separate spheres that suited the middle class; it expresses an ideal and not what working women did."
+      },
+      {
+        "doc": "mill-1869-subjection-women",
+        "group": "gender-family",
+        "sourcing": "John Stuart Mill was an English philosopher and Member of Parliament who published The Subjection of Women in 1869. He argues that the legal subordination of women is wrong and should give way to equality, so he challenges the separate spheres ideal; he writes as a privileged male reformer and not from the experience of working women."
+      },
+      {
+        "doc": "engels-1845-little-ireland-manchester",
+        "group": "cities",
+        "sourcing": "Engels was a German socialist and son of a Manchester mill-owner who described the Little Ireland district in 1845. He writes of crowded cottages, refuse, undrained streets and smoke from factory chimneys, which gives a first-hand view of the worst housing, though a critic of capitalism chose the evidence."
+      },
+      {
+        "doc": "craven-1843-chadwick-leeds-housing",
+        "group": "cities",
+        "sourcing": "R. Craven, a Leeds surgeon, gave evidence that Edwin Chadwick quoted in his 1843 report on burial in towns. He describes cellar dwellings crammed with families and a pig, which shows overcrowding as a professional witnessed it and was used by a reformer to argue for action, but he may share the prejudices of his class against the Irish poor."
+      },
+      {
+        "doc": "riis-1890-how-other-half-lives",
+        "group": "cities",
+        "sourcing": "Jacob Riis was a Danish-born New York police reporter and reformer who published How the Other Half Lives in 1890. He leads the reader through a dark Cherry Street tenement, which shows that urban crowding continued late in the century and in the United States, though he wrote to shock middle-class readers into supporting reform."
+      }
+    ],
+    "notes": {
+      "thesis": [
+        "Industrialization changed the lives of working people to a great extent: it moved work from home and field to factory, mine and wage labour, created a large urban working class and a self-confident middle class, and increased the rise of cities with new problems of housing and disease.",
+        "The change was uneven and in some ways limited, since families stayed the basic unit of work and survival, women and children kept working but in new settings, and the ideal of separate spheres described the middle class more than the working class; the change in daily life depended on class, sex and place.",
+        "The deepest change was in cities and class relations, while changes in family life were mostly shifts of setting and of ideas; by 1900, reforms such as factory laws and public health measures had begun to reduce the worst effects, which suggests that the extent of change grew through the century."
+      ],
+      "contextualization": [
+        {
+          "text": "Before industrialization most people lived in rural households where families worked together at farming and at spinning and weaving at home, in what historians call the putting-out system, with the family setting the rhythm of work.",
+          "ref": {
+            "title": "Putting-out system",
+            "url": "https://en.wikipedia.org/wiki/Putting-out_system"
+          }
+        },
+        {
+          "text": "Enclosure and the British Agricultural Revolution reduced the demand for farm labour and encouraged many rural people to migrate to towns and mills, and population growth in the 18th century increased the supply of workers.",
+          "ref": {
+            "title": "British Agricultural Revolution",
+            "url": "https://en.wikipedia.org/wiki/British_Agricultural_Revolution"
+          }
+        },
+        {
+          "text": "The Industrial Revolution, starting in Britain about 1750, brought factories, steam power and new transport, and it spread to Europe, North America and Japan in the 19th century, changing both where and how people worked.",
+          "ref": {
+            "title": "Industrial Revolution",
+            "url": "https://www.britannica.com/event/Industrial-Revolution"
+          }
+        }
+      ],
+      "outsideEvidence": [
+        {
+          "text": "The Factory Act of 1833 banned children under nine from textile mills, limited the hours of older children and set up factory inspectors, a sign that Parliament accepted a duty to protect child workers.",
+          "ref": {
+            "title": "Factory Acts",
+            "url": "https://en.wikipedia.org/wiki/Factory_Acts"
+          }
+        },
+        {
+          "text": "The Public Health Act of 1848 set up a General Board of Health and allowed local boards to improve drains and water supply, building on Chadwick's campaign for sanitary reform.",
+          "ref": {
+            "title": "Edwin Chadwick",
+            "url": "https://en.wikipedia.org/wiki/Edwin_Chadwick"
+          }
+        },
+        {
+          "text": "In 1854 the physician John Snow traced a cholera outbreak in Soho, London, to a water pump on Broad Street, an important step towards understanding that dirty water spread disease.",
+          "ref": {
+            "title": "1854 Broad Street cholera outbreak",
+            "url": "https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak"
+          }
+        },
+        {
+          "text": "From 1853 Baron Haussmann rebuilt Paris under Napoleon III with wide boulevards, sewers and water supply, one example of a government remaking a city for health, order and traffic.",
+          "ref": {
+            "title": "Haussmann's renovation of Paris",
+            "url": "https://en.wikipedia.org/wiki/Haussmann%27s_renovation_of_Paris"
+          }
+        },
+        {
+          "text": "The Seneca Falls Convention of 1848 in New York issued a Declaration of Sentiments demanding rights for women, including the vote, and began an organised women's rights movement in the United States.",
+          "ref": {
+            "title": "Seneca Falls Convention",
+            "url": "https://en.wikipedia.org/wiki/Seneca_Falls_Convention"
+          }
+        },
+        {
+          "text": "The Married Women's Property Act of 1870 in Britain let married women keep their own earnings, a step away from the legal rule that a husband controlled his wife's property.",
+          "ref": {
+            "title": "Married Women's Property Act 1870",
+            "url": "https://en.wikipedia.org/wiki/Married_Women%27s_Property_Act_1870"
+          }
+        }
+      ],
+      "complexity": [
+        "Explain similarity and difference: compare the young workers of Crabtree and Harris in Britain with Robinson's account of Lowell, where mill work was one stage of a girl's life and not a lifelong fate, to show that the effects of industrial work on families depended on place and on the age and sex of the worker.",
+        "Corroborate across groups: Engels and Craven both describe crowded, filthy housing in northern English towns and Riis shows the same in New York, which supports the claim that urban conditions were a general result of rapid industrial growth.",
+        "Qualify with a counter-argument: Smiles and Ruskin describe middle-class ideals of effort and of the home, while Mill criticises them, so industrialization changed the lives of different classes in different ways and the evidence should be weighed by who produced it."
+      ]
+    }
+  }
+]
