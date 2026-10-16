@@ -113,9 +113,23 @@ export async function checkFile(file, { mark = false, only = null, fetchPage = f
     if (mark && result.status === 'match') Object.assign(doc, { verified: true, verifiedBy: 'script' });
   }
   const reportFile = file.replace(/\.json$/, '-report.json');
+  // Nothing selected means nothing was checked: leave an earlier report and the candidates file alone.
+  if (report.length === 0) return { reportFile, report, wroteReport: false };
   await writeFile(reportFile, `${JSON.stringify(report, null, 2)}\n`);
-  if (mark) await writeFile(file, `${JSON.stringify(json, null, 2)}\n`);
-  return { reportFile, report };
+  if (mark && report.some((r) => r.status === 'match')) await writeFile(file, `${JSON.stringify(json, null, 2)}\n`);
+  return { reportFile, report, wroteReport: true };
+}
+
+const USAGE = 'usage: node tools/check-sources.js [--unit id] [file.json] [--mark] [--only id,id] | --text <url>';
+
+export function parseArgs(argv) {
+  const { unit, args } = takeUnit(argv);
+  const onlyAt = args.indexOf('--only');
+  const only = onlyAt >= 0 ? new Set((args[onlyAt + 1] ?? '').split(',')) : null;
+  const mark = args.includes('--mark');
+  const files = args.filter((a, i) => !a.startsWith('--') && !(onlyAt >= 0 && i === onlyAt + 1));
+  if (only && !unit && files.length === 0) throw new Error(`--only needs --unit <id> or a file, or it would run over every unit.\n${USAGE}`);
+  return { unit, only, mark, files };
 }
 
 async function main(argv) {
@@ -123,11 +137,7 @@ async function main(argv) {
     console.log(await fetchText(argv[1]));
     return;
   }
-  const { unit, args } = takeUnit(argv);
-  const onlyAt = args.indexOf('--only');
-  const only = onlyAt >= 0 ? new Set((args[onlyAt + 1] ?? '').split(',')) : null;
-  const mark = args.includes('--mark');
-  const files = args.filter((a, i) => !a.startsWith('--') && !(onlyAt >= 0 && i === onlyAt + 1));
+  const { unit, only, mark, files } = parseArgs(argv);
   const jobs = [];
   if (files.length > 0) {
     const base = unit ? (await selectUnits(DATA_ROOT, unit))[0].dir : process.cwd();
@@ -138,9 +148,13 @@ async function main(argv) {
       if (await access(file).then(() => true, () => false)) jobs.push({ base: dir, file });
     }
   }
-  if (jobs.length === 0) throw new Error('usage: node tools/check-sources.js [--unit id] [file.json] [--mark] [--only id,id] | --text <url>');
+  if (jobs.length === 0) throw new Error(USAGE);
   for (const { base, file } of jobs) {
-    const { reportFile, report } = await checkFile(file, { mark, only });
+    const { reportFile, report, wroteReport } = await checkFile(file, { mark, only });
+    if (!wroteReport) {
+      console.log(`nothing to check in ${path.relative(base, file)}; no report written`);
+      continue;
+    }
     const count = (status) => report.filter((r) => r.status === status).length;
     console.log(`match ${count('match')}, mismatch ${count('mismatch')}, fetch-failed ${count('fetch-failed')}, manual ${count('manual')} → ${path.relative(base, reportFile)}`);
     for (const r of report.filter((x) => x.status !== 'match')) {

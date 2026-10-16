@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { mkdtemp, readFile, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
-import { htmlToText, normalizeForMatch, segmentsOf, checkText, checkDocument, checkFile } from '../tools/check-sources.js';
+import { htmlToText, normalizeForMatch, segmentsOf, checkText, checkDocument, checkFile, parseArgs } from '../tools/check-sources.js';
 import { makeDoc, WORDS_80 } from './helpers/fixture.js';
 
 test('normalizeForMatch folds case, accents, punctuation and curly quotes', () => {
@@ -76,4 +76,32 @@ test('checkFile reports each unverified document, writes <file>-report.json, and
   const marked = JSON.parse(await readFile(file, 'utf8')).documents;
   assert.deepEqual(marked.map((d) => [d.id, d.verified]), [['doc-1', true], ['doc-2', false], ['doc-3', true]]);
   assert.equal(marked[0].verifiedBy, 'script');
+});
+
+test('checkFile writes no report and no candidates file when no document was selected', async () => {
+  const dir = await mkdtemp(path.join(tmpdir(), 'check-sources-'));
+  const file = path.join(dir, 'candidates.json');
+  const text = JSON.stringify([makeDoc(1)]);
+  await writeFile(file, text);
+  const result = await checkFile(file, { fetchPage: async () => WORDS_80, mark: true, only: new Set(['not-here']) });
+  assert.deepEqual(result.report, []);
+  assert.equal(result.wroteReport, false);
+  assert.equal(await readFile(path.join(dir, 'candidates-report.json'), 'utf8').catch(() => null), null);
+  assert.equal(await readFile(file, 'utf8'), text);
+});
+
+test('checkFile under mark rewrites the candidates file only when something was marked', async () => {
+  const dir = await mkdtemp(path.join(tmpdir(), 'check-sources-'));
+  const file = path.join(dir, 'candidates.json');
+  const text = '[ {"id":"doc-2","verified":false,"sourceUrl":"u","text":"a completely different excerpt which the source page never says anywhere at all"} ]';
+  await writeFile(file, text);
+  await checkFile(file, { fetchPage: async () => WORDS_80, mark: true });
+  assert.equal(await readFile(file, 'utf8'), text);
+  assert.ok(await readFile(path.join(dir, 'candidates-report.json'), 'utf8'));
+});
+
+test('parseArgs refuses --only without --unit or an explicit file', () => {
+  assert.throws(() => parseArgs(['--mark', '--only', 'a,b']), /--only needs --unit/);
+  assert.equal(parseArgs(['--unit', 'unit-5', '--only', 'a,b']).unit, 'unit-5');
+  assert.deepEqual(parseArgs(['x.json', '--only', 'a']).files, ['x.json']);
 });
