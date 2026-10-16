@@ -1,0 +1,90 @@
+[
+ {
+  "file": "dbqs",
+  "id": "state-led-industrialization",
+  "path": "notes.complexity.1",
+  "old": "Corroborate across groups: Okuma and Yung Wing show armies and arsenals as the first reason for state action, while Inouye and Matsukata show railways and finance following, so defence and economic growth reinforced each other and both rested on state power.",
+  "new": "Corroborate across groups: Yamagata and Yung Wing show armies and arsenals as the first reason for state action, while Inouye and Matsukata show railways and finance following, so defence and economic growth reinforced each other and both rested on state power.",
+  "why": "Okuma is not in the pool; the Japanese army source is Yamagata (yamagata-1908-japanese-army)."
+ },
+ {
+  "file": "dbqs",
+  "id": "state-led-industrialization",
+  "path": "notes.complexity.2",
+  "old": "Qualify with a counter-argument: two of the sources on limits are by British observers and officials such as Cromer and Duff Gordon, who may exaggerate the failures of governments they criticised, while Russia's Alexander II shows a state reform that mainly protected the nobility.",
+  "new": "Qualify with a counter-argument: two of the sources on limits are by British observers and officials such as Cromer and Duff Gordon, who may exaggerate the failures of governments they criticised, while Midhat, writing the life of his reforming father, may flatter the Tanzimat.",
+  "why": "Alexander II is not a source in this pool, so students cannot use him; the pool's source written by a reformer's son is Midhat."
+ },
+ {
+  "file": "saqs",
+  "id": "latin-america-independence-1",
+  "path": "refs.0.title",
+  "old": "Latin American wars of independence",
+  "new": "Spanish American wars of independence",
+  "why": "Cited page is a disambiguation page with no content; the Spanish American wars page supports the Napoleon, peninsular, Bourbon and Enlightenment causes."
+ },
+ {
+  "file": "saqs",
+  "id": "latin-america-independence-1",
+  "path": "refs.0.url",
+  "old": "https://en.wikipedia.org/wiki/Latin_American_wars_of_independence",
+  "new": "https://en.wikipedia.org/wiki/Spanish_American_wars_of_independence",
+  "why": "Cited page is a disambiguation page with no content."
+ },
+ {
+  "file": "saqs",
+  "id": "division-of-labour-1",
+  "path": "parts.0.accept.1",
+  "old": "Output per worker rises enormously: a single untrained worker could scarcely make twenty pins a day, while in the divided process (Smith goes on to say ten specialised workers made upward of 48,000 pins a day) each makes thousands.",
+  "new": "Output per worker rises enormously: a single untrained worker could scarcely make one pin a day, and certainly not twenty, while in the divided process (Smith goes on to say ten specialised workers made upward of 48,000 pins a day) each makes thousands.",
+  "why": "Smith writes the untrained workman 'could scarce, perhaps, with his utmost industry, make one pin in a day, and certainly could not make twenty', not that he could scarcely make twenty."
+ },
+ {
+  "file": "saqs",
+  "id": "emancipation-compare-1",
+  "path": "refs.1.title",
+  "old": "Latin American wars of independence",
+  "new": "Spanish American wars of independence",
+  "why": "Cited Latin American wars of independence page is a disambiguation page with no content; the Spanish American wars page covers the independence wars and San Martin."
+ },
+ {
+  "file": "saqs",
+  "id": "emancipation-compare-1",
+  "path": "refs.1.url",
+  "old": "https://en.wikipedia.org/wiki/Latin_American_wars_of_independence",
+  "new": "https://en.wikipedia.org/wiki/Spanish_American_wars_of_independence",
+  "why": "Cited page is a disambiguation page."
+ },
+ {
+  "file": "mcqs",
+  "id": "tucuman-independence",
+  "path": "questions.0.ref.title",
+  "old": "Latin American wars of independence",
+  "new": "Spanish American wars of independence",
+  "why": "Cited page is a disambiguation page with no content; Spanish American wars page covers Napoleon's 1808 invasion and the juntas."
+ },
+ {
+  "file": "mcqs",
+  "id": "tucuman-independence",
+  "path": "questions.0.ref.url",
+  "old": "https://en.wikipedia.org/wiki/Latin_American_wars_of_independence",
+  "new": "https://en.wikipedia.org/wiki/Spanish_American_wars_of_independence",
+  "why": "Cited page is a disambiguation page."
+ },
+ {
+  "file": "mcqs",
+  "id": "tucuman-independence",
+  "path": "questions.3.ref.title",
+  "old": "Latin American wars of independence",
+  "new": "Spanish American wars of independence",
+  "why": "Cited page is a disambiguation page with no content; Spanish American wars page covers creoles replacing Spanish officials after independence."
+ },
+ {
+  "file": "mcqs",
+  "id": "tucuman-independence",
+  "path": "questions.3.ref.url",
+  "old": "https://en.wikipedia.org/wiki/Latin_American_wars_of_independence",
+  "new": "https://en.wikipedia.org/wiki/Spanish_American_wars_of_independence",
+  "why": "Cited page is a disambiguation page."
+ }
+]

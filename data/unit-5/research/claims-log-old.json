@@ -1,0 +1,191 @@
+[
+ {
+  "file": "dbqs",
+  "id": "enlightenment-revolutions",
+  "checked": 34,
+  "edits": 0,
+  "notes": "ctx[1] ref (Seven Years War) does not mention Stamp Act or British debt; claim is standard, no better read ref. Britannica French Revolution archive snapshot only has intro."
+ },
+ {
+  "file": "dbqs",
+  "id": "latin-american-independence",
+  "checked": 36,
+  "edits": 0,
+  "notes": ""
+ },
+ {
+  "file": "dbqs",
+  "id": "industrial-revolution-causes",
+  "checked": 33,
+  "edits": 0,
+  "notes": "Triangular trade ref only loosely supports British merchant wealth; standard content."
+ },
+ {
+  "file": "dbqs",
+  "id": "state-led-industrialization",
+  "checked": 32,
+  "edits": 2,
+  "notes": ""
+ },
+ {
+  "file": "dbqs",
+  "id": "reactions-industrial-economy",
+  "checked": 35,
+  "edits": 0,
+  "notes": ""
+ },
+ {
+  "file": "dbqs",
+  "id": "industrial-society",
+  "checked": 38,
+  "edits": 0,
+  "notes": ""
+ },
+ {
+  "file": "saqs",
+  "id": "enlightenment-1",
+  "checked": 11,
+  "edits": 0,
+  "notes": ""
+ },
+ {
+  "file": "saqs",
+  "id": "haiti-dessalines-1",
+  "checked": 9,
+  "edits": 0,
+  "notes": "Haitian Revolution article text read does not mention the Louisiana sale or help to Bolivar (standard content, kept)."
+ },
+ {
+  "file": "saqs",
+  "id": "latin-america-independence-1",
+  "checked": 9,
+  "edits": 2,
+  "notes": "Search count 0; fetched 1 extra article (Spanish American wars of independence)."
+ },
+ {
+  "file": "saqs",
+  "id": "division-of-labour-1",
+  "checked": 10,
+  "edits": 1,
+  "notes": ""
+ },
+ {
+  "file": "saqs",
+  "id": "china-self-strengthening-1",
+  "checked": 9,
+  "edits": 0,
+  "notes": ""
+ },
+ {
+  "file": "saqs",
+  "id": "suez-canal-labour-1",
+  "checked": 9,
+  "edits": 0,
+  "notes": ""
+ },
+ {
+  "file": "saqs",
+  "id": "german-social-insurance-1",
+  "checked": 12,
+  "edits": 0,
+  "notes": ""
+ },
+ {
+  "file": "saqs",
+  "id": "free-trade-ricardo-1",
+  "checked": 9,
+  "edits": 0,
+  "notes": ""
+ },
+ {
+  "file": "saqs",
+  "id": "trade-unions-engels-1",
+  "checked": 12,
+  "edits": 0,
+  "notes": ""
+ },
+ {
+  "file": "saqs",
+  "id": "child-labour-bentley-1",
+  "checked": 12,
+  "edits": 0,
+  "notes": ""
+ },
+ {
+  "file": "saqs",
+  "id": "emancipation-compare-1",
+  "checked": 11,
+  "edits": 2,
+  "notes": ""
+ },
+ {
+  "file": "saqs",
+  "id": "transport-communications-compare-1",
+  "checked": 11,
+  "edits": 0,
+  "notes": ""
+ },
+ {
+  "file": "mcqs",
+  "id": "wollstonecraft-vindication",
+  "checked": 16,
+  "edits": 0,
+  "notes": ""
+ },
+ {
+  "file": "mcqs",
+  "id": "tucuman-independence",
+  "checked": 16,
+  "edits": 4,
+  "notes": ""
+ },
+ {
+  "file": "mcqs",
+  "id": "engels-textile-machinery",
+  "checked": 12,
+  "edits": 0,
+  "notes": "Q2 option D (ban on Indian textile imports, Calico Acts) is historically arguable but not the best answer; left as is."
+ },
+ {
+  "file": "mcqs",
+  "id": "kiangnan-arsenal-yung-wing",
+  "checked": 16,
+  "edits": 0,
+  "notes": ""
+ },
+ {
+  "file": "mcqs",
+  "id": "twain-railroads-steamboats",
+  "checked": 9,
+  "edits": 0,
+  "notes": ""
+ },
+ {
+  "file": "mcqs",
+  "id": "smith-joint-stock-companies",
+  "checked": 9,
+  "edits": 0,
+  "notes": ""
+ },
+ {
+  "file": "mcqs",
+  "id": "proudhon-property-robbery",
+  "checked": 16,
+  "edits": 0,
+  "notes": ""
+ },
+ {
+  "file": "mcqs",
+  "id": "riis-tenements",
+  "checked": 16,
+  "edits": 0,
+  "notes": "Tenement ref does not mention the 1901 Tenement House Act; standard content."
+ },
+ {
+  "file": "mcqs",
+  "id": "carnegie-wealth-change",
+  "checked": 9,
+  "edits": 0,
+  "notes": "Social Darwinism article does not name Carnegie; standard content."
+ }
+]
