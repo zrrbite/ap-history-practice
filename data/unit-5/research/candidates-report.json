@@ -1,22 +1,287 @@
 [
   {
-    "id": "lane-1836-monopolies-and-manufactures",
-    "sourceUrl": "https://www.gutenberg.org/cache/epub/70796/pg70796.txt",
+    "id": "marx-1853-british-rule-steam-free-trade",
+    "sourceUrl": "https://www.marxists.org/archive/marx/works/1853/06/25.htm",
     "status": "match"
   },
   {
-    "id": "lane-1836-conscription-evasion",
-    "sourceUrl": "https://www.gutenberg.org/cache/epub/70796/pg70796.txt",
+    "id": "marx-1853-future-results-railways",
+    "sourceUrl": "https://www.marxists.org/archive/marx/works/1853/07/22.htm",
     "status": "match"
   },
   {
-    "id": "stjohn-1834-rosetta-failed-mills",
-    "sourceUrl": "https://archive.org/stream/egyptandmohamme02johngoog/egyptandmohamme02johngoog_djvu.txt",
+    "id": "babbage-1832-cotton-india-lancashire",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/4238/pg4238.txt",
     "status": "match"
   },
   {
-    "id": "scott-1837-why-monopolies",
-    "sourceUrl": "https://archive.org/stream/ramblesinegyptca02scot/ramblesinegyptca02scot_djvu.txt",
+    "id": "jevons-1865-coal-question-world-supplies",
+    "sourceUrl": "https://archive.org/stream/bub_gb_nVtJUsGgLcoC/bub_gb_nVtJUsGgLcoC_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "naoroji-1871-benefits-detriments-material",
+    "sourceUrl": "https://sourcebooks.fordham.edu/mod/1871britishrule.asp",
+    "status": "match"
+  },
+  {
+    "id": "mill-1848-benefits-of-commerce",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/30107/pg30107.txt",
+    "status": "match"
+  },
+  {
+    "id": "carlyle-1843-laissez-faire-nexus",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/26159/pg26159.txt",
+    "status": "match"
+  },
+  {
+    "id": "carlyle-1843-mammon-gospel-cash-payment",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/26159/pg26159.txt",
+    "status": "match"
+  },
+  {
+    "id": "ruskin-1860-unto-this-last-no-wealth-but-life",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/36541/pg36541.txt",
+    "status": "match"
+  },
+  {
+    "id": "george-1879-progress-and-poverty-promise",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/55308/pg55308.txt",
+    "status": "match"
+  },
+  {
+    "id": "george-1879-progress-and-poverty-disappointment",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/55308/pg55308.txt",
+    "status": "match"
+  },
+  {
+    "id": "bastiat-1845-candlemakers-petition",
+    "sourceUrl": "https://www.gutenberg.org/files/44145/44145-h/44145-h.htm",
+    "status": "match"
+  },
+  {
+    "id": "kemble-1830-liverpool-manchester-railway",
+    "sourceUrl": "https://www.gutenberg.org/files/31395/31395-h/31395-h.htm",
+    "status": "match"
+  },
+  {
+    "id": "bagehot-1873-lombard-street-joint-stock-banks",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/4359/pg4359.txt",
+    "status": "match"
+  },
+  {
+    "id": "smith-1776-invisible-hand-home-market",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/3300/pg3300.txt",
+    "status": "match"
+  },
+  {
+    "id": "smith-1776-water-carriage-market",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/3300/pg3300.txt",
+    "status": "match"
+  },
+  {
+    "id": "bagehot-1873-lombard-street-limited-liability",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/4359/pg4359.txt",
+    "status": "match"
+  },
+  {
+    "id": "marx-1867-capital-transport-telegraphs",
+    "sourceUrl": "https://www.marxists.org/archive/marx/works/1867-c1/ch15.htm",
+    "status": "match"
+  },
+  {
+    "id": "marx-1867-capital-international-division-labour",
+    "sourceUrl": "https://www.marxists.org/archive/marx/works/1867-c1/ch15.htm",
+    "status": "match"
+  },
+  {
+    "id": "marx-1867-capital-handloom-weavers-india",
+    "sourceUrl": "https://www.marxists.org/archive/marx/works/1867-c1/ch15.htm",
+    "status": "match"
+  },
+  {
+    "id": "gandhi-1909-hind-swaraj-railways",
+    "sourceUrl": "https://www.gutenberg.org/files/40461/40461-h/40461-h.htm",
+    "status": "match"
+  },
+  {
+    "id": "gandhi-1909-hind-swaraj-machinery-manchester",
+    "sourceUrl": "https://www.gutenberg.org/files/40461/40461-h/40461-h.htm",
+    "status": "match"
+  },
+  {
+    "id": "ure-1835-factory-system-arkwright",
+    "sourceUrl": "https://sourcebooks.fordham.edu/mod/1835ure.asp",
+    "status": "match"
+  },
+  {
+    "id": "bryan-1896-cross-of-gold",
+    "sourceUrl": "https://teachingamericanhistory.org/document/the-cross-of-gold-speech/",
+    "status": "match"
+  },
+  {
+    "id": "smith-1776-banking-waggon-way",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/3300/pg3300.txt",
+    "status": "match"
+  },
+  {
+    "id": "yung-1909-joint-stock-steamship-proposal",
+    "sourceUrl": "https://gutenberg.org/cache/epub/54635/pg54635.txt",
+    "status": "match"
+  },
+  {
+    "id": "nasmyth-1883-self-acting-machine-tools",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/476/pg476.txt",
+    "status": "match"
+  },
+  {
+    "id": "rochdale-1844-pioneers-objects",
+    "sourceUrl": "https://archive.org/stream/historyofrochdal00holyuoft/historyofrochdal00holyuoft_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "shibusawa-1908-first-national-bank-shareholders",
+    "sourceUrl": "https://archive.org/stream/fiftyyearsofnewj01okumuoft/fiftyyearsofnewj01okumuoft_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "shibusawa-1908-joint-stock-men-of-ability",
+    "sourceUrl": "https://archive.org/stream/fiftyyearsofnewj01okumuoft/fiftyyearsofnewj01okumuoft_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "victoria-1858-atlantic-cable-message",
+    "sourceUrl": "https://gutenberg.org/files/34765/34765-h/34765-h.htm",
+    "status": "match"
+  },
+  {
+    "id": "buchanan-1858-atlantic-cable-reply",
+    "sourceUrl": "https://gutenberg.org/files/34765/34765-h/34765-h.htm",
+    "status": "match"
+  },
+  {
+    "id": "sumner-1883-laissez-faire-mind-your-business",
+    "sourceUrl": "https://www.gutenberg.org/files/18603/18603-h/18603-h.htm",
+    "status": "match"
+  },
+  {
+    "id": "weeks-1903-congo-public-works-morel",
+    "sourceUrl": "https://archive.org/stream/redrubberstoryof00more_0/redrubberstoryof00more_0_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "equiano-1789-middle-passage",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/15399/pg15399.txt",
+    "status": "match"
+  },
+  {
+    "id": "prince-1831-history-slaves-want-freedom",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/17851/pg17851.txt",
+    "status": "match"
+  },
+  {
+    "id": "douglass-1845-hiring-his-time",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/23/pg23.txt",
+    "status": "match"
+  },
+  {
+    "id": "washington-1901-mortgaged-crops",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/2376/pg2376.txt",
+    "status": "match"
+  },
+  {
+    "id": "herzl-1896-jewish-state-one-people",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/25282/pg25282.txt",
+    "status": "match"
+  },
+  {
+    "id": "mazzini-1858-duties-of-man-country",
+    "sourceUrl": "https://history.hanover.edu/texts/Mazzini/mazzini5.html",
+    "status": "match"
+  },
+  {
+    "id": "bismarck-1862-iron-and-blood",
+    "sourceUrl": "https://germanhistorydocs.org/en/from-vormaerz-to-prussian-dominance-1815-1866/excerpt-from-bismarcks-blood-and-iron-speech-1862",
+    "status": "match"
+  },
+  {
+    "id": "fichte-1808-addresses-german-nation",
+    "sourceUrl": "https://archive.org/stream/addressestogerma00fich/addressestogerma00fich_djvu.txt",
+    "status": "match"
+  },
+  {
+    "id": "greek-assembly-1822-declaration-independence",
+    "sourceUrl": "https://declarationproject.org/?p=1592",
+    "status": "match"
+  },
+  {
+    "id": "parliament-1833-slavery-abolition-act",
+    "sourceUrl": "https://www.irishstatutebook.ie/1833/en/act/pub/0073/print.html",
+    "status": "match"
+  },
+  {
+    "id": "meiji-1890-rescript-on-education",
+    "sourceUrl": "https://en.wikisource.org/wiki/Imperial_Rescript_on_Education",
+    "status": "match"
+  },
+  {
+    "id": "rizal-1889-philippines-century-hence",
+    "sourceUrl": "https://gutenberg.org/cache/epub/35899/pg35899.txt",
+    "status": "match"
+  },
+  {
+    "id": "garibaldi-1859-proclamation-italians",
+    "sourceUrl": "https://gutenberg.org/cache/epub/50544/pg50544.txt",
+    "status": "match"
+  },
+  {
+    "id": "mississippi-1865-black-code-labor-contracts",
+    "sourceUrl": "https://teachingamericanhistory.org/document/black-codes-of-mississippi/",
+    "status": "match"
+  },
+  {
+    "id": "mississippi-1865-black-code-apprentice-law",
+    "sourceUrl": "https://teachingamericanhistory.org/document/black-codes-of-mississippi/",
+    "status": "match"
+  },
+  {
+    "id": "ure-1835-philosophy-of-manufactures",
+    "sourceUrl": "https://sourcebooks.fordham.edu/mod/1835ure.asp",
+    "status": "match"
+  },
+  {
+    "id": "mill-1861-nationality-defined",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/5669/pg5669.txt",
+    "status": "match"
+  },
+  {
+    "id": "mill-1861-nationalities-absorbed",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/5669/pg5669.txt",
+    "status": "match"
+  },
+  {
+    "id": "lincoln-1863-emancipation-proclamation",
+    "sourceUrl": "https://avalon.law.yale.edu/19th_century/emancipa.asp",
+    "status": "match"
+  },
+  {
+    "id": "jacobs-1861-incidents-wages-stolen",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/11030/pg11030.txt",
+    "status": "match"
+  },
+  {
+    "id": "wilberforce-1789-speech-slave-trade",
+    "sourceUrl": "https://www.brycchancarey.com/abolition/wilberforce2.htm",
+    "status": "match"
+  },
+  {
+    "id": "wallace-1877-russia-emancipation-redemption",
+    "sourceUrl": "https://gutenberg.org/cache/epub/1349/pg1349.txt",
+    "status": "match"
+  },
+  {
+    "id": "mitchel-1861-davis-free-sovereign-ireland",
+    "sourceUrl": "https://cartlann.org/authors/john-mitchel/the-last-conquest-of-ireland-perhaps/chapter-x/",
     "status": "match"
   }
 ]

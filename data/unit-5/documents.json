@@ -19,6 +19,24 @@
     "verifiedBy": "script"
   },
   {
+    "id": "babbage-1832-cotton-india-lancashire",
+    "authorKey": "babbage",
+    "sourceLine": "Charles Babbage, English mathematician and observer of British factories, On the Economy of Machinery and Manufactures, 1832",
+    "year": 1832,
+    "kind": "text",
+    "text": "The accumulation of skill and science which has been directed to diminish the difficulty of producing manufactured goods, has not been beneficial to that country alone in which it is concentrated; distant kingdoms have participated in its advantages. … The cotton of India is conveyed by British ships round half our planet, to be woven by British skill in the factories of Lancashire: it is again set in motion by British capital; and, transported to the very plains whereon it grew, is repurchased by the lords of the soil which gave it birth, at a cheaper price than that at which their coarser machinery enables them to manufacture it themselves.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.5",
+      "5.3"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/4238/pg4238.txt",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
     "id": "bagehot-1873-lombard-street-capital",
     "authorKey": "bagehot",
     "sourceLine": "Walter Bagehot, English banker's son and editor of The Economist, Lombard Street: A Description of the Money Market, Chapter 1, 1873",
@@ -34,6 +52,58 @@
       "5.5"
     ],
     "sourceUrl": "https://www.gutenberg.org/cache/epub/4359/pg4359.txt",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
+    "id": "bagehot-1873-lombard-street-joint-stock-banks",
+    "authorKey": "bagehot",
+    "sourceLine": "Walter Bagehot, English banker and editor of The Economist, Lombard Street: A Description of the Money Market, 1873",
+    "year": 1873,
+    "kind": "text",
+    "text": "The Joint Stock Banks of this country are a most remarkable success. Generally speaking the career of Joint Stock Companies in this country has been chequered. Adam Smith, many years since, threw out many pregnant hints on the difficulty of such undertakings--hints which even after so many years will well repay perusal. But joint stock banking has been an exception to this rule. … But the main source of the profitableness of established banking is the smallness of the requisite capital. Being only wanted as a \"moral influence,\" it need not be more than is necessary to secure that influence. Although, therefore, a banker deals only with the most sure securities, and with those which yield the least interest, he can nevertheless gain and divide a very large profit upon his own capital, because the money in his hands is so much larger than that capital.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.7"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/4359/pg4359.txt",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
+    "id": "bagehot-1873-lombard-street-limited-liability",
+    "authorKey": "bagehot",
+    "sourceLine": "Walter Bagehot, English banker and editor of The Economist, Lombard Street: A Description of the Money Market, 1873",
+    "year": 1873,
+    "kind": "text",
+    "text": "The Bank of England had, till lately, the monopoly of limited liability in England. The common law of England knows nothing of any such principle. It is only possible by Royal Charter or Statute Law. And by neither of these was any real bank (I do not count absurd schemes such as Chamberlayne's Land Bank) permitted with limited liability in England till within these few years. … He was declaiming against banks of limited liability, and some one asked--'Why, what do you say, then, to the Bank of England, where you keep your own account?' 'Oh!' he replied, 'that is an exceptional case.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.7"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/4359/pg4359.txt",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
+    "id": "bastiat-1845-candlemakers-petition",
+    "authorKey": "bastiat",
+    "sourceLine": "Frederic Bastiat, French free-trade economist, \"Petition of the Manufacturers of Candles,\" a satire on protectionism from Economic Sophisms, 1845",
+    "year": 1845,
+    "kind": "text",
+    "text": "We are suffering from the intolerable competition of a foreign rival, placed, it would seem, in a condition so far superior to ours for the production of light, that he absolutely inundates our national market with it at a price fabulously reduced. The moment he shows himself, our trade leaves us all consumers apply to him; and a branch of native industry, having countless ramifications, is all at once rendered completely stagnant. … What we pray for is, that it may please you to pass a law ordering the shutting up of all windows, sky-lights, dormer-windows, outside and inside shutters, curtains, blinds, bull's-eyes; in a word, of all openings, holes, chinks, clefts, and fissures, by or through which the light of the sun has been in use to enter houses",
+    "adapted": false,
+    "original": null,
+    "translation": "Translated by Patrick James Stirling, Economic Sophisms, 1873",
+    "topics": [
+      "5.7",
+      "5.6"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/files/44145/44145-h/44145-h.htm",
     "verified": true,
     "verifiedBy": "script"
   },
@@ -123,6 +193,80 @@
       "5.1"
     ],
     "sourceUrl": "https://sourcebooks.fordham.edu/mod/1819bolivar.asp",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
+    "id": "bryan-1896-cross-of-gold",
+    "authorKey": "bryan",
+    "sourceLine": "William Jennings Bryan, Nebraska congressman and Democratic presidential candidate, \"Cross of Gold\" speech to the Democratic National Convention, July 1896",
+    "year": 1896,
+    "kind": "text",
+    "text": "If they ask us here why it is we say more on the money question than we say upon the tariff question, I reply that if protection has slain its thousands the gold standard has slain its tens of thousands. … You come to us and tell us that the great cities are in favor of the gold standard. I tell you that the great cities rest upon these broad and fertile prairies. Burn down your cities and leave our farms, and your cities will spring up again as if by magic. But destroy our farms and the grass will grow in the streets of every city in this country. … we shall answer their demands for a gold standard by saying to them, you shall not press down upon the brow of labor this crown of thorns. You shall not crucify mankind upon a cross of gold.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.7",
+      "5.8"
+    ],
+    "sourceUrl": "https://teachingamericanhistory.org/document/the-cross-of-gold-speech/",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
+    "id": "buchanan-1858-atlantic-cable-reply",
+    "authorKey": "buchanan",
+    "sourceLine": "James Buchanan, President of the United States, reply to Queen Victoria over the first transatlantic telegraph cable, August 16, 1858 (as printed in Henry M. Field, The Story of the Atlantic Telegraph, New York, 1892)",
+    "year": 1858,
+    "kind": "text",
+    "text": "The President cordially reciprocates the congratulations of her Majesty the Queen, on the success of the great international enterprise accomplished by the science, skill, and indomitable energy of the two countries. \"It is a triumph more glorious, because far more useful to mankind, than was ever won by conqueror on the field of battle. \"May the Atlantic Telegraph, under the blessing of Heaven, prove to be a bond of perpetual peace and friendship between the kindred nations, and an instrument destined by Divine Providence to diffuse religion, civilization, liberty, and law throughout the world.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.5",
+      "5.4"
+    ],
+    "sourceUrl": "https://gutenberg.org/files/34765/34765-h/34765-h.htm",
+    "verified": true,
+    "verifiedBy": "script",
+    "verifiedNote": "sourceLine: Field book is The Story of the Atlantic Telegraph (copyright 1892, Gutenberg 34765), not an 1866 book; date added."
+  },
+  {
+    "id": "carlyle-1843-laissez-faire-nexus",
+    "authorKey": "carlyle",
+    "sourceLine": "Thomas Carlyle, Scottish essayist and Romantic social critic, Past and Present, 1843",
+    "year": 1843,
+    "kind": "text",
+    "text": "All this dire misery, therefore; all this of our poor Workhouse Workmen, of our Chartisms, Trades-strikes, Corn-Laws, Toryisms, and the general downbreak of Laissez-faire in these days,--may we not regard it as a voice from the dumb bosom of Nature, saying to us: \"Behold! Supply-and-demand is not the one Law of Nature; Cash-payment is not the sole nexus of man with man,--how far from it! Deep, far deeper than Supply-and-demand, are Laws, Obligations sacred as Man's Life itself: these also, if you will continue to do work, you shall now learn and obey. He that will learn them, behold Nature is on his side, he shall yet work and prosper with noble rewards. He that will not learn them, Nature is against him, he shall not be able to do work in Nature's empire,--not in hers. Perpetual mutiny, contention, hatred, isolation, execration shall wait on his footsteps, till all men discern that the thing which he attains, however golden it look or be, is not success, but the want of success.\"",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.7",
+      "5.8"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/26159/pg26159.txt",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
+    "id": "carlyle-1843-mammon-gospel-cash-payment",
+    "authorKey": "carlyle",
+    "sourceLine": "Thomas Carlyle, Scottish essayist and Romantic social critic, Past and Present, 1843",
+    "year": 1843,
+    "kind": "text",
+    "text": "True, it must be owned, we for the present, with our Mammon-Gospel, have come to strange conclusions. We call it a Society; and go about professing openly the totalest separation, isolation. Our life is not a mutual helpfulness; but rather, cloaked under due laws-of-war, named 'fair competition' and so forth, it is a mutual hostility. We have profoundly forgotten everywhere that _Cash-payment_ is not the sole relation of human beings; we think, nothing doubting, that _it_ absolves and liquidates all engagements of man. \"My starving workers?\" answers the rich mill-owner: \"Did not I hire them fairly in the market? Did I not pay them, to the last sixpence, the sum covenanted for? What have I to do with them more?\"--Verily Mammon-worship is a melancholy creed.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.7",
+      "5.8",
+      "5.9"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/26159/pg26159.txt",
     "verified": true,
     "verifiedBy": "script"
   },
@@ -330,6 +474,24 @@
     "verified": true,
     "verifiedBy": "script",
     "verifiedNote": "Chapter title made exact: the book's Chapter IV covers both the railroad and Lowell."
+  },
+  {
+    "id": "douglass-1845-hiring-his-time",
+    "authorKey": "douglass",
+    "sourceLine": "Frederick Douglass, formerly enslaved man and abolitionist, Narrative of the Life of Frederick Douglass, an American Slave, 1845",
+    "year": 1845,
+    "kind": "text",
+    "text": "I was to be allowed all my time, make all contracts with those for whom I worked, and find my own employment; and, in return for this liberty, I was to pay him three dollars at the end of each week; find myself in calking tools, and in board and clothing. My board was two dollars and a half per week. This, with the wear and tear of clothing and calking tools, made my regular expenses about six dollars per week. This amount I was compelled to make up, or relinquish the privilege of hiring my time. Rain or shine, work or no work, at the end of each week the money must be forthcoming, or I must give up my privilege. … He received all the benefits of slaveholding without its evils; while I endured all the evils of a slave, and suffered all the care and anxiety of a freeman.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.10",
+      "5.9"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/23/pg23.txt",
+    "verified": true,
+    "verifiedBy": "script"
   },
   {
     "id": "douglass-1852-fourth-of-july",
@@ -560,6 +722,135 @@
     "verifiedBy": "script"
   },
   {
+    "id": "equiano-1789-middle-passage",
+    "authorKey": "equiano",
+    "sourceLine": "Olaudah Equiano, African-born formerly enslaved man and abolitionist, The Interesting Narrative of the Life of Olaudah Equiano, 1789",
+    "year": 1789,
+    "kind": "text",
+    "text": "I was not long suffered to indulge my grief; I was soon put down under the decks, and there I received such a salutation in my nostrils as I had never experienced in my life: so that, with the loathsomeness of the stench, and crying together, I became so sick and low that I was not able to eat, nor had I the least desire to taste any thing. I now wished for the last friend, death, to relieve me; but soon, to my grief, two of the white men offered me eatables; and, on my refusing to eat, one of them held me fast by the hands, and laid me across I think the windlass, and tied my feet, while the other flogged me severely. … I have seen some of these poor African prisoners most severely cut for attempting to do so, and hourly whipped for not eating.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.10",
+      "5.9"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/15399/pg15399.txt",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
+    "id": "fichte-1808-addresses-german-nation",
+    "authorKey": "fichte",
+    "sourceLine": "Johann Gottlieb Fichte, German philosopher, Addresses to the German Nation (Thirteenth Address), delivered in Berlin under French occupation, 1808",
+    "year": 1808,
+    "kind": "text",
+    "text": "the first, original, and truly natural boundaries of States are beyond doubt their internal boundaries. Those who speak the same language are joined to each other by a multitude of invisible bonds by nature herself, long before any human art begins ; … Such a whole, if it wishes to absorb and mingle with itself any other people of different descent and language, cannot do so without itself becoming confused, in the beginning at any rate, and violently disturbing the even progress of its culture.",
+    "adapted": false,
+    "original": null,
+    "translation": "Translated by R. F. Jones and G. H. Turnbull, Open Court Publishing Company, 1922",
+    "topics": [
+      "5.2"
+    ],
+    "sourceUrl": "https://archive.org/stream/addressestogerma00fich/addressestogerma00fich_djvu.txt",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
+    "id": "gandhi-1909-hind-swaraj-machinery-manchester",
+    "authorKey": "gandhi",
+    "sourceLine": "M. K. Gandhi, Indian lawyer and political thinker, Hind Swaraj (Indian Home Rule), chapter XIX, \"Machinery,\" written 1909",
+    "year": 1909,
+    "kind": "text",
+    "text": "It is machinery that has impoverished India. It is difficult to measure the harm that Manchester has done to us. It is due to Manchester that Indian handicraft has all but disappeared. … Machinery is the chief symbol of modern civilization; it represents a great sin. … The workers in the mills of Bombay have become slaves. … in the mills is shocking. When there were no mills, these women were not starving. … If the machinery craze grows in our country, it will become an unhappy land.",
+    "adapted": false,
+    "original": null,
+    "translation": "Translated from the Gujarati by the author, Indian Home Rule, 1910 edition",
+    "topics": [
+      "5.5",
+      "5.8",
+      "5.4"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/files/40461/40461-h/40461-h.htm",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
+    "id": "gandhi-1909-hind-swaraj-railways",
+    "authorKey": "gandhi",
+    "sourceLine": "M. K. Gandhi, Indian lawyer and political thinker, Hind Swaraj (Indian Home Rule), chapter IX, \"The Condition of India (Continued): Railways,\" written 1909",
+    "year": 1909,
+    "kind": "text",
+    "text": "It must be manifest to you that, but for the railways, the English could not have such a hold on India as they have. The railways, too, have spread the bubonic plague. Without them, masses could not move from place to place. They are the carriers of plague germs. Formerly we had natural segregation. Railways have also increased the frequency of famines, because, owing to facility of means of locomotion, people sell out their grain, and it is sent to the dearest markets. People become careless, and so the pressure of famine increases. They accentuate the evil nature of man. Bad men fulfil their evil designs with greater rapidity.",
+    "adapted": false,
+    "original": null,
+    "translation": "Translated from the Gujarati by the author, Indian Home Rule, 1910 edition",
+    "topics": [
+      "5.5",
+      "5.4",
+      "5.10"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/files/40461/40461-h/40461-h.htm",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
+    "id": "garibaldi-1859-proclamation-italians",
+    "authorKey": "garibaldi",
+    "sourceLine": "Giuseppe Garibaldi, Italian nationalist general, manifesto \"To my companions in arms in Central Italy,\" Genoa, 23 November 1859 (as printed in Theodore Dwight, The Life of General Garibaldi, New York, 1861)",
+    "year": 1859,
+    "kind": "text",
+    "text": "Diplomacy still looks upon you as the handful of malcontents which she had been accustomed to despise. She does not know that in you there are the elements of a great nation, and that in your free and independent hearts there germinate the seeds of a world-wide revolution if our rights shall not be recognized, and if people will not allow us to be masters in our own home. \"We desire to invade no foreign soil; let us remain unmolested on our own. Whosoever attempts to gainsay this our determination will find that we will never be slaves, unless they succeed in crushing by force an entire people ready to die for liberty. \"But, even should we all fall, we shall bequeath to future generations a legacy of hatred and vengeance against foreign domination; the inheritance of each of our sons will be a rifle, and the consciousness of his rights; and by the blessing of God, the oppressor will never sleep soundly.",
+    "adapted": false,
+    "original": null,
+    "translation": "English text as printed in Theodore Dwight, The Life of General Garibaldi (New York, 1861); translator not named",
+    "topics": [
+      "5.2"
+    ],
+    "sourceUrl": "https://gutenberg.org/cache/epub/50544/pg50544.txt",
+    "verified": true,
+    "verifiedBy": "script",
+    "verifiedNote": "sourceLine: names Dwight book, the manifesto title as printed and place; translation: translator unnamed."
+  },
+  {
+    "id": "george-1879-progress-and-poverty-disappointment",
+    "authorKey": "george",
+    "sourceLine": "Henry George, American journalist and economist, Progress and Poverty, 1879",
+    "year": 1879,
+    "kind": "text",
+    "text": "It is true that disappointment has followed disappointment, and that discovery upon discovery, and invention after invention, have neither lessened the toil of those who most need respite, nor brought plenty to the poor. … From all parts of the civilized world come complaints of industrial depression; of labor condemned to involuntary idleness; of capital massed and wasting; of pecuniary distress among business men; of want and suffering and anxiety among the working classes. All the dull, deadening pain, all the keen, maddening anguish, that to great masses of men are involved in the words “hard times,” afflict the world to-day.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.5",
+      "5.8",
+      "5.10"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/55308/pg55308.txt",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
+    "id": "george-1879-progress-and-poverty-promise",
+    "authorKey": "george",
+    "sourceLine": "Henry George, American journalist and economist, Progress and Poverty, 1879",
+    "year": 1879,
+    "kind": "text",
+    "text": "The present century has been marked by a prodigious increase in wealth-producing power. The utilization of steam and electricity, the introduction of improved processes and labor-saving machinery, the greater subdivision and grander scale of production, the wonderful facilitation of exchanges, have multiplied enormously the effectiveness of labor. … Could a man of the last century—a Franklin or a Priestley—have seen, in a vision of the future, the steamship taking the place of the sailing vessel, the railroad train of the wagon, the reaping machine of the scythe, the threshing machine of the flail; … could he have realized the enormous saving of labor resulting from improved facilities of exchange and communication—sheep killed in Australia eaten fresh in England, and the order given by the London banker in the afternoon executed in San Francisco in the morning of the same day;",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.5",
+      "5.7",
+      "5.8"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/55308/pg55308.txt",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
     "id": "gouges-1791-rights-woman",
     "authorKey": "gouges",
     "sourceLine": "Olympe de Gouges, French playwright and revolutionary who was later guillotined, Declaration of the Rights of Woman, 1791",
@@ -596,6 +887,24 @@
     "verifiedBy": "script"
   },
   {
+    "id": "herzl-1896-jewish-state-one-people",
+    "authorKey": "herzl",
+    "sourceLine": "Theodor Herzl, Viennese Jewish journalist and founder of political Zionism, The Jewish State (Der Judenstaat), 1896",
+    "year": 1896,
+    "kind": "text",
+    "text": "We are a people--one people. We have honestly endeavored everywhere to merge ourselves in the social life of surrounding communities and to preserve the faith of our fathers. We are not permitted to do so. … In countries where we have lived for centuries we are still cried down as strangers, and often by those whose ancestors were not yet domiciled in the land where Jews had already had experience of suffering. The majority may decide which are the strangers; for this, as indeed every point which arises in the relations between nations, is a question of might.",
+    "adapted": false,
+    "original": null,
+    "translation": "Sylvie d'Avigdor's 1896 translation, as revised in the 1946 edition (American Zionist Emergency Council); Project Gutenberg text of the 1946 revision",
+    "topics": [
+      "5.2"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/25282/pg25282.txt",
+    "verified": true,
+    "verifiedBy": "script",
+    "verifiedNote": "translation: states the text is the 1946 revision of the 1896 translation."
+  },
+  {
     "id": "inouye-1908-railroads",
     "authorKey": "inouye",
     "sourceLine": "Viscount Inoue (Inouye) Masaru, Meiji official who directed railway building, chapter \"Japanese Communications: Railroads\" in Fifty Years of New Japan, 1907-08",
@@ -616,6 +925,24 @@
     "verifiedNote": "Checked title page (vol. 1, 1909): 'compiled by Count Shigenobu Okuma ... English version edited by Marcus B. Huish'; translation credit corrected from 'compiled by Huish'. Chapter title and author confirmed in the contents/chapter heading."
   },
   {
+    "id": "jacobs-1861-incidents-wages-stolen",
+    "authorKey": "jacobs",
+    "sourceLine": "Harriet Jacobs (writing as Linda Brent), formerly enslaved woman who escaped to the North, Incidents in the Life of a Slave Girl, Written by Herself, 1861",
+    "year": 1861,
+    "kind": "text",
+    "text": "When a man has his wages stolen from him, year after year, and the laws sanction and enforce the theft, how can he be expected to have more regard to honesty than has the man who robs him? I have become somewhat enlightened, but I confess that I agree with poor, ignorant, much-abused Luke, in thinking he had a _right_ to that money, as a portion of his unpaid wages. … All that winter I lived in a state of anxiety. When I took the children out to breathe the air, I closely observed the countenances of all I met. I dreaded the approach of summer, when snakes and slaveholders make their appearance. I was, in fact, a slave in New York, as subject to slave laws as I had been in a Slave State. Strange incongruity in a State called free!",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.10",
+      "5.9"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/11030/pg11030.txt",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
     "id": "jefferson-1776-declaration-independence",
     "authorKey": "continental-congress",
     "sourceLine": "Thomas Jefferson for the Continental Congress, representatives of thirteen British colonies in revolt, Declaration of Independence, 1776",
@@ -632,6 +959,43 @@
     "sourceUrl": "https://avalon.law.yale.edu/18th_century/declare.asp",
     "verified": true,
     "verifiedBy": "script"
+  },
+  {
+    "id": "jevons-1865-coal-question-world-supplies",
+    "authorKey": "jevons",
+    "sourceLine": "W. Stanley Jevons, English economist, The Coal Question, 1865 (second edition 1866)",
+    "year": 1865,
+    "kind": "text",
+    "text": "The plains of North America and Russia are our corn-fields ; Chicago and Odessa our granaries; Canada and the Baltic are our timber-forests ; Australasia contains our sheep-farms, and in South America are our herds of oxen; Peru sends her silver, and the gold of California and Australia flows to London ; the Chinese grow tea for us, and our coffee, sugar, and spice plantations are in all the Indies. … But great as is our own system, it is not the whole. Commerce is undoubtedly making its way by its own subtle force, and is uniting the parts of the globe into a web of interchanges, in which the peculiar riches of each are made useful to all.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.5",
+      "5.7"
+    ],
+    "sourceUrl": "https://archive.org/stream/bub_gb_nVtJUsGgLcoC/bub_gb_nVtJUsGgLcoC_djvu.txt",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
+    "id": "kemble-1830-liverpool-manchester-railway",
+    "authorKey": "kemble",
+    "sourceLine": "Fanny Kemble, English actress, letter describing a trial trip on the new Liverpool and Manchester Railway, Liverpool, 26 August 1830 (as reprinted in Richard Pike, ed., Railway Adventures and Anecdotes)",
+    "year": 1830,
+    "kind": "text",
+    "text": "This snorting little animal, which I felt rather inclined to pat, was then harnessed to our carriage, and Mr. Stephenson having taken me on the bench of the engine with him, we started at about ten miles an hour. … without any visible cause of progress other than the magical machine, with its flying white breath and rhythmical, unvarying pace, between these rocky walls … Upon this the clay and soil were laid down, and the road does float, for we passed over it at the rate of five and twenty miles an hour, and saw the stagnant swamp water trembling on the surface of the soil on either side of us.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.5",
+      "5.3"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/files/31395/31395-h/31395-h.htm",
+    "verified": true,
+    "verifiedBy": "script",
+    "verifiedNote": "sourceLine: letter date and editor of the anthology added from the page."
   },
   {
     "id": "kropotkin-1899-emancipation-from-above",
@@ -709,6 +1073,24 @@
     "verifiedBy": "script"
   },
   {
+    "id": "lincoln-1863-emancipation-proclamation",
+    "authorKey": "lincoln",
+    "sourceLine": "Abraham Lincoln, President of the United States, Emancipation Proclamation, 1 January 1863",
+    "year": 1863,
+    "kind": "text",
+    "text": "And by virtue of the power, and for the purpose aforesaid, I do order and declare that all persons held as slaves within said designated States, and parts of States, are, and henceforward shall be free; and that the Executive government of the United States, including the military and naval authorities thereof, will recognize and maintain the freedom of said persons. And I hereby enjoin upon the people so declared to be free to abstain from all violence, unless in necessary self-defence; and I recommend to them that, in all cases when allowed, they labor faithfully for reasonable wages.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.10",
+      "5.2"
+    ],
+    "sourceUrl": "https://avalon.law.yale.edu/19th_century/emancipa.asp",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
     "id": "list-1841-productive-power",
     "authorKey": "list",
     "sourceLine": "Friedrich List, German economist who campaigned for a German customs union and railways, The National System of Political Economy, 1841",
@@ -763,6 +1145,44 @@
     "verifiedBy": "script"
   },
   {
+    "id": "marx-1853-british-rule-steam-free-trade",
+    "authorKey": "marx",
+    "sourceLine": "Karl Marx, German socialist writing as a correspondent for a New York newspaper, \"The British Rule in India,\" New-York Daily Tribune, June 25, 1853",
+    "year": 1853,
+    "kind": "text",
+    "text": "These small stereotype forms of social organism have been to the greater part dissolved, and are disappearing, not so much through the brutal interference of the British tax-gatherer and the British soldier, as to the working of English steam and English free trade. Those family-communities were based on domestic industry, in that peculiar combination of hand-weaving, hands-spinning and hand-tilling agriculture which gave them self-supporting power. English interference having placed the spinner in Lancashire and the weaver in Bengal, or sweeping away both Hindoo spinner and weaver, dissolved these small semi-barbarian, semi-civilized communities, by blowing up their economical basis, and thus produced the greatest, and to speak the truth, the only social revolution ever heard of in Asia.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.4",
+      "5.7",
+      "5.8"
+    ],
+    "sourceUrl": "https://www.marxists.org/archive/marx/works/1853/06/25.htm",
+    "verified": true,
+    "verifiedBy": "script",
+    "verifiedNote": "Topics: 5.5 replaced by 5.4 (spread of industrial economy to India)."
+  },
+  {
+    "id": "marx-1853-future-results-railways",
+    "authorKey": "marx",
+    "sourceLine": "Karl Marx, German socialist writing as a correspondent for a New York newspaper, \"The Future Results of British Rule in India,\" New-York Daily Tribune, August 8, 1853",
+    "year": 1853,
+    "kind": "text",
+    "text": "I know that the English millocracy intend to endow India with railways with the exclusive view of extracting at diminished expenses the cotton and other raw materials for their manufactures. But when you have once introduced machinery into the locomotion of a country, which possesses iron and coals, you are unable to withhold it from its fabrication. You cannot maintain a net of railways over an immense country without introducing all those industrial processes necessary to meet the immediate and current wants of railway locomotion, and out of which there must grow the application of machinery to those branches of industry not immediately connected with railways. The railway-system will therefore become, in India, truly the forerunner of modern industry.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.5",
+      "5.4"
+    ],
+    "sourceUrl": "https://www.marxists.org/archive/marx/works/1853/07/22.htm",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
     "id": "marx-1867-capital-factory-education",
     "authorKey": "marx",
     "sourceLine": "Karl Marx, German socialist theorist writing in London, Capital, Volume 1, chapter 15 (Machinery and Modern Industry), 1867",
@@ -775,6 +1195,62 @@
     "topics": [
       "5.8",
       "5.9"
+    ],
+    "sourceUrl": "https://www.marxists.org/archive/marx/works/1867-c1/ch15.htm",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
+    "id": "marx-1867-capital-handloom-weavers-india",
+    "authorKey": "marx",
+    "sourceLine": "Karl Marx, German socialist theorist writing in London, Capital, Volume 1, chapter 15 (Machinery and Modern Industry), 1867",
+    "year": 1867,
+    "kind": "text",
+    "text": "Where the transition is rapid, the effect is acute and felt by great masses. History discloses no tragedy more horrible than the gradual extinction of the English hand-loom weavers, an extinction that was spread over several decades, and finally sealed in 1838. … On the other hand, the English cotton machinery produced an acute effect in India. The Governor General reported 1834-35: “The misery hardly finds a parallel in the history of commerce. The bones of the cotton-weavers are bleaching the plains of India.",
+    "adapted": false,
+    "original": null,
+    "translation": "English edition of 1887 translated by Samuel Moore and Edward Aveling, edited by Frederick Engels",
+    "topics": [
+      "5.5",
+      "5.8",
+      "5.4"
+    ],
+    "sourceUrl": "https://www.marxists.org/archive/marx/works/1867-c1/ch15.htm",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
+    "id": "marx-1867-capital-international-division-labour",
+    "authorKey": "marx",
+    "sourceLine": "Karl Marx, German socialist theorist writing in London, Capital, Volume 1, chapter 15 (Machinery and Modern Industry), 1867",
+    "year": 1867,
+    "kind": "text",
+    "text": "By ruining handicraft production in other countries, machinery forcibly converts them into fields for the supply of its raw material. In this way East India was compelled to produce cotton, wool, hemp, jute, and indigo for Great Britain. … A new and international division of labour, a division suited to the requirements of the chief centres of modern industry springs up, and converts one part of the globe into a chiefly agricultural field of production, for supplying the other part which remains a chiefly industrial field.",
+    "adapted": false,
+    "original": null,
+    "translation": "English edition of 1887 translated by Samuel Moore and Edward Aveling, edited by Frederick Engels",
+    "topics": [
+      "5.5",
+      "5.4",
+      "5.8"
+    ],
+    "sourceUrl": "https://www.marxists.org/archive/marx/works/1867-c1/ch15.htm",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
+    "id": "marx-1867-capital-transport-telegraphs",
+    "authorKey": "marx",
+    "sourceLine": "Karl Marx, German socialist theorist writing in London, Capital, Volume 1, chapter 15 (Machinery and Modern Industry), 1867",
+    "year": 1867,
+    "kind": "text",
+    "text": "Hence, apart from the radical changes introduced in the construction of sailing vessels, the means of communication and transport became gradually adapted to the modes of production of mechanical industry, by the creation of a system of river steamers, railways, ocean steamers, and telegraphs. … But the huge masses of iron that had now to be forged, to be welded, to be cut, to be bored, and to be shaped, demanded, on their part, cyclopean machines, for the construction of which the methods of the manufacturing period were utterly inadequate.",
+    "adapted": false,
+    "original": null,
+    "translation": "English edition of 1887 translated by Samuel Moore and Edward Aveling, edited by Frederick Engels",
+    "topics": [
+      "5.5",
+      "5.3"
     ],
     "sourceUrl": "https://www.marxists.org/archive/marx/works/1867-c1/ch15.htm",
     "verified": true,
@@ -837,6 +1313,23 @@
     "verifiedNote": "Checked title page (vol. 1, 1909): 'compiled by Count Shigenobu Okuma ... English version edited by Marcus B. Huish'; translation credit corrected from 'compiled by Huish'. Chapter title and author confirmed in the contents/chapter heading."
   },
   {
+    "id": "mazzini-1858-duties-of-man-country",
+    "authorKey": "mazzini",
+    "sourceLine": "Giuseppe Mazzini, Italian republican nationalist and founder of Young Italy, The Duties of Man, \"Duties Towards Your Country,\" 1858",
+    "year": 1858,
+    "kind": "text",
+    "text": "This means was provided for you by God when He gave you a country; when, even as a wise overseer of labour distributes the various branches of employment according to the different capacities of the workmen, he divided Humanity into distinct groups or nuclei upon the face of the earth, thus creating the germ of nationalities. … The map of Europe will be redrawn. The countries of the peoples, defined by the vote of free men, will arise upon the ruins of the countries of kings and privileged castes, and between these countries harmony and fraternity will exist.",
+    "adapted": false,
+    "original": null,
+    "translation": "English translation published by Funk & Wagnalls, New York, 1898 (Hanover Historical Texts Project)",
+    "topics": [
+      "5.2"
+    ],
+    "sourceUrl": "https://history.hanover.edu/texts/Mazzini/mazzini5.html",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
     "id": "meiji-1868-charter-oath",
     "authorKey": "meiji-emperor",
     "sourceLine": "Emperor Meiji (issued by the new Meiji government), The Charter Oath, 14 March 1868 (6 April 1868 by the Western calendar)",
@@ -852,6 +1345,24 @@
       "5.2"
     ],
     "sourceUrl": "https://worldjpn.net/documents/texts/pw/18680314.O1E.html",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
+    "id": "meiji-1890-rescript-on-education",
+    "authorKey": "meiji-emperor",
+    "sourceLine": "Emperor Meiji of Japan, Imperial Rescript on Education, 30 October 1890",
+    "year": 1890,
+    "kind": "text",
+    "text": "Know ye, Our subjects: Our Imperial Ancestors have founded Our Empire on a basis broad and everlasting and have deeply and firmly implanted virtue; Our subjects ever united in loyalty and filial piety have from generation to generation illustrated the beauty thereof. This is the glory of the fundamental character of Our Empire, and herein also lies the source of Our education. … Ye, Our subjects, be filial to your parents, affectionate to your brothers and sisters; as husbands and wives be harmonious, as friends true; bear yourselves in modesty and moderation; extend your benevolence to all; pursue learning and cultivate arts, and thereby develop intellectual faculties and perfect moral powers; furthermore advance public good and promote common interests; always respect the Constitution and observe the laws; should emergency arise, offer yourselves courageously to the State; and thus guard and maintain the prosperity of Our Imperial Throne coeval with heaven and earth.",
+    "adapted": false,
+    "original": null,
+    "translation": "Official translation by the Japanese Ministry of Education",
+    "topics": [
+      "5.2",
+      "5.4"
+    ],
+    "sourceUrl": "https://en.wikisource.org/wiki/Imperial_Rescript_on_Education",
     "verified": true,
     "verifiedBy": "script"
   },
@@ -893,23 +1404,57 @@
     "verifiedBy": "script"
   },
   {
-    "id": "mill-1869-subjection-of-women",
+    "id": "mill-1848-benefits-of-commerce",
     "authorKey": "mill",
-    "sourceLine": "John Stuart Mill, English philosopher and former Member of Parliament, The Subjection of Women, Chapter 1, 1869",
-    "year": 1869,
+    "sourceLine": "John Stuart Mill, English philosopher and economist, Principles of Political Economy, 1848 (abridged edition by J. Laurence Laughlin, 1885)",
+    "year": 1848,
     "kind": "text",
-    "text": "The object of this Essay is to explain as clearly as I am able, the grounds of an opinion which I have held from the very earliest period when I had formed any opinions at all on social or political matters, and which, instead of being weakened or modified, has been constantly growing stronger by the progress of reflection and the experience of life: That the principle which regulates the existing social relations between the two sexes--the legal subordination of one sex to the other--is wrong in itself, and now one of the chief hindrances to human improvement; and that it ought to be replaced by a principle of perfect equality, admitting no power or privilege on the one side, nor disability on the other.",
+    "text": "A country which produces for a larger market than its own can introduce a more extended division of labor, can make greater use of machinery, and is more likely to make inventions and improvements in the processes of production. Whatever causes a greater quantity of anything to be produced in the same place tends to the general increase of the productive powers of the world. … Finally, (4) commerce first taught nations to see with goodwill the wealth and prosperity of one another. Before, the patriot, unless sufficiently advanced in culture to feel the world his country, wished all countries weak, poor, and ill-governed but his own: he now sees in their wealth and progress a direct source of wealth and progress to his own country. It is commerce which is rapidly rendering war obsolete, by strengthening and multiplying the personal interests which are in natural opposition to it.",
     "adapted": false,
     "original": null,
     "translation": null,
     "topics": [
-      "5.10",
-      "5.1"
+      "5.7",
+      "5.5",
+      "5.3"
     ],
-    "sourceUrl": "https://www.gutenberg.org/cache/epub/27083/pg27083.txt",
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/30107/pg30107.txt",
     "verified": true,
-    "verifiedBy": "script",
-    "verifiedNote": "Accuracy review 2026-10-15: sourceLine corrected (English philosopher and former Member of Parliament)."
+    "verifiedBy": "script"
+  },
+  {
+    "id": "mill-1861-nationalities-absorbed",
+    "authorKey": "mill",
+    "sourceLine": "John Stuart Mill, British philosopher and member of Parliament, Considerations on Representative Government, chapter 16, \"Of Nationality,\" 1861",
+    "year": 1861,
+    "kind": "text",
+    "text": "Experience proves that it is possible for one nationality to merge and be absorbed in another; and when it was originally an inferior and more backward portion of the human race, the absorption is greatly to its advantage. Nobody can suppose that it is not more beneficial to a Breton, or a Basque of French Navarre, to be brought into the current of the ideas and feelings of a highly civilized and cultivated people--to be a member of the French nationality, admitted on equal terms to all the privileges of French citizenship, sharing the advantages of French protection, and the dignity and _prestige_ of French power--than to sulk on his own rocks, the half-savage relic of past times, revolving in his own little mental orbit, without participation or interest in the general movement of the world. The same remark applies to the Welshman or the Scottish Highlander as members of the British nation. Whatever really tends to the admixture of nationalities, and the blending of their attributes and peculiarities in a common union, is a benefit to the human race.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.2"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/5669/pg5669.txt",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
+    "id": "mill-1861-nationality-defined",
+    "authorKey": "mill",
+    "sourceLine": "John Stuart Mill, British philosopher and member of Parliament, Considerations on Representative Government, chapter 16, \"Of Nationality,\" 1861",
+    "year": 1861,
+    "kind": "text",
+    "text": "A portion of mankind may be said to constitute a nationality if they are united among themselves by common sympathies which do not exist between them and any others--which make them co-operate with each other more willingly than with other people, desire to be under the same government, and desire that it should be government by themselves, or a portion of themselves, exclusively. … Switzerland has a strong sentiment of nationality, though the cantons are of different races, different languages, and different religions. Sicily has hitherto felt itself quite distinct in nationality from Naples, notwithstanding identity of religion, almost identity of language, and a considerable amount of common historical antecedents.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.2"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/5669/pg5669.txt",
+    "verified": true,
+    "verifiedBy": "script"
   },
   {
     "id": "mill-1869-subjection-women",
@@ -947,6 +1492,59 @@
     "verified": true,
     "verifiedBy": "script",
     "verifiedNote": "Accuracy review 2026-10-15: sourceLine corrected (John Miller, compiling the memoirs of his brother General William Miller, a British officer in the Peruvian independence army)."
+  },
+  {
+    "id": "mississippi-1865-black-code-apprentice-law",
+    "authorKey": "mississippi-legislature",
+    "sourceLine": "Legislature of Mississippi, An Act to Regulate the Relation of Master and Apprentice, as relates to Freedmen, Free Negroes, and Mulattoes, November 1865 (as reproduced by Teaching American History)",
+    "year": 1865,
+    "kind": "text",
+    "text": "all freedmen, free Negroes, and mulattoes under the age of eighteen within their respective counties, beats, or districts who are orphans, or whose parent or parents have not the means, or who refuse to provide for and support said minors; … it shall be the duty of said Probate Court to order the clerk of said court to apprentice said minors to some competent and suitable person, on such terms as the court may direct, having a particular care to the interest of said minors: Provided, that the former owner of said minors shall have the preference when, in the opinion of the court, he or she shall be a suitable person for that purpose. … if any apprentice shall leave the employment of his or her master or mistress without his or her consent, said master or mistress may pursue and recapture said apprentice and bring him or her before any justice of the peace of the county, whose duty it shall be to remand said apprentice to the service of his or her master or mistress",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.10"
+    ],
+    "sourceUrl": "https://teachingamericanhistory.org/document/black-codes-of-mississippi/",
+    "verified": true,
+    "verifiedBy": "script",
+    "verifiedNote": "sourceLine: states the reproducing site."
+  },
+  {
+    "id": "mississippi-1865-black-code-labor-contracts",
+    "authorKey": "mississippi-legislature",
+    "sourceLine": "Legislature of Mississippi, An Act to Confer Civil Rights on Freedmen (the Black Code), sections on labor contracts and desertion, November 1865 (as reproduced by Teaching American History)",
+    "year": 1865,
+    "kind": "text",
+    "text": "All contracts for labor made with freedmen, free Negroes, and mulattoes for a longer period than one month shall be in writing and in duplicate, attested and read to said freedman, free Negro, or mulatto by a beat, city, or county officer, or two disinterested white persons of the county in which the labor is to be performed, of which each party shall have one; … if the laborer shall quit the service of the employer before expiration of his term of service without good cause, he shall forfeit his wages for that year, up to the time of quitting. … every civil officer shall, and every person may, arrest and carry back to his or her legal employer any freedman, free Negro, or mulatto who shall have quit the service of his or her employer before the expiration of his or her term of service without good cause",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.10"
+    ],
+    "sourceUrl": "https://teachingamericanhistory.org/document/black-codes-of-mississippi/",
+    "verified": true,
+    "verifiedBy": "script",
+    "verifiedNote": "sourceLine: states the reproducing site."
+  },
+  {
+    "id": "mitchel-1861-davis-free-sovereign-ireland",
+    "authorKey": "mitchel",
+    "sourceLine": "John Mitchel, Irish nationalist journalist and member of the Young Ireland movement, The Last Conquest of Ireland (Perhaps), chapter 10, on Thomas Davis, 1861",
+    "year": 1861,
+    "kind": "text",
+    "text": "thought it shame and sin (which, indeed, it was and is,) that our old island should be devoured by strangers; that the people of the ancient clans, who had’ once taught half the schools and won half the battles in Europe, should send tribute of corn and cattle; nay, (as Athens did of old to Crete,) tribute of her choicest youth also, of her genius and her energy, to swell the pride and power of an inferior race. … He longed to see Ireland standing on her own feet, using her own resources for her own behoof, living her own genial life, with her own flag floating above her, – a free and sovereign State among the nations of Europe. And he knew that all this might be achieved, if only the hereditary religious feuds of ages could be healed: and by inculcation of mutual tolerance and respect, by kindling a common love for our own land, by education, by the promotion of Irish art, and re-awakening of Irish military spirit, he hoped to effect it all.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.2"
+    ],
+    "sourceUrl": "https://cartlann.org/authors/john-mitchel/the-last-conquest-of-ireland-perhaps/chapter-x/",
+    "verified": true,
+    "verifiedBy": "script"
   },
   {
     "id": "montesquieu-1748-spirit-laws-separation",
@@ -1014,6 +1612,44 @@
       "5.1"
     ],
     "sourceUrl": "http://www.sonsofdewittcolony.org/morelossent.htm",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
+    "id": "naoroji-1871-benefits-detriments-material",
+    "authorKey": "naoroji",
+    "sourceLine": "Dadabhai Naoroji, Indian economist and later member of the British Parliament, \"The Benefits of British Rule\" (credit and debit accounts of British rule), 1871",
+    "year": 1871,
+    "kind": "text",
+    "text": "Materially: Loans for railways and irrigation. Development of a few valuable products, such as indigo, tea, coffee, silk, etc. Increase of exports. Telegraphs. … The consequent continuous impoverishment and exhaustion of the country, except so far as it has been very partially relieved and replenished by the railway and irrigation loans, and the windfall of the consequences of the American war, since 1850. Even with this relief, the material condition of India is such that the great mass of the poor have hardly tuppence a day and a few rags, or a scanty subsistence. The famines that were in their power to prevent, if they had done their duty, as a good and intelligent government. The policy adopted during the last fifteen years of building railways, irrigation works, etc., is hopeful, has already resulted in much good to your credit, and if persevered in, gratitude and contentment will follow. An increase of exports without adequate compensation; loss of manufacturing industry and skill.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.5",
+      "5.4",
+      "5.10"
+    ],
+    "sourceUrl": "https://sourcebooks.fordham.edu/mod/1871britishrule.asp",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
+    "id": "nasmyth-1883-self-acting-machine-tools",
+    "authorKey": "nasmyth",
+    "sourceLine": "James Nasmyth, Scottish engineer and Manchester machine-tool maker, James Nasmyth, Engineer: An Autobiography (recalling the 1830s), 1883",
+    "year": 1883,
+    "kind": "text",
+    "text": "The irregularity and carelessness of the workmen naturally proved very annoying to the employers. But it gave an increased stimulus to the demand for self-acting machine tools by which the untrustworthy efforts of hand labour might be avoided. The machines never got drunk; their hands never shook from excess; they were never absent from work; they did not strike for wages; they were unfailing in their accuracy and regularity, while producing the most delicate or ponderous portions of mechanical structures.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.5",
+      "5.3",
+      "5.8"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/476/pg476.txt",
     "verified": true,
     "verifiedBy": "script"
   },
@@ -1149,6 +1785,43 @@
     "verifiedBy": "script"
   },
   {
+    "id": "parliament-1833-slavery-abolition-act",
+    "authorKey": "british-parliament",
+    "sourceLine": "Parliament of the United Kingdom, Slavery Abolition Act (3 & 4 Will. IV c. 73), 28 August 1833 (text as reproduced by the Irish Statute Book)",
+    "year": 1833,
+    "kind": "text",
+    "text": "Whereas divers Persons are holden in Slavery within divers of His Majesty s Colonies, and it is just and expedient that all such Persons should be manumitted and set free, and that a reasonable Compensation should be made to the Persons hitherto entitled to the Services of such Slaves for the Loss which they will incur by being deprived of their Right to such Services: … during the Continuance of the Apprenticeship of any such apprenticed Labourer such Person or Persons shall be entitled to the Services of such apprenticed Labourer as would for the Time being have been entitled to his or her Services as a Slave if this Act had not been made. … towards compensating the Persons at present entitled to the Services of the Slaves to be manumitted and set free by virtue of this Act for the Loss of such Services, His Majesty s most dutiful and loyal Subjects the Commons of Great Britain and Ireland in Parliament assembled have resolved to give and grant to His Majesty the Sum of Twenty Millions Pounds Sterling;",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.10",
+      "5.6"
+    ],
+    "sourceUrl": "https://www.irishstatutebook.ie/1833/en/act/pub/0073/print.html",
+    "verified": true,
+    "verifiedBy": "script",
+    "verifiedNote": "sourceLine: states the reproducing site; topics: 5.2 replaced by 5.6 (government role)."
+  },
+  {
+    "id": "prince-1831-history-slaves-want-freedom",
+    "authorKey": "prince",
+    "sourceLine": "Mary Prince, formerly enslaved woman from Bermuda who had worked in the West Indies, The History of Mary Prince, a West Indian Slave, related by herself, 1831",
+    "year": 1831,
+    "kind": "text",
+    "text": "All slaves want to be free--to be free is very sweet. … They hire servants in England; and if they don't like them, they send them away: they can't lick them. Let them work ever so hard in England, they are far better off than slaves. If they get a bad master, they give warning and go hire to another. They have their liberty. That's just what we want. … We don't mind hard work, if we had proper treatment, and proper wages like English servants, and proper time given in the week to keep us from breaking the Sabbath. … And then when we are quite done up, who cares for us, more than for a lame horse? This is slavery.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.10",
+      "5.9"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/17851/pg17851.txt",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
     "id": "proudhon-1840-what-is-property",
     "authorKey": "proudhon",
     "sourceLine": "Pierre-Joseph Proudhon, French printer and socialist writer, What Is Property?, 1840",
@@ -1202,6 +1875,23 @@
     "verifiedBy": "script"
   },
   {
+    "id": "rizal-1889-philippines-century-hence",
+    "authorKey": "rizal",
+    "sourceLine": "Jose Rizal, Filipino reformer and writer, \"The Philippines a Century Hence,\" La Solidaridad (Madrid), 1889-1890",
+    "year": 1889,
+    "kind": "text",
+    "text": "The Islands cannot remain in the condition they are without requiring from the sovereign country more liberty Mutatis mutandis. For new men, a new social order. To wish that the alleged child remain in its swaddling-clothes is to risk that it may turn against its nurse and flee, tearing away the old rags that bind it. … The Philippines, then, will remain under Spanish domination, but with more law and greater liberty, or they will declare themselves independent, after steeping themselves and the mother country in blood.",
+    "adapted": false,
+    "original": null,
+    "translation": "Translated by Charles E. Derbyshire, 1912 (Project Gutenberg edition)",
+    "topics": [
+      "5.2"
+    ],
+    "sourceUrl": "https://gutenberg.org/cache/epub/35899/pg35899.txt",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
     "id": "robinson-1898-loom-and-spindle-doffer",
     "authorKey": "robinson",
     "sourceLine": "Harriet Hanson Robinson, a former Lowell mill girl recalling the 1830s, Loom and Spindle, 1898",
@@ -1237,6 +1927,24 @@
     "verifiedBy": "script"
   },
   {
+    "id": "rochdale-1844-pioneers-objects",
+    "authorKey": "rochdale-pioneers",
+    "sourceLine": "Rochdale Equitable Pioneers' Society, a co-operative society of Lancashire working men, statement of its objects, 1844 (as printed in G. J. Holyoake, History of the Rochdale Pioneers)",
+    "year": 1844,
+    "kind": "text",
+    "text": "The objects and plans of this Society are to form arrangements for the pecuniary benefit and the improvement of the social and domestic condition of its members, by raising a sufficient amount of capital in shares of one pound each, … The establishment of a Store for the sale of provisions, clothing, … To commence the manufacture of such articles as the Society may determine upon, for the employment of such members as may be without employment, or who may be suffering in consequence of repeated reductions in their wages.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.7",
+      "5.8"
+    ],
+    "sourceUrl": "https://archive.org/stream/historyofrochdal00holyuoft/historyofrochdal00holyuoft_djvu.txt",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
     "id": "rousseau-1762-social-contract",
     "authorKey": "rousseau",
     "sourceLine": "Jean-Jacques Rousseau, Genevan philosopher, The Social Contract, 1762",
@@ -1251,6 +1959,24 @@
       "5.2"
     ],
     "sourceUrl": "https://www.gutenberg.org/files/46333/46333-h/46333-h.htm",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
+    "id": "ruskin-1860-unto-this-last-no-wealth-but-life",
+    "authorKey": "ruskin",
+    "sourceLine": "John Ruskin, English art critic and social thinker, Unto This Last, 1860",
+    "year": 1860,
+    "kind": "text",
+    "text": "Of course, as in the instances of alchemy, astrology, witchcraft, and other such popular creeds, political economy has a plausible idea at the root of it. \"The social affections,\" says the economist, \"are accidental and disturbing elements in human nature; but avarice and the desire of progress are constant elements. Let us eliminate the inconstants, and, considering the human being merely as a covetous machine, examine by what laws of labour, purchase, and sale, the greatest accumulative result in wealth is obtainable. … THERE IS NO WEALTH BUT LIFE. Life, including all its powers of love, of joy, and of admiration. That country is the richest which nourishes the greatest number of noble and happy human beings; that man is richest who, having perfected the functions of his own life to the utmost, has also the widest helpful influence, both personal and by means of his possessions, over the lives of others.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.7",
+      "5.8"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/36541/pg36541.txt",
     "verified": true,
     "verifiedBy": "script"
   },
@@ -1384,6 +2110,45 @@
     "verifiedNote": "Checked title page (vol. 1, 1909): 'compiled by Count Shigenobu Okuma ... English version edited by Marcus B. Huish'; translation credit corrected from 'compiled by Huish'. Chapter title and author confirmed in the contents/chapter heading."
   },
   {
+    "id": "shibusawa-1908-first-national-bank-shareholders",
+    "authorKey": "shibusawa",
+    "sourceLine": "Baron Shibusawa Eiichi, Japanese official turned banker and founder of the First National Bank, chapter \"Joint-Stock Enterprise in Japan\" in Count Okuma, ed., Fifty Years of New Japan (Kaikoku gojunen shi; Japanese original 1907-08, English version London, 1909)",
+    "year": 1908,
+    "kind": "text",
+    "text": "Thus the first joint-stock companies after Western models in this country were banks, and next came companies connected with shipping, railways, and insurance, to be followed by degrees by various industrial companies. … Hitherto, business had consisted of small transactions, the public being ignorant of the advantages of conducting it on a joint-stock basis. But very few came forward to assist, and the Government had to persuade, nay, almost to order, the Mitsuigumi and the Onogumi to form it ; and if these two families had not taken part as principal shareholders, it is extremely doubtful whether the bank could ever have become an accomplished fact. The capital of the bank was at first 2,500,000 yen, and of this 2,000,000 yen was subscribed by the two families, the rest being offered to the general public.",
+    "adapted": false,
+    "original": null,
+    "translation": "English version edited by Marcus B. Huish from Count Okuma's Japanese Kaikoku gojunen shi; Fifty Years of New Japan, London: Smith, Elder, 1909 (2nd ed. 1910)",
+    "topics": [
+      "5.7",
+      "5.4"
+    ],
+    "sourceUrl": "https://archive.org/stream/fiftyyearsofnewj01okumuoft/fiftyyearsofnewj01okumuoft_djvu.txt",
+    "verified": true,
+    "verifiedBy": "script",
+    "verifiedNote": "sourceLine and translation: now name the anthology, its English edition and editor; translation was null."
+  },
+  {
+    "id": "shibusawa-1908-joint-stock-men-of-ability",
+    "authorKey": "shibusawa",
+    "sourceLine": "Baron Shibusawa Eiichi, Japanese official turned banker and founder of the First National Bank, chapter \"Joint-Stock Enterprise in Japan\" in Count Okuma, ed., Fifty Years of New Japan (Kaikoku gojunen shi; Japanese original 1907-08, English version London, 1909)",
+    "year": 1908,
+    "kind": "text",
+    "text": "The Government rightly encouraged private enterprise, but when those thus encouraged happened to be men of no ability, what good could be expected. Therefore it became a matter of prime importance to have some enterprise set up on a large scale so as to attract men of ability to it, and to this end there was no better means than to start the system of joint-stock companies. … At the same time, if by means of joint-stock companies we can secure the prosperity of production and trade, we may thereby expect to promote the wealth and power of a nation.",
+    "adapted": false,
+    "original": null,
+    "translation": "English version edited by Marcus B. Huish from Count Okuma's Japanese Kaikoku gojunen shi; Fifty Years of New Japan, London: Smith, Elder, 1909 (2nd ed. 1910)",
+    "topics": [
+      "5.7",
+      "5.4",
+      "5.6"
+    ],
+    "sourceUrl": "https://archive.org/stream/fiftyyearsofnewj01okumuoft/fiftyyearsofnewj01okumuoft_djvu.txt",
+    "verified": true,
+    "verifiedBy": "script",
+    "verifiedNote": "sourceLine and translation: now name the anthology, its English edition and editor; translation was null."
+  },
+  {
     "id": "sieyes-1789-what-is-third-estate",
     "authorKey": "sieyes",
     "sourceLine": "Emmanuel-Joseph Sieyès, French priest and political writer, What Is the Third Estate?, pamphlet of 1789",
@@ -1419,12 +2184,48 @@
     "verifiedBy": "script"
   },
   {
+    "id": "smith-1776-banking-waggon-way",
+    "authorKey": "smith",
+    "sourceLine": "Adam Smith, Scottish moral philosopher and political economist, An Inquiry into the Nature and Causes of the Wealth of Nations, Book II, 1776",
+    "year": 1776,
+    "kind": "text",
+    "text": "That part of his capital which a dealer is obliged to keep by him unemployed and in ready money, for answering occasional demands, is so much dead stock, which, so long as it remains in this situation, produces nothing, either to him or to his country. … The gold and silver money which circulates in any country may very properly be compared to a highway, which, while it circulates and carries to market all the grass and corn of the country, produces itself not a single pile of either. The judicious operations of banking, by providing, if I may be allowed so violent a metaphor, a sort of waggon-way through the air, enable the country to convert, as it were, a great part of its highways into good pastures, and corn fields, and thereby to increase, very considerably, the annual produce of its land and labour.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.7",
+      "5.3"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/3300/pg3300.txt",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
     "id": "smith-1776-discovery-america",
     "authorKey": "smith",
     "sourceLine": "Adam Smith, Scottish political economist, The Wealth of Nations, Book IV, Chapter 7, on the discovery of America and the Cape route, 1776",
     "year": 1776,
     "kind": "text",
     "text": "The discovery of America, and that of a passage to the East Indies by the Cape of Good Hope, are the two greatest and most important events recorded in the history of mankind. … By uniting in some measure the most distant parts of the world, by enabling them to relieve one another’s wants, to increase one another’s enjoyments, and to encourage one another’s industry, their general tendency would seem to be beneficial. To the natives, however, both of the East and West Indies, all the commercial benefits which can have resulted from those events have been sunk and lost in the dreadful misfortunes which they have occasioned. … At the particular time when these discoveries were made, the superiority of force happened to be so great on the side of the Europeans, that they were enabled to commit with impunity every sort of injustice in those remote countries.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.7",
+      "5.3"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/3300/pg3300.txt",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
+    "id": "smith-1776-invisible-hand-home-market",
+    "authorKey": "smith",
+    "sourceLine": "Adam Smith, Scottish moral philosopher and political economist, An Inquiry into the Nature and Causes of the Wealth of Nations, Book IV, 1776",
+    "year": 1776,
+    "kind": "text",
+    "text": "He generally, indeed, neither intends to promote the public interest, nor knows how much he is promoting it. By preferring the support of domestic to that of foreign industry, he intends only his own security; and by directing that industry in such a manner as its produce may be of the greatest value, he intends only his own gain; and he is in this, as in many other cases, led by an invisible hand to promote an end which was no part of his intention. … It is the maxim of every prudent master of a family, never to attempt to make at home what it will cost him more to make than to buy. The tailor does not attempt to make his own shoes, but buys them of the shoemaker.",
     "adapted": false,
     "original": null,
     "translation": null,
@@ -1473,6 +2274,25 @@
     "verifiedBy": "script"
   },
   {
+    "id": "smith-1776-water-carriage-market",
+    "authorKey": "smith",
+    "sourceLine": "Adam Smith, Scottish moral philosopher and political economist, An Inquiry into the Nature and Causes of the Wealth of Nations, Book I, 1776",
+    "year": 1776,
+    "kind": "text",
+    "text": "In about the same time a ship navigated by six or eight men, and sailing between the ports of London and Leith, frequently carries and brings back two hundred ton weight of goods. Six or eight men, therefore, by the help of water-carriage, can carry and bring back, in the same time, the same quantity of goods between London and Edinburgh as fifty broad-wheeled waggons, attended by a hundred men, and drawn by four hundred horses. … What goods could bear the expense of land-carriage between London and Calcutta? Or if there were any so precious as to be able to support this expense, with what safety could they be transported through the territories of so many barbarous nations?",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.3",
+      "5.5",
+      "5.7"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/3300/pg3300.txt",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
     "id": "stjohn-1834-rosetta-failed-mills",
     "authorKey": "stjohn",
     "sourceLine": "James Augustus St. John, English travel writer visiting Egypt in the early 1830s and a European observer rather than an Egyptian voice, Egypt and Mohammed Ali; or, Travels in the Valley of the Nile, vol. 1, 1834",
@@ -1490,6 +2310,24 @@
     "verified": true,
     "verifiedBy": "script",
     "verifiedNote": "sourceLine corrected from vol. 2 to vol. 1: the archive.org item egyptandmohamme02johngoog has title page 'Vol. I', London: Longman et al., 1834; passage is in section XXXIX (Rosetta), p. 77."
+  },
+  {
+    "id": "sumner-1883-laissez-faire-mind-your-business",
+    "authorKey": "sumner",
+    "sourceLine": "William Graham Sumner, American sociologist and Yale professor, What Social Classes Owe to Each Other, 1883",
+    "year": 1883,
+    "kind": "text",
+    "text": "Society needs first of all to be freed from these meddlers that is, to be let alone. Here we are, then, once more back at the old doctrine Laissez faire. Let us translate it into blunt English, and it will read, Mind your own business. It is nothing but the doctrine of liberty. Let every man be happy in his own way. If his sphere of action and interest impinges on that of any other man, there will have to be compromise and adjustment. Wait for the occasion. Do not attempt to generalize those interferences or to plan for them a priori. We have a body of laws and institutions which have grown up as occasion has occurred for adjusting rights. Let the same process go on. Practise the utmost reserve possible in your interferences even of this kind, and by no means seize occasion for interfering with natural adjustments. Try first long and patiently whether the natural adjustment will not come about through the play of interests and the voluntary concessions of the parties.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.7",
+      "5.8"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/files/18603/18603-h/18603-h.htm",
+    "verified": true,
+    "verifiedBy": "script"
   },
   {
     "id": "suzuki-1908-model-factories",
@@ -1547,6 +2385,42 @@
     "verifiedBy": "script"
   },
   {
+    "id": "ure-1835-factory-system-arkwright",
+    "authorKey": "ure",
+    "sourceLine": "Andrew Ure, Scottish chemist and professor, defender of the factory system, The Philosophy of Manufactures, 1835",
+    "year": 1835,
+    "kind": "text",
+    "text": "When the first water-frames for spinning cotton were erected at Cromford, in the romantic valley of the Derwent, about sixty years ago, mankind were little aware of the mighty revolution which the new system of labour was destined by Providence to achieve, not only in the structure of British society, but in the fortunes of the world at large. Arkwright alone had the sagacity to discern, and the boldness to predict in glowing language, how vastly productive human industry would become, when no longer proportioned in its results to muscular effort, which is by its nature fitful and capricious, but when made to consist in the task of guiding the work of mechanical fingers and arms, regularly impelled with great velocity by some indefatigable physical power.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.3",
+      "5.5"
+    ],
+    "sourceUrl": "https://sourcebooks.fordham.edu/mod/1835ure.asp",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
+    "id": "ure-1835-philosophy-of-manufactures",
+    "authorKey": "ure",
+    "sourceLine": "Andrew Ure, Scottish professor and defender of the factory system, The Philosophy of Manufactures, 1835",
+    "year": 1835,
+    "kind": "text",
+    "text": "There is, however, this difference in the two cases, that in the factory, every member of the loom is so adjusted, that the driving force leaves the attendant nearly nothing at all to do, certainly no muscular fatigue to sustain, while it procures for him good, unfailing wages, besides a healthy workshop gratis: whereas the non-factory weaver, having everything to execute by muscular exertion, finds the labour irksome, makes in consequence innumerable short pauses, separately of little account, but great when added together; earns therefore proportionally low wages, while he loses his health by poor diet and the dampness of his hovel. … The constant aim and effect of scientific improvement in manufactures are philanthropic, as they tend to relieve the workmen either from niceties of adjustment which exhaust his mind and fatigue his eyes, or from painful repetition of efforts which distort or wear out his frame. At every step of each manufacturing process described in this volume the humanity of science will be manifest.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.3",
+      "5.10"
+    ],
+    "sourceUrl": "https://sourcebooks.fordham.edu/mod/1835ure.asp",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
     "id": "venezuela-1811-act-independence",
     "authorKey": "venezuelan-congress",
     "sourceLine": "Congress of the United Provinces of Venezuela, creole representatives meeting in Caracas, Declaration of Independence, 5 July 1811",
@@ -1581,6 +2455,25 @@
     "sourceUrl": "https://declarationproject.org/?p=370",
     "verified": true,
     "verifiedBy": "script"
+  },
+  {
+    "id": "victoria-1858-atlantic-cable-message",
+    "authorKey": "victoria",
+    "sourceLine": "Queen Victoria, British monarch, message to President James Buchanan over the first transatlantic telegraph cable, August 16, 1858 (as printed in Henry M. Field, The Story of the Atlantic Telegraph, New York, 1892)",
+    "year": 1858,
+    "kind": "text",
+    "text": "The Queen desires to congratulate the President upon the successful completion of this great international work, in which the Queen has taken the deepest interest. \"The Queen is convinced that the President will join with her in fervently hoping that the electric cable which now connects Great Britain with the United States will prove an additional link between the nations, whose friendship is founded upon their common interest and reciprocal esteem. \"The Queen has much pleasure in thus communicating with the President, and renewing to him her wishes for the prosperity of the United States.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.5",
+      "5.4"
+    ],
+    "sourceUrl": "https://gutenberg.org/files/34765/34765-h/34765-h.htm",
+    "verified": true,
+    "verifiedBy": "script",
+    "verifiedNote": "sourceLine: Field book is The Story of the Atlantic Telegraph (copyright 1892, Gutenberg 34765), not an 1866 book; date added."
   },
   {
     "id": "viscardo-1799-letter-offices",
@@ -1634,6 +2527,80 @@
     "sourceUrl": "https://archive.org/stream/lettertospanisha00vizc/lettertospanisha00vizc_djvu.txt",
     "verified": true,
     "verifiedBy": "script"
+  },
+  {
+    "id": "wallace-1877-russia-emancipation-redemption",
+    "authorKey": "wallace",
+    "sourceLine": "Donald Mackenzie Wallace, British journalist who lived in Russia before and after emancipation, Russia (revised edition, 1905; first published 1877), on the redemption payments",
+    "year": 1905,
+    "kind": "text",
+    "text": "The arrangement was as follows:--The dues were capitalised at six per cent., and the Government paid at once to the proprietors four-fifths of the whole sum. The peasants were to pay to the proprietor the remaining fifth, either at once or in installments, and to the Government six per cent. for forty-nine years on the sum advanced. … Many Communes refused to undertake the operation on any conditions and in consequence of this not a few proprietors demanded the so-called obligatory redemption, according to which they accepted the four-fifths from the Government as full payment, and the operation was thus effected without the peasants being consulted.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.10",
+      "5.6"
+    ],
+    "sourceUrl": "https://gutenberg.org/cache/epub/1349/pg1349.txt",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
+    "id": "washington-1901-mortgaged-crops",
+    "authorKey": "washington",
+    "sourceLine": "Booker T. Washington, formerly enslaved Black educator in Alabama, Up from Slavery, 1901, describing the rural South of the 1880s",
+    "year": 1901,
+    "kind": "text",
+    "text": "Every child that was large enough to carry a hoe was put to work, and the baby—for usually there was at least one baby—would be laid down at the end of the cotton row, so that its mother could give it a certain amount of attention when she had finished chopping her row. … With few exceptions, I found that the crops were mortgaged in the counties where I went, and that the most of the coloured farmers were in debt. … The state had not been able to build schoolhouses in the country districts, and, as a rule, the schools were taught in churches or in log cabins.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.10"
+    ],
+    "sourceUrl": "https://www.gutenberg.org/cache/epub/2376/pg2376.txt",
+    "verified": true,
+    "verifiedBy": "script"
+  },
+  {
+    "id": "weeks-1903-congo-public-works-morel",
+    "authorKey": "weeks",
+    "sourceLine": "J. H. Weeks, British Baptist missionary on the Upper Congo (described by Morel as a missionary of twenty-five years), letter to E. D. Morel dated Monsembe, 24 December 1903, as quoted in E. D. Morel, Red Rubber, 1906",
+    "year": 1903,
+    "kind": "text",
+    "text": "What does the native receive in return for all this taxation? … Those who live near the line have to keep the road clear for nothing, and in tropical Africa that is not an easy task. … Others, again, point to well-built State stations. In what way do they benefit the native? … Then others point to the railway. It is a splendid achievement of engineering skill and pays large dividends to shareholders, but in what way does it benefit the thousands of natives on the Upper Congo?",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.5",
+      "5.4",
+      "5.10"
+    ],
+    "sourceUrl": "https://archive.org/stream/redrubberstoryof00more_0/redrubberstoryof00more_0_djvu.txt",
+    "verified": true,
+    "verifiedBy": "script",
+    "verifiedNote": "sourceLine: place, addressee and Morel as source stated; page gives \"twenty-five years\" as Morel's description."
+  },
+  {
+    "id": "wilberforce-1789-speech-slave-trade",
+    "authorKey": "wilberforce",
+    "sourceLine": "William Wilberforce, member of the British House of Commons and leader of the abolition cause, speech on the slave trade, 12 May 1789 (as printed in the parliamentary report in Cobbett, Parliamentary History of England, vol. 28, 1816; text from brycchancarey.com)",
+    "year": 1789,
+    "kind": "text",
+    "text": "I mean not to accuse any one, but to take the shame upon myself, in common, indeed, with the whole parliament of Great Britain, for having suffered this horrid trade to be carried on under their authority. We are all guilty we ought all to plead guilty, and not to exculpate ourselves by throwing the blame on others … Let any one imagine to himself 6 or 700 of these wretches chained two and two, surrounded with every object that is nauseous and disgusting, diseased, and struggling under every kind of wretchedness! How can we bear to think of such a scene as this? … The truth is, that for the sake of exercise, these miserable wretches, loaded with chains, oppressed with disease and wretchedness, are forced to dance by the terror of the lash, and sometimes by the actual use of it.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.10",
+      "5.1"
+    ],
+    "sourceUrl": "https://www.brycchancarey.com/abolition/wilberforce2.htm",
+    "verified": true,
+    "verifiedBy": "script",
+    "verifiedNote": "sourceLine: says it is the printed parliamentary report (not a verbatim transcript) and names the reproducing site."
   },
   {
     "id": "wilhelm-1881-imperial-message-social-policy",
@@ -1690,6 +2657,25 @@
     "verified": true,
     "verifiedBy": "script",
     "verifiedNote": "Checked title page (vol. 1, 1909): 'compiled by Count Shigenobu Okuma ... English version edited by Marcus B. Huish'; translation credit corrected from 'compiled by Huish'. Chapter title and author confirmed in the contents/chapter heading."
+  },
+  {
+    "id": "yung-1909-joint-stock-steamship-proposal",
+    "authorKey": "yung-wing",
+    "sourceLine": "Yung Wing, Chinese educator and reformer, My Life in China and America, 1909 (recalling his 1868 proposals to the Qing government)",
+    "year": 1909,
+    "kind": "text",
+    "text": "The first proposal contemplated the organization of a Steamship Company on a joint stock basis. No foreigner was to be allowed to be a stockholder in the company. It was to be a purely Chinese company, managed and worked by Chinese exclusively. … My proposition was to use steam to do the work, supplanting both the flat-bottomed scows and the Ningpo junk system, so that the millions who were dependent on rice for subsistence might find it possible to get good and sound rice. This is one of the great benefits and blessings which the China Merchant Steamship Co. has conferred upon China.",
+    "adapted": false,
+    "original": null,
+    "translation": null,
+    "topics": [
+      "5.5",
+      "5.7",
+      "5.4"
+    ],
+    "sourceUrl": "https://gutenberg.org/cache/epub/54635/pg54635.txt",
+    "verified": true,
+    "verifiedBy": "script"
   },
   {
     "id": "yung-wing-1909-kiangnan-arsenal",
