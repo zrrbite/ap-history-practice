@@ -1,0 +1,22 @@
+{
+  "id": "unit-5",
+  "number": 5,
+  "title": "Revolutions",
+  "period": "c. 1750–1900",
+  "years": [1740, 1910],
+  "topics": {
+    "5.1": "Enlightenment",
+    "5.2": "Nationalism and revolutions",
+    "5.3": "Industrial Revolution begins",
+    "5.4": "Industrialization spreads",
+    "5.5": "Technology",
+    "5.6": "Government's role",
+    "5.7": "Economic developments",
+    "5.8": "Reactions to industrialization",
+    "5.9": "Society",
+    "5.10": "Continuity and change"
+  },
+  "minimums": { "documents": 60, "dbqs": 6, "saqs": 12, "mcqs": 9 },
+  "shareBase": null,
+  "exampleCode": "dbq.enlightenment-revolutions.k2x9q1"
+}
