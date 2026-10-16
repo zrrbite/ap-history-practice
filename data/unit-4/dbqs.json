@@ -85,7 +85,7 @@
     "notes": {
       "thesis": [
         "Economic motives were the most important cause, because the search for spices, gold and new trade routes explains why voyages continued for three centuries and drew in merchants and later trading companies: Zurara admits that sailors went only where profit was certain, Cabot hoped to make London a spice market, and Indian observers such as the Zamorin and Zainuddin saw the Portuguese as traders who had come for pepper and spices.",
-        "Religious motives were the most important cause of the first voyages of the 1400s, because Portugal and Spain came out of centuries of war against Muslim states: the pope, Prince Henry's chronicler and Columbus all present exploration as a way to find Christian allies and convert new peoples, and the Ethiopian emperor's letter shows such allies existed. Economic aims grew in weight once the sea route to Asia was open.",
+        "Religious motives were the most important cause of the first voyages of the 1400s, because Portugal and Spain came out of centuries of war against Muslim states: the pope and Columbus present exploration as a way to find Christian allies and convert new peoples, Prince Henry's chronicler puts the service of God first among his reasons, and the Ethiopian emperor's letter shows such allies existed. Economic aims grew in weight once the sea route to Asia was open.",
         "State sponsorship and rivalry were the decisive cause, because the wish for spices and converts was old and became voyages only when monarchs paid for ships and new navigation methods made long ocean crossings possible: Ferdinand and Isabella's grant to Columbus, sixty years of Portuguese royal voyages and Hakluyt's case against Spain show crowns driving exploration to gain land and power."
       ],
       "contextualization": [
@@ -427,7 +427,7 @@
       ],
       "outsideEvidence": [
         {
-          "text": "Potato in Europe: brought from the Andes by the Spanish in the late 1500s, it became a major crop in Ireland by the end of the 1600s and in continental Europe by the end of the 1700s, which shows Europe changed too, but mostly late in the period.",
+          "text": "Potato in Europe: brought from the Andes by the Spanish in the late 1500s, it became a major crop in Ireland by the end of the 1600s and in continental Europe by the end of the 1700s, which shows Europe changed too, but mostly late in the period or after it.",
           "ref": {
             "title": "Potato",
             "url": "https://www.britannica.com/plant/potato"
@@ -621,7 +621,7 @@
       "complexity": [
         "Compare Spanish and Portuguese America: in Brazil owning slaves made a settler respectable and Jesuit inspections only partly limited Indigenous slavery, while Spanish America developed detailed mixed-race categories and royal offices, so both kept Europeans on top in different ways.",
         "Show change over time: sources from the 1500s describe conquerors dividing Indigenous people among themselves as labourers, while the 1748 account of Quito shows categories that could shift with skin colour, so the hierarchy grew more complex and somewhat more fluid by the end of the period.",
-        "Weigh law against practice: royal decrees such as the New Laws and Philip II's cédula show what the crown intended, while observers such as Gage and Las Casas show abuses continuing, so an essay can qualify claims of change by asking whose view each source gives."
+        "Weigh law against practice: royal decrees such as the New Laws and Philip II's cédula show what the crown intended, while observers such as Gage and Las Casas show abuses in practice, so an essay can qualify claims of change by asking whose view each source gives."
       ]
     }
   },
@@ -700,7 +700,7 @@
       {
         "doc": "moore-1738-punishments-slavery",
         "group": "change",
-        "sourcing": "Moore worked on the Gambia for the Royal African Company, which bought slaves there, so he had no reason to make the trade look worse than it was. His report that even trifling crimes came to be punished by sale into slavery is strong evidence that the trade changed African law."
+        "sourcing": "Moore worked on the Gambia for the Royal African Company, which bought slaves there, so he had no reason to make the trade look worse than it was. His report that even trifling crimes came to be punished by sale into slavery is strong evidence of how often courts sold people by the 1730s, though he did not witness the change he describes."
       },
       {
         "doc": "battell-1625-musket-gaga",
@@ -730,7 +730,7 @@
           }
         },
         {
-          "text": "An estimated 10 to 12 million enslaved Africans were shipped across the Atlantic from the 1500s to the 1800s. Probably no more than a few hundred thousand were taken before 1600; demand rose sharply with Caribbean sugar in the 1600s, and roughly half of the trade took place in the 1700s.",
+          "text": "An estimated 10 to 12 million enslaved Africans were shipped across the Atlantic from the 1500s to the 1800s. Probably no more than a few hundred thousand were taken before 1600; demand rose sharply with Caribbean sugar in the 1600s, and nearly three-fifths of the trade took place in the 1700s.",
           "ref": {
             "title": "Transatlantic slave trade",
             "url": "https://www.britannica.com/topic/transatlantic-slave-trade"
@@ -782,7 +782,7 @@
         }
       ],
       "complexity": [
-        "Show continuity with older trade: Cadamosto and Leo Africanus show rulers exchanging slaves for horses with traders from across the Sahara, so the Atlantic trade grew out of existing systems even as it greatly increased their scale.",
+        "Show continuity with older trade: Cadamosto and Leo Africanus show rulers exchanging slaves for horses, with Portuguese ships just as with traders from across the Sahara, so the Atlantic trade grew out of existing systems even as it greatly increased their scale.",
         "Corroborate across groups: the rulers who gained most, such as Dahomey's kings, did so by making war on their neighbours, and Whydah itself was conquered by Dahomey in 1727, so harm and power were two sides of the same process.",
         "Source the European writers: slavers such as Snelgrave and Barbot had reasons to blame Africans or defend the trade, while Ayuba's account comes from a victim through an English recorder, so weighing point of view shows why historians still debate how far Europeans and Africans each drove the trade."
       ]
@@ -813,7 +813,7 @@
       {
         "doc": "cieza-de-leon-1553-potosi",
         "group": "production",
-        "sourcing": "Cieza was a Spanish soldier and chronicler who saw Potosí in 1549, in its first boom, when mine owners paid Indigenous workers in silver and Andean wind furnaces smelted the ore. That timing makes the passage good evidence of how fast silver drew people to Potosí, but it cannot show the forced labour draft and mercury refining that came later."
+        "sourcing": "Cieza was a Spanish soldier and chronicler who saw Potosí in 1549, in its first boom, when Indigenous miners handed mine owners a weekly quota of silver (in Cieza's Spanish the miners pay the owner; this English version reverses it) and Andean wind furnaces smelted the ore. That timing makes the passage good evidence of how fast silver drew people to Potosí, but it cannot show the forced labour draft and mercury refining that came later."
       },
       {
         "doc": "acosta-1590-mercury-amalgamation",
@@ -875,7 +875,7 @@
       "thesis": [
         "The silver trade transformed economies to a great extent because it linked three regions: forced labour and mercury refining built a mining economy at Potosí, Chinese demand pulled the silver across the Pacific through Manila, and in Europe it raised prices and fed royal spending, so each region came to depend on silver mined or spent somewhere else.",
         "The transformation was deepest in the Andes and in China and weakest in Spain: the mita and mercury reorganized Indigenous labour and emptied villages, and Chinese merchants drew silver into China, while Spanish officials and later writers such as Montesquieu complained that the silver passed through Spain without making it rich.",
-        "The silver trade transformed economies only to a limited extent, because older systems decided where the silver went and how it was used: the Ming state's own tax reforms created the demand for silver, the Spanish crown spent it on wars and debts, and by the mid-1600s Potosí's output was falling."
+        "The silver trade transformed economies only to a limited extent, because older systems decided where the silver went and how it was used: the Ming state's own tax reforms drove much of the demand for silver, the Spanish crown spent it on wars and debts, and by the mid-1600s Potosí's output was falling."
       ],
       "contextualization": [
         {
@@ -1028,7 +1028,7 @@
     ],
     "notes": {
       "thesis": [
-        "Mercantilism shaped how European states ran their empires to a great extent because it guided their laws: England's Navigation Acts and Spain's limits on the Manila trade aimed to keep trade and bullion inside each empire, and writers from Mun to Montesquieu described colonies as markets and suppliers for the mother country.",
+        "Mercantilism shaped how European states ran their empires to a great extent because it guided their laws: England's Navigation Acts and Spain's limits on the Manila trade aimed to keep trade and bullion inside each empire, Mun told England to sell abroad more than it bought, and Davenant and Montesquieu described colonies as markets and suppliers for the mother country.",
         "Mercantilism shaped what joint-stock companies were allowed to do more than what they could do in Asia: states gave companies monopolies and the right to build forts, make alliances and appoint governors, yet in India and Taiwan the English and Dutch had to accept the terms of strong Asian rulers such as Jahangir and Koxinga.",
         "Mercantilism's hold on colonies was real but limited, because the people it governed protested or evaded it: Virginia's own governor called the Navigation Act destructive and admitted that New Englanders broke it, and Spanish officials let the Manila trade exceed its legal limits."
       ],
@@ -1318,7 +1318,7 @@
       {
         "doc": "avila-1608-huarochiri-traditions",
         "group": "cultural",
-        "sourcing": "Ávila was a parish priest campaigning against Andean religion, so he had every reason to report success. His admission that his parishioners still kept their traditions 'most inviolably' is therefore strong evidence that Andean beliefs survived more than seventy years after the conquest."
+        "sourcing": "Ávila was a parish priest campaigning against Andean religion, so he had reason to stress how much of it survived, since that justified the campaigns he went on to lead. His eyewitness detail of rites kept 'most inviolably' in his own parish is still strong evidence that Andean beliefs survived more than seventy years after the conquest."
       },
       {
         "doc": "garcilaso-1609-inca-memory",
@@ -1334,7 +1334,7 @@
     "notes": {
       "thesis": [
         "Indigenous peoples resisted European colonization to a great extent and in many forms: the Mexica, Kaqchikel and Inca fought large wars, the Powhatan and Haudenosaunee bargained with food, land claims and diplomacy, and Andean communities kept their own religion alive under Spanish rule.",
-        "Armed resistance usually failed where disease and Indigenous allies helped the Spanish, so the most lasting resistance was cultural: Taki Onqoy preachers rejected baptism in the 1560s, and in 1608 the priest Ávila admitted that Andean traditions were still kept 'most inviolably'.",
+        "Armed resistance usually failed where disease and Indigenous allies helped the Spanish, so the most lasting resistance was cultural: Taki Onqoy preachers rejected baptism in the 1560s, and in 1608 the priest Ávila reported that Andean traditions were still kept 'most inviolably'.",
         "The form of resistance depended on how much power a people still held: nations that kept their land and could play rival Europeans against each other, such as the Six Nations at Lancaster in 1744, resisted through negotiation, while peoples already under colonial rule, like the Andeans, resisted through hidden religion and memory."
       ],
       "contextualization": [
@@ -1496,8 +1496,8 @@
     "notes": {
       "thesis": [
         "Taxes and economic hardship were the most common cause of challenges to state power, because rulers paying for wars and courts demanded more than subjects could give: Shimabara farmers faced impossible rice taxes, Parisians rejected new tariffs, Parliament protested forced loans, and the letter attributed to Shivaji tied the jizya to ruined peasants.",
-        "Religion was the cause that turned grievances into lasting movements, because it gave rebels a higher law to appeal to: German peasants cited the Gospel, Shimabara's rebels died for the 'Lord of Heaven', Guru Gobind Singh defied Aurangzeb, and Andean preachers promised the return of the huacas.",
-        "Many of the most serious challenges began when rulers centralized power at the expense of local elites with their own rights: the Dutch provinces, conquistadors like Aguirre and Wampanoag sachems all resisted a distant authority, and an Ottoman succession struggle shows rivals for power gathering followers, and economic or religious complaints gave them followers."
+        "Religion was the cause that turned grievances into open defiance, because it gave rebels a higher law to appeal to: German peasants cited the Gospel, Shimabara's rebels died for the 'Lord of Heaven', Guru Gobind Singh defied Aurangzeb, and Andean preachers promised the return of the huacas.",
+        "Many of the most serious challenges began when rulers centralized power at the expense of local elites with their own rights: the Dutch provinces, conquistadors like Aguirre and Wampanoag sachems all resisted an outside authority, and an Ottoman succession struggle shows rivals for power at the top; economic or religious complaints gave such leaders followers."
       ],
       "contextualization": [
         {
@@ -1517,7 +1517,7 @@
       ],
       "outsideEvidence": [
         {
-          "text": "Li Zicheng's rebellion: who joined the rebels in 1630 as famine spread in northern China, Li took Beijing in 1644 and brought down the Ming dynasty, a case where economic disaster fed rebellion.",
+          "text": "Li Zicheng's rebellion: Li, who joined the rebels in 1630 as famine spread in northern China, took Beijing in 1644 and brought down the Ming dynasty, a case where economic disaster fed rebellion.",
           "ref": {
             "title": "Li Zicheng",
             "url": "https://www.britannica.com/biography/Li-Zicheng"

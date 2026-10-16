@@ -1,0 +1,209 @@
+{
+  "reviewed": [
+    "henry-navigator-motives",
+    "da-gama-calicut-1498",
+    "potosi-mercury-refining",
+    "malacca-portuguese-cannon",
+    "adams-ieyasu-european-skills",
+    "peru-european-livestock",
+    "manila-silver-trade",
+    "tokugawa-macao-envoys-1640",
+    "shivaji-letter-jizya",
+    "fronde-day-of-barricades",
+    "jamaica-maroon-treaty",
+    "nakuk-pech-maya-noble",
+    "quito-social-order-1748",
+    "jolof-horses-and-slaves",
+    "epidemics-kaqchikel-plymouth",
+    "maize-europe-and-kongo",
+    "mercantilism-mun-and-north",
+    "maritime-technology",
+    "indian-ocean-trade-change",
+    "land-empire-hierarchies",
+    "acosta-mercury-silver",
+    "quito-social-classes",
+    "maya-katun-chronicle",
+    "kongo-maize",
+    "gold-coast-firearms",
+    "whydah-war-captives",
+    "kilwa-1505",
+    "malacca-cannon",
+    "malabar-franks",
+    "dejima-dutch",
+    "shimabara-arrow-letter",
+    "manila-silver-china",
+    "henry-bojador-voyage",
+    "navigation-act-1651",
+    "fronde-barricades"
+  ],
+  "findings": [
+    {
+      "where": "saq adams-ieyasu-european-skills parts.2.accept.0",
+      "kind": "exam-fit",
+      "problem": "The task asks how firearms changed warfare, but this answer only says guns arrived in 1543 and were copied; it earns the point without naming any change in how wars were fought.",
+      "edit": {
+        "file": "saqs",
+        "id": "adams-ieyasu-european-skills",
+        "path": "parts.2.accept.0",
+        "old": "Explains that after Portuguese traders brought matchlock guns to the island of Tanegashima in 1543, Japanese smiths copied them and were soon making them in large numbers.",
+        "new": "Explains that after Portuguese traders brought matchlock guns to the island of Tanegashima in 1543, Japanese smiths copied them and were soon making them in large numbers, so guns became standard weapons in the armies of the warring lords."
+      }
+    },
+    {
+      "where": "saq peru-european-livestock parts.2.accept.1",
+      "kind": "exam-fit",
+      "problem": "The task asks how European animals changed life for Indigenous peoples, but this answer describes only landscapes and prices and never says how Indigenous people were affected, so it earns the point without answering the task.",
+      "edit": {
+        "file": "saqs",
+        "id": "peru-european-livestock",
+        "path": "parts.2.accept.1",
+        "old": "Explains that horses, cattle and pigs ran wild and multiplied across the grasslands, changing landscapes and economies, as the falling price of cows in the passage suggests.",
+        "new": "Explains that horses, cattle and pigs ran wild and multiplied across the grasslands, trampling and eating Indigenous farmers' crops and changing landscapes and economies, as the falling price of cows in the passage suggests."
+      }
+    },
+    {
+      "where": "saq quito-social-order-1748 parts.2.accept.0",
+      "kind": "accuracy",
+      "problem": "Overstated: from the 1680s to about 1750 the crown sold many high posts, and creoles held most seats on several audiencias, so peninsulares did not keep 'the higher offices' throughout the period. What held throughout was their grip on the very top posts, such as viceroy.",
+      "edit": {
+        "file": "saqs",
+        "id": "quito-social-order-1748",
+        "path": "parts.2.accept.0",
+        "old": "Explains that people born in Spain (peninsulares) kept the higher offices in the colonies throughout the period, above American-born creoles.",
+        "new": "Explains that people born in Spain (peninsulares) kept the highest offices in the colonies, such as viceroy, throughout the period, above American-born creoles."
+      }
+    },
+    {
+      "where": "saq jolof-horses-and-slaves parts.2.accept.2",
+      "kind": "exam-fit",
+      "problem": "The task asks how the two forms of slavery differed, but this answer describes only West African slavery and makes no contrast, so a student could earn the point without explaining a difference.",
+      "edit": {
+        "file": "saqs",
+        "id": "jolof-horses-and-slaves",
+        "path": "parts.2.accept.2",
+        "old": "Explains that in many West African societies slaves could become part of the master's kin group, and their children could even rise to high positions.",
+        "new": "Explains that in many West African societies slaves could become part of the master's kin group, and their children could even rise to high positions, which was rare in the plantation slavery of the Americas."
+      }
+    },
+    {
+      "where": "saq maritime-technology parts.0.accept.2",
+      "kind": "exam-fit",
+      "problem": "The list stops at three technologies, so a student who names other standard Unit 4 answers (the lateen sail, the sternpost rudder, the carrack or the quadrant) sees no match under 'Earns the point' and wrongly marks a correct answer as failing.",
+      "edit": {
+        "file": "saqs",
+        "id": "maritime-technology",
+        "path": "parts.0.accept.2",
+        "old": "Names the magnetic compass, which showed a ship's heading even when clouds hid the sun and stars.",
+        "new": "Names the magnetic compass, which showed a ship's heading even when clouds hid the sun and stars. Other correct answers include the lateen (triangular) sail, the sternpost rudder, the carrack and the quadrant."
+      }
+    },
+    {
+      "where": "saq maritime-technology parts.1.accept.1",
+      "kind": "exam-fit",
+      "problem": "Part b lists only the caravel and the astrolabe, so a sound explanation built on the magnetic compass, which part a itself accepts, finds no match and looks wrong to the student.",
+      "edit": {
+        "file": "saqs",
+        "id": "maritime-technology",
+        "path": "parts.1.accept.1",
+        "old": "Explains that the mariner's astrolabe let Portuguese pilots measure their latitude at sea, so they could sail far out into the open Atlantic and still know how far north or south they were.",
+        "new": "Explains that the mariner's astrolabe let Portuguese pilots measure their latitude at sea, so they could sail far out into the open Atlantic and still know how far north or south they were. A similar explanation of the magnetic compass, which kept ships on course out of sight of land, also earns the point."
+      }
+    },
+    {
+      "where": "saq land-empire-hierarchies parts.2.accept.0",
+      "kind": "accuracy",
+      "problem": "The 1649 Ulozhenie did not merge slaves (kholops) and peasants into one class. It bound peasants and their heirs to the land with no time limit on recovering runaways. Slaves were folded into the serf population only by Peter the Great's poll tax of the 1720s.",
+      "edit": {
+        "file": "saqs",
+        "id": "land-empire-hierarchies",
+        "path": "parts.2.accept.0",
+        "old": "Explains that the 1649 Law Code (Sobornoye Ulozheniye) merged slaves and free peasants into one serf class and made that status hereditary.",
+        "new": "Explains that the 1649 Law Code (Sobornoye Ulozheniye) made serfdom hereditary, so the children of serfs were born bound to their lords' land."
+      }
+    },
+    {
+      "where": "saq land-empire-hierarchies parts.0.accept.1",
+      "kind": "accuracy",
+      "problem": "Overstated: the Manchu–Han pairing (dyarchy) covered the top posts of the central government, such as the Grand Secretaries and the heads of the Six Boards, not 'each post'. The open-points file notes that the cited ref does not state this claim.",
+      "edit": {
+        "file": "saqs",
+        "id": "land-empire-hierarchies",
+        "path": "parts.0.accept.1",
+        "old": "Names the system of dual appointments, which placed a Manchu beside a Han Chinese official in each post of the central government; the Han official did the work, and the Manchu made sure of Han loyalty to Qing rule.",
+        "new": "Names the system of dual appointments, which placed a Manchu beside a Han Chinese official in each of the top posts of the central government; the Han official did the work, and the Manchu made sure of Han loyalty to Qing rule."
+      }
+    },
+    {
+      "where": "saq land-empire-hierarchies parts.0.accept.0",
+      "kind": "exam-fit",
+      "problem": "Part a lists only two policies, so other standard answers find no match under 'Earns the point': keeping the Confucian civil service examinations open to Han scholars, or stationing Manchu banner garrisons in Chinese cities.",
+      "edit": {
+        "file": "saqs",
+        "id": "land-empire-hierarchies",
+        "path": "parts.0.accept.0",
+        "old": "Names the Queue Order of 1645, which forced Han Chinese men, on pain of death, to shave the front of the head and wear the Manchu braid as a test of loyalty.",
+        "new": "Names the Queue Order of 1645, which forced Han Chinese men, on pain of death, to shave the front of the head and wear the Manchu braid as a test of loyalty. Other correct answers include keeping the Confucian civil service examinations, which drew Han scholars into Qing service, and stationing Manchu banner garrisons in Chinese cities."
+      }
+    },
+    {
+      "where": "mcq maya-katun-chronicle questions.0.stem",
+      "kind": "accuracy",
+      "problem": "In the chronicle 'the general death' falls in Katun 4 Ahau, at least two katuns before 'foreigners arrived' (Katun 11 Ahau), which puts it before 1492. The key treats it as an Old World disease, which the source contradicts. Limiting the stem to the smallpox entries keeps the key and the explanation correct.",
+      "edit": {
+        "file": "mcqs",
+        "id": "maya-katun-chronicle",
+        "path": "questions.0.stem",
+        "old": "The repeated entries about smallpox and 'the general death' are best explained by which development?",
+        "new": "The entries recording smallpox are best explained by which development?"
+      }
+    },
+    {
+      "where": "mcq kongo-maize questions.0.options.1",
+      "kind": "exam-fit",
+      "problem": "The stem quotes 'Portugal grain' and only option D mentions the Portuguese, so the question can be answered by matching one word, with no knowledge that maize came from the Americas. A second, wrong Portuguese route makes the student use that knowledge.",
+      "edit": {
+        "file": "mcqs",
+        "id": "kongo-maize",
+        "path": "questions.0.options.1",
+        "old": "Swahili merchants trading across the Indian Ocean",
+        "new": "Portuguese ships bringing Asian crops from their trading posts in India"
+      }
+    },
+    {
+      "where": "mcq gold-coast-firearms questions.0.explanation",
+      "kind": "consistency",
+      "problem": "The explanation dates Bosman's text to 1704, but the document's sourceLine gives 'Dutch original 1703, English translation 1705', so students see three different dates. (The open-points file notes that Wikipedia gives 1704 for the Dutch original; the documents.json sourceLine, which this review cannot edit, may need the same check.) The explanation's other claim, that English ships carried the most enslaved Africans in the 1700s, matches the standard slave-voyage estimates for the century, but its Britannica ref does not state it.",
+      "edit": {
+        "file": "mcqs",
+        "id": "gold-coast-firearms",
+        "path": "questions.0.explanation",
+        "old": "Bosman sells guns because if the Dutch refused, 'the English, Danes, and Brandenburghers' would sell them instead. Portugal led the Atlantic slave trade in the 1500s, but the Dutch took the lead for parts of the 1600s, and in the 1700s English ships carried more enslaved Africans than those of any other nation. Option B describes an earlier period, long before 1704.",
+        "new": "Bosman sells guns because if the Dutch refused, 'the English, Danes, and Brandenburghers' would sell them instead. Portugal led the Atlantic slave trade in the 1500s, but the Dutch took the lead for parts of the 1600s, and in the 1700s English ships carried more enslaved Africans than those of any other nation. Option B describes an earlier period, long before Bosman wrote."
+      }
+    },
+    {
+      "where": "mcq kilwa-1505 questions.1.explanation",
+      "kind": "accuracy",
+      "problem": "Open point settled: the 1505 Sofala fort is right (Pero de Anaya built it that year), but the Portuguese did not 'seize' Sofala in 1505. They built the fort with the local sheikh's leave and turned on him only in 1506, so 'seized' falsely makes it a second Kilwa.",
+      "edit": {
+        "file": "mcqs",
+        "id": "kilwa-1505",
+        "path": "questions.1.explanation",
+        "old": "Kilwa was a rich Muslim trading city, and Sofala, its southern outpost, exported gold from the interior of what is now Zimbabwe. In 1505 the Portuguese also seized Sofala and built a fort there to capture this gold trade. Option A is wrong: Europe's pepper came mainly from the Malabar coast of India, not from East Africa.",
+        "new": "Kilwa was a rich Muslim trading city, and Sofala, its southern outpost, exported gold from the interior of what is now Zimbabwe. In 1505 the Portuguese also built a fort at Sofala to capture this gold trade. Option A is wrong: Europe's pepper came mainly from the Malabar coast of India, not from East Africa."
+      }
+    },
+    {
+      "where": "mcq dejima-dutch questions.2.explanation",
+      "kind": "consistency",
+      "problem": "The explanation says option C tempts 'because of the word \"isolation\"', but that word is not in the passage, the stem or the options, so the student is pointed to text that does not exist.",
+      "edit": {
+        "file": "mcqs",
+        "id": "dejima-dutch",
+        "path": "questions.2.explanation",
+        "old": "The Dutch accepted life on a fenced island, posts in the water warning boats away, and a ban on showing their religion, because the trade was 'most advantageous.' Option C is tempting because of the word 'isolation,' but Japan still traded with the Dutch and Chinese at Nagasaki and kept up trade with Korea and the Ryukyu Islands.",
+        "new": "The Dutch accepted life on a fenced island, posts in the water warning boats away, and a ban on showing their religion, because the trade was 'most advantageous.' Option C is tempting because Japan in this period is often called isolated, but Japan still traded with the Dutch and Chinese at Nagasaki and kept up trade with Korea and the Ryukyu Islands."
+      }
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "reviewed": [
+    "exploration-causes",
+    "empire-building",
+    "columbian-exchange",
+    "americas-social-hierarchy",
+    "slave-trade-africa",
+    "silver-trade",
+    "mercantilism",
+    "east-asia-responses",
+    "indigenous-resistance",
+    "challenges-to-state-power"
+  ],
+  "findings": [
+    {
+      "where": "dbq exploration-causes notes.thesis 1",
+      "kind": "consistency",
+      "problem": "The Zurara excerpt in the pool names 'zeal for the service of God' and trade with any Christians found there, but says nothing about converting peoples or finding Christian allies against Muslims, so the thesis credits him with a claim his document does not make (the pope and Columbus do make it).",
+      "edit": {
+        "file": "dbqs",
+        "id": "exploration-causes",
+        "path": "notes.thesis.1",
+        "old": "Religious motives were the most important cause of the first voyages of the 1400s, because Portugal and Spain came out of centuries of war against Muslim states: the pope, Prince Henry's chronicler and Columbus all present exploration as a way to find Christian allies and convert new peoples, and the Ethiopian emperor's letter shows such allies existed. Economic aims grew in weight once the sea route to Asia was open.",
+        "new": "Religious motives were the most important cause of the first voyages of the 1400s, because Portugal and Spain came out of centuries of war against Muslim states: the pope and Columbus present exploration as a way to find Christian allies and convert new peoples, Prince Henry's chronicler puts the service of God first among his reasons, and the Ethiopian emperor's letter shows such allies existed. Economic aims grew in weight once the sea route to Asia was open."
+      }
+    },
+    {
+      "where": "dbq columbian-exchange notes.outsideEvidence 0",
+      "kind": "accuracy",
+      "problem": "The prompt's period ends in 1750, so the potato becoming a major crop in continental Europe 'by the end of the 1700s' falls after the period, not 'late in the period'; as written a student is invited to use post-1750 change as evidence of change within the period.",
+      "edit": {
+        "file": "dbqs",
+        "id": "columbian-exchange",
+        "path": "notes.outsideEvidence.0.text",
+        "old": "Potato in Europe: brought from the Andes by the Spanish in the late 1500s, it became a major crop in Ireland by the end of the 1600s and in continental Europe by the end of the 1700s, which shows Europe changed too, but mostly late in the period.",
+        "new": "Potato in Europe: brought from the Andes by the Spanish in the late 1500s, it became a major crop in Ireland by the end of the 1600s and in continental Europe by the end of the 1700s, which shows Europe changed too, but mostly late in the period or after it."
+      }
+    },
+    {
+      "where": "dbq americas-social-hierarchy notes.complexity 2",
+      "kind": "consistency",
+      "problem": "Las Casas's Brief Account was written in 1542, the year of the New Laws, and describes the first encomiendas on Hispaniola, so it cannot show abuses 'continuing' after the royal decrees; a student following this note would make a chronological error (Philip II's 1565 cédula is also a reward, not a reform).",
+      "edit": {
+        "file": "dbqs",
+        "id": "americas-social-hierarchy",
+        "path": "notes.complexity.2",
+        "old": "Weigh law against practice: royal decrees such as the New Laws and Philip II's cédula show what the crown intended, while observers such as Gage and Las Casas show abuses continuing, so an essay can qualify claims of change by asking whose view each source gives.",
+        "new": "Weigh law against practice: royal decrees such as the New Laws and Philip II's cédula show what the crown intended, while observers such as Gage and Las Casas show abuses in practice, so an essay can qualify claims of change by asking whose view each source gives."
+      }
+    },
+    {
+      "where": "dbq slave-trade-africa notes.complexity 0",
+      "kind": "consistency",
+      "problem": "Cadamosto was a Venetian sailing by sea for Prince Henry, so his document shows a Wolof ruler trading slaves for horses with the new Atlantic (Portuguese) traders, not with 'traders from across the Sahara'; only Leo Africanus shows the trans-Saharan trade. The continuity point is stronger when the two are told apart.",
+      "edit": {
+        "file": "dbqs",
+        "id": "slave-trade-africa",
+        "path": "notes.complexity.0",
+        "old": "Show continuity with older trade: Cadamosto and Leo Africanus show rulers exchanging slaves for horses with traders from across the Sahara, so the Atlantic trade grew out of existing systems even as it greatly increased their scale.",
+        "new": "Show continuity with older trade: Cadamosto and Leo Africanus show rulers exchanging slaves for horses, with Portuguese ships just as with traders from across the Sahara, so the Atlantic trade grew out of existing systems even as it greatly increased their scale."
+      }
+    },
+    {
+      "where": "dbq slave-trade-africa pool.10.sourcing",
+      "kind": "consistency",
+      "problem": "Moore was on the Gambia only in 1730-35, three centuries into the Atlantic trade, so he could not see law change; he reports a change he was told of. Calling it 'strong evidence that the trade changed African law' overstates what an eyewitness of the 1730s can show.",
+      "edit": {
+        "file": "dbqs",
+        "id": "slave-trade-africa",
+        "path": "pool.10.sourcing",
+        "old": "Moore worked on the Gambia for the Royal African Company, which bought slaves there, so he had no reason to make the trade look worse than it was. His report that even trifling crimes came to be punished by sale into slavery is strong evidence that the trade changed African law.",
+        "new": "Moore worked on the Gambia for the Royal African Company, which bought slaves there, so he had no reason to make the trade look worse than it was. His report that even trifling crimes came to be punished by sale into slavery is strong evidence of how often courts sold people by the 1730s, though he did not witness the change he describes."
+      }
+    },
+    {
+      "where": "dbq silver-trade pool.0.sourcing",
+      "kind": "accuracy",
+      "problem": "In Cieza's Spanish (Crónica del Perú, ch. 109) the Indians who worked a mine gave its owner one or two marcs of silver a week, keeping the rest; Markham's English 'he who had a mine gave each Indian ... a marc' reverses this, and the note repeats the error, teaching that owners paid wages. The document's English text cannot be edited here, so the note should correct it.",
+      "edit": {
+        "file": "dbqs",
+        "id": "silver-trade",
+        "path": "pool.0.sourcing",
+        "old": "Cieza was a Spanish soldier and chronicler who saw Potosí in 1549, in its first boom, when mine owners paid Indigenous workers in silver and Andean wind furnaces smelted the ore. That timing makes the passage good evidence of how fast silver drew people to Potosí, but it cannot show the forced labour draft and mercury refining that came later.",
+        "new": "Cieza was a Spanish soldier and chronicler who saw Potosí in 1549, in its first boom, when Indigenous miners handed mine owners a weekly quota of silver (in Cieza's Spanish the miners pay the owner; this English version reverses it) and Andean wind furnaces smelted the ore. That timing makes the passage good evidence of how fast silver drew people to Potosí, but it cannot show the forced labour draft and mercury refining that came later."
+      }
+    },
+    {
+      "where": "dbq silver-trade notes.thesis 2",
+      "kind": "accuracy",
+      "problem": "Chinese demand for silver predates the single whip reform: silver had replaced failing Ming paper money in commerce during the 1400s, and the reform of the 1570s-80s raised that demand, as the item's own contextualization says ('raised China's imports'). 'Created the demand' is an overstatement a teacher would mark.",
+      "edit": {
+        "file": "dbqs",
+        "id": "silver-trade",
+        "path": "notes.thesis.2",
+        "old": "The silver trade transformed economies only to a limited extent, because older systems decided where the silver went and how it was used: the Ming state's own tax reforms created the demand for silver, the Spanish crown spent it on wars and debts, and by the mid-1600s Potosí's output was falling.",
+        "new": "The silver trade transformed economies only to a limited extent, because older systems decided where the silver went and how it was used: the Ming state's own tax reforms drove much of the demand for silver, the Spanish crown spent it on wars and debts, and by the mid-1600s Potosí's output was falling."
+      }
+    },
+    {
+      "where": "dbq mercantilism notes.thesis 0",
+      "kind": "consistency",
+      "problem": "Mun's document in this pool states the balance-of-trade rule and says nothing about colonies; the pool's writers on colonies as markets and suppliers are Davenant and Montesquieu, so the thesis points students to the wrong document.",
+      "edit": {
+        "file": "dbqs",
+        "id": "mercantilism",
+        "path": "notes.thesis.0",
+        "old": "Mercantilism shaped how European states ran their empires to a great extent because it guided their laws: England's Navigation Acts and Spain's limits on the Manila trade aimed to keep trade and bullion inside each empire, and writers from Mun to Montesquieu described colonies as markets and suppliers for the mother country.",
+        "new": "Mercantilism shaped how European states ran their empires to a great extent because it guided their laws: England's Navigation Acts and Spain's limits on the Manila trade aimed to keep trade and bullion inside each empire, Mun told England to sell abroad more than it bought, and Davenant and Montesquieu described colonies as markets and suppliers for the mother country."
+      }
+    },
+    {
+      "where": "dbq indigenous-resistance pool.9.sourcing",
+      "kind": "accuracy",
+      "problem": "The reasoning is backwards: Ávila built his career on exposing surviving 'idolatry' (his reports in 1608, while his own parishioners were bringing charges against him, launched the extirpation campaigns he led from 1609), so he had reason to stress how much Andean religion survived, not to report success. His testimony is still strong as an eyewitness of rites in his own parish, but not as an admission against interest.",
+      "edit": {
+        "file": "dbqs",
+        "id": "indigenous-resistance",
+        "path": "pool.9.sourcing",
+        "old": "Ávila was a parish priest campaigning against Andean religion, so he had every reason to report success. His admission that his parishioners still kept their traditions 'most inviolably' is therefore strong evidence that Andean beliefs survived more than seventy years after the conquest.",
+        "new": "Ávila was a parish priest campaigning against Andean religion, so he had reason to stress how much of it survived, since that justified the campaigns he went on to lead. His eyewitness detail of rites kept 'most inviolably' in his own parish is still strong evidence that Andean beliefs survived more than seventy years after the conquest."
+      }
+    },
+    {
+      "where": "dbq indigenous-resistance notes.thesis 1",
+      "kind": "consistency",
+      "problem": "'Admitted' presents Ávila's report as testimony against his own interest, which repeats the faulty sourcing logic corrected in pool.9; as a campaigner against Andean religion he had reason to report its survival.",
+      "edit": {
+        "file": "dbqs",
+        "id": "indigenous-resistance",
+        "path": "notes.thesis.1",
+        "old": "Armed resistance usually failed where disease and Indigenous allies helped the Spanish, so the most lasting resistance was cultural: Taki Onqoy preachers rejected baptism in the 1560s, and in 1608 the priest Ávila admitted that Andean traditions were still kept 'most inviolably'.",
+        "new": "Armed resistance usually failed where disease and Indigenous allies helped the Spanish, so the most lasting resistance was cultural: Taki Onqoy preachers rejected baptism in the 1560s, and in 1608 the priest Ávila reported that Andean traditions were still kept 'most inviolably'."
+      }
+    },
+    {
+      "where": "dbq challenges-to-state-power notes.thesis 1",
+      "kind": "accuracy",
+      "problem": "The thesis says religion turned grievances into 'lasting movements', but three of its four examples were crushed quickly: the German Peasants' War within about a year (1524-25), Shimabara in months (1637-38) and Taki Onqoy by the early 1570s. The claim is contradicted by its own evidence; the higher-law reasoning supports defiance, not duration.",
+      "edit": {
+        "file": "dbqs",
+        "id": "challenges-to-state-power",
+        "path": "notes.thesis.1",
+        "old": "Religion was the cause that turned grievances into lasting movements, because it gave rebels a higher law to appeal to: German peasants cited the Gospel, Shimabara's rebels died for the 'Lord of Heaven', Guru Gobind Singh defied Aurangzeb, and Andean preachers promised the return of the huacas.",
+        "new": "Religion was the cause that turned grievances into open defiance, because it gave rebels a higher law to appeal to: German peasants cited the Gospel, Shimabara's rebels died for the 'Lord of Heaven', Guru Gobind Singh defied Aurangzeb, and Andean preachers promised the return of the huacas."
+      }
+    },
+    {
+      "where": "dbq challenges-to-state-power notes.thesis 2",
+      "kind": "exam-fit",
+      "problem": "The thesis is garbled ('shows rivals for power gathering followers, and economic or religious complaints gave them followers'), so a student cannot tell what the Ottoman example shows; and the Wampanoag faced neighbouring colonies, not a 'distant' authority as the Dutch and Aguirre did.",
+      "edit": {
+        "file": "dbqs",
+        "id": "challenges-to-state-power",
+        "path": "notes.thesis.2",
+        "old": "Many of the most serious challenges began when rulers centralized power at the expense of local elites with their own rights: the Dutch provinces, conquistadors like Aguirre and Wampanoag sachems all resisted a distant authority, and an Ottoman succession struggle shows rivals for power gathering followers, and economic or religious complaints gave them followers.",
+        "new": "Many of the most serious challenges began when rulers centralized power at the expense of local elites with their own rights: the Dutch provinces, conquistadors like Aguirre and Wampanoag sachems all resisted an outside authority, and an Ottoman succession struggle shows rivals for power at the top; economic or religious complaints gave such leaders followers."
+      }
+    },
+    {
+      "where": "dbq challenges-to-state-power notes.outsideEvidence 0",
+      "kind": "exam-fit",
+      "problem": "The sentence is broken (it begins with a dangling 'who' and names Li only afterwards), so the model evidence a student is meant to copy reads as an error.",
+      "edit": {
+        "file": "dbqs",
+        "id": "challenges-to-state-power",
+        "path": "notes.outsideEvidence.0.text",
+        "old": "Li Zicheng's rebellion: who joined the rebels in 1630 as famine spread in northern China, Li took Beijing in 1644 and brought down the Ming dynasty, a case where economic disaster fed rebellion.",
+        "new": "Li Zicheng's rebellion: Li, who joined the rebels in 1630 as famine spread in northern China, took Beijing in 1644 and brought down the Ming dynasty, a case where economic disaster fed rebellion."
+      }
+    }
+  ]
+}

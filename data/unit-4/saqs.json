@@ -1,8 +1,12 @@
 [
   {
     "id": "henry-navigator-motives",
-    "topics": ["4.2"],
-    "docs": ["zurara-1453-henry-reasons-profit"],
+    "topics": [
+      "4.2"
+    ],
+    "docs": [
+      "zurara-1453-henry-reasons-profit"
+    ],
     "parts": [
       {
         "label": "a",
@@ -35,15 +39,28 @@
       }
     ],
     "refs": [
-      { "title": "Henry the Navigator", "url": "https://www.britannica.com/biography/Henry-the-Navigator" },
-      { "title": "Elmina", "url": "https://www.britannica.com/place/Elmina" },
-      { "title": "Bartolomeu Dias", "url": "https://www.britannica.com/biography/Bartolomeu-Dias" }
+      {
+        "title": "Henry the Navigator",
+        "url": "https://www.britannica.com/biography/Henry-the-Navigator"
+      },
+      {
+        "title": "Elmina",
+        "url": "https://www.britannica.com/place/Elmina"
+      },
+      {
+        "title": "Bartolomeu Dias",
+        "url": "https://www.britannica.com/biography/Bartolomeu-Dias"
+      }
     ]
   },
   {
     "id": "da-gama-calicut-1498",
-    "topics": ["4.2"],
-    "docs": ["gama-journal-1498-christians-spices"],
+    "topics": [
+      "4.2"
+    ],
+    "docs": [
+      "gama-journal-1498-christians-spices"
+    ],
     "parts": [
       {
         "label": "a",
@@ -73,14 +90,25 @@
       }
     ],
     "refs": [
-      { "title": "Vasco da Gama", "url": "https://www.britannica.com/biography/Vasco-da-Gama" },
-      { "title": "Vasco da Gama", "url": "https://en.wikipedia.org/wiki/Vasco_da_Gama" }
+      {
+        "title": "Vasco da Gama",
+        "url": "https://www.britannica.com/biography/Vasco-da-Gama"
+      },
+      {
+        "title": "Vasco da Gama",
+        "url": "https://en.wikipedia.org/wiki/Vasco_da_Gama"
+      }
     ]
   },
   {
     "id": "potosi-mercury-refining",
-    "topics": ["4.1", "4.5"],
-    "docs": ["acosta-1590-mercury-amalgamation"],
+    "topics": [
+      "4.1",
+      "4.5"
+    ],
+    "docs": [
+      "acosta-1590-mercury-amalgamation"
+    ],
     "parts": [
       {
         "label": "a",
@@ -111,14 +139,25 @@
       }
     ],
     "refs": [
-      { "title": "Patio process", "url": "https://en.wikipedia.org/wiki/Patio_process" },
-      { "title": "Mit'a", "url": "https://en.wikipedia.org/wiki/Mit%27a" }
+      {
+        "title": "Patio process",
+        "url": "https://en.wikipedia.org/wiki/Patio_process"
+      },
+      {
+        "title": "Mit'a",
+        "url": "https://en.wikipedia.org/wiki/Mit%27a"
+      }
     ]
   },
   {
     "id": "malacca-portuguese-cannon",
-    "topics": ["4.1", "4.4"],
-    "docs": ["malay-annals-1612-cannon-malacca"],
+    "topics": [
+      "4.1",
+      "4.4"
+    ],
+    "docs": [
+      "malay-annals-1612-cannon-malacca"
+    ],
     "parts": [
       {
         "label": "a",
@@ -150,14 +189,25 @@
       }
     ],
     "refs": [
-      { "title": "Capture of Malacca (1511)", "url": "https://en.wikipedia.org/wiki/Capture_of_Malacca_(1511)" },
-      { "title": "Afonso de Albuquerque", "url": "https://www.britannica.com/biography/Afonso-de-Albuquerque" }
+      {
+        "title": "Capture of Malacca (1511)",
+        "url": "https://en.wikipedia.org/wiki/Capture_of_Malacca_(1511)"
+      },
+      {
+        "title": "Afonso de Albuquerque",
+        "url": "https://www.britannica.com/biography/Afonso-de-Albuquerque"
+      }
     ]
   },
   {
     "id": "adams-ieyasu-european-skills",
-    "topics": ["4.1", "4.5"],
-    "docs": ["adams-1611-shipbuilder-to-ieyasu"],
+    "topics": [
+      "4.1",
+      "4.5"
+    ],
+    "docs": [
+      "adams-1611-shipbuilder-to-ieyasu"
+    ],
     "parts": [
       {
         "label": "a",
@@ -181,22 +231,35 @@
         "label": "c",
         "task": "Explain ONE way European firearms changed warfare in Japan in the late 1500s.",
         "accept": [
-          "Explains that after Portuguese traders brought matchlock guns to the island of Tanegashima in 1543, Japanese smiths copied them and were soon making them in large numbers.",
+          "Explains that after Portuguese traders brought matchlock guns to the island of Tanegashima in 1543, Japanese smiths copied them and were soon making them in large numbers, so guns became standard weapons in the armies of the warring lords.",
           "Explains that armies of the warring lords formed units of gunners, so masses of foot soldiers with guns became central to battle.",
           "Explains that at the Battle of Nagashino (1575), Oda Nobunaga, allied with Tokugawa Ieyasu, is traditionally said to have used about 3,000 matchlock guns (modern historians think the number was smaller) behind fences to stop the Takeda clan's cavalry charges and win a crushing victory."
         ]
       }
     ],
     "refs": [
-      { "title": "William Adams (samurai)", "url": "https://en.wikipedia.org/wiki/William_Adams_(samurai)" },
-      { "title": "Tanegashima (gun)", "url": "https://en.wikipedia.org/wiki/Tanegashima_(gun)" },
-      { "title": "Battle of Nagashino", "url": "https://en.wikipedia.org/wiki/Battle_of_Nagashino" }
+      {
+        "title": "William Adams (samurai)",
+        "url": "https://en.wikipedia.org/wiki/William_Adams_(samurai)"
+      },
+      {
+        "title": "Tanegashima (gun)",
+        "url": "https://en.wikipedia.org/wiki/Tanegashima_(gun)"
+      },
+      {
+        "title": "Battle of Nagashino",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Nagashino"
+      }
     ]
   },
   {
     "id": "peru-european-livestock",
-    "topics": ["4.3"],
-    "docs": ["garcilaso-1609-cattle"],
+    "topics": [
+      "4.3"
+    ],
+    "docs": [
+      "garcilaso-1609-cattle"
+    ],
     "parts": [
       {
         "label": "a",
@@ -220,21 +283,31 @@
         "task": "Explain ONE way animals brought from Europe changed life for Indigenous peoples of the Americas in the period 1500–1750.",
         "accept": [
           "Explains that horses transformed the lives of the Plains Indians of North America, making them far better at hunting and warfare.",
-          "Explains that horses, cattle and pigs ran wild and multiplied across the grasslands, changing landscapes and economies, as the falling price of cows in the passage suggests.",
+          "Explains that horses, cattle and pigs ran wild and multiplied across the grasslands, trampling and eating Indigenous farmers' crops and changing landscapes and economies, as the falling price of cows in the passage suggests.",
           "Explains that the Mapuche of Chile adopted the horse and used it to fight the Spanish in the Arauco War.",
           "Does not earn the point: an effect of crops or diseases; the part asks about animals brought from the Old World."
         ]
       }
     ],
     "refs": [
-      { "title": "Columbian Exchange", "url": "https://www.britannica.com/event/Columbian-exchange" },
-      { "title": "Columbian exchange", "url": "https://en.wikipedia.org/wiki/Columbian_exchange" }
+      {
+        "title": "Columbian Exchange",
+        "url": "https://www.britannica.com/event/Columbian-exchange"
+      },
+      {
+        "title": "Columbian exchange",
+        "url": "https://en.wikipedia.org/wiki/Columbian_exchange"
+      }
     ]
   },
   {
     "id": "manila-silver-trade",
-    "topics": ["4.5"],
-    "docs": ["morga-1609-chinese-trade-silver"],
+    "topics": [
+      "4.5"
+    ],
+    "docs": [
+      "morga-1609-chinese-trade-silver"
+    ],
     "parts": [
       {
         "label": "a",
@@ -265,14 +338,25 @@
       }
     ],
     "refs": [
-      { "title": "Manila galleon", "url": "https://en.wikipedia.org/wiki/Manila_galleon" },
-      { "title": "Single whip law", "url": "https://en.wikipedia.org/wiki/Single_whip_law" }
+      {
+        "title": "Manila galleon",
+        "url": "https://en.wikipedia.org/wiki/Manila_galleon"
+      },
+      {
+        "title": "Single whip law",
+        "url": "https://en.wikipedia.org/wiki/Single_whip_law"
+      }
     ]
   },
   {
     "id": "tokugawa-macao-envoys-1640",
-    "topics": ["4.4", "4.5"],
-    "docs": ["tokugawa-1640-sentence-macao-envoys"],
+    "topics": [
+      "4.4",
+      "4.5"
+    ],
+    "docs": [
+      "tokugawa-1640-sentence-macao-envoys"
+    ],
     "parts": [
       {
         "label": "a",
@@ -304,14 +388,25 @@
       }
     ],
     "refs": [
-      { "title": "Sakoku", "url": "https://en.wikipedia.org/wiki/Sakoku" },
-      { "title": "Shimabara Rebellion", "url": "https://www.britannica.com/event/Shimabara-Rebellion" }
+      {
+        "title": "Sakoku",
+        "url": "https://en.wikipedia.org/wiki/Sakoku"
+      },
+      {
+        "title": "Shimabara Rebellion",
+        "url": "https://www.britannica.com/event/Shimabara-Rebellion"
+      }
     ]
   },
   {
     "id": "shivaji-letter-jizya",
-    "topics": ["4.6", "4.8"],
-    "docs": ["shivaji-1679-letter-against-jizya"],
+    "topics": [
+      "4.6",
+      "4.8"
+    ],
+    "docs": [
+      "shivaji-1679-letter-against-jizya"
+    ],
     "parts": [
       {
         "label": "a",
@@ -342,15 +437,28 @@
       }
     ],
     "refs": [
-      { "title": "Aurangzeb", "url": "https://www.britannica.com/biography/Aurangzeb" },
-      { "title": "Aurangzeb", "url": "https://en.wikipedia.org/wiki/Aurangzeb" },
-      { "title": "Maratha Empire", "url": "https://en.wikipedia.org/wiki/Maratha_Empire" }
+      {
+        "title": "Aurangzeb",
+        "url": "https://www.britannica.com/biography/Aurangzeb"
+      },
+      {
+        "title": "Aurangzeb",
+        "url": "https://en.wikipedia.org/wiki/Aurangzeb"
+      },
+      {
+        "title": "Maratha Empire",
+        "url": "https://en.wikipedia.org/wiki/Maratha_Empire"
+      }
     ]
   },
   {
     "id": "fronde-day-of-barricades",
-    "topics": ["4.6"],
-    "docs": ["retz-1648-barricades"],
+    "topics": [
+      "4.6"
+    ],
+    "docs": [
+      "retz-1648-barricades"
+    ],
     "parts": [
       {
         "label": "a",
@@ -382,14 +490,24 @@
       }
     ],
     "refs": [
-      { "title": "Fronde", "url": "https://en.wikipedia.org/wiki/Fronde" },
-      { "title": "Louis XIV", "url": "https://www.britannica.com/biography/Louis-XIV-king-of-France" }
+      {
+        "title": "Fronde",
+        "url": "https://en.wikipedia.org/wiki/Fronde"
+      },
+      {
+        "title": "Louis XIV",
+        "url": "https://www.britannica.com/biography/Louis-XIV-king-of-France"
+      }
     ]
   },
   {
     "id": "jamaica-maroon-treaty",
-    "topics": ["4.6"],
-    "docs": ["jamaica-maroon-treaty-1739"],
+    "topics": [
+      "4.6"
+    ],
+    "docs": [
+      "jamaica-maroon-treaty-1739"
+    ],
     "parts": [
       {
         "label": "a",
@@ -420,13 +538,21 @@
       }
     ],
     "refs": [
-      { "title": "First Maroon War", "url": "https://en.wikipedia.org/wiki/First_Maroon_War" }
+      {
+        "title": "First Maroon War",
+        "url": "https://en.wikipedia.org/wiki/First_Maroon_War"
+      }
     ]
   },
   {
     "id": "nakuk-pech-maya-noble",
-    "topics": ["4.7", "4.8"],
-    "docs": ["nakuk-pech-1562-hidalgos"],
+    "topics": [
+      "4.7",
+      "4.8"
+    ],
+    "docs": [
+      "nakuk-pech-1562-hidalgos"
+    ],
     "parts": [
       {
         "label": "a",
@@ -457,14 +583,25 @@
       }
     ],
     "refs": [
-      { "title": "Encomienda", "url": "https://en.wikipedia.org/wiki/Encomienda" },
-      { "title": "Cacique", "url": "https://en.wikipedia.org/wiki/Cacique" }
+      {
+        "title": "Encomienda",
+        "url": "https://en.wikipedia.org/wiki/Encomienda"
+      },
+      {
+        "title": "Cacique",
+        "url": "https://en.wikipedia.org/wiki/Cacique"
+      }
     ]
   },
   {
     "id": "quito-social-order-1748",
-    "topics": ["4.7", "4.8"],
-    "docs": ["juan-ulloa-1748-quito-classes"],
+    "topics": [
+      "4.7",
+      "4.8"
+    ],
+    "docs": [
+      "juan-ulloa-1748-quito-classes"
+    ],
     "parts": [
       {
         "label": "a",
@@ -488,7 +625,7 @@
         "label": "c",
         "task": "Explain ONE continuity in the social hierarchy of Spanish America from the 1500s to the mid-1700s.",
         "accept": [
-          "Explains that people born in Spain (peninsulares) kept the higher offices in the colonies throughout the period, above American-born creoles.",
+          "Explains that people born in Spain (peninsulares) kept the highest offices in the colonies, such as viceroy, throughout the period, above American-born creoles.",
           "Explains that Indigenous people and free Black people kept paying a tribute tax that Spaniards and mestizos did not pay, marking them as lower in rank.",
           "Explains that, as the passage shows, descent from the conquerors still brought high status two centuries after the conquest.",
           "Does not earn the point: describing the hierarchy at only one moment, without showing that it lasted over time."
@@ -496,14 +633,25 @@
       }
     ],
     "refs": [
-      { "title": "Casta", "url": "https://en.wikipedia.org/wiki/Casta" },
-      { "title": "Peninsulares", "url": "https://en.wikipedia.org/wiki/Peninsulares" }
+      {
+        "title": "Casta",
+        "url": "https://en.wikipedia.org/wiki/Casta"
+      },
+      {
+        "title": "Peninsulares",
+        "url": "https://en.wikipedia.org/wiki/Peninsulares"
+      }
     ]
   },
   {
     "id": "jolof-horses-and-slaves",
-    "topics": ["4.4", "4.8"],
-    "docs": ["cadamosto-1455-horses-for-slaves"],
+    "topics": [
+      "4.4",
+      "4.8"
+    ],
+    "docs": [
+      "cadamosto-1455-horses-for-slaves"
+    ],
     "parts": [
       {
         "label": "a",
@@ -529,21 +677,35 @@
         "accept": [
           "Explains that the scale became enormous: an estimated 10 to 12 million enslaved Africans were shipped across the Atlantic from the 1500s to the 1800s (the figure depends on whether deaths at sea are counted), and demand rose sharply from the 1600s with the growth of sugar and tobacco plantations in the Americas.",
           "Explains that in the Americas slavery became a racial, hereditary system: enslaved Africans were property, and the children of enslaved mothers were born enslaved.",
-          "Explains that in many West African societies slaves could become part of the master's kin group, and their children could even rise to high positions.",
+          "Explains that in many West African societies slaves could become part of the master's kin group, and their children could even rise to high positions, which was rare in the plantation slavery of the Americas.",
           "Does not earn the point: saying slavery did not exist in Africa before Europeans came; the passage itself shows an African ruler enslaving and selling people."
         ]
       }
     ],
     "refs": [
-      { "title": "Transatlantic slave trade", "url": "https://www.britannica.com/topic/transatlantic-slave-trade" },
-      { "title": "Atlantic slave trade", "url": "https://en.wikipedia.org/wiki/Atlantic_slave_trade" },
-      { "title": "Slavery in Africa", "url": "https://en.wikipedia.org/wiki/Slavery_in_Africa" }
+      {
+        "title": "Transatlantic slave trade",
+        "url": "https://www.britannica.com/topic/transatlantic-slave-trade"
+      },
+      {
+        "title": "Atlantic slave trade",
+        "url": "https://en.wikipedia.org/wiki/Atlantic_slave_trade"
+      },
+      {
+        "title": "Slavery in Africa",
+        "url": "https://en.wikipedia.org/wiki/Slavery_in_Africa"
+      }
     ]
   },
   {
     "id": "epidemics-kaqchikel-plymouth",
-    "topics": ["4.3"],
-    "docs": ["xahila-1559-plague", "bradford-1634-smallpox"],
+    "topics": [
+      "4.3"
+    ],
+    "docs": [
+      "xahila-1559-plague",
+      "bradford-1634-smallpox"
+    ],
     "parts": [
       {
         "label": "a",
@@ -574,15 +736,29 @@
       }
     ],
     "refs": [
-      { "title": "Columbian Exchange", "url": "https://www.britannica.com/event/Columbian-exchange" },
-      { "title": "Spanish conquest of Guatemala", "url": "https://en.wikipedia.org/wiki/Spanish_conquest_of_Guatemala" },
-      { "title": "Virgin soil epidemic", "url": "https://en.wikipedia.org/wiki/Virgin_soil_epidemic" }
+      {
+        "title": "Columbian Exchange",
+        "url": "https://www.britannica.com/event/Columbian-exchange"
+      },
+      {
+        "title": "Spanish conquest of Guatemala",
+        "url": "https://en.wikipedia.org/wiki/Spanish_conquest_of_Guatemala"
+      },
+      {
+        "title": "Virgin soil epidemic",
+        "url": "https://en.wikipedia.org/wiki/Virgin_soil_epidemic"
+      }
     ]
   },
   {
     "id": "maize-europe-and-kongo",
-    "topics": ["4.3"],
-    "docs": ["gerard-1636-maize", "pigafetta-lopes-1591-maize-kongo"],
+    "topics": [
+      "4.3"
+    ],
+    "docs": [
+      "gerard-1636-maize",
+      "pigafetta-lopes-1591-maize-kongo"
+    ],
     "parts": [
       {
         "label": "a",
@@ -614,14 +790,25 @@
       }
     ],
     "refs": [
-      { "title": "Columbian Exchange", "url": "https://www.britannica.com/event/Columbian-exchange" },
-      { "title": "Maize", "url": "https://en.wikipedia.org/wiki/Maize" }
+      {
+        "title": "Columbian Exchange",
+        "url": "https://www.britannica.com/event/Columbian-exchange"
+      },
+      {
+        "title": "Maize",
+        "url": "https://en.wikipedia.org/wiki/Maize"
+      }
     ]
   },
   {
     "id": "mercantilism-mun-and-north",
-    "topics": ["4.5"],
-    "docs": ["mun-1664-balance-of-trade", "dudley-north-1691-against-bullionism"],
+    "topics": [
+      "4.5"
+    ],
+    "docs": [
+      "mun-1664-balance-of-trade",
+      "dudley-north-1691-against-bullionism"
+    ],
     "parts": [
       {
         "label": "a",
@@ -652,14 +839,26 @@
       }
     ],
     "refs": [
-      { "title": "Mercantilism", "url": "https://www.britannica.com/topic/mercantilism" },
-      { "title": "Navigation Acts", "url": "https://www.britannica.com/event/Navigation-Acts" },
-      { "title": "Dudley North (economist)", "url": "https://en.wikipedia.org/wiki/Dudley_North_(economist)" }
+      {
+        "title": "Mercantilism",
+        "url": "https://www.britannica.com/topic/mercantilism"
+      },
+      {
+        "title": "Navigation Acts",
+        "url": "https://www.britannica.com/event/Navigation-Acts"
+      },
+      {
+        "title": "Dudley North (economist)",
+        "url": "https://en.wikipedia.org/wiki/Dudley_North_(economist)"
+      }
     ]
   },
   {
     "id": "maritime-technology",
-    "topics": ["4.1", "4.2"],
+    "topics": [
+      "4.1",
+      "4.2"
+    ],
     "docs": [],
     "parts": [
       {
@@ -668,7 +867,7 @@
         "accept": [
           "Names the caravel, a light ship much used by the Portuguese and Spanish for long voyages, known for its ability to sail to windward (toward the wind).",
           "Names the mariner's astrolabe, which let navigators find their latitude by measuring the height of the sun or a star.",
-          "Names the magnetic compass, which showed a ship's heading even when clouds hid the sun and stars."
+          "Names the magnetic compass, which showed a ship's heading even when clouds hid the sun and stars. Other correct answers include the lateen (triangular) sail, the sternpost rudder, the carrack and the quadrant."
         ]
       },
       {
@@ -676,7 +875,7 @@
         "task": "Explain how ONE technology helped Portuguese explorers sail down the coast of Africa and into the Indian Ocean in the 1400s.",
         "accept": [
           "Explains that the caravel, a light ship apparently developed by the Portuguese for exploring the coast of Africa, could sail to windward (toward the wind), which made it well suited to that work.",
-          "Explains that the mariner's astrolabe let Portuguese pilots measure their latitude at sea, so they could sail far out into the open Atlantic and still know how far north or south they were."
+          "Explains that the mariner's astrolabe let Portuguese pilots measure their latitude at sea, so they could sail far out into the open Atlantic and still know how far north or south they were. A similar explanation of the magnetic compass, which kept ships on course out of sight of land, also earns the point."
         ]
       },
       {
@@ -690,14 +889,26 @@
       }
     ],
     "refs": [
-      { "title": "Caravel", "url": "https://www.britannica.com/technology/caravel" },
-      { "title": "Mariner's astrolabe", "url": "https://en.wikipedia.org/wiki/Mariner%27s_astrolabe" },
-      { "title": "Fluyt", "url": "https://en.wikipedia.org/wiki/Fluyt" }
+      {
+        "title": "Caravel",
+        "url": "https://www.britannica.com/technology/caravel"
+      },
+      {
+        "title": "Mariner's astrolabe",
+        "url": "https://en.wikipedia.org/wiki/Mariner%27s_astrolabe"
+      },
+      {
+        "title": "Fluyt",
+        "url": "https://en.wikipedia.org/wiki/Fluyt"
+      }
     ]
   },
   {
     "id": "indian-ocean-trade-change",
-    "topics": ["4.5", "4.8"],
+    "topics": [
+      "4.5",
+      "4.8"
+    ],
     "docs": [],
     "parts": [
       {
@@ -730,22 +941,33 @@
       }
     ],
     "refs": [
-      { "title": "Cartaz", "url": "https://en.wikipedia.org/wiki/Cartaz" },
-      { "title": "Portuguese India", "url": "https://en.wikipedia.org/wiki/Portuguese_India" },
-      { "title": "Dutch East India Company", "url": "https://en.wikipedia.org/wiki/Dutch_East_India_Company" }
+      {
+        "title": "Cartaz",
+        "url": "https://en.wikipedia.org/wiki/Cartaz"
+      },
+      {
+        "title": "Portuguese India",
+        "url": "https://en.wikipedia.org/wiki/Portuguese_India"
+      },
+      {
+        "title": "Dutch East India Company",
+        "url": "https://en.wikipedia.org/wiki/Dutch_East_India_Company"
+      }
     ]
   },
   {
     "id": "land-empire-hierarchies",
-    "topics": ["4.7"],
+    "topics": [
+      "4.7"
+    ],
     "docs": [],
     "parts": [
       {
         "label": "a",
         "task": "Identify ONE policy the Manchu rulers of Qing China used to rule over the much larger Han Chinese population.",
         "accept": [
-          "Names the Queue Order of 1645, which forced Han Chinese men, on pain of death, to shave the front of the head and wear the Manchu braid as a test of loyalty.",
-          "Names the system of dual appointments, which placed a Manchu beside a Han Chinese official in each post of the central government; the Han official did the work, and the Manchu made sure of Han loyalty to Qing rule."
+          "Names the Queue Order of 1645, which forced Han Chinese men, on pain of death, to shave the front of the head and wear the Manchu braid as a test of loyalty. Other correct answers include keeping the Confucian civil service examinations, which drew Han scholars into Qing service, and stationing Manchu banner garrisons in Chinese cities.",
+          "Names the system of dual appointments, which placed a Manchu beside a Han Chinese official in each of the top posts of the central government; the Han official did the work, and the Manchu made sure of Han loyalty to Qing rule."
         ]
       },
       {
@@ -761,16 +983,25 @@
         "label": "c",
         "task": "Explain ONE way the Russian law code of 1649 changed the social hierarchy in Russia.",
         "accept": [
-          "Explains that the 1649 Law Code (Sobornoye Ulozheniye) merged slaves and free peasants into one serf class and made that status hereditary.",
+          "Explains that the 1649 Law Code (Sobornoye Ulozheniye) made serfdom hereditary, so the children of serfs were born bound to their lords' land.",
           "Explains that the code let nobles recover runaway serfs with no time limit, binding peasants to the land.",
           "Explains that nobles received the sole right to own serfs in return for serving in the tsar's army, tying noble privilege to service to the state."
         ]
       }
     ],
     "refs": [
-      { "title": "Qing dynasty", "url": "https://en.wikipedia.org/wiki/Qing_dynasty" },
-      { "title": "Akbar", "url": "https://www.britannica.com/biography/Akbar" },
-      { "title": "Sobornoye Ulozheniye", "url": "https://en.wikipedia.org/wiki/Sobornoye_Ulozheniye" }
+      {
+        "title": "Qing dynasty",
+        "url": "https://en.wikipedia.org/wiki/Qing_dynasty"
+      },
+      {
+        "title": "Akbar",
+        "url": "https://www.britannica.com/biography/Akbar"
+      },
+      {
+        "title": "Sobornoye Ulozheniye",
+        "url": "https://en.wikipedia.org/wiki/Sobornoye_Ulozheniye"
+      }
     ]
   }
 ]

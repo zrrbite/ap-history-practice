@@ -1,0 +1,100 @@
+[
+  {
+    "file": "saqs",
+    "id": "adams-ieyasu-european-skills",
+    "path": "parts.2.accept.0",
+    "old": "Explains that after Portuguese traders brought matchlock guns to the island of Tanegashima in 1543, Japanese smiths copied them and were soon making them in large numbers.",
+    "new": "Explains that after Portuguese traders brought matchlock guns to the island of Tanegashima in 1543, Japanese smiths copied them and were soon making them in large numbers, so guns became standard weapons in the armies of the warring lords."
+  },
+  {
+    "file": "saqs",
+    "id": "peru-european-livestock",
+    "path": "parts.2.accept.1",
+    "old": "Explains that horses, cattle and pigs ran wild and multiplied across the grasslands, changing landscapes and economies, as the falling price of cows in the passage suggests.",
+    "new": "Explains that horses, cattle and pigs ran wild and multiplied across the grasslands, trampling and eating Indigenous farmers' crops and changing landscapes and economies, as the falling price of cows in the passage suggests."
+  },
+  {
+    "file": "saqs",
+    "id": "quito-social-order-1748",
+    "path": "parts.2.accept.0",
+    "old": "Explains that people born in Spain (peninsulares) kept the higher offices in the colonies throughout the period, above American-born creoles.",
+    "new": "Explains that people born in Spain (peninsulares) kept the highest offices in the colonies, such as viceroy, throughout the period, above American-born creoles."
+  },
+  {
+    "file": "saqs",
+    "id": "jolof-horses-and-slaves",
+    "path": "parts.2.accept.2",
+    "old": "Explains that in many West African societies slaves could become part of the master's kin group, and their children could even rise to high positions.",
+    "new": "Explains that in many West African societies slaves could become part of the master's kin group, and their children could even rise to high positions, which was rare in the plantation slavery of the Americas."
+  },
+  {
+    "file": "saqs",
+    "id": "maritime-technology",
+    "path": "parts.0.accept.2",
+    "old": "Names the magnetic compass, which showed a ship's heading even when clouds hid the sun and stars.",
+    "new": "Names the magnetic compass, which showed a ship's heading even when clouds hid the sun and stars. Other correct answers include the lateen (triangular) sail, the sternpost rudder, the carrack and the quadrant."
+  },
+  {
+    "file": "saqs",
+    "id": "maritime-technology",
+    "path": "parts.1.accept.1",
+    "old": "Explains that the mariner's astrolabe let Portuguese pilots measure their latitude at sea, so they could sail far out into the open Atlantic and still know how far north or south they were.",
+    "new": "Explains that the mariner's astrolabe let Portuguese pilots measure their latitude at sea, so they could sail far out into the open Atlantic and still know how far north or south they were. A similar explanation of the magnetic compass, which kept ships on course out of sight of land, also earns the point."
+  },
+  {
+    "file": "saqs",
+    "id": "land-empire-hierarchies",
+    "path": "parts.2.accept.0",
+    "old": "Explains that the 1649 Law Code (Sobornoye Ulozheniye) merged slaves and free peasants into one serf class and made that status hereditary.",
+    "new": "Explains that the 1649 Law Code (Sobornoye Ulozheniye) made serfdom hereditary, so the children of serfs were born bound to their lords' land."
+  },
+  {
+    "file": "saqs",
+    "id": "land-empire-hierarchies",
+    "path": "parts.0.accept.1",
+    "old": "Names the system of dual appointments, which placed a Manchu beside a Han Chinese official in each post of the central government; the Han official did the work, and the Manchu made sure of Han loyalty to Qing rule.",
+    "new": "Names the system of dual appointments, which placed a Manchu beside a Han Chinese official in each of the top posts of the central government; the Han official did the work, and the Manchu made sure of Han loyalty to Qing rule."
+  },
+  {
+    "file": "saqs",
+    "id": "land-empire-hierarchies",
+    "path": "parts.0.accept.0",
+    "old": "Names the Queue Order of 1645, which forced Han Chinese men, on pain of death, to shave the front of the head and wear the Manchu braid as a test of loyalty.",
+    "new": "Names the Queue Order of 1645, which forced Han Chinese men, on pain of death, to shave the front of the head and wear the Manchu braid as a test of loyalty. Other correct answers include keeping the Confucian civil service examinations, which drew Han scholars into Qing service, and stationing Manchu banner garrisons in Chinese cities."
+  },
+  {
+    "file": "mcqs",
+    "id": "maya-katun-chronicle",
+    "path": "questions.0.stem",
+    "old": "The repeated entries about smallpox and 'the general death' are best explained by which development?",
+    "new": "The entries recording smallpox are best explained by which development?"
+  },
+  {
+    "file": "mcqs",
+    "id": "kongo-maize",
+    "path": "questions.0.options.1",
+    "old": "Swahili merchants trading across the Indian Ocean",
+    "new": "Portuguese ships bringing Asian crops from their trading posts in India"
+  },
+  {
+    "file": "mcqs",
+    "id": "gold-coast-firearms",
+    "path": "questions.0.explanation",
+    "old": "Bosman sells guns because if the Dutch refused, 'the English, Danes, and Brandenburghers' would sell them instead. Portugal led the Atlantic slave trade in the 1500s, but the Dutch took the lead for parts of the 1600s, and in the 1700s English ships carried more enslaved Africans than those of any other nation. Option B describes an earlier period, long before 1704.",
+    "new": "Bosman sells guns because if the Dutch refused, 'the English, Danes, and Brandenburghers' would sell them instead. Portugal led the Atlantic slave trade in the 1500s, but the Dutch took the lead for parts of the 1600s, and in the 1700s English ships carried more enslaved Africans than those of any other nation. Option B describes an earlier period, long before Bosman wrote."
+  },
+  {
+    "file": "mcqs",
+    "id": "kilwa-1505",
+    "path": "questions.1.explanation",
+    "old": "Kilwa was a rich Muslim trading city, and Sofala, its southern outpost, exported gold from the interior of what is now Zimbabwe. In 1505 the Portuguese also seized Sofala and built a fort there to capture this gold trade. Option A is wrong: Europe's pepper came mainly from the Malabar coast of India, not from East Africa.",
+    "new": "Kilwa was a rich Muslim trading city, and Sofala, its southern outpost, exported gold from the interior of what is now Zimbabwe. In 1505 the Portuguese also built a fort at Sofala to capture this gold trade. Option A is wrong: Europe's pepper came mainly from the Malabar coast of India, not from East Africa."
+  },
+  {
+    "file": "mcqs",
+    "id": "dejima-dutch",
+    "path": "questions.2.explanation",
+    "old": "The Dutch accepted life on a fenced island, posts in the water warning boats away, and a ban on showing their religion, because the trade was 'most advantageous.' Option C is tempting because of the word 'isolation,' but Japan still traded with the Dutch and Chinese at Nagasaki and kept up trade with Korea and the Ryukyu Islands.",
+    "new": "The Dutch accepted life on a fenced island, posts in the water warning boats away, and a ban on showing their religion, because the trade was 'most advantageous.' Option C is tempting because Japan in this period is often called isolated, but Japan still traded with the Dutch and Chinese at Nagasaki and kept up trade with Korea and the Ryukyu Islands."
+  }
+]

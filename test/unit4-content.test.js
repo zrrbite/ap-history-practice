@@ -10,11 +10,13 @@ import { loadData } from '../tools/load-data.js';
 
 const DATA_ROOT = fileURLToPath(new URL('../data', import.meta.url));
 
-// Taken on main (commit e8317ec) before the multi-unit restructure: the SHA-256 of
+// The SHA-256 of
 //   JSON.stringify({ documents, dbqs, saqs, mcqs })
 // where the four arrays come from runtimeBank(await loadData(<unit 4 folder>), null).
-// 168 documents, 10 DBQs, 20 SAQs, 15 MCQ sets.
-export const UNIT4_CONTENT_SHA256 = '6fc66afc9ce95bf6b893afb385adc1f9fef444509221cf72b66e3ec5017545ff';
+// 168 documents, 10 DBQs, 20 SAQs, 15 MCQ sets. First taken on main (e8317ec) before the
+// multi-unit restructure; re-taken after the 2026-10-16 accuracy review corrected Unit 4's notes.
+// Any other change to Unit 4's content should fail here.
+export const UNIT4_CONTENT_SHA256 = '91eece7fb2cf6e638bc909f0aea4f57dcfdc89d7bd1745ab398f393e168c77e9';
 
 export function contentHash({ documents, dbqs, saqs, mcqs }) {
   return createHash('sha256').update(JSON.stringify({ documents, dbqs, saqs, mcqs })).digest('hex');

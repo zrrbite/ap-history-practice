@@ -1,28 +1,28 @@
 {
   "codes": {
     "dbq.silver-trade.1": {
-      "sha256": "9baa3f24302060c015b6f7d921e7829c28981bcfed61214043498cb59ffb95eb",
-      "chars": 16424
+      "sha256": "9850af439a00ae7d49bb4b2857e2b12dbcd2a37c2078869c102612ea58305b4d",
+      "chars": 16694
     },
     "dbq.exploration-causes.2": {
-      "sha256": "5c31a7cdadeb1394372ddd8d0296e7482c895932cf42e1b5bf848ae0a33eac10",
-      "chars": 18374
+      "sha256": "147299f398f2c9aace71a2ca2f13bfc4958d924c42ba9b470da2f666b53585ae",
+      "chars": 18418
     },
     "dbq.east-asia-responses.zz9": {
       "sha256": "841dbd18c31dd21e70dbb2856ac1b091077cd072f86fa89965301eed0f299e1f",
       "chars": 16456
     },
     "dbq.challenges-to-state-power.k2x9q1": {
-      "sha256": "c5bf561dacde40c32ef1db5946e65f217a302c41b26d4e78f1881dc18c330278",
-      "chars": 17341
+      "sha256": "a8a1d44364eaae24a8897f732b6155842fabaf66fcb9462bf76812fb534ada9c",
+      "chars": 17334
     },
     "saq.henry-navigator-motives": {
-      "sha256": "0c8ec75f5bbe829ebb5f67db2dfc10e23449f2b38f7545f99fe260ebef4e21c0",
-      "chars": 20809
+      "sha256": "9d4af81814f2f526a80958be94338d186a2ea232907eb5705296680db759779c",
+      "chars": 20802
     },
     "mcq.acosta-mercury-silver": {
-      "sha256": "e4a506d3ab8acc95a5b8a136bf3dc43041c100e04d4e0c999e0023f78a6e92eb",
-      "chars": 20372
+      "sha256": "3fb017a09c862d8a24b9780526893bbd11dbb363d1152aaef313cf675ae2acdc",
+      "chars": 20365
     }
   }
 }

@@ -1,0 +1,47 @@
+[
+  {
+    "item": "gold-coast-firearms",
+    "file": "mcqs",
+    "point": "Q0 explanation says English ships carried the most enslaved Africans in the 1700s; Britannica says only that English and French merchants together controlled about half. Check the claim."
+  },
+  {
+    "item": "gold-coast-firearms",
+    "file": "mcqs",
+    "point": "Wikipedia dates the Dutch original of Bosman to 1704; the document sourceLine says 1703. Note it if the item text repeats the date."
+  },
+  {
+    "item": "maya-katun-chronicle",
+    "file": "mcqs",
+    "point": "The sourceLine says the chronicle runs to entries of 1610 and 1611, which the excerpt cannot confirm; check the item claims nothing from that."
+  },
+  {
+    "item": "mercantilism-mun-and-north / manila-silver-china",
+    "file": "mcqs",
+    "point": "The Britannica mercantilism article could not be read; those claims were checked only against other refs and standard content."
+  },
+  {
+    "item": "(several)",
+    "file": "*",
+    "point": "Claims the cited articles do not state, judged standard content: the Qing dual-appointment system, the fluyt share of European shipping, the 1505 Sofala fort. Check them."
+  },
+  {
+    "item": "(any using Las Casas)",
+    "file": "*",
+    "point": "Las Casas documents are dated 1542 and 1552 for the Brevisima (written 1542, printed 1552); check each item uses the date its document gives."
+  },
+  {
+    "item": "(DBQs citing Columbian exchange)",
+    "file": "dbqs",
+    "point": "Cassava reaching Africa and malaria and yellow fever crossing from Africa are not in the cited Columbian exchange article; judged standard content. Check them."
+  },
+  {
+    "item": "(DBQs on Japan, Dahomey)",
+    "file": "dbqs",
+    "point": "Dejima 1641 and Dahomey conquest dates 1724 and 1727 are not in the cited articles; check them."
+  },
+  {
+    "item": "(DBQs citing Britannica spice trade, Tokugawa period, Reformation, English Civil Wars, Iroquois Confederacy)",
+    "file": "dbqs",
+    "point": "These articles could not be read (403, redirect notice, or fetch cap); their claims (ship money, 1637 prayer-book riots, 1642-51 and others) were passed on standard content. Check them."
+  }
+]

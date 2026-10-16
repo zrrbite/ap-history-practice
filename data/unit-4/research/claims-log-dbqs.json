@@ -1,0 +1,72 @@
+[
+ {
+  "file": "dbqs",
+  "id": "exploration-causes",
+  "checked": 24,
+  "edits": 0,
+  "notes": "spice-trade Britannica article unreachable (403 after retries); ctx0 passed on standard content."
+ },
+ {
+  "file": "dbqs",
+  "id": "empire-building",
+  "checked": 24,
+  "edits": 0,
+  "notes": "Dejima claim: sakoku article supports Dejima and 1639; 1641 date and guarded at night come from standard content (Rangaku article gives 1641 move). Tokugawa/other fine."
+ },
+ {
+  "file": "dbqs",
+  "id": "columbian-exchange",
+  "checked": 22,
+  "edits": 0,
+  "notes": "cassava-in-Africa and malaria/yellow-fever claims are not in the cited Columbian exchange article; kept as standard content."
+ },
+ {
+  "file": "dbqs",
+  "id": "americas-social-hierarchy",
+  "checked": 24,
+  "edits": 0,
+  "notes": ""
+ },
+ {
+  "file": "dbqs",
+  "id": "slave-trade-africa",
+  "checked": 26,
+  "edits": 1,
+  "notes": "Dahomey conquest years (1724, 1727) and cassava/Africa detail are not in the cited articles; standard content kept."
+ },
+ {
+  "file": "dbqs",
+  "id": "silver-trade",
+  "checked": 23,
+  "edits": 0,
+  "notes": ""
+ },
+ {
+  "file": "dbqs",
+  "id": "mercantilism",
+  "checked": 21,
+  "edits": 0,
+  "notes": ""
+ },
+ {
+  "file": "dbqs",
+  "id": "east-asia-responses",
+  "checked": 24,
+  "edits": 0,
+  "notes": "Tokugawa-period Britannica article unreachable (403 after retries); ctx0 passed on standard content."
+ },
+ {
+  "file": "dbqs",
+  "id": "indigenous-resistance",
+  "checked": 25,
+  "edits": 0,
+  "notes": "Iroquois Confederacy Britannica page returned only a Wayback redirect notice (301 to Haudenosaunee-Confederacy); web cap of 75 fetches was then reached, so ctx2 passed on standard content (Iroquois neutrality policy and Covenant Chain diplomacy)."
+ },
+ {
+  "file": "dbqs",
+  "id": "challenges-to-state-power",
+  "checked": 22,
+  "edits": 0,
+  "notes": "Reformation Britannica article unreachable (403 after retries) and English Civil Wars article was not fetched (75-fetch cap reached); both passed on standard content (1517 Theses; ship money, 1637 prayer book riots, war 1642-51)."
+ }
+]

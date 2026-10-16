@@ -1,0 +1,93 @@
+[
+  {
+    "file": "dbqs",
+    "id": "exploration-causes",
+    "path": "notes.thesis.1",
+    "old": "Religious motives were the most important cause of the first voyages of the 1400s, because Portugal and Spain came out of centuries of war against Muslim states: the pope, Prince Henry's chronicler and Columbus all present exploration as a way to find Christian allies and convert new peoples, and the Ethiopian emperor's letter shows such allies existed. Economic aims grew in weight once the sea route to Asia was open.",
+    "new": "Religious motives were the most important cause of the first voyages of the 1400s, because Portugal and Spain came out of centuries of war against Muslim states: the pope and Columbus present exploration as a way to find Christian allies and convert new peoples, Prince Henry's chronicler puts the service of God first among his reasons, and the Ethiopian emperor's letter shows such allies existed. Economic aims grew in weight once the sea route to Asia was open."
+  },
+  {
+    "file": "dbqs",
+    "id": "columbian-exchange",
+    "path": "notes.outsideEvidence.0.text",
+    "old": "Potato in Europe: brought from the Andes by the Spanish in the late 1500s, it became a major crop in Ireland by the end of the 1600s and in continental Europe by the end of the 1700s, which shows Europe changed too, but mostly late in the period.",
+    "new": "Potato in Europe: brought from the Andes by the Spanish in the late 1500s, it became a major crop in Ireland by the end of the 1600s and in continental Europe by the end of the 1700s, which shows Europe changed too, but mostly late in the period or after it."
+  },
+  {
+    "file": "dbqs",
+    "id": "americas-social-hierarchy",
+    "path": "notes.complexity.2",
+    "old": "Weigh law against practice: royal decrees such as the New Laws and Philip II's cédula show what the crown intended, while observers such as Gage and Las Casas show abuses continuing, so an essay can qualify claims of change by asking whose view each source gives.",
+    "new": "Weigh law against practice: royal decrees such as the New Laws and Philip II's cédula show what the crown intended, while observers such as Gage and Las Casas show abuses in practice, so an essay can qualify claims of change by asking whose view each source gives."
+  },
+  {
+    "file": "dbqs",
+    "id": "slave-trade-africa",
+    "path": "notes.complexity.0",
+    "old": "Show continuity with older trade: Cadamosto and Leo Africanus show rulers exchanging slaves for horses with traders from across the Sahara, so the Atlantic trade grew out of existing systems even as it greatly increased their scale.",
+    "new": "Show continuity with older trade: Cadamosto and Leo Africanus show rulers exchanging slaves for horses, with Portuguese ships just as with traders from across the Sahara, so the Atlantic trade grew out of existing systems even as it greatly increased their scale."
+  },
+  {
+    "file": "dbqs",
+    "id": "slave-trade-africa",
+    "path": "pool.10.sourcing",
+    "old": "Moore worked on the Gambia for the Royal African Company, which bought slaves there, so he had no reason to make the trade look worse than it was. His report that even trifling crimes came to be punished by sale into slavery is strong evidence that the trade changed African law.",
+    "new": "Moore worked on the Gambia for the Royal African Company, which bought slaves there, so he had no reason to make the trade look worse than it was. His report that even trifling crimes came to be punished by sale into slavery is strong evidence of how often courts sold people by the 1730s, though he did not witness the change he describes."
+  },
+  {
+    "file": "dbqs",
+    "id": "silver-trade",
+    "path": "pool.0.sourcing",
+    "old": "Cieza was a Spanish soldier and chronicler who saw Potosí in 1549, in its first boom, when mine owners paid Indigenous workers in silver and Andean wind furnaces smelted the ore. That timing makes the passage good evidence of how fast silver drew people to Potosí, but it cannot show the forced labour draft and mercury refining that came later.",
+    "new": "Cieza was a Spanish soldier and chronicler who saw Potosí in 1549, in its first boom, when Indigenous miners handed mine owners a weekly quota of silver (in Cieza's Spanish the miners pay the owner; this English version reverses it) and Andean wind furnaces smelted the ore. That timing makes the passage good evidence of how fast silver drew people to Potosí, but it cannot show the forced labour draft and mercury refining that came later."
+  },
+  {
+    "file": "dbqs",
+    "id": "silver-trade",
+    "path": "notes.thesis.2",
+    "old": "The silver trade transformed economies only to a limited extent, because older systems decided where the silver went and how it was used: the Ming state's own tax reforms created the demand for silver, the Spanish crown spent it on wars and debts, and by the mid-1600s Potosí's output was falling.",
+    "new": "The silver trade transformed economies only to a limited extent, because older systems decided where the silver went and how it was used: the Ming state's own tax reforms drove much of the demand for silver, the Spanish crown spent it on wars and debts, and by the mid-1600s Potosí's output was falling."
+  },
+  {
+    "file": "dbqs",
+    "id": "mercantilism",
+    "path": "notes.thesis.0",
+    "old": "Mercantilism shaped how European states ran their empires to a great extent because it guided their laws: England's Navigation Acts and Spain's limits on the Manila trade aimed to keep trade and bullion inside each empire, and writers from Mun to Montesquieu described colonies as markets and suppliers for the mother country.",
+    "new": "Mercantilism shaped how European states ran their empires to a great extent because it guided their laws: England's Navigation Acts and Spain's limits on the Manila trade aimed to keep trade and bullion inside each empire, Mun told England to sell abroad more than it bought, and Davenant and Montesquieu described colonies as markets and suppliers for the mother country."
+  },
+  {
+    "file": "dbqs",
+    "id": "indigenous-resistance",
+    "path": "pool.9.sourcing",
+    "old": "Ávila was a parish priest campaigning against Andean religion, so he had every reason to report success. His admission that his parishioners still kept their traditions 'most inviolably' is therefore strong evidence that Andean beliefs survived more than seventy years after the conquest.",
+    "new": "Ávila was a parish priest campaigning against Andean religion, so he had reason to stress how much of it survived, since that justified the campaigns he went on to lead. His eyewitness detail of rites kept 'most inviolably' in his own parish is still strong evidence that Andean beliefs survived more than seventy years after the conquest."
+  },
+  {
+    "file": "dbqs",
+    "id": "indigenous-resistance",
+    "path": "notes.thesis.1",
+    "old": "Armed resistance usually failed where disease and Indigenous allies helped the Spanish, so the most lasting resistance was cultural: Taki Onqoy preachers rejected baptism in the 1560s, and in 1608 the priest Ávila admitted that Andean traditions were still kept 'most inviolably'.",
+    "new": "Armed resistance usually failed where disease and Indigenous allies helped the Spanish, so the most lasting resistance was cultural: Taki Onqoy preachers rejected baptism in the 1560s, and in 1608 the priest Ávila reported that Andean traditions were still kept 'most inviolably'."
+  },
+  {
+    "file": "dbqs",
+    "id": "challenges-to-state-power",
+    "path": "notes.thesis.1",
+    "old": "Religion was the cause that turned grievances into lasting movements, because it gave rebels a higher law to appeal to: German peasants cited the Gospel, Shimabara's rebels died for the 'Lord of Heaven', Guru Gobind Singh defied Aurangzeb, and Andean preachers promised the return of the huacas.",
+    "new": "Religion was the cause that turned grievances into open defiance, because it gave rebels a higher law to appeal to: German peasants cited the Gospel, Shimabara's rebels died for the 'Lord of Heaven', Guru Gobind Singh defied Aurangzeb, and Andean preachers promised the return of the huacas."
+  },
+  {
+    "file": "dbqs",
+    "id": "challenges-to-state-power",
+    "path": "notes.thesis.2",
+    "old": "Many of the most serious challenges began when rulers centralized power at the expense of local elites with their own rights: the Dutch provinces, conquistadors like Aguirre and Wampanoag sachems all resisted a distant authority, and an Ottoman succession struggle shows rivals for power gathering followers, and economic or religious complaints gave them followers.",
+    "new": "Many of the most serious challenges began when rulers centralized power at the expense of local elites with their own rights: the Dutch provinces, conquistadors like Aguirre and Wampanoag sachems all resisted an outside authority, and an Ottoman succession struggle shows rivals for power at the top; economic or religious complaints gave such leaders followers."
+  },
+  {
+    "file": "dbqs",
+    "id": "challenges-to-state-power",
+    "path": "notes.outsideEvidence.0.text",
+    "old": "Li Zicheng's rebellion: who joined the rebels in 1630 as famine spread in northern China, Li took Beijing in 1644 and brought down the Ming dynasty, a case where economic disaster fed rebellion.",
+    "new": "Li Zicheng's rebellion: Li, who joined the rebels in 1630 as famine spread in northern China, took Beijing in 1644 and brought down the Ming dynasty, a case where economic disaster fed rebellion."
+  }
+]

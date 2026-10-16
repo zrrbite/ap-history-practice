@@ -1,0 +1,10 @@
+[
+ {
+  "path": "notes.contextualization.2.text",
+  "old": "An estimated 10 to 12 million enslaved Africans were shipped across the Atlantic from the 1500s to the 1800s. Probably no more than a few hundred thousand were taken before 1600; demand rose sharply with Caribbean sugar in the 1600s, and roughly half of the trade took place in the 1700s.",
+  "new": "An estimated 10 to 12 million enslaved Africans were shipped across the Atlantic from the 1500s to the 1800s. Probably no more than a few hundred thousand were taken before 1600; demand rose sharply with Caribbean sugar in the 1600s, and nearly three-fifths of the trade took place in the 1700s.",
+  "why": "Britannica: \"nearly three-fifths of the total volume of the transatlantic slave trade took place\" in the 18th century, not roughly half.",
+  "file": "dbqs",
+  "id": "slave-trade-africa"
+ }
+]

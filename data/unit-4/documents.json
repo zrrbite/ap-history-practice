@@ -339,7 +339,7 @@
   {
     "id": "bosman-1704-firearms",
     "authorKey": "bosman",
-    "sourceLine": "Willem Bosman, chief merchant of the Dutch West India Company at Elmina on the Gold Coast, A New and Accurate Description of the Coast of Guinea, letter 11, Dutch original 1703, English translation 1705 (adapted)",
+    "sourceLine": "Willem Bosman, chief merchant of the Dutch West India Company at Elmina on the Gold Coast, A New and Accurate Description of the Coast of Guinea, letter 11, Dutch original 1704, English translation 1705 (adapted)",
     "year": 1705,
     "kind": "text",
     "text": "The chief of these are Muskets or Carabins, in the management of which they are wonderful dextrous … you wonder how the Negroes come to be furnished with Fire-Arms, but you will have no Reason when you know we sell them incredible quantities, thereby obliging them with a Knife to cut our own Throats. But we are forced to it; for if we would not, they might be sufficiently stored with that Commodity by the English, Danes, and Brandenburghers … And since that and Gun-powder for some time hath been the chief vendible Merchandise here, we should have found but an indifferent Trade without our share in it.",
@@ -353,7 +353,7 @@
     ],
     "sourceUrl": "https://archive.org/stream/b30519032/b30519032_djvu.txt",
     "verified": true,
-    "verifiedNote": "Reviewed by verifier 2: Compared with archive.org b30519032 (English translation, London: Knapton and Midwinter, 1705; \"now faithfully done into English\", no translator named), pp. 183–184; page image leaf 208 viewed. (1) Attribution: the running head is \"LET. XI.\" and the passage is in Letter XI (whose summary lists \"Their usual Arms\"); Letter X ends on p. 160. Changed \"letter 10\" to \"letter 11\". (2) \"[from other Europeans]\" stood in for the cut words \"by the English, Danes, and Brandenburghers\": restored the source words instead (OCR \"Enelifh\", \"Brandenbughers\"; printed \"Engliſh\", \"Brandenburghers\"). The confusing rest of that sentence (\"and could we all agree together to sell them any, the English and Zeeland Interlopers would abundantly furnish them\") stays cut. (3) The excerpt ended mid-sentence at \"an indifferent Trade\"; the printed sentence ends \"an indifferent Trade with- out our ſhare in it\" (OCR \"with- gut out fhare\"), which carries the point that the Dutch would lose trade without their share in the gun trade: restored, with \"without our share\" in text and the OCR line break kept in \"original\". Other differences are long-s/spelling only (word diff; \"fell\"→\"sell\" confirmed as long s on the image). Translation credit is accurate.",
+    "verifiedNote": "Reviewed by verifier 2: Compared with archive.org b30519032 (English translation, London: Knapton and Midwinter, 1705; \"now faithfully done into English\", no translator named), pp. 183–184; page image leaf 208 viewed. (1) Attribution: the running head is \"LET. XI.\" and the passage is in Letter XI (whose summary lists \"Their usual Arms\"); Letter X ends on p. 160. Changed \"letter 10\" to \"letter 11\". (2) \"[from other Europeans]\" stood in for the cut words \"by the English, Danes, and Brandenburghers\": restored the source words instead (OCR \"Enelifh\", \"Brandenbughers\"; printed \"Engliſh\", \"Brandenburghers\"). The confusing rest of that sentence (\"and could we all agree together to sell them any, the English and Zeeland Interlopers would abundantly furnish them\") stays cut. (3) The excerpt ended mid-sentence at \"an indifferent Trade\"; the printed sentence ends \"an indifferent Trade with- out our ſhare in it\" (OCR \"with- gut out fhare\"), which carries the point that the Dutch would lose trade without their share in the gun trade: restored, with \"without our share\" in text and the OCR line break kept in \"original\". Other differences are long-s/spelling only (word diff; \"fell\"→\"sell\" confirmed as long s on the image). Translation credit is accurate. Corrected 2026-10-16 in the accuracy review: the Dutch original (Utrecht) is of 1704, not 1703.",
     "verifiedBy": "script"
   },
   {
@@ -572,7 +572,7 @@
     "text": "This wealth became so famous, that Indians came from all parts to extract silver from the hill. The climate is cold, and there are no inhabited places in the vicinity. When the Spaniards had taken possession, they began to extract the silver, and he who had a mine gave each Indian who entered it a marc, or, if he was very rich, two marcs every week. So many people came to work the mines, that the place appeared like a great city. … The Indians, who were so ingenious, found that in some parts the silver could not be extracted with the aid of bellows, as was the case at Potosi. They, therefore, made certain moulds of clay, in the shape of a flower-pot in Spain, with many airholes in all parts. Charcoal was put into these moulds, with the metal on the top, and they were then placed on the part of the hill where the wind blew strongest, and thus the metal was extracted, which was then purified and refined with small bellows.",
     "adapted": false,
     "original": null,
-    "translation": "Translated by Clements R. Markham, The Travels of Pedro de Cieza de León, A.D. 1532–50 (Hakluyt Society), 1864",
+    "translation": "Translated by Clements R. Markham, The Travels of Pedro de Cieza de León, A.D. 1532–50 (Hakluyt Society), 1864. Markham reverses one clause: in Cieza’s Spanish (chapter 109) each Indian who worked a mine gave its owner one marc of silver a week, or two if the mine was very rich",
     "topics": [
       "4.3",
       "4.5"
@@ -580,7 +580,7 @@
     "sourceUrl": "https://www.gutenberg.org/cache/epub/48770/pg48770-images.html",
     "verified": true,
     "verifiedBy": "script",
-    "verifiedNote": "Reviewed by verifier 2: Compared with Gutenberg #48770 (Markham, Hakluyt Society 1864), ch. CIX: both pieces verbatim. The cut (~366 words: royal fifths 1548-51, failure of bellows) does not alter meaning; piece 2 begins a new paragraph. Cieza himself writes \"I will say what I saw in the year of our Lord 1549 in this place\", supporting \"saw Potosí in 1549\". Part 1 of the Crónica del Perú was published 1553; translator Markham named on the title page."
+    "verifiedNote": "Reviewed by verifier 2: Compared with Gutenberg #48770 (Markham, Hakluyt Society 1864), ch. CIX: both pieces verbatim. The cut (~366 words: royal fifths 1548-51, failure of bellows) does not alter meaning; piece 2 begins a new paragraph. Cieza himself writes \"I will say what I saw in the year of our Lord 1549 in this place\", supporting \"saw Potosí in 1549\". Part 1 of the Crónica del Perú was published 1553; translator Markham named on the title page. Translation caution added 2026-10-16 in the accuracy review: Markham has the owner paying the workers; the Spanish has the workers paying the owner."
   },
   {
     "id": "columbus-1492-journal-navigation",
