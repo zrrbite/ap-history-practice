@@ -3,7 +3,10 @@
   "number": 5,
   "title": "Revolutions",
   "period": "c. 1750–1900",
-  "years": [1740, 1910],
+  "years": [
+    1740,
+    1910
+  ],
   "topics": {
     "5.1": "Enlightenment",
     "5.2": "Nationalism and revolutions",
@@ -16,7 +19,12 @@
     "5.9": "Society",
     "5.10": "Continuity and change"
   },
-  "minimums": { "documents": 60, "dbqs": 6, "saqs": 12, "mcqs": 9 },
-  "shareBase": null,
+  "minimums": {
+    "documents": 60,
+    "dbqs": 6,
+    "saqs": 12,
+    "mcqs": 9
+  },
+  "shareBase": "https://claude.ai/artifact/AmNv52SuJvfeyJQrzLivoV",
   "exampleCode": "dbq.enlightenment-revolutions.k2x9q1"
 }
