@@ -1,0 +1,18 @@
+[
+ {
+  "file": "saqs",
+  "id": "egypt-debt-cromer-1",
+  "path": "parts.2.accept.0",
+  "old": "Cromer served on the 1878 commission that took control of Egyptian finances and later ruled Egypt as British Consul-General, so blaming Ismail's recklessness helped justify European control.",
+  "new": "Cromer served on the 1878 commission of inquiry into Egyptian finances and later ruled Egypt as British Consul-General, so blaming Ismail's recklessness helped justify European control.",
+  "why": "The 1878 body was a commission of inquiry, not one that took control of finances (Isma'il Pasha article: 'A further commission of inquiry by Major Evelyn Baring ... in 1878'); control came via the Caisse and Dual Control."
+ },
+ {
+  "file": "mcqs",
+  "id": "dyer-holborn-electric-light",
+  "path": "questions.0.options.0",
+  "old": "Britain led the United States in building public power stations that year",
+  "new": "Britain had built far more public power stations than the United States by the end of 1882",
+  "why": "'Britain led the US' is defensible as written: Holborn Viaduct opened 12 January 1882, before Pearl Street (September 1882), so a second option was also arguably correct; reworded to be clearly false."
+ }
+]

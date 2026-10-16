@@ -1,0 +1,34 @@
+[
+ {
+  "file": "dbqs",
+  "id": "economic-ideas-institutions",
+  "path": "pool.6.sourcing",
+  "old": "William Jennings Bryan, a Nebraska congressman and Democratic presidential candidate, gave the 'Cross of Gold' speech to his party's convention in July 1896 to win votes for farmers and labor. He attacks the gold standard as a harm to the farming country, which shows that the monetary institution was contested and who felt hurt by it, but it is campaign rhetoric.",
+  "new": "William Jennings Bryan, a former Nebraska congressman and the Democratic presidential candidate, gave the 'Cross of Gold' speech to his party's convention in July 1896 to win votes for farmers and labor. He attacks the gold standard as a harm to the farming country, which shows that the monetary institution was contested and who felt hurt by it, but it is campaign rhetoric.",
+  "why": "Bryan sat in Congress 1891-95 and was not a congressman in July 1896 (from my knowledge; the sourceLine in documents.json carries the same slip)"
+ },
+ {
+  "file": "dbqs",
+  "id": "nationalism-identity",
+  "path": "pool.10.sourcing",
+  "old": "John Stuart Mill, a British philosopher and member of Parliament, wrote Considerations on Representative Government (1861) and in the chapter on nationality argued that smaller peoples such as Bretons, Basques and Scottish Highlanders gain from absorption into a larger, more civilized nation. He shows a liberal view in which the large nation was the norm and minorities should merge, which helps with the limits of nationalism but reflects his own assumptions.",
+  "new": "John Stuart Mill, a British philosopher (later a member of Parliament), wrote Considerations on Representative Government (1861) and in the chapter on nationality argued that smaller peoples such as Bretons, Basques and Scottish Highlanders gain from absorption into a larger, more civilized nation. He shows a liberal view in which the large nation was the norm and minorities should merge, which helps with the limits of nationalism but reflects his own assumptions.",
+  "why": "Mill was MP only 1865-68, so he was not an MP when he wrote in 1861 (from my knowledge; sourceLine in documents.json has the same slip)"
+ },
+ {
+  "file": "dbqs",
+  "id": "nationalism-identity",
+  "path": "notes.complexity.1",
+  "old": "Corroborate across groups: Tucumán (1816) and Seneca Falls (1848) both copy the language of the American Declaration of Independence, and Douglass shows the limit, since the rights of 'the people' were claimed by some groups and denied to others, so the ideal of the nation and its practice must be read together.",
+  "new": "Corroborate across groups: Tucumán (1816) and Seneca Falls (1848) both follow the American Declaration of Independence (Seneca Falls copies its wording), and Douglass shows the limit, since the rights of 'the people' were claimed by some groups and denied to others, so the ideal of the nation and its practice must be read together.",
+  "why": "Tucuman text does not copy the American Declaration; it declares independence in the name of the people, while only Seneca Falls clearly copies its wording"
+ },
+ {
+  "file": "dbqs",
+  "id": "labor-continuity-change",
+  "path": "pool.7.sourcing",
+  "old": "Donald Mackenzie Wallace, a British journalist who lived in Russia before and after emancipation, described the redemption payments in Russia (revised edition 1905; first published 1877). He explains that the peasants had to repay the state's advance with 6 per cent interest for forty-nine years and some communes were not consulted, which shows freedom bound to long debt, though he is a foreign observer.",
+  "new": "Donald Mackenzie Wallace, a British journalist who lived in Russia from 1870, years after emancipation, described the redemption payments in Russia (revised edition 1905; first published 1877). He explains that the peasants had to repay the state's advance with 6 per cent interest for forty-nine years and some communes were not consulted, which shows freedom bound to long debt, though he is a foreign observer.",
+  "why": "Wallace first went to Russia in 1870, nine years after the 1861 emancipation, so he did not live there before it (from my knowledge; sourceLine in documents.json has the same slip)"
+ }
+]

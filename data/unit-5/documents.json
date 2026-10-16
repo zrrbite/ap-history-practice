@@ -199,7 +199,7 @@
   {
     "id": "bryan-1896-cross-of-gold",
     "authorKey": "bryan",
-    "sourceLine": "William Jennings Bryan, Nebraska congressman and Democratic presidential candidate, \"Cross of Gold\" speech to the Democratic National Convention, July 1896",
+    "sourceLine": "William Jennings Bryan, former Nebraska congressman, whom the convention then nominated for president, \"Cross of Gold\" speech to the Democratic National Convention, July 1896",
     "year": 1896,
     "kind": "text",
     "text": "If they ask us here why it is we say more on the money question than we say upon the tariff question, I reply that if protection has slain its thousands the gold standard has slain its tens of thousands. … You come to us and tell us that the great cities are in favor of the gold standard. I tell you that the great cities rest upon these broad and fertile prairies. Burn down your cities and leave our farms, and your cities will spring up again as if by magic. But destroy our farms and the grass will grow in the streets of every city in this country. … we shall answer their demands for a gold standard by saying to them, you shall not press down upon the brow of labor this crown of thorns. You shall not crucify mankind upon a cross of gold.",
@@ -212,7 +212,8 @@
     ],
     "sourceUrl": "https://teachingamericanhistory.org/document/the-cross-of-gold-speech/",
     "verified": true,
-    "verifiedBy": "script"
+    "verifiedBy": "script",
+    "verifiedNote": "sourceLine corrected in the claim-vs-source review (2026-10-16)."
   },
   {
     "id": "buchanan-1858-atlantic-cable-reply",
@@ -1425,7 +1426,7 @@
   {
     "id": "mill-1861-nationalities-absorbed",
     "authorKey": "mill",
-    "sourceLine": "John Stuart Mill, British philosopher and member of Parliament, Considerations on Representative Government, chapter 16, \"Of Nationality,\" 1861",
+    "sourceLine": "John Stuart Mill, British philosopher (later a member of Parliament, 1865–1868), Considerations on Representative Government, chapter 16, \"Of Nationality,\" 1861",
     "year": 1861,
     "kind": "text",
     "text": "Experience proves that it is possible for one nationality to merge and be absorbed in another; and when it was originally an inferior and more backward portion of the human race, the absorption is greatly to its advantage. Nobody can suppose that it is not more beneficial to a Breton, or a Basque of French Navarre, to be brought into the current of the ideas and feelings of a highly civilized and cultivated people--to be a member of the French nationality, admitted on equal terms to all the privileges of French citizenship, sharing the advantages of French protection, and the dignity and _prestige_ of French power--than to sulk on his own rocks, the half-savage relic of past times, revolving in his own little mental orbit, without participation or interest in the general movement of the world. The same remark applies to the Welshman or the Scottish Highlander as members of the British nation. Whatever really tends to the admixture of nationalities, and the blending of their attributes and peculiarities in a common union, is a benefit to the human race.",
@@ -1437,12 +1438,13 @@
     ],
     "sourceUrl": "https://www.gutenberg.org/cache/epub/5669/pg5669.txt",
     "verified": true,
-    "verifiedBy": "script"
+    "verifiedBy": "script",
+    "verifiedNote": "sourceLine corrected in the claim-vs-source review (2026-10-16)."
   },
   {
     "id": "mill-1861-nationality-defined",
     "authorKey": "mill",
-    "sourceLine": "John Stuart Mill, British philosopher and member of Parliament, Considerations on Representative Government, chapter 16, \"Of Nationality,\" 1861",
+    "sourceLine": "John Stuart Mill, British philosopher (later a member of Parliament, 1865–1868), Considerations on Representative Government, chapter 16, \"Of Nationality,\" 1861",
     "year": 1861,
     "kind": "text",
     "text": "A portion of mankind may be said to constitute a nationality if they are united among themselves by common sympathies which do not exist between them and any others--which make them co-operate with each other more willingly than with other people, desire to be under the same government, and desire that it should be government by themselves, or a portion of themselves, exclusively. … Switzerland has a strong sentiment of nationality, though the cantons are of different races, different languages, and different religions. Sicily has hitherto felt itself quite distinct in nationality from Naples, notwithstanding identity of religion, almost identity of language, and a considerable amount of common historical antecedents.",
@@ -1454,7 +1456,8 @@
     ],
     "sourceUrl": "https://www.gutenberg.org/cache/epub/5669/pg5669.txt",
     "verified": true,
-    "verifiedBy": "script"
+    "verifiedBy": "script",
+    "verifiedNote": "sourceLine corrected in the claim-vs-source review (2026-10-16)."
   },
   {
     "id": "mill-1869-subjection-women",
@@ -1877,7 +1880,7 @@
   {
     "id": "rizal-1889-philippines-century-hence",
     "authorKey": "rizal",
-    "sourceLine": "Jose Rizal, Filipino reformer and writer, \"The Philippines a Century Hence,\" La Solidaridad (Madrid), 1889-1890",
+    "sourceLine": "Jose Rizal, Filipino reformer and writer, \"The Philippines a Century Hence,\" La Solidaridad (published in Barcelona, then Madrid), 1889-1890",
     "year": 1889,
     "kind": "text",
     "text": "The Islands cannot remain in the condition they are without requiring from the sovereign country more liberty Mutatis mutandis. For new men, a new social order. To wish that the alleged child remain in its swaddling-clothes is to risk that it may turn against its nurse and flee, tearing away the old rags that bind it. … The Philippines, then, will remain under Spanish domination, but with more law and greater liberty, or they will declare themselves independent, after steeping themselves and the mother country in blood.",
@@ -1889,7 +1892,8 @@
     ],
     "sourceUrl": "https://gutenberg.org/cache/epub/35899/pg35899.txt",
     "verified": true,
-    "verifiedBy": "script"
+    "verifiedBy": "script",
+    "verifiedNote": "sourceLine corrected in the claim-vs-source review (2026-10-16)."
   },
   {
     "id": "robinson-1898-loom-and-spindle-doffer",
@@ -2531,7 +2535,7 @@
   {
     "id": "wallace-1877-russia-emancipation-redemption",
     "authorKey": "wallace",
-    "sourceLine": "Donald Mackenzie Wallace, British journalist who lived in Russia before and after emancipation, Russia (revised edition, 1905; first published 1877), on the redemption payments",
+    "sourceLine": "Donald Mackenzie Wallace, British journalist who lived in Russia from 1870 to 1875, after emancipation, Russia (revised edition, 1905; first published 1877), on the redemption payments",
     "year": 1905,
     "kind": "text",
     "text": "The arrangement was as follows:--The dues were capitalised at six per cent., and the Government paid at once to the proprietors four-fifths of the whole sum. The peasants were to pay to the proprietor the remaining fifth, either at once or in installments, and to the Government six per cent. for forty-nine years on the sum advanced. … Many Communes refused to undertake the operation on any conditions and in consequence of this not a few proprietors demanded the so-called obligatory redemption, according to which they accepted the four-fifths from the Government as full payment, and the operation was thus effected without the peasants being consulted.",
@@ -2544,7 +2548,8 @@
     ],
     "sourceUrl": "https://gutenberg.org/cache/epub/1349/pg1349.txt",
     "verified": true,
-    "verifiedBy": "script"
+    "verifiedBy": "script",
+    "verifiedNote": "sourceLine corrected in the claim-vs-source review (2026-10-16)."
   },
   {
     "id": "washington-1901-mortgaged-crops",

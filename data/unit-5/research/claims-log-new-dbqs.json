@@ -1,0 +1,30 @@
+[
+ {
+  "file": "dbqs",
+  "id": "technology-global-economy",
+  "checked": 37,
+  "edits": 0,
+  "notes": "Wikipedia Industrial Revolution says c.1760 spread to continent/US by c.1840: matches. Rest passes."
+ },
+ {
+  "file": "dbqs",
+  "id": "economic-ideas-institutions",
+  "checked": 34,
+  "edits": 1,
+  "notes": "Bryan sourcing note; documents.json sourceLine for bryan-1896-cross-of-gold also says \"Nebraska congressman\" and should be fixed in documents.json."
+ },
+ {
+  "file": "dbqs",
+  "id": "nationalism-identity",
+  "checked": 38,
+  "edits": 2,
+  "notes": "sourceLine of mill-1861 also says \"member of Parliament\" (fix in documents.json). Rizal essay began in Barcelona issues of La Solidaridad (Madrid from Nov 1889); left as is. Greek/Navarino and INC reformist claims not grepped line by line; standard content."
+ },
+ {
+  "file": "dbqs",
+  "id": "labor-continuity-change",
+  "checked": 36,
+  "edits": 1,
+  "notes": "sourceLine of wallace-1877 also says \"before and after emancipation\" (fix in documents.json)."
+ }
+]

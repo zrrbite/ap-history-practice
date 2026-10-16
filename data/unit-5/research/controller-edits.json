@@ -1,0 +1,18 @@
+[
+  {
+    "file": "dbqs",
+    "id": "economic-ideas-institutions",
+    "path": "pool.6.sourcing",
+    "old": "William Jennings Bryan, a former Nebraska congressman and the Democratic presidential candidate, gave the 'Cross of Gold' speech to his party's convention in July 1896 to win votes for farmers and labor. He attacks the gold standard as a harm to the farming country, which shows that the monetary institution was contested and who felt hurt by it, but it is campaign rhetoric.",
+    "new": "William Jennings Bryan, a former Nebraska congressman, gave the 'Cross of Gold' speech to his party's convention in July 1896 in the fight over silver, and the speech won him the presidential nomination. He attacks the gold standard as a harm to the farming country, which shows that the monetary institution was contested and who felt hurt by it, but it is campaign rhetoric.",
+    "why": "Bryan was not yet the candidate when he spoke; the speech won him the nomination at that convention."
+  },
+  {
+    "file": "dbqs",
+    "id": "nationalism-identity",
+    "path": "pool.4.sourcing",
+    "old": "Jose Rizal, a Filipino reformer and writer, published this essay in La Solidaridad in Madrid in 1889-1890 to argue to a Spanish audience that the Philippines needed more liberty. He warns that the islands will either stay under Spain with more law and liberty or declare independence in blood, so he shows nationalism in the Philippines at a reformist stage, and his readers were Spaniards he hoped to persuade.",
+    "new": "Jose Rizal, a Filipino reformer and writer, published this essay in La Solidaridad, a Filipino reform paper in Spain, in 1889-1890 to argue to a Spanish audience that the Philippines needed more liberty. He warns that the islands will either stay under Spain with more law and liberty or declare independence in blood, so he shows nationalism in the Philippines at a reformist stage, and his readers were Spaniards he hoped to persuade.",
+    "why": "La Solidaridad was in Barcelona when the essay began (it moved to Madrid in late 1889)."
+  }
+]
