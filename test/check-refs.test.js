@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { mkdtemp, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
-import { collectRefs, pageTitle, titleMatches, checkRef, loadBank } from '../tools/check-refs.js';
+import { collectRefs, pageTitle, titleMatches, checkRef, loadBank, paceWayback } from '../tools/check-refs.js';
 import { makeData, writeDataDir } from './helpers/fixture.js';
 
 const WIKI = { title: "Mit'a", url: 'https://en.wikipedia.org/wiki/Mita_(Inca)' };
@@ -146,4 +146,41 @@ test('loadBank reads a unit folder, or sorts the given files into DBQs, SAQs and
   const junk = path.join(dir, 'junk.json');
   await writeFile(junk, JSON.stringify([{ id: 'x' }]));
   await assert.rejects(loadBank(dir, [junk]), /x is not a DBQ, SAQ or MCQ set/);
+});
+
+// A fake clock: wait() advances it, and the inner fetcher records when each request started.
+function clocked() {
+  let clock = 0;
+  const started = [];
+  return {
+    now: () => clock,
+    wait: async (ms) => { clock += ms; },
+    started,
+    inner: async (url) => { started.push([url, clock]); return { status: 200, text: '' }; },
+  };
+}
+
+test('paceWayback starts Wayback requests at least a second apart and does not slow other hosts', async () => {
+  const c = clocked();
+  const paced = paceWayback(c.inner, { gapMs: 1000, now: c.now, wait: c.wait });
+  await paced('https://web.archive.org/cdx/search/cdx?url=a');
+  await paced('https://web.archive.org/web/1id_/https://www.britannica.com/topic/a');
+  await paced('https://en.wikipedia.org/wiki/Mita_(Inca)');
+  await paced('https://web.archive.org/cdx/search/cdx?url=b');
+  assert.deepEqual(c.started.map(([, at]) => at), [0, 1000, 1000, 2000]);
+});
+
+test('paceWayback also spaces retries: a Britannica check that retries never goes faster than one request a second', async () => {
+  const c = clocked();
+  const offline = { status: 200, text: '<title>Internet Archive: Temporarily Offline</title>' };
+  const real = fetcher([
+    [CDX, (n) => (n < 3 ? offline : { status: 200, text: '[["timestamp","original"],["20261006053551","https://www.britannica.com/topic/encomienda"]]' })],
+    [/id_\//, { status: 200, text: '<title>Encomienda | Spanish colonial system | Britannica</title>' }],
+  ]);
+  const paced = paceWayback(async (url) => { c.started.push([url, c.now()]); return real.fetch(url); }, { gapMs: 1000, now: c.now, wait: c.wait });
+  const result = await checkRef(BRIT, paced, { wait: noWait });
+  assert.equal(result.ok, true);
+  const times = c.started.map(([, at]) => at);
+  assert.equal(times.length, 4, 'three index requests and one capture');
+  for (let i = 1; i < times.length; i++) assert.ok(times[i] - times[i - 1] >= 1000, `gap before request ${i + 1}: ${times.join(', ')}`);
 });

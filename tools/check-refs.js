@@ -43,6 +43,25 @@ const cdxUrl = (url) =>
 
 const isTransient = (page) => page.status === 0 || page.status === 429 || page.status >= 500;
 
+const WAYBACK = /^https:\/\/web\.archive\.org\//;
+export const WAYBACK_GAP_MS = 1000;
+
+// Wraps a fetcher so Wayback Machine requests (the index, the captures, and every retry of either)
+// start at least gapMs apart. Without this the Unit 4 release run was rate-limited (HTTP 429) after
+// about 116 links. Other hosts are not slowed. Start times are reserved before waiting, so callers
+// that overlap still come out spaced.
+export function paceWayback(fetcher, { gapMs = WAYBACK_GAP_MS, now = Date.now, wait = sleep } = {}) {
+  let nextFree = -Infinity;
+  return async (url) => {
+    if (WAYBACK.test(url)) {
+      const start = Math.max(now(), nextFree);
+      nextFree = start + gapMs;
+      if (start > now()) await wait(start - now());
+    }
+    return fetcher(url);
+  };
+}
+
 // Calls the fetcher until `again` is false or the attempts run out, waiting between tries.
 // A thrown error becomes {status: 0, error}. Returns the last answer.
 async function patientFetch(url, fetcher, { retries, wait }, again = isTransient) {
@@ -124,7 +143,7 @@ export async function loadBank(dir, files) {
 }
 
 async function main(argv) {
-  const fetcher = fetchPage;
+  const fetcher = paceWayback(fetchPage);
   if (argv[0] === '--title') {
     const found = await resolveTitle(argv[1], fetcher);
     console.log(found.reason ? `not confirmed: ${found.reason}` : `${found.title}  (via ${found.via})`);
