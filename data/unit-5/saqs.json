@@ -31,11 +31,11 @@
       },
       {
         "label": "c",
-        "task": "Explain ONE way a group in this period used Enlightenment ideas to argue for rights that the revolutionary governments did not at first grant them.",
+        "task": "Explain ONE way a group between 1750 and 1850 used Enlightenment ideas to argue for rights that governments did not at first grant them.",
         "accept": [
           "Women: Olympe de Gouges (1791) and Mary Wollstonecraft (1792) argued that the rights of man must also be the rights of woman; the Seneca Falls Declaration of Sentiments (1848) copied the Declaration of Independence to demand women's rights.",
           "Enslaved and free people of color: Haitian revolutionaries and abolitionists argued that liberty and equality applied regardless of race, a claim the French National Assembly at first resisted.",
-          "Workers or the poor argued that political equality needed to extend to those without property (for example, the Chartists' demand for votes in 1838).",
+          "Workers or the poor argued that political equality needed to extend to those without property (for example, the Parisian radicals who attacked the 1791 constitution's division of men into active and passive citizens by wealth, or the Chartists' demand for votes in 1838).",
           "Does not earn the point: describing the Reign of Terror or Napoleon, which are not groups arguing for rights."
         ]
       }
@@ -161,7 +161,7 @@
         "task": "Describe ONE way production in the pin factory differs from the work of a single craftsman, according to Smith.",
         "accept": [
           "The work is split into many separate tasks (drawing the wire, straightening, cutting, pointing, grinding, and making and attaching the head) with each worker doing one.",
-          "Output per worker rises enormously: a single untrained worker could make hardly one pin a day, but the divided process makes far more.",
+          "Output per worker rises enormously: a single untrained worker could scarcely make twenty pins a day, while in the divided process (Smith goes on to say ten specialised workers made upward of 48,000 pins a day) each makes thousands.",
           "Does not earn the point: stating that Smith liked pins or that pin-making was a small industry."
         ]
       },
@@ -486,7 +486,7 @@
         "accept": [
           "The Factory Act of 1833 banned work under nine in textile mills, limited hours for children, and created inspectors to enforce the law.",
           "The Ten Hours Act of 1847 limited the working day of women and young people, and the Mines Act of 1842 banned women and young children from underground work.",
-          "Parliament set up investigations (the Sadler Committee, 1832) whose evidence led to reform.",
+          "Parliament set up a Royal Commission on the employment of children in factories (1833) and, later, the Children's Employment Commission (1840-42), whose investigations led to reform.",
           "Does not earn the point: saying child labor was banned completely in 1833, or that the Sadler Committee itself passed a law."
         ]
       }

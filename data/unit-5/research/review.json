@@ -1,0 +1,433 @@
+{
+ "reviewed": [
+  "enlightenment-revolutions",
+  "latin-american-independence",
+  "industrial-revolution-causes",
+  "state-led-industrialization",
+  "reactions-industrial-economy",
+  "industrial-society",
+  "enlightenment-1",
+  "haiti-dessalines-1",
+  "latin-america-independence-1",
+  "division-of-labour-1",
+  "china-self-strengthening-1",
+  "suez-canal-labour-1",
+  "german-social-insurance-1",
+  "free-trade-ricardo-1",
+  "trade-unions-engels-1",
+  "child-labour-bentley-1",
+  "emancipation-compare-1",
+  "transport-communications-compare-1",
+  "wollstonecraft-vindication",
+  "tucuman-independence",
+  "engels-textile-machinery",
+  "kiangnan-arsenal-yung-wing",
+  "twain-railroads-steamboats",
+  "smith-joint-stock-companies",
+  "proudhon-property-robbery",
+  "riis-tenements",
+  "carnegie-wealth-change"
+ ],
+ "findings": [
+  {
+   "where": "dbq enlightenment-revolutions notes.thesis 2",
+   "kind": "accuracy",
+   "problem": "France is not a colony, so 'where the colonies already had experience of self-government and educated elites (British North America, France)' is wrong as written.",
+   "edit": {
+    "file": "dbqs",
+    "id": "enlightenment-revolutions",
+    "path": "notes.thesis.2",
+    "old": "The extent of the ideas' influence varied between revolutions: they were most decisive where the colonies already had experience of self-government and educated elites (British North America, France), and least where a revolt of enslaved people turned them to their own cause (Saint-Domingue), so that ideas and grievances were bound together in each case.",
+    "new": "The extent of the ideas' influence varied between revolutions: they were most decisive where societies already had experience of self-government or a reading public and educated elites (British North America, France), and least where a revolt of enslaved people turned them to their own cause (Saint-Domingue), so that ideas and grievances were bound together in each case."
+   }
+  },
+  {
+   "where": "dbq enlightenment-revolutions notes.thesis 1",
+   "kind": "accuracy",
+   "problem": "The Haitian Revolution did not begin with a crisis of money, privilege or colonial control but with slavery and racial caste; the sentence overgeneralises.",
+   "edit": {
+    "file": "dbqs",
+    "id": "enlightenment-revolutions",
+    "path": "notes.thesis.1",
+    "old": "Grievances were the stronger cause: the American, French, Haitian and Spanish American revolutions each began with a concrete crisis of money, privilege or colonial control, and ideas mainly justified action already under way; the limits placed on the rights of women and the enslaved show how far the principles were applied only when they suited the interests of the leaders.",
+    "new": "Grievances were the stronger cause: the American, French, Haitian and Spanish American revolutions each began with a concrete crisis of money, privilege, slavery or colonial control, and ideas mainly justified action already under way; the limits placed on the rights of women and the enslaved show how far the principles were applied only when they suited the interests of the leaders."
+   }
+  },
+  {
+   "where": "dbq latin-american-independence pool.7.sourcing",
+   "kind": "accuracy",
+   "problem": "Memoirs of General Miller (1828) was written by John Miller, the general's brother and compiler, who is not known to have served in the Peruvian army (William Miller did). Sourcing credits the wrong man with that role.",
+   "edit": {
+    "file": "dbqs",
+    "id": "latin-american-independence",
+    "path": "pool.7.sourcing",
+    "old": "Miller, a British officer who served in the Peruvian independence army, wrote this account of the Tupac Amaru rising of 1780 in 1828 as background, not as an eyewitness. He criticises a rising that turned on Spanish Americans as well as Spaniards, so it shows how a sympathiser of the creole cause remembered Indigenous revolt as a danger.",
+    "new": "John Miller, brother and biographer of the British officer General William Miller of the Peruvian independence army, wrote this account of the Tupac Amaru rising of 1780 in 1828 as background, not as an eyewitness. He criticises a rising that turned on Spanish Americans as well as Spaniards, so it shows how a sympathiser of the creole cause remembered Indigenous revolt as a danger."
+   }
+  },
+  {
+   "where": "document miller-1828-tupac-amaru-rising sourceLine (documents.json; also used in saqs/mcqs if cited)",
+   "kind": "structural",
+   "problem": "sourceLine says 'John Miller, British officer who served in the Peruvian independence army'. The Memoirs were compiled by John Miller (1787-1858) from the papers of his brother General William Miller; John's service in Peru is not attested. Change to 'John Miller, brother and biographer of General William Miller of the Peruvian independence army'.",
+   "edit": null
+  },
+  {
+   "where": "dbq latin-american-independence pool.5.sourcing",
+   "kind": "consistency",
+   "problem": "The sourceLine does not say Beaver heard events secondhand, and the excerpt has him present in Caracas being hailed; the stated limitation is unsupported. The real limitation is a British naval officer reporting to his admiral and noting pro-British enthusiasm.",
+   "edit": {
+    "file": "dbqs",
+    "id": "latin-american-independence",
+    "path": "pool.5.sourcing",
+    "old": "Captain Beaver, a Royal Navy officer, wrote to Sir Alexander Cochrane on 19 July 1808 about the reaction in Caracas to news from Spain, and the letter was later printed in Miller's Memoirs. It shows the crowd proclaiming loyalty to Ferdinand VII and insulting the French, so the crisis of 1808 began as loyalty to the king and not as a demand for liberty, though a foreign officer reported what he heard secondhand.",
+    "new": "Captain Beaver, a Royal Navy officer, wrote to Sir Alexander Cochrane on 19 July 1808 about the reaction in Caracas to news from Spain, and the letter was later printed in Miller's Memoirs. It shows the crowd proclaiming loyalty to Ferdinand VII and insulting the French, so the crisis of 1808 began as loyalty to the king and not as a demand for liberty, though a British officer reporting to his admiral may have stressed the crowd's pro-British feeling and describes only one city."
+   }
+  },
+  {
+   "where": "dbq industrial-revolution-causes notes.outsideEvidence 3",
+   "kind": "accuracy",
+   "problem": "Enclosure was carried out through thousands of Acts of Parliament (over 4,000 between 1750 and 1820), not hundreds.",
+   "edit": {
+    "file": "dbqs",
+    "id": "industrial-revolution-causes",
+    "path": "notes.outsideEvidence.3.text",
+    "old": "The enclosure of common and open fields, carried out through hundreds of acts of Parliament in the 18th and early 19th centuries, strengthened large landowners' control and pushed many rural people off the land towards wage work.",
+    "new": "The enclosure of common and open fields, carried out through thousands of acts of Parliament in the 18th and early 19th centuries, strengthened large landowners' control and pushed many rural people off the land towards wage work."
+   }
+  },
+  {
+   "where": "dbq industrial-revolution-causes notes.outsideEvidence 5",
+   "kind": "accuracy",
+   "problem": "The Limited Liability Act of 1855 falls after the prompt period (c. 1750-1850) and the Bank of England article does not support it.",
+   "edit": {
+    "file": "dbqs",
+    "id": "industrial-revolution-causes",
+    "path": "notes.outsideEvidence.5.text",
+    "old": "The Bank of England, founded in 1694, helped the state borrow cheaply, and by the 19th century a network of country banks and the London money market supplied credit to businesses; the Limited Liability Act of 1855 then let investors risk only what they put into a company.",
+    "new": "The Bank of England, founded in 1694, helped the state borrow cheaply, and by the 19th century a network of country banks and the London money market supplied credit to businesses for investment in canals, mills and, later, railways."
+   }
+  },
+  {
+   "where": "dbq industrial-revolution-causes notes.complexity 0",
+   "kind": "accuracy",
+   "problem": "Dutt describes India as deindustrialised under British rule, so saying factories and wage labour also spread to India contradicts the cited source.",
+   "edit": {
+    "file": "dbqs",
+    "id": "industrial-revolution-causes",
+    "path": "notes.complexity.0",
+    "old": "Explain similarity and difference: compare Britain with the United States (Dickens) and with India (Dutt), where factories and wage labour also spread but where the empire's raw materials and markets worked in Britain's favour, to explain why Britain industrialized first.",
+    "new": "Explain similarity and difference: compare Britain with the United States (Dickens), where factories and wage labour also spread, and with India (Dutt), where Indian industry declined while the empire's raw materials and markets worked in Britain's favour, to explain why Britain industrialized first."
+   }
+  },
+  {
+   "where": "dbq state-led-industrialization notes.thesis 1",
+   "kind": "accuracy",
+   "problem": "Forced labour is documented for Egypt, not the Ottoman Empire, whose problem in the sources is borrowing.",
+   "edit": {
+    "file": "dbqs",
+    "id": "state-led-industrialization",
+    "path": "notes.thesis.1",
+    "old": "Governments were necessary but not sufficient: state action worked best where it built on existing strengths and kept control of finance, as in Japan, but where it relied on foreign loans and forced labour, as in Egypt and the Ottoman Empire, it produced debt and foreign control instead of lasting industry.",
+    "new": "Governments were necessary but not sufficient: state action worked best where it built on existing strengths and kept control of finance, as in Japan, but where it relied on foreign loans, and in Egypt on forced labour, as in Egypt and the Ottoman Empire, it produced debt and foreign control instead of lasting industry."
+   }
+  },
+  {
+   "where": "dbq state-led-industrialization notes.complexity 0",
+   "kind": "accuracy",
+   "problem": "Japan did borrow abroad (a London railway loan in 1870, large loans in 1904-05; Inouye even quotes the fear of foreign loans), so saying it avoided foreign debt is overstated.",
+   "edit": {
+    "file": "dbqs",
+    "id": "state-led-industrialization",
+    "path": "notes.complexity.0",
+    "old": "Explain similarity and difference: compare Meiji Japan with Egypt and the Ottoman Empire, which also borrowed Western models, to show that Japan kept control of its own finance and avoided the foreign debt that gave Britain and France influence in Egypt and the Ottoman lands.",
+    "new": "Explain similarity and difference: compare Meiji Japan with Egypt and the Ottoman Empire, which also borrowed Western models, to show that Japan kept control of its own finance and avoided, in its early decades, the heavy foreign debt that gave Britain and France influence in Egypt and the Ottoman lands."
+   }
+  },
+  {
+   "where": "dbq state-led-industrialization notes.complexity 2",
+   "kind": "accuracy",
+   "problem": "Only two of the four limits documents (Cromer, Duff Gordon) are by British observers; Midhat is Ottoman and Alexander II Russian, so mostly is wrong.",
+   "edit": {
+    "file": "dbqs",
+    "id": "state-led-industrialization",
+    "path": "notes.complexity.2",
+    "old": "Qualify with a counter-argument: the sources on limits are mostly by British observers and officials such as Cromer and Duff Gordon, who may exaggerate the failures of governments they criticised, while Russia's Alexander II shows a state reform that mainly protected the nobility.",
+    "new": "Qualify with a counter-argument: two of the sources on limits are by British observers and officials such as Cromer and Duff Gordon, who may exaggerate the failures of governments they criticised, while Russia's Alexander II shows a state reform that mainly protected the nobility."
+   }
+  },
+  {
+   "where": "dbq state-led-industrialization pool.11 (alexander-ii-1861-emancipation-manifesto)",
+   "kind": "exam-fit",
+   "problem": "The manifesto says nothing about industrialization or state-led economic action; its own sourcing admits it supports the prompt only indirectly. A student cannot use it as evidence on the prompt without outside argument. Replace with a document on Russian state industrialization (e.g. Witte) or drop it.",
+   "edit": null
+  },
+  {
+   "where": "dbq reactions-industrial-economy pool.8.sourcing",
+   "kind": "accuracy",
+   "problem": "The 1881 Imperial Message was read to the Reichstag by Bismarck on the Kaiser's behalf, not read by Wilhelm I himself.",
+   "edit": {
+    "file": "dbqs",
+    "id": "reactions-industrial-economy",
+    "path": "pool.8.sourcing",
+    "old": "Kaiser Wilhelm I read this proclamation, drafted by Chancellor Bismarck, to the Reichstag on 17 November 1881. It says that curing social defects needs both repression of Social Democratic excesses and promotion of workers' welfare, so it shows welfare used by the state to win loyalty and weaken socialism; it states a promise and not what was delivered.",
+    "new": "This proclamation in the name of Kaiser Wilhelm I, drafted by Chancellor Bismarck, was read to the Reichstag on 17 November 1881. It says that curing social defects needs both repression of Social Democratic excesses and promotion of workers' welfare, so it shows welfare used by the state to win loyalty and weaken socialism; it states a promise and not what was delivered."
+   }
+  },
+  {
+   "where": "dbq reactions-industrial-economy notes.contextualization 1 ref.title (controller redirect fix)",
+   "kind": "accuracy",
+   "problem": "Wikipedia redirects Combination_Acts to Combination Act 1799; the page title does not contain the ref title. The note (1799 and 1800 Acts, repeal in 1824) fits that article.",
+   "edit": {
+    "file": "dbqs",
+    "id": "reactions-industrial-economy",
+    "path": "notes.contextualization.1.ref.title",
+    "old": "Combination Acts",
+    "new": "Combination Act 1799"
+   }
+  },
+  {
+   "where": "dbq reactions-industrial-economy notes.contextualization 1 ref.url (controller redirect fix)",
+   "kind": "accuracy",
+   "problem": "Redirecting URL; point at the canonical article.",
+   "edit": {
+    "file": "dbqs",
+    "id": "reactions-industrial-economy",
+    "path": "notes.contextualization.1.ref.url",
+    "old": "https://en.wikipedia.org/wiki/Combination_Acts",
+    "new": "https://en.wikipedia.org/wiki/Combination_Act_1799"
+   }
+  },
+  {
+   "where": "dbq reactions-industrial-economy notes.outsideEvidence 0 ref.title (controller redirect fix)",
+   "kind": "accuracy",
+   "problem": "Wikipedia redirects Luddite to Luddites; page title does not contain the ref title.",
+   "edit": {
+    "file": "dbqs",
+    "id": "reactions-industrial-economy",
+    "path": "notes.outsideEvidence.0.ref.title",
+    "old": "Luddite",
+    "new": "Luddites"
+   }
+  },
+  {
+   "where": "dbq reactions-industrial-economy notes.outsideEvidence 0 ref.url (controller redirect fix)",
+   "kind": "accuracy",
+   "problem": "Redirecting URL; point at the canonical article.",
+   "edit": {
+    "file": "dbqs",
+    "id": "reactions-industrial-economy",
+    "path": "notes.outsideEvidence.0.ref.url",
+    "old": "https://en.wikipedia.org/wiki/Luddite",
+    "new": "https://en.wikipedia.org/wiki/Luddites"
+   }
+  },
+  {
+   "where": "dbq industrial-society pool.6.sourcing",
+   "kind": "accuracy",
+   "problem": "Ruskin delivered Of Queens' Gardens as a lecture in Manchester in December 1864; 1865 is the date of publication in Sesame and Lilies, which is what the sourceLine gives.",
+   "edit": {
+    "file": "dbqs",
+    "id": "industrial-society",
+    "path": "pool.6.sourcing",
+    "old": "Ruskin was a Victorian art critic and social writer who gave this lecture in 1865. He describes man as the active 'doer' and woman as the keeper of home as a place of peace, which gives an ideal of separate spheres that suited the middle class; it expresses an ideal and not what working women did.",
+    "new": "Ruskin was a Victorian art critic and social writer whose lecture was published in Sesame and Lilies in 1865. He describes man as the active 'doer' and woman as the keeper of home as a place of peace, which gives an ideal of separate spheres that suited the middle class; it expresses an ideal and not what working women did."
+   }
+  },
+  {
+   "where": "dbq industrial-society pool.7.sourcing",
+   "kind": "accuracy",
+   "problem": "Mill sat in Parliament 1865-68 and had lost his seat before The Subjection of Women appeared in 1869; calling him a Member of Parliament at publication is wrong.",
+   "edit": {
+    "file": "dbqs",
+    "id": "industrial-society",
+    "path": "pool.7.sourcing",
+    "old": "John Stuart Mill was an English philosopher and Member of Parliament who published The Subjection of Women in 1869. He argues that the legal subordination of women is wrong and should give way to equality, so he challenges the separate spheres ideal; he writes as a privileged male reformer and not from the experience of working women.",
+    "new": "John Stuart Mill was an English philosopher and former Member of Parliament who published The Subjection of Women in 1869. He argues that the legal subordination of women is wrong and should give way to equality, so he challenges the separate spheres ideal; he writes as a privileged male reformer and not from the experience of working women."
+   }
+  },
+  {
+   "where": "documents mill-1869-subjection-women and mill-1869-subjection-of-women sourceLine",
+   "kind": "structural",
+   "problem": "Both say Mill was a Member of Parliament in 1869 (he left the Commons in 1868); change to former Member of Parliament. The bank also holds two near-duplicate Mill documents (subjection-women, subjection-of-women), so check the unused one is dropped.",
+   "edit": null
+  },
+  {
+   "where": "dbq industrial-society notes.complexity 0",
+   "kind": "accuracy",
+   "problem": "Betty Harris was an adult coal-bearer (in her thirties), not a young worker; only Crabtree describes child labour.",
+   "edit": {
+    "file": "dbqs",
+    "id": "industrial-society",
+    "path": "notes.complexity.0",
+    "old": "Explain similarity and difference: compare the young workers of Crabtree and Harris in Britain with Robinson's account of Lowell, where mill work was one stage of a girl's life and not a lifelong fate, to show that the effects of industrial work on families depended on place and on the age and sex of the worker.",
+    "new": "Explain similarity and difference: compare the child mill worker Crabtree and the adult coal-bearer Harris in Britain with Robinson's account of Lowell, where mill work was one stage of a girl's life and not a lifelong fate, to show that the effects of industrial work on families depended on place and on the age and sex of the worker."
+   }
+  },
+  {
+   "where": "dbq industrial-society notes.complexity 2",
+   "kind": "consistency",
+   "problem": "Mill criticises Ruskin's ideal of separate spheres but says nothing against Smiles's ideal of self-help, so \"Mill criticises them\" overstates.",
+   "edit": {
+    "file": "dbqs",
+    "id": "industrial-society",
+    "path": "notes.complexity.2",
+    "old": "Qualify with a counter-argument: Smiles and Ruskin describe middle-class ideals of effort and of the home, while Mill criticises them, so industrialization changed the lives of different classes in different ways and the evidence should be weighed by who produced it.",
+    "new": "Qualify with a counter-argument: Smiles describes a middle-class ideal of effort and Ruskin a middle-class ideal of the home, while Mill criticises the second, so industrialization changed the lives of different classes in different ways and the evidence should be weighed by who produced it."
+   }
+  },
+  {
+   "where": "saq enlightenment-1 parts.2.task",
+   "kind": "consistency",
+   "problem": "Task says \"in this period\" (1775-1825 in part b) but the accept list credits Chartists (1838) and Seneca Falls (1848). Widen the task period to match.",
+   "edit": {
+    "file": "saqs",
+    "id": "enlightenment-1",
+    "path": "parts.2.task",
+    "old": "Explain ONE way a group in this period used Enlightenment ideas to argue for rights that the revolutionary governments did not at first grant them.",
+    "new": "Explain ONE way a group between 1750 and 1850 used Enlightenment ideas to argue for rights that governments did not at first grant them."
+   }
+  },
+  {
+   "where": "saq enlightenment-1 parts.2.accept.2",
+   "kind": "exam-fit",
+   "problem": "Chartists were demanding votes from the British Parliament, not from a revolutionary government, so the example does not fit the task wording; the 1791 French active/passive citizen distinction is the on-topic example.",
+   "edit": {
+    "file": "saqs",
+    "id": "enlightenment-1",
+    "path": "parts.2.accept.2",
+    "old": "Workers or the poor argued that political equality needed to extend to those without property (for example, the Chartists' demand for votes in 1838).",
+    "new": "Workers or the poor argued that political equality needed to extend to those without property (for example, the Parisian radicals who attacked the 1791 constitution's division of men into active and passive citizens by wealth, or the Chartists' demand for votes in 1838)."
+   }
+  },
+  {
+   "where": "saq division-of-labour-1 parts.0.accept.1",
+   "kind": "consistency",
+   "problem": "Part a says \"according to Smith\", but the excerpt gives no figure for the divided process. Fair crediting needs the figure from Smith's next lines (ten workers making upward of 48,000 pins a day).",
+   "edit": {
+    "file": "saqs",
+    "id": "division-of-labour-1",
+    "path": "parts.0.accept.1",
+    "old": "Output per worker rises enormously: a single untrained worker could make hardly one pin a day, but the divided process makes far more.",
+    "new": "Output per worker rises enormously: a single untrained worker could scarcely make twenty pins a day, while in the divided process (Smith goes on to say ten specialised workers made upward of 48,000 pins a day) each makes thousands."
+   }
+  },
+  {
+   "where": "saq child-labour-bentley-1 parts.2.accept.2",
+   "kind": "consistency",
+   "problem": "Part c asks how the government responded to testimony like Bentley's, but the accept line credits the Sadler Committee, which is the source of that testimony, not a response to it. The response was the 1833 Royal Commission and the Factory Act.",
+   "edit": {
+    "file": "saqs",
+    "id": "child-labour-bentley-1",
+    "path": "parts.2.accept.2",
+    "old": "Parliament set up investigations (the Sadler Committee, 1832) whose evidence led to reform.",
+    "new": "Parliament set up a Royal Commission on the employment of children in factories (1833) and, later, the Children's Employment Commission (1840-42), whose investigations led to reform."
+   }
+  },
+  {
+   "where": "coverage: Muhammad Ali's Egypt",
+   "kind": "structural",
+   "problem": "No verified document in the bank is about Muhammad Ali (r. 1805-48). The two Egypt documents (Duff Gordon 1862, Cromer 1908) concern the Said/Ismail era, so the strand appears only as an outsideEvidence note in state-led-industrialization. Add a document on Muhammad Ali's army, cotton or schools to that DBQ pool.",
+   "edit": null
+  },
+  {
+   "where": "coverage: Ottoman Tanzimat",
+   "kind": "structural",
+   "problem": "The only Tanzimat-era document in a DBQ pool is midhat-1903-ottoman-bankruptcy (the debt crisis, not the reforms). midhat-1903-gulhane-edict is verified but sits in no pool; consider swapping it into state-led-industrialization (replacing alexander-ii-1861-emancipation-manifesto).",
+   "edit": null
+  }
+ ],
+ "coverage": {
+  "Meiji Japan": {
+   "docs": [
+    "meiji-1868-charter-oath",
+    "okuma-1908-fifty-years-new-japan",
+    "okuma-1908-summary-state-subsidy",
+    "yamagata-1908-japanese-army",
+    "inouye-1908-railroads",
+    "matsukata-1908-gold-standard",
+    "shibusawa-1908-banking-joint-stock",
+    "suzuki-1908-model-factories",
+    "den-1908-telegraph-japan",
+    "okakura-1905-white-disaster",
+    "okakura-1905-restoration-schools-army"
+   ],
+   "inDbqPool": true,
+   "dbqs": [
+    "state-led-industrialization"
+   ]
+  },
+  "Muhammad Ali's Egypt": {
+   "docs": [],
+   "inDbqPool": false,
+   "note": "Only Ismail-era Egypt documents (duff-gordon-1863-suez-forced-labour, cromer-1908-egypt-debt, duff-gordon-1863-public-works-cost); none on Muhammad Ali."
+  },
+  "Ottoman Tanzimat": {
+   "docs": [
+    "midhat-1903-gulhane-edict",
+    "midhat-1903-ottoman-bankruptcy"
+   ],
+   "inDbqPool": true,
+   "dbqs": [
+    "state-led-industrialization (bankruptcy doc only)"
+   ]
+  },
+  "Qing self-strengthening": {
+   "docs": [
+    "yung-wing-1909-kiangnan-arsenal",
+    "yung-wing-1909-mission-recalled"
+   ],
+   "inDbqPool": true,
+   "dbqs": [
+    "state-led-industrialization"
+   ]
+  },
+  "Latin American writers": {
+   "docs": [
+    "bolivar-1819-angostura-address",
+    "bolivar-1819-angostura-colonial-legacy",
+    "bolivar-1819-angostura-models",
+    "viscardo-1799-letter-spanish-americans",
+    "viscardo-1799-letter-offices",
+    "sarmiento-1845-facundo-pampas",
+    "morelos-1813-sentiments-nation",
+    "morelos-1812-medidas-politicas"
+   ],
+   "inDbqPool": true,
+   "dbqs": [
+    "enlightenment-revolutions",
+    "latin-american-independence"
+   ]
+  },
+  "Women's voices": {
+   "docs": [
+    "gouges-1791-rights-woman",
+    "wollstonecraft-1792-vindication-rights-woman",
+    "seneca-falls-1848-declaration-sentiments",
+    "robinson-1898-loom-and-spindle-doffer",
+    "robinson-1898-lowell-turn-out",
+    "harris-1842-ashley-mines-hansard",
+    "duff-gordon-1863-suez-forced-labour"
+   ],
+   "inDbqPool": true,
+   "dbqs": [
+    "enlightenment-revolutions",
+    "industrial-society",
+    "reactions-industrial-economy"
+   ]
+  },
+  "Workers' voices": {
+   "docs": [
+    "crabtree-1832-sadler-committee",
+    "bentley-1832-sadler-committee",
+    "harris-1842-ashley-mines-hansard",
+    "robinson-1898-loom-and-spindle-doffer",
+    "chartist-1838-national-petition"
+   ],
+   "inDbqPool": true,
+   "dbqs": [
+    "industrial-society",
+    "reactions-industrial-economy"
+   ]
+  }
+ }
+}

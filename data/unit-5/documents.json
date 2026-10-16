@@ -857,7 +857,7 @@
   {
     "id": "mill-1869-subjection-of-women",
     "authorKey": "mill",
-    "sourceLine": "John Stuart Mill, English philosopher and member of Parliament, The Subjection of Women, Chapter 1, 1869",
+    "sourceLine": "John Stuart Mill, English philosopher and former Member of Parliament, The Subjection of Women, Chapter 1, 1869",
     "year": 1869,
     "kind": "text",
     "text": "The object of this Essay is to explain as clearly as I am able, the grounds of an opinion which I have held from the very earliest period when I had formed any opinions at all on social or political matters, and which, instead of being weakened or modified, has been constantly growing stronger by the progress of reflection and the experience of life: That the principle which regulates the existing social relations between the two sexes--the legal subordination of one sex to the other--is wrong in itself, and now one of the chief hindrances to human improvement; and that it ought to be replaced by a principle of perfect equality, admitting no power or privilege on the one side, nor disability on the other.",
@@ -870,12 +870,13 @@
     ],
     "sourceUrl": "https://www.gutenberg.org/cache/epub/27083/pg27083.txt",
     "verified": true,
-    "verifiedBy": "script"
+    "verifiedBy": "script",
+    "verifiedNote": "Accuracy review 2026-10-15: sourceLine corrected (English philosopher and former Member of Parliament)."
   },
   {
     "id": "mill-1869-subjection-women",
     "authorKey": "mill",
-    "sourceLine": "John Stuart Mill, English philosopher and Member of Parliament, The Subjection of Women, 1869",
+    "sourceLine": "John Stuart Mill, English philosopher and former Member of Parliament, The Subjection of Women, 1869",
     "year": 1869,
     "kind": "text",
     "text": "That the principle which regulates the existing social relations between the two sexes--the legal subordination of one sex to the other--is wrong in itself, and now one of the chief hindrances to human improvement; and that it ought to be replaced by a principle of perfect equality, admitting no power or privilege on the one side, nor disability on the other. … But this dependence, as it exists at present, is not an original institution, taking a fresh start from considerations of justice and social expediency--it is the primitive state of slavery lasting on",
@@ -888,12 +889,13 @@
     ],
     "sourceUrl": "https://www.gutenberg.org/cache/epub/27083/pg27083.txt",
     "verified": true,
-    "verifiedBy": "script"
+    "verifiedBy": "script",
+    "verifiedNote": "Accuracy review 2026-10-15: sourceLine corrected (English philosopher and former Member of Parliament)."
   },
   {
     "id": "miller-1828-tupac-amaru-rising",
     "authorKey": "miller",
-    "sourceLine": "John Miller, British officer who served in the Peruvian independence army, on the Tupac Amaru rising of 1780 (background chapter, not an eyewitness account), Memoirs of General Miller, 1828 (adapted)",
+    "sourceLine": "John Miller, compiling the memoirs of his brother General William Miller, a British officer in the Peruvian independence army, on the Tupac Amaru rising of 1780 (background chapter, not an eyewitness account), Memoirs of General Miller, 1828 (adapted)",
     "year": 1828,
     "kind": "text",
     "text": "Instead of uniting and making common cause with the Spanish Americans, who born on the same soil, and held in perhaps more galling fetters, were entitled to the same rights with himself, he directed his hostilities equally against them as against the Spaniards, the real tyrants of both … The popularity of his cause, however, amongst his own people, soon attracted to his standard a multitude of undisciplined Indians, whom he had not either the talent to train in military tactics, or the means to arm.",
@@ -905,7 +907,8 @@
     ],
     "sourceUrl": "https://archive.org/stream/memoirsofgeneral01mill/memoirsofgeneral01mill_djvu.txt",
     "verified": true,
-    "verifiedBy": "script"
+    "verifiedBy": "script",
+    "verifiedNote": "Accuracy review 2026-10-15: sourceLine corrected (John Miller, compiling the memoirs of his brother General William Miller, a British officer in the Peruvian independence army)."
   },
   {
     "id": "montesquieu-1748-spirit-laws-separation",
