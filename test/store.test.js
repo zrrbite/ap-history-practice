@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { safeStore, asStringArray, selectTopics } from '../src/store.js';
+import { safeStore, asStringArray, selectTopics, storageKey } from '../src/store.js';
 
 function memoryStorage() {
   const map = new Map();
@@ -52,4 +52,11 @@ test("selectTopics starts with every topic when nothing saved applies: first vis
   assert.notEqual(selectTopics([], all), all, 'a copy, so callers can change it');
   assert.deepEqual(selectTopics(['4.3', '4.5'], all), all);
   assert.deepEqual(selectTopics(['4.3', '5.2'], all), ['5.2']);
+});
+
+test('storageKey leaves Unit 4 keys unchanged and namespaces every other unit', () => {
+  assert.equal(storageKey('unit-4', 'topics'), 'topics');
+  assert.equal(storageKey('unit-4', 'recentDbqs'), 'recentDbqs');
+  assert.equal(storageKey('unit-5', 'topics'), 'unit-5:topics');
+  assert.equal(storageKey('unit-5', 'drillKind'), 'unit-5:drillKind');
 });

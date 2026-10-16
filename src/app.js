@@ -3,7 +3,7 @@
 import { drawDbq, pickRandom, pushRecent, matchesFilter, topicsWithItems } from './sampler.js';
 import { formatCode, parseCode, resolveCode, shareBaseFor } from './code.js';
 import { timerState, formatClock } from './timer.js';
-import { safeStore, asStringArray, selectTopics } from './store.js';
+import { safeStore, asStringArray, selectTopics, storageKey } from './store.js';
 
 const RECENT_DBQS = 3;
 const RECENT_DRILLS = 10;
@@ -30,7 +30,11 @@ const bank = JSON.parse(document.getElementById('bank').textContent);
 const TOPIC_LABELS = bank.unit.topics;
 const ALL_TOPICS = Object.keys(TOPIC_LABELS);
 const docsById = new Map(bank.documents.map((d) => [d.id, d]));
-const store = safeStore(() => window.localStorage);
+const rawStore = safeStore(() => window.localStorage);
+const store = {
+  get: (name, fallback) => rawStore.get(storageKey(bank.unit.id, name), fallback),
+  set: (name, value) => rawStore.set(storageKey(bank.unit.id, name), value),
+};
 const $ = (id) => document.getElementById(id);
 
 const state = {

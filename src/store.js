@@ -37,3 +37,9 @@ export function selectTopics(saved, allTopics) {
   const kept = allTopics.filter((topic) => saved.includes(topic));
   return kept.length > 0 ? kept : [...allTopics];
 }
+
+// Units share one origin (and so one localStorage). Unit 4 keeps the bare names it has always used, so its
+// students keep their saved filter; every other unit gets its own namespace.
+export function storageKey(unitId, name) {
+  return unitId === 'unit-4' ? name : `${unitId}:${name}`;
+}
