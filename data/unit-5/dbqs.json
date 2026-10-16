@@ -502,14 +502,14 @@
         "sourcing": "Yung Wing was a Chinese graduate of Yale sent by Zeng Guofan to buy machinery in the United States, writing his memoir in 1909. He describes buying machinery for the Kiangnan Arsenal and wanting a mechanical school so that China need not rely on foreign engineers, which shows a defence-driven industrial effort, though a man recalling his own role may inflate it."
       },
       {
-        "doc": "okuma-1908-fifty-years-new-japan",
-        "group": "defense",
-        "sourcing": "Okuma was a Japanese statesman and former finance minister, writing in the 1907–08 volume Fifty Years of New Japan. He ties Japan's rapid progress to Western models for an army and navy, with conscription, military education, arms manufacture and shipbuilding, so he supports the defence argument, but his account is a retrospective by one of the men who made policy."
-      },
-      {
         "doc": "okakura-1905-white-disaster",
         "group": "defense",
         "sourcing": "Okakura was a Japanese art scholar and writer who wrote about Western commerce and armies in 1905. He describes the Opium War of 1842 and the invasion of Peking in 1860, so he is strong evidence of the threat that moved states to act, but his nationalist and rhetorical tone shows a Japanese intellectual's view and not a neutral one."
+      },
+      {
+        "doc": "scott-1837-factories-arsenals-scale",
+        "group": "defense",
+        "sourcing": "Scott was a British army officer who travelled in Egypt in the 1830s, a European observer and not an Egyptian voice, writing in 1837. He says Muhammad Ali set up factories, arsenals, a fleet and a large army to win the respect of Britain, France and Russia, which shows defence and prestige driving state industry, but a foreign officer judged the results by European standards and he notes that the establishments largely failed to achieve their aims."
       },
       {
         "doc": "list-1841-productive-power",
@@ -527,9 +527,9 @@
         "sourcing": "Matsukata was a Meiji finance minister and prime minister, writing in the 1907–08 volume Fifty Years of New Japan. He explains that Japan moved to a gold standard after receiving a war indemnity from China in 1895, which shows government planning of finance in order to trade with Western powers; as the minister he describes the policy as a success."
       },
       {
-        "doc": "shibusawa-1908-banking-joint-stock",
+        "doc": "midhat-1903-gulhane-edict",
         "group": "economic-growth",
-        "sourcing": "Shibusawa was a Japanese official turned banker who founded the First National Bank, writing in the 1907–08 volume Fifty Years of New Japan. He explains that weak national finances led to the need for joint-stock banks because the Japanese were not used to combining capital, which shows how the state's money problems shaped new institutions, though he describes his own field."
+        "sourcing": "Ali Haydar Midhat, son and biographer of the Ottoman reformer Midhat Pasha, quotes the Gülhane Rescript of 3 November 1839 in his 1903 biography. It promises security of life, regulated taxation and equality before the law, which opened the Tanzimat reforms that sought to restore the empire's strength; it is a statement of intent and not of results, and the son who preserved it wrote to honour a reforming family."
       },
       {
         "doc": "duff-gordon-1863-suez-forced-labour",
@@ -542,20 +542,20 @@
         "sourcing": "Evelyn Baring, Lord Cromer, was a British Commissioner of the Egyptian Public Debt in 1877 and later Consul-General in Egypt, writing in 1908. He blames Ismail Pasha's borrowing, most of which he says was squandered, for the debt crisis, which shows how borrowing led to foreign control, but a British ruler of Egypt had reason to justify British intervention."
       },
       {
+        "doc": "lane-1836-monopolies-and-manufactures",
+        "group": "limits",
+        "sourcing": "Edward William Lane was an English Arabic scholar who lived in Egypt in 1833-35, a European observer and not an Egyptian voice, publishing in 1836. He accuses the ruler of impoverishing the peasantry through monopolies and of making a vain attempt to rival European manufactures, which shows the cost and failure of state-led industry; he is a critic of Muhammad Ali's rule and wrote from a European viewpoint."
+      },
+      {
         "doc": "midhat-1903-ottoman-bankruptcy",
         "group": "limits",
         "sourcing": "Ali Haydar Midhat, son and biographer of the Ottoman reformer Midhat Pasha, wrote in 1903 about the debt crisis of 1875. He describes Ottoman bankruptcy and the outcry across Europe, which shows borrowing for modernization ending in suspended payments, though a son writing the life of a reformer may shield his father's cause."
-      },
-      {
-        "doc": "alexander-ii-1861-emancipation-manifesto",
-        "group": "limits",
-        "sourcing": "Alexander II, Emperor and Autocrat of all the Russias, issued this manifesto on 3 March 1861, here in the translation printed in The Spectator. It frees the serfs but keeps landowners' property and makes peasants 'temporarily bound' and obliged to pay, so it shows a government reform limited by the interests of the nobility; it concerns serfdom, not factories, and supports the prompt only indirectly."
       }
     ],
     "notes": {
       "thesis": [
         "Governments drove industrialization to a large extent outside Britain, because late-comers faced Western military and economic pressure and only the state could gather the capital, build railways and arsenals, and train workers, as in Meiji Japan.",
-        "Governments were necessary but not sufficient: state action worked best where it built on existing strengths and kept control of finance, as in Japan, but where it relied on foreign loans, and in Egypt on forced labour, as in Egypt and the Ottoman Empire, it produced debt and foreign control instead of lasting industry.",
+        "Governments were necessary but not sufficient: state action worked best where it built on existing strengths and kept control of finance, as in Japan, but where it relied on foreign loans, monopolies and forced labour, as in Muhammad Ali's Egypt and the Tanzimat Ottoman Empire, it produced debt and foreign control instead of lasting industry.",
         "The extent of state leadership was greatest in the areas of defence and infrastructure and weakest in the growth of private enterprise, so governments launched industrialization and then often handed the factories to private business, and the results depended on how far reforms overcame social resistance."
       ],
       "contextualization": [
